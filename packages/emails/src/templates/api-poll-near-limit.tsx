@@ -112,7 +112,7 @@ ApiPollNearLimitEmail.PreviewProps = {
   limit: 50,
   resetDate: "December 1, 2026",
   resetIn: "in 3 weeks",
-  settingsUrl: "https://app.rallly.co/settings/api-keys",
+  settingsUrl: "https://app.kinpal.com/settings/api-keys",
 } as ApiPollNearLimitEmailProps;
 
 export default ApiPollNearLimitEmail;

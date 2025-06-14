@@ -17,6 +17,6 @@ describe("removed private API", () => {
     );
     const body = await res.json();
     expect(body.error.code).toBe("GONE");
-    expect(body.error.message).toContain("https://api.rallly.co/v1");
+    expect(body.error.message).toContain("https://api.kinpal.com/v1");
   });
 });

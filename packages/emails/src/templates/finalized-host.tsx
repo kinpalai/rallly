@@ -110,7 +110,7 @@ FinalizeHostEmail.PreviewProps = {
   },
   attendees: ["johndoe@example.com", "janedoe@example.com"],
   title: "Untitled Poll",
-  pollUrl: "https://rallly.co",
+  pollUrl: "https://kinpal.com",
   date: "Friday, 12th June 2020",
   time: "6:00 PM to 11:00 PM BST",
   locale: "en",

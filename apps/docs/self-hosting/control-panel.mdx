@@ -1,17 +1,17 @@
 ---
 title: "Accessing the Control Panel"
-description: "Learn how to access and use the Control Panel to manage your self-hosted Rallly instance."
+description: "Learn how to access and use the Control Panel to manage your self-hosted Kinpal instance."
 ---
 
 <Frame>
   <img src="/images/self-hosting/control-panel.jpeg" alt="Control Panel" />
 </Frame>
 
-The Control Panel is your central hub for administering your self-hosted Rallly instance. From here, you can manage users, activate your license, and configure instance-specific settings.
+The Control Panel is your central hub for administering your self-hosted Kinpal instance. From here, you can manage users, activate your license, and configure instance-specific settings.
 
 To access the Control Panel:
 
-1.  Ensure your Rallly instance is running.
+1.  Ensure your Kinpal instance is running.
 2.  Open your web browser and navigate to `/control-panel`.
 3.  You may be prompted to log in if you haven't already. Only users with administrative privileges can access the Control Panel features.
 
@@ -39,6 +39,6 @@ Update `INITIAL_ADMIN_EMAIL` to match your account's email address, restart your
 
 ## Update notifications
 
-The Control Panel home page shows the version your instance is running and whether a newer release is available. The check runs against `api.rallly.co` once an hour and only sends the running version and an anonymous instance identifier. On a restricted network, see [Corporate networks](/self-hosting/corporate-networks#hosts-to-allow).
+The Control Panel home page shows the version your instance is running and whether a newer release is available. The check runs against `api.kinpal.com` once an hour and only sends the running version and an anonymous instance identifier. On a restricted network, see [Corporate networks](/self-hosting/corporate-networks#hosts-to-allow).
 
 When a release you have not installed yet contains security fixes, every Control Panel page shows a banner linking to the release notes. If your major version has reached end of life and the fix only shipped in a newer major, the banner links to the migration guide instead. Older instances than 4.16 render the plain update notice and cannot tell you about security fixes, so keep an eye on the [releases page](https://github.com/lukevella/rallly/releases) until you have updated past that version.

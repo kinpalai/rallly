@@ -44,7 +44,7 @@ if (!secretKey) {
 
 const stripe = createStripeClient({ secretKey });
 
-const PRODUCT_NAME = "Rallly API Add-on";
+const PRODUCT_NAME = "Kinpal API Add-on";
 const PRODUCT_IDEMPOTENCY_KEY = "create-api-addon-product";
 
 // Product search is eventually consistent, so a quick repeat run could miss a

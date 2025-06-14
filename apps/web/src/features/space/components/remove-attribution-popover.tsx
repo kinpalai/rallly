@@ -65,7 +65,7 @@ export function RemoveAttributionPopover({ pollId }: { pollId: string }) {
           <FieldDescription>
             <Trans
               i18nKey="removeAttributionSettingDescription"
-              defaults='Hide "Powered by Rallly" on invite pages and participant emails.'
+              defaults='Hide "Powered by Kinpal" on invite pages and participant emails.'
             />
           </FieldDescription>
         </Field>

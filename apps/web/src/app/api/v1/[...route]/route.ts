@@ -74,7 +74,7 @@ type Env = {
   };
 };
 
-// The public URL has no `/api` prefix (https://api.rallly.co/v1/...), which
+// The public URL has no `/api` prefix (https://api.kinpal.com/v1/...), which
 // is also what a standalone API deployment would serve, so Hono mounts at
 // `/v1`. See `handler` below for how the app host's `/api/v1` reaches it.
 const app = new Hono<Env>().basePath("/v1");
@@ -274,7 +274,7 @@ async function buildOpenApiSpec() {
   const spec = await generateSpecs(app, {
     documentation: {
       info: {
-        title: "Rallly API",
+        title: "Kinpal API",
         version: "1.0.0",
         description: [
           "## Versioning",

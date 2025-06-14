@@ -87,7 +87,7 @@ async function ApiPollAtLimitEmail({
           <Text>
             {t("apiPollAtLimit_body", {
               defaultValue:
-                "New polls created through the API are being rejected. Raise your monthly limit with the API add-on to resume right away, or wait until the count resets. Polls created in Rallly are not affected.",
+                "New polls created through the API are being rejected. Raise your monthly limit with the API add-on to resume right away, or wait until the count resets. Polls created in Kinpal are not affected.",
             })}
           </Text>
           <Button href={settingsUrl} color={chrome.primaryColor}>
@@ -111,7 +111,7 @@ ApiPollAtLimitEmail.PreviewProps = {
   limit: 50,
   resetDate: "December 1, 2026",
   resetIn: "in 3 weeks",
-  settingsUrl: "https://app.rallly.co/settings/api-keys",
+  settingsUrl: "https://app.kinpal.com/settings/api-keys",
 } as ApiPollAtLimitEmailProps;
 
 export default ApiPollAtLimitEmail;

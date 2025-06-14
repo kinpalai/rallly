@@ -9,18 +9,18 @@ New polls now ask participants to enter an email address when they respond. That
 
 ## Why
 
-When you [finalize a poll](/blog/finalizing-polls-is-now-free), Rallly sends a calendar invite to everyone who left an email. Until now, leaving one was optional unless you were on Pro and turned on **Require email** before sharing the poll. Most people never did, so polls often ended with a few participants who couldn't be notified, and by the time you noticed it was too late to ask.
+When you [finalize a poll](/blog/finalizing-polls-is-now-free), Kinpal sends a calendar invite to everyone who left an email. Until now, leaving one was optional unless you were on Pro and turned on **Require email** before sharing the poll. Most people never did, so polls often ended with a few participants who couldn't be notified, and by the time you noticed it was too late to ask.
 
 Participants lose out too. Without an email there's no link to come back to, so changing a response means finding the original device and browser, or asking the organizer to do it for them.
 
 ## What changes
 
-- **Require email** is on by default for new polls you create in Rallly, on every plan. Polls created through the API keep their current default.
+- **Require email** is on by default for new polls you create in Kinpal, on every plan. Polls created through the API keep their current default.
 - Participants can click **Why?** next to the email field to see what they get for leaving one.
 - Existing polls keep their current setting.
 
 If you'd rather let people respond with just their name, for a quick poll in a group chat for example, turn off **Require email** under **Settings** when you create or edit the poll.
 
-If you have any feedback, I'd love to hear it at [feedback@rallly.co](mailto:feedback@rallly.co).
+If you have any feedback, I'd love to hear it at [feedback@kinpal.com](mailto:feedback@kinpal.com).
 
 Happy scheduling :)

@@ -172,7 +172,7 @@ function optionDays() {
 
 test("thesis defense blog screenshots", async ({ page }) => {
   await page.setViewportSize({ width: 1040, height: 860 });
-  await loginWithEmail(page, { email: "dev@rallly.co" });
+  await loginWithEmail(page, { email: "dev@kinpal.com" });
 
   await page.goto("/new");
   await page.waitForLoadState("networkidle");

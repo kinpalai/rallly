@@ -9,13 +9,13 @@ const reviewSites = [
   {
     name: "Capterra",
     rating: 4.9,
-    url: "https://www.capterra.com/p/10019758/Rallly/",
+    url: "https://www.capterra.com/p/10019758/Kinpal/",
     logo: "/static/images/capterra-logo.svg",
   },
   {
     name: "Trustpilot",
     rating: 4.7,
-    url: "https://www.trustpilot.com/review/rallly.co",
+    url: "https://www.trustpilot.com/review/kinpal.com",
     logo: "/static/images/trustpilot-star.svg",
   },
   {

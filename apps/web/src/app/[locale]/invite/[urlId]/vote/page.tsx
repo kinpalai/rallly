@@ -76,7 +76,7 @@ async function PageContent({ params, searchParams }: PageProps) {
     notFound();
   }
 
-  // The Rallly logo stays off this page. An instance's own logo is its
+  // The Kinpal logo stays off this page. An instance's own logo is its
   // operator's brand, so that one still shows.
   const showLogo =
     instanceBranding.logo.light !== DEFAULT_LOGO_URL ||
@@ -92,15 +92,15 @@ async function PageContent({ params, searchParams }: PageProps) {
       : [
           {
             label: t("voteFooterTerms", { defaultValue: "Terms of use" }),
-            href: "https://rallly.co/terms-of-use",
+            href: "https://kinpal.com/terms-of-use",
           },
           {
             label: t("voteFooterPrivacy", { defaultValue: "Privacy policy" }),
-            href: "https://rallly.co/privacy-policy",
+            href: "https://kinpal.com/privacy-policy",
           },
           {
             label: t("voteFooterCookies", { defaultValue: "Cookie policy" }),
-            href: "https://rallly.co/cookie-policy",
+            href: "https://kinpal.com/cookie-policy",
           },
         ];
 

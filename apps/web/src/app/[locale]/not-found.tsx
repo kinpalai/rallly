@@ -9,7 +9,7 @@ import { getTranslation } from "@/i18n/server";
 import { githubRepoUrl } from "@/lib/constants";
 
 export default async function NotFoundPage() {
-  // TODO (Luke Vella) [2023-11-03]: not-found doesn't have access to params right now
+  // TODO (Kinpal) [2023-11-03]: not-found doesn't have access to params right now
   // See: https://github.com/vercel/next.js/discussions/43179
   const [{ t }, footerLinks] = await Promise.all([
     getTranslation("en"),
@@ -56,7 +56,7 @@ export default async function NotFoundPage() {
         })}
       />
       <ErrorPageLinkItem
-        href="https://support.rallly.co"
+        href="https://support.kinpal.com"
         icon={<LifeBuoyIcon className="size-4 text-muted-foreground" />}
         title={t("errorLinkSupport", { defaultValue: "Support" })}
         description={t("errorLinkSupportDescription", {
