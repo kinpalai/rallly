@@ -2,6 +2,7 @@
 
 import type { Metadata } from "next";
 import { cacheLife } from "next/cache";
+import Image from "next/image";
 import Link from "next/link";
 import { Trans } from "react-i18next/TransWithoutContext";
 import { PeopleBadge, PollsBadge } from "@/components/home/animated-number";
@@ -10,8 +11,9 @@ import { Faq, FaqItem } from "@/components/home/faq";
 import { Hero } from "@/components/home/hero";
 import { HeroDemo } from "@/components/home/hero-demo/hero-demo";
 import { HowItWorks } from "@/components/home/how-it-works/how-it-works";
-import { SocialProof } from "@/components/home/social-proof";
+import { Mention, Mentions } from "@/components/home/mentions";
 import { Stats } from "@/components/home/stats";
+import { Testimonial } from "@/components/home/testimonial";
 import {
   Section,
   SectionContent,
@@ -64,7 +66,127 @@ export default async function Page(props: {
         </Stats>
       </Section>
       <HowItWorks locale={locale} />
-      <SocialProof locale={locale} />
+      <Section>
+        <Testimonial
+          logo={
+            <Image
+              src="/static/images/mit-logo.svg"
+              width={54}
+              height={28}
+              alt=""
+            />
+          }
+          avatar={
+            <Image
+              className="rounded-full"
+              src="/static/images/eric.png"
+              width={48}
+              height={48}
+              alt=""
+            />
+          }
+          name="Eric Fletcher"
+          title={
+            <Trans
+              t={t}
+              ns="home"
+              i18nKey="ericJobTitle"
+              defaults="Executive Assistant at MIT"
+            />
+          }
+        >
+          <Trans
+            t={t}
+            ns="home"
+            i18nKey="ericQuote"
+            defaults="“If your scheduling workflow lives in emails, I strongly encourage you to try and let Kinpal simplify your scheduling tasks for a more organized and less stressful workday.”"
+          />
+        </Testimonial>
+      </Section>
+      <Section>
+        <Mentions locale={locale}>
+          <Mention
+            delay={0.25}
+            logo={
+              <div className="relative h-8 w-14">
+                <Image
+                  src="/static/images/pcmag-logo.svg"
+                  alt="PCMag"
+                  fill
+                  style={{ objectFit: "contain" }}
+                />
+              </div>
+            }
+          >
+            <Trans
+              t={t}
+              ns="home"
+              i18nKey="pcmagQuote"
+              defaults="“Set up a scheduling poll in as little time as possible.”"
+            />
+          </Mention>
+          <Mention
+            delay={0.5}
+            logo={
+              <div className="relative h-8 w-24">
+                <Image
+                  src="/static/images/hubspot-logo.svg"
+                  alt="HubSpot"
+                  fill
+                  style={{ objectFit: "contain" }}
+                />
+              </div>
+            }
+          >
+            <Trans
+              t={t}
+              ns="home"
+              i18nKey="hubspotQuote"
+              defaults="“The simplest choice for availability polling for large groups.”"
+            />
+          </Mention>
+          <Mention
+            delay={0.75}
+            logo={
+              <div className="relative h-8 w-32">
+                <Image
+                  src="/static/images/goodfirms-logo.svg"
+                  alt="Goodfirms"
+                  fill
+                  style={{ objectFit: "contain" }}
+                />
+              </div>
+            }
+          >
+            <Trans
+              t={t}
+              ns="home"
+              i18nKey="goodfirmsQuote"
+              defaults="“Unique in its simplicity and requires minimum interaction time.”"
+            />
+          </Mention>
+          <Mention
+            delay={1}
+            logo={
+              <div className="relative h-8 w-20">
+                <Image
+                  src="/static/images/popsci-logo.svg"
+                  alt="PopSci"
+                  fill
+                  style={{ objectFit: "contain" }}
+                />
+              </div>
+            }
+          >
+            <Trans
+              t={t}
+              ns="home"
+              i18nKey="popsciQuote"
+              defaults="“The perfect pick if you want to keep your RSVPs simple.”"
+            />
+          </Mention>
+        </Mentions>
+      </Section>
       <div>
         <Section>
           <SectionHeading>
@@ -81,7 +203,7 @@ export default async function Page(props: {
                 t={t}
                 ns="home"
                 i18nKey="faqDescription"
-                defaults="Quick answers about how Rallly works, pricing, and privacy."
+                defaults="Quick answers about how Kinpal works, pricing, and privacy."
               />
             </SectionDescription>
           </SectionHeading>
@@ -101,7 +223,7 @@ export default async function Page(props: {
                   t={t}
                   ns="home"
                   i18nKey="legalFaqOpposingCounselAnswer"
-                  defaults="Yes. Anyone with the link can reply whether or not they use Rallly, and whichever system their own firm runs. That matters when you are coordinating across firms, because the other side has no reason to adopt a tool just to give you three dates."
+                  defaults="Yes. Anyone with the link can reply whether or not they use Kinpal, and whichever system their own firm runs. That matters when you are coordinating across firms, because the other side has no reason to adopt a tool just to give you three dates."
                 />
               </FaqItem>
               <FaqItem
@@ -135,7 +257,7 @@ export default async function Page(props: {
                   t={t}
                   ns="home"
                   i18nKey="legalFaqConfidentialAnswer"
-                  defaults="Only what you choose to put in it. Many firms title the poll by matter reference rather than by party name, and leave the description empty. With <0>Rallly Pro</0> you can also hide participant names, so one side cannot see who else was invited, and hide votes until someone has responded themselves."
+                  defaults="Only what you choose to put in it. Many firms title the poll by matter reference rather than by party name, and leave the description empty. With <0>Kinpal Pro</0> you can also hide participant names, so one side cannot see who else was invited, and hide votes until someone has responded themselves."
                   components={[
                     <Link
                       key="pricing"
@@ -176,7 +298,7 @@ export default async function Page(props: {
                   t={t}
                   ns="home"
                   i18nKey="legalFaqBrandingAnswer"
-                  defaults="With <0>Rallly Pro</0> you can add your own logo and colours and remove Rallly attribution, so a poll you send to another firm or a client looks like it came from your practice. Everything else is free to use."
+                  defaults="With <0>Kinpal Pro</0> you can add your own logo and colours and remove Kinpal attribution, so a poll you send to another firm or a client looks like it came from your practice. Everything else is free to use."
                   components={[
                     <Link
                       key="pricing"
@@ -200,7 +322,7 @@ export default async function Page(props: {
                   t={t}
                   ns="home"
                   i18nKey="faqPrivacyAnswer"
-                  defaults="Yes. Privacy is central to how we build Rallly. We do not show ads or sell your data, we collect only what we need to run the service, and polls on the free plan are deleted automatically once they become inactive. Rallly is also open source, so anyone can inspect how their data is handled. You can read the details in our <0>privacy policy</0>."
+                  defaults="Yes. Privacy is central to how we build Kinpal. We do not show ads or sell your data, we collect only what we need to run the service, and polls on the free plan are deleted automatically once they become inactive. Kinpal is also open source, so anyone can inspect how their data is handled. You can read the details in our <0>privacy policy</0>."
                   components={[
                     <Link
                       key="privacy"
@@ -270,7 +392,7 @@ export async function generateMetadata(props: {
     description: t("legalMetaDescription", {
       ns: "home",
       defaultValue:
-        "Rallly is a free scheduling tool for mediations, hearings and client conferences. Find a date that works for both sides with one link. No account needed to respond.",
+        "Kinpal is a free scheduling tool for mediations, hearings and client conferences. Find a date that works for both sides with one link. No account needed to respond.",
     }),
   };
 }

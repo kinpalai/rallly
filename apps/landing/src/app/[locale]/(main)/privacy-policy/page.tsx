@@ -13,7 +13,7 @@ export default async function PrivacyPolicy() {
       <p className="mt-4 text-gray-500 text-sm">Last updated: 30 August 2026</p>
       <div className="longform mt-8 max-w-2xl">
         <p>
-          At rallly.co, we take your privacy seriously. This privacy policy
+          At kinpal.com, we take your privacy seriously. This privacy policy
           explains how we collect, use, and disclose your personal data, and
           your rights in relation to your personal data under the General Data
           Protection Regulation (GDPR).
@@ -67,7 +67,7 @@ export default async function PrivacyPolicy() {
         </ul>
 
         <p>
-          We use this to understand which professional groups use Rallly, so we
+          We use this to understand which professional groups use Kinpal, so we
           can improve the product for them and focus our documentation and
           marketing on the people it is written for. This information is also
           shared with Posthog, our analytics processor, for the same purpose.
@@ -84,10 +84,10 @@ export default async function PrivacyPolicy() {
 
         <p>
           Both fields are optional. You can skip either one when setting up your
-          account, and neither is required to use Rallly — skipping them has no
+          account, and neither is required to use Kinpal — skipping them has no
           effect on the service you receive. To change or remove an answer you
           have already given, email us at{" "}
-          <a href="mailto:support@rallly.co">support@rallly.co</a> and we will
+          <a href="mailto:support@kinpal.com">support@kinpal.com</a> and we will
           update or erase it.
         </p>
 
@@ -171,7 +171,7 @@ export default async function PrivacyPolicy() {
 
         <p>
           To exercise any of these rights, please contact us at{" "}
-          <a href="mailto:support@rallly.co">support@rallly.co</a>.
+          <a href="mailto:support@kinpal.com">support@kinpal.com</a>.
         </p>
 
         <h2>Contact</h2>
@@ -179,7 +179,7 @@ export default async function PrivacyPolicy() {
         <p>
           If you have any questions or concerns about our privacy policy or our
           practices with regards to your personal data, please contact us at{" "}
-          <a href="mailto:support@rallly.co">support@rallly.co</a>.
+          <a href="mailto:support@kinpal.com">support@kinpal.com</a>.
         </p>
       </div>
     </Section>
@@ -189,7 +189,7 @@ export default async function PrivacyPolicy() {
 export async function generateMetadata() {
   cacheLife("max");
   return {
-    title: "Rallly: Privacy Policy",
-    description: "The privacy policy for Rallly.",
+    title: "Kinpal: Privacy Policy",
+    description: "The privacy policy for Kinpal.",
   };
 }

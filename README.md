@@ -1,30 +1,30 @@
 <div align="center">
 
-<img src="./assets/images/logo-color.svg" width="200px" alt="Rallly" />
+<img src="./assets/images/logo-color.svg" width="200px" alt="Kinpal" />
 
 ### Schedule group meetings, without the back-and-forth
 
 <p>
-  <a href="https://rallly.co"><strong>Website</strong></a> ·
-  <a href="https://support.rallly.co"><strong>Documentation</strong></a> ·
+  <a href="https://kinpal.com"><strong>Website</strong></a> ·
+  <a href="https://support.kinpal.com"><strong>Documentation</strong></a> ·
   <a href="https://discord.gg/uzg4ZcHbuM"><strong>Discord</strong></a>
 </p>
 
 [![Actions Status](https://github.com/lukevella/rallly/actions/workflows/ci.yml/badge.svg)](https://github.com/lukevella/rallly/actions)
 [![Crowdin](https://badges.crowdin.net/rallly/localized.svg)](https://crowdin.com/project/rallly)
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-orange.svg)](https://www.gnu.org/licenses/agpl-3.0)
-[![Discord](https://img.shields.io/badge/-Join%20Chat-7289DA?logo=discord&logoColor=white)](https://discord.gg/uzg4ZcHbuM)
-[![Donate](https://img.shields.io/badge/-Donate%20with%20Paypal-blue?logo=paypal)](https://www.paypal.com/donate/?hosted_button_id=7QXP2CUBLY88E)
+[![Discord](https://img.shields.io/badge/-Join%20Chat-7289DA?logo=discord&logoColor=white)](https://discord.gg/ZRZKqJf3tY)
+[![Donate](https://img.shields.io/badge/-Donate%20with%20Paypal-white?logo=paypal)](https://www.paypal.com/donate/?hosted_button_id=7QXP2CUBLY88E)
 
 </div>
 
 <br />
 
-<img src="./assets/images/splash.png" alt="Rallly screenshot" />
+<img src="./assets/images/splash.png" alt="Kinpal screenshot" />
 
 <br />
 
-Rallly is an open-source scheduling tool that helps you find the best date and time to meet. Create a poll with a few options, share the link, and let your participants vote on when they're available. No more back-and-forth emails.
+Kinpal is an open-source scheduling tool that helps you find the best date and time to meet. Create a poll with a few options, share the link, and let your participants vote on when they're available. No more back-and-forth emails.
 
 ## ✨ Features
 
@@ -41,13 +41,13 @@ Rallly is an open-source scheduling tool that helps you find the best date and t
 
 The quickest way to get started is the hosted version. Create your first poll in seconds, no installation required.
 
-**[Try Rallly free →](https://rallly.co)**
+**[Try Kinpal free →](https://kinpal.com)**
 
 ## 🐳 Self-hosting
 
-Prefer to run your own instance? Rallly ships as a Docker image and can be self-hosted in minutes.
+Prefer to run your own instance? Kinpal ships as a Docker image and can be self-hosted in minutes.
 
-See the [self-hosting docs](https://support.rallly.co/self-hosting) for installation and [configuration options](https://support.rallly.co/self-hosting/configuration-options).
+See the [self-hosting docs](https://support.kinpal.com/self-hosting) for installation and [configuration options](https://support.kinpal.com/self-hosting/configuration-options).
 
 ## 🛠️ Built with
 
@@ -57,13 +57,13 @@ See the [self-hosting docs](https://support.rallly.co/self-hosting) for installa
 
 Contributions are welcome! Have a look at the [contributing guide](CONTRIBUTING.md) to get started with local development and find out how you can help.
 
-- 🌐 **Translators** — Help [translate Rallly](https://support.rallly.co/contribute/translations) into your language
+- 🌐 **Translators** — Help [translate Kinpal](https://support.kinpal.com/contribute/translations) into your language
 - 🔐 **Security** — Found a vulnerability? See our [security policy](SECURITY.md)
 - 🤝 **Community** — Please read our [Code of Conduct](CODE_OF_CONDUCT.md)
 
 ## 📜 License
 
-Rallly is open-source under the GNU Affero General Public License Version 3 (AGPLv3) or any later version. See [LICENSE](LICENSE) for more detail.
+Kinpal is open-source under the GNU Affero General Public License Version 3 (AGPLv3) or any later version. See [LICENSE](LICENSE) for more detail.
 
 ## 💚 Sponsors
 

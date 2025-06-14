@@ -32,7 +32,7 @@ export function CookieConsentBanner() {
                 policyLink: (
                   <a
                     className="underline"
-                    href="https://rallly.co/cookie-policy"
+                    href="https://kinpal.com/cookie-policy"
                     target="_blank"
                     rel="noreferrer"
                   />

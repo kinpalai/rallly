@@ -95,7 +95,7 @@ export default async function Security(props: {
         <Hero
           className="max-w-2xl"
           title="Securely scheduling for thousands of organizations"
-          description="Every part of Rallly is built to protect your data, on trusted infrastructure with a codebase anyone can audit. Your schedule is nobody's business but yours."
+          description="Every part of Kinpal is built to protect your data, on trusted infrastructure with a codebase anyone can audit. Your schedule is nobody's business but yours."
         />
         <Stats className="mx-0 mt-8 text-left sm:mt-24">
           <PeopleBadge locale={locale} live>
@@ -112,7 +112,7 @@ export default async function Security(props: {
         <SectionHeading>
           <SectionTitle>Secure by design</SectionTitle>
           <SectionDescription>
-            Rallly is built in the open. The source code is public, uptime is
+            Kinpal is built in the open. The source code is public, uptime is
             independently measured, and this page lists exactly where your data
             lives.
           </SectionDescription>
@@ -146,10 +146,10 @@ export default async function Security(props: {
               title="Self-hostable"
               link={{
                 label: "Learn more",
-                href: "https://support.rallly.co/self-hosting/introduction",
+                href: "https://support.kinpal.com/self-hosting/introduction",
               }}
             >
-              Prefer full control? Run Rallly on your own infrastructure and
+              Prefer full control? Run Kinpal on your own infrastructure and
               your data never reaches us.
             </SecurityFeature>
             <SecurityFeature
@@ -181,7 +181,7 @@ export default async function Security(props: {
         <SectionHeading>
           <SectionTitle>Standing on the shoulders of giants</SectionTitle>
           <SectionDescription>
-            Rallly runs on the world&apos;s leading infrastructure providers,
+            Kinpal runs on the world&apos;s leading infrastructure providers,
             giving you the security and performance you should expect. Here is
             the complete list, and where your data lives.
           </SectionDescription>
@@ -349,7 +349,7 @@ export default async function Security(props: {
         <SectionHeading>
           <SectionTitle>Frequently asked questions</SectionTitle>
           <SectionDescription>
-            The answers we give when organizations evaluate Rallly. If your
+            The answers we give when organizations evaluate Kinpal. If your
             review needs something not covered here, we are happy to complete
             your security questionnaire.
           </SectionDescription>
@@ -402,7 +402,7 @@ export default async function Security(props: {
             <FaqItem question="What happens if there is a security incident?">
               Monitoring and alerting route directly to the engineering team. If
               a security incident affects your data, we will notify you within
-              72 hours of becoming aware of it. Rallly has had no data breaches.
+              72 hours of becoming aware of it. Kinpal has had no data breaches.
             </FaqItem>
             <FaqItem question="Do you support single sign-on?">
               Members can sign in with their Google or Microsoft accounts today.
@@ -421,9 +421,9 @@ export default async function Security(props: {
               information on this page. Send it to{" "}
               <a
                 className="text-primary hover:underline"
-                href="mailto:support@rallly.co"
+                href="mailto:support@kinpal.com"
               >
-                support@rallly.co
+                support@kinpal.com
               </a>
               .
             </FaqItem>
@@ -433,7 +433,7 @@ export default async function Security(props: {
       <Section>
         <div className="grid gap-4 sm:grid-cols-2 sm:gap-6">
           <h2 className="text-balance font-medium text-2xl text-gray-800 leading-tight tracking-tight sm:text-4xl">
-            Evaluating Rallly for your organization?
+            Evaluating Kinpal for your organization?
           </h2>
           <p className="max-w-prose text-pretty text-base/6 text-gray-500 sm:text-lg">
             We are happy to answer questions, complete your security review, or
@@ -444,7 +444,7 @@ export default async function Security(props: {
         <div className="mt-6 flex flex-wrap items-center gap-4">
           <a
             className={buttonVariants({ size: "lg", variant: "primary" })}
-            href="mailto:support@rallly.co"
+            href="mailto:support@kinpal.com"
           >
             Contact us
           </a>
@@ -457,8 +457,8 @@ export default async function Security(props: {
 export async function generateMetadata() {
   cacheLife("max");
   return {
-    title: "Rallly: Security",
+    title: "Kinpal: Security",
     description:
-      "How Rallly runs its service, where your data lives, and what we commit to.",
+      "How Kinpal runs its service, where your data lives, and what we commit to.",
   };
 }

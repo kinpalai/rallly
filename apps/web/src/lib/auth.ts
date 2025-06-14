@@ -155,7 +155,7 @@ export const authLib = betterAuth({
   plugins: [
     admin(),
     anonymous({
-      emailDomainName: "rallly.co",
+      emailDomainName: "kinpal.com",
       generateName: async () => {
         const { t } = await getTranslation();
         return t("guest");
@@ -231,6 +231,13 @@ export const authLib = betterAuth({
             clientId: env.MICROSOFT_CLIENT_ID,
             clientSecret: env.MICROSOFT_CLIENT_SECRET,
             redirectURI: absoluteUrl("/api/auth/callback/microsoft-entra-id"),
+          }
+        : undefined,
+    github:
+      env.GITHUB_CLIENT_ID && env.GITHUB_CLIENT_SECRET
+        ? {
+            clientId: env.GITHUB_CLIENT_ID,
+            clientSecret: env.GITHUB_CLIENT_SECRET,
           }
         : undefined,
   },

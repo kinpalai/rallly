@@ -136,8 +136,8 @@ NewCommentEmail.PreviewProps = {
   authorName: "Someone",
   content:
     "Hi everyone! I can make most of these times work, but Tuesday afternoon would be best for me.\nLooking forward to it!",
-  pollUrl: "https://rallly.co",
-  disableNotificationsUrl: "https://rallly.co",
+  pollUrl: "https://kinpal.com",
+  disableNotificationsUrl: "https://kinpal.com",
   locale: "en",
   chrome: previewChrome,
 } as NewCommentEmailProps;

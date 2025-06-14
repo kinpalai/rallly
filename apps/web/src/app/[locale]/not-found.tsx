@@ -46,7 +46,7 @@ export default async function NotFoundPage() {
         })}
       />
       <ErrorPageLinkItem
-        href="https://support.rallly.co"
+        href="https://support.kinpal.com"
         icon={<LifeBuoyIcon className="size-4 text-muted-foreground" />}
         title={t("errorLinkSupport", { defaultValue: "Support" })}
         description={t("errorLinkSupportDescription", {
@@ -54,7 +54,7 @@ export default async function NotFoundPage() {
         })}
       />
       <ErrorPageLinkItem
-        href="https://github.com/lukevella/rallly"
+        href="https://github.com/opencompute/rallly"
         icon={<GithubIcon className="size-4 text-muted-foreground" />}
         title={t("errorLinkGithub", { defaultValue: "GitHub" })}
         description={t("errorLinkGithubDescription", {

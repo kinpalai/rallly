@@ -1,41 +1,83 @@
+"use client";
+
+import languages, { supportedLngs } from "@rallly/languages";
+import {
+  Select,
+  SelectContent,
+  SelectItem,
+  SelectTrigger,
+  SelectValue,
+} from "@rallly/ui/select";
 import Image from "next/image";
-import { Trans } from "react-i18next/TransWithoutContext";
+import Link from "next/link";
+import { usePathname, useRouter } from "next/navigation";
+import type * as React from "react";
 
 import DiscordIcon from "@/assets/discord.svg";
-import GithubIcon from "@/assets/github.svg";
 import LinkedinIcon from "@/assets/linkedin.svg";
 import XIcon from "@/assets/x.svg";
-import { FooterPattern } from "@/components/home/footer-pattern";
 import { LinkBase } from "@/i18n/client/link";
-import { getTranslation } from "@/i18n/server";
-import { LanguageSelect } from "./language-select";
+import { Trans } from "@/i18n/client/trans";
+import { useTranslation } from "@/i18n/client/use-translation";
 
-export const Footer = async ({ locale }: { locale: string }) => {
-  const { t } = await getTranslation(locale, "common");
+const LanguageSelect = () => {
+  const router = useRouter();
+  const pathname = usePathname() ?? "";
+  const { t, i18n } = useTranslation();
   return (
-    <div className="mx-auto space-y-12">
-      <div className="flex flex-col gap-8 lg:flex-row lg:items-center">
-        <div className="space-y-6">
-          <div className="relative size-8">
-            <Image
-              src="/logo-footer.svg"
-              fill
-              alt="Rallly"
-              className="object-contain"
-            />
-          </div>
-          <p className="max-w-sm text-pretty text-gray-600 text-sm leading-relaxed">
-            <Trans
-              t={t}
-              ns="common"
-              i18nKey="footerTagline"
-              defaults="Rallly is an open-source meeting scheduling tool that helps you find the best time to meet, without the back and forth."
-            />
-          </p>
+    <Select
+      items={languages}
+      value={i18n.language}
+      onValueChange={(newLocale) => {
+        if (!newLocale) {
+          return;
+        }
+
+        const isLocalizedPath = supportedLngs.some((lng) =>
+          pathname?.startsWith(`/${lng}`),
+        );
+
+        const newPath = isLocalizedPath
+          ? pathname.replace(new RegExp(`^/${i18n.language}`), "")
+          : pathname;
+
+        router.replace(`/${newLocale}${newPath}`);
+      }}
+    >
+      <SelectTrigger
+        className="w-full"
+        aria-label={t("language", { defaultValue: "Language" })}
+      >
+        <SelectValue />
+      </SelectTrigger>
+      <SelectContent>
+        {Object.entries(languages).map(([code, name]) => (
+          <SelectItem key={code} value={code}>
+            {name}
+          </SelectItem>
+        ))}
+      </SelectContent>
+    </Select>
+  );
+};
+
+export const Footer: React.FunctionComponent = () => {
+  const { t } = useTranslation("common");
+  return (
+    <div className="mx-auto space-y-8">
+      <div className="space-y-16 lg:flex lg:space-x-8 lg:space-y-0">
+        <div className="lg:w-1/4">
+          <Image
+            src="/logo-grayscale.svg"
+            width={120}
+            height={120}
+            className="!border-l !border-gray-400 border-l-1"
+            alt="Kinpal"
+          />
           <div className="flex items-center space-x-4">
             <a
               target="_blank"
-              href="https://x.com/ralllyco"
+              href="https://x.com/kinpalai"
               className="text-gray-600 text-sm hover:text-primary hover:no-underline"
               rel="noreferrer noopener"
               aria-label={t("footerXLabel", { defaultValue: "Follow us on X" })}
@@ -44,7 +86,7 @@ export const Footer = async ({ locale }: { locale: string }) => {
             </a>
             <a
               target="_blank"
-              href="https://discord.gg/uzg4ZcHbuM"
+              href="https://discord.gg/ZRZKqJf3tY"
               className="text-gray-600 text-sm hover:text-primary hover:no-underline"
               rel="noreferrer noopener"
               aria-label={t("footerDiscordLabel", {
@@ -55,36 +97,20 @@ export const Footer = async ({ locale }: { locale: string }) => {
             </a>
             <a
               target="_blank"
-              href="https://www.linkedin.com/company/rallly"
-              className="text-gray-600 text-sm hover:text-primary hover:no-underline"
-              rel="noreferrer noopener"
-              aria-label={t("footerLinkedinLabel", {
-                defaultValue: "Follow us on LinkedIn",
-              })}
-            >
-              <LinkedinIcon className="size-4" />
-            </a>
-            <a
-              target="_blank"
-              href="https://github.com/lukevella/rallly"
+              href="https://www.linkedin.com/company/kinpal"
               className="text-gray-600 text-sm hover:text-primary hover:no-underline"
               rel="noreferrer noopener"
               aria-label={t("footerGithubLabel", {
                 defaultValue: "View our GitHub repository",
               })}
             >
-              <GithubIcon className="size-4" />
+              <LinkedinIcon className="size-5" />
             </a>
           </div>
         </div>
-        {/* Decorative, and there is no room for it beside the tagline until
-            the footer goes side by side, so it only shows from `lg` up. */}
-        <FooterPattern className="hidden w-full lg:block lg:min-w-0 lg:flex-1 lg:self-stretch" />
-      </div>
-      <div className="grid grid-cols-1 gap-x-8 gap-y-12 sm:grid-cols-2 lg:grid-cols-4">
-        <div>
-          <div className="mb-6 font-medium text-gray-800 text-sm uppercase tracking-wide">
-            <Trans t={t} ns="common" i18nKey="product" defaults="Product" />
+        <div className="lg:w-1/4">
+          <div className="mb-8 font-medium">
+            <Trans ns="common" i18nKey="links" defaults="Links" />
           </div>
           <ul className="grid gap-3 text-sm">
             <li>
@@ -97,39 +123,6 @@ export const Footer = async ({ locale }: { locale: string }) => {
             </li>
             <li>
               <LinkBase
-                className="inline-block font-normal text-gray-600 hover:text-gray-800 hover:no-underline"
-                href="/free-scheduling-poll"
-              >
-                <Trans
-                  t={t}
-                  ns="common"
-                  i18nKey="schedulingPoll"
-                  defaults="Scheduling poll"
-                />
-              </LinkBase>
-            </li>
-            <li>
-              <LinkBase
-                className="inline-block font-normal text-gray-600 hover:text-gray-800 hover:no-underline"
-                href="/security"
-              >
-                <Trans
-                  t={t}
-                  ns="common"
-                  i18nKey="security"
-                  defaults="Security"
-                />
-              </LinkBase>
-            </li>
-          </ul>
-        </div>
-        <div>
-          <div className="mb-6 font-medium text-gray-800 text-sm uppercase tracking-wide">
-            <Trans t={t} ns="common" i18nKey="resources" defaults="Resources" />
-          </div>
-          <ul className="grid gap-3 text-sm">
-            <li>
-              <LinkBase
                 href="/blog"
                 className="inline-block font-normal text-gray-600 hover:text-gray-800 hover:no-underline"
               >
@@ -138,45 +131,17 @@ export const Footer = async ({ locale }: { locale: string }) => {
             </li>
             <li>
               <a
-                target="_blank"
-                className="inline-block font-normal text-gray-600 hover:text-gray-800 hover:no-underline"
-                href="https://github.com/lukevella/rallly/discussions"
-                rel="noopener"
-              >
-                <Trans
-                  t={t}
-                  ns="common"
-                  i18nKey="discussions"
-                  defaults="Discussions"
-                />
-              </a>
-            </li>
-            <li>
-              <a
-                href="https://support.rallly.co"
+                href="https://support.kinpal.com"
                 className="inline-block font-normal text-gray-600 hover:text-gray-800 hover:no-underline"
               >
                 <Trans t={t} ns="common" i18nKey="support" defaults="Support" />
               </a>
             </li>
-            <li>
-              <LinkBase
-                href="/press-kit"
-                className="inline-block font-normal text-gray-600 hover:text-gray-800 hover:no-underline"
-              >
-                <Trans
-                  t={t}
-                  ns="common"
-                  i18nKey="pressKit"
-                  defaults="Press kit"
-                />
-              </LinkBase>
-            </li>
           </ul>
         </div>
-        <div>
-          <div className="mb-6 font-medium text-gray-800 text-sm uppercase tracking-wide">
-            <Trans t={t} ns="common" i18nKey="compare" defaults="Compare" />
+        <div className="lg:w-1/4">
+          <div className="mb-8 font-medium">
+            <Trans i18nKey="solutions" defaults="Solutions" />
           </div>
           <ul className="grid gap-3 text-sm">
             <li>
@@ -195,143 +160,102 @@ export const Footer = async ({ locale }: { locale: string }) => {
             <li>
               <LinkBase
                 className="inline-block font-normal text-gray-600 hover:text-gray-800 hover:no-underline"
-                href="/when2meet-alternative"
+                href="/free-scheduling-poll"
               >
                 <Trans
                   t={t}
                   ns="common"
-                  i18nKey="when2MeetAlternative"
-                  defaults="When2Meet alternative"
+                  i18nKey="freeSchedulingPoll"
+                  defaults="Free scheduling poll"
+                />
+              </LinkBase>
+            </li>
+            <li>
+              <LinkBase
+                className="inline-block font-normal text-gray-600 hover:text-gray-800 hover:no-underline"
+                href="/availability-poll"
+              >
+                <Trans
+                  t={t}                
+                  ns="common"
+                  i18nKey="availabilityPoll"
+                  defaults="Availability Poll"
                 />
               </LinkBase>
             </li>
           </ul>
         </div>
-        <div>
-          <div className="mb-6 font-medium text-gray-800 text-sm uppercase tracking-wide">
-            <Trans
-              t={t}
-              ns="common"
-              i18nKey="schedulingFor"
-              defaults="Scheduling for"
-            />
+        <div className="lg:w-1/4">
+          <div className="mb-8 font-medium">
+            <Trans ns="common" i18nKey="language" defaults="Language" />
           </div>
-          <ul className="grid gap-3 text-sm">
-            <li>
-              <LinkBase
-                className="inline-block font-normal text-gray-600 hover:text-gray-800 hover:no-underline"
-                href="/scheduling-for/executive-assistants"
-              >
-                <Trans
-                  t={t}
-                  ns="common"
-                  i18nKey="executiveAssistants"
-                  defaults="Executive assistants"
-                />
-              </LinkBase>
-            </li>
-            <li>
-              <LinkBase
-                className="inline-block font-normal text-gray-600 hover:text-gray-800 hover:no-underline"
-                href="/scheduling-for/committees"
-              >
-                <Trans
-                  t={t}
-                  ns="common"
-                  i18nKey="committees"
-                  defaults="Committees and boards"
-                />
-              </LinkBase>
-            </li>
-            <li>
-              <LinkBase
-                className="inline-block font-normal text-gray-600 hover:text-gray-800 hover:no-underline"
-                href="/scheduling-for/sports-clubs"
-              >
-                <Trans
-                  t={t}
-                  ns="common"
-                  i18nKey="sportsClubs"
-                  defaults="Sports clubs"
-                />
-              </LinkBase>
-            </li>
-            <li>
-              <LinkBase
-                className="inline-block font-normal text-gray-600 hover:text-gray-800 hover:no-underline"
-                href="/scheduling-for/thesis-defense"
-              >
-                <Trans
-                  t={t}
-                  ns="common"
-                  i18nKey="thesisDefense"
-                  defaults="Thesis defenses"
-                />
-              </LinkBase>
-            </li>
-            <li>
-              <LinkBase
-                className="inline-block font-normal text-gray-600 hover:text-gray-800 hover:no-underline"
-                href="/scheduling-for/legal"
-              >
-                <Trans
-                  t={t}
-                  ns="common"
-                  i18nKey="legal"
-                  defaults="Law firms and mediators"
-                />
-              </LinkBase>
-            </li>
-          </ul>
+          <div className="mb-4">
+            <LanguageSelect />
+          </div>
         </div>
       </div>
-      <div className="flex flex-col gap-x-8 gap-y-8 sm:pb-8 lg:flex-row lg:flex-wrap lg:items-center lg:justify-between">
-        <div className="flex flex-col gap-x-8 gap-y-2 sm:flex-row sm:items-center">
-          <p className="whitespace-nowrap text-gray-600 text-sm leading-loose">
-            &copy; 2026 Stack Snap Ltd.
-          </p>
-          <ul className="flex flex-wrap gap-x-4 gap-y-1 text-sm leading-loose">
-            <li>
-              <LinkBase
-                href="/privacy-policy"
-                className="inline-block font-normal text-gray-600 hover:text-gray-800 hover:no-underline"
+      <div className="flex flex-col justify-start gap-x-8 gap-y-8 sm:flex-row sm:items-end sm:pb-8">
+        <ul className="flex flex-wrap gap-x-4 gap-y-1 text-sm leading-loose">
+          <li>
+            <Link
+              href="/privacy-policy"
+              className="inline-block font-normal text-gray-600 hover:text-gray-800 hover:no-underline"
+            >
+              <Trans ns="common" i18nKey="privacyPolicy" />
+            </Link>
+          </li>
+          <li>
+            <Link
+              href="/cookie-policy"
+              className="inline-block font-normal text-gray-600 hover:text-gray-800 hover:no-underline"
+            >
+              <Trans ns="common" i18nKey="cookiePolicy" />
+            </Link>
+          </li>
+          <li>
+            <Link
+              href="/terms-of-use"
+              className="inline-block font-normal text-gray-600 hover:text-gray-800 hover:no-underline"
+            >
+              <Trans ns="common" i18nKey="termsOfUse" />
+            </Link>
+          </li>
+        </ul>
+        <div className="grid gap-2.5">
+          <div className="text-sm tracking-tight sm:text-right">
+            <Trans ns="common" i18nKey="poweredBy" defaults="Powered by" />
+          </div>
+          <div className="flex flex-wrap items-center gap-x-8 gap-y-2 md:justify-end">
+            <div>
+              <a
+                target="_blank"
+                href="https://vercel.com?utm_source=kinpal&utm_campaign=oss"
+                className="inline-block text-white"
+                rel="noreferrer noopener"
               >
-                <Trans t={t} ns="common" i18nKey="privacyPolicy" />
-              </LinkBase>
-            </li>
-            <li>
-              <LinkBase
-                href="/cookie-policy"
-                className="inline-block font-normal text-gray-600 hover:text-gray-800 hover:no-underline"
+                <Image
+                  src="/static/images/partners/vercel-logotype-dark.svg"
+                  alt="Vercel"
+                  width={100}
+                  height={24}
+                />
+              </a>
+            </div>
+            <div>
+              <a
+                target="_blank"
+                className="inline-block"
+                href="https://supabase.com"
+                rel="noopener"
               >
-                <Trans t={t} ns="common" i18nKey="cookiePolicy" />
-              </LinkBase>
-            </li>
-            <li>
-              <LinkBase
-                href="/terms-of-use"
-                className="inline-block font-normal text-gray-600 hover:text-gray-800 hover:no-underline"
-              >
-                <Trans t={t} ns="common" i18nKey="termsOfUse" />
-              </LinkBase>
-            </li>
-          </ul>
-        </div>
-        <div className="flex flex-wrap items-center gap-4">
-          <a
-            href="https://rallly.openstatus.dev"
-            rel="noopener"
-            className="inline-flex h-9 items-center rounded-lg bg-background/80 px-0.5 ring-1 ring-button-outline ring-inset hover:bg-accent"
-          >
-            {/* biome-ignore lint/performance/noImgElement: dynamic external badge, not optimizable via next/image */}
-            <img
-              src="https://rallly.openstatus.dev/badge/v2"
-              alt={t("statusBadgeAlt", { defaultValue: "Rallly status" })}
-              className="mix-blend-multiply"
-            />
-          </a>
-          <div className="w-48">
-            <LanguageSelect />
+                <Image
+                  src="/static/images/partners/supabase.svg"
+                  alt="Supabase"
+                  width={123}
+                  height={24}
+                />
+              </a>
+            </div>
           </div>
         </div>
       </div>
