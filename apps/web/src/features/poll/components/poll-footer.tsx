@@ -65,7 +65,7 @@ function PoweredByLink({ className }: { className: string }) {
   return (
     <Link
       className={className}
-      href="https://rallly.co?utm_source=rallly&utm_medium=poll&utm_campaign=powered_by"
+      href="https://kinpal.com?utm_source=kinpal&utm_medium=poll&utm_campaign=powered_by"
       onClick={() => {
         posthog?.capture("poll_footer:powered_by_link_click", {
           pollId: poll.id,

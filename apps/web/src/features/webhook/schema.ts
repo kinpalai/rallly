@@ -85,7 +85,7 @@ export const webhookParticipantRefSchema = z
 const envelope = {
   version: z.string().meta({
     description:
-      "The payload contract this event was built against. Also sent as the `X-Rallly-Webhook-Version` header.",
+      "The payload contract this event was built against. Also sent as the `X-Kinpal-Webhook-Version` header.",
     example: WEBHOOK_VERSION,
   }),
   id: z.string().meta({

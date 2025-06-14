@@ -1,21 +1,21 @@
 ---
 icon: network-wired
 title: Corporate Networks
-description: Run Rallly behind a corporate proxy or TLS-intercepting firewall.
+description: Run Kinpal behind a corporate proxy or TLS-intercepting firewall.
 ---
 
-Corporate networks often restrict outbound traffic in two ways: all egress must pass through an explicit proxy, and/or outbound TLS is intercepted and re-signed with an internal root certificate authority that Node.js does not trust. Either one breaks Rallly's outbound HTTPS requests. [License activation](/self-hosting/licensing), which connects to `licensing.rallly.co` on port 443, is usually where you notice it first, but any outbound call is affected. Some networks require both fixes below together.
+Corporate networks often restrict outbound traffic in two ways: all egress must pass through an explicit proxy, and/or outbound TLS is intercepted and re-signed with an internal root certificate authority that Node.js does not trust. Either one breaks Kinpal's outbound HTTPS requests. [License activation](/self-hosting/licensing), which connects to `licensing.kinpal.com` on port 443, is usually where you notice it first, but any outbound call is affected. Some networks require both fixes below together.
 
 If your server can reach the internet directly and your network does not intercept TLS, none of this applies and you can skip this page.
 
 ## Hosts to allow
 
-Rallly makes outbound requests to these hosts, all over HTTPS on port 443. If your firewall filters by destination, allow them.
+Kinpal makes outbound requests to these hosts, all over HTTPS on port 443. If your firewall filters by destination, allow them.
 
 | Host | Purpose | When blocked |
 |:-----|:--------|:-------------|
-| `licensing.rallly.co` | License activation and refresh | Activation fails with an error in the Control Panel |
-| `api.rallly.co` | Hourly update check: sends the running version and an anonymous instance identifier, receives the latest release and any security advisories affecting your version | Fails silently. The version tile shows no status and you are not told about security updates, so watch the [releases page](https://github.com/lukevella/rallly/releases) instead |
+| `licensing.kinpal.com` | License activation and refresh | Activation fails with an error in the Control Panel |
+| `api.kinpal.com` | Hourly update check: sends the running version and an anonymous instance identifier, receives the latest release and any security advisories affecting your version | Fails silently. The version tile shows no status and you are not told about security updates, so watch the [releases page](https://github.com/lukevella/rallly/releases) instead |
 
 Pulling images with `./rallly.sh update` reaches Docker Hub (`registry-1.docker.io` and `auth.docker.io`), which is governed by Docker's own proxy settings rather than the variables below.
 
@@ -23,7 +23,7 @@ Anything you configure yourself, such as your SMTP server, an identity provider,
 
 ## Routing traffic through a proxy
 
-Rallly honours the standard `HTTP_PROXY`, `HTTPS_PROXY`, and `NO_PROXY` environment variables for outbound requests. Set them in `.env`:
+Kinpal honours the standard `HTTP_PROXY`, `HTTPS_PROXY`, and `NO_PROXY` environment variables for outbound requests. Set them in `.env`:
 
 ```sh
 HTTPS_PROXY=http://proxy.internal.example.com:8080
@@ -44,7 +44,7 @@ Apply the change with `./rallly.sh restart`.
 
 ## Trusting a custom root CA
 
-If your network intercepts TLS, the proxy terminates each HTTPS connection and re-signs it with your organisation's internal root CA. Node.js only trusts its built-in certificate authorities, so these connections fail until you tell Rallly about the internal CA.
+If your network intercepts TLS, the proxy terminates each HTTPS connection and re-signs it with your organisation's internal root CA. Node.js only trusts its built-in certificate authorities, so these connections fail until you tell Kinpal about the internal CA.
 
 Set `CA_CERT_FILE` in `.env` to the absolute path of a PEM certificate file on the host:
 
@@ -63,7 +63,7 @@ Apply the change with `./rallly.sh restart`. Node reads the file once at startup
 To verify the certificate is mounted and readable inside the container:
 
 ```sh
-docker compose exec web openssl x509 -in /etc/ssl/certs/rallly-custom-ca.pem -noout -subject
+docker compose exec web openssl x509 -in /etc/ssl/certs/kinpal-custom-ca.pem -noout -subject
 ```
 
 Success prints the CA's subject line. `Unable to load certificate` means the file at `CA_CERT_FILE` is missing or not valid PEM.
@@ -83,7 +83,7 @@ openssl x509 -inform DER -in ca.crt -out ca.pem
 As a fallback, you can export a certificate from the chain the proxy presents. Run this **from the affected server**:
 
 ```sh
-openssl s_client -showcerts -connect licensing.rallly.co:443 </dev/null 2>/dev/null | openssl x509 -outform PEM > ca.pem
+openssl s_client -showcerts -connect licensing.kinpal.com:443 </dev/null 2>/dev/null | openssl x509 -outform PEM > ca.pem
 ```
 
 Note that `openssl` does not read the proxy environment variables. On a network with no direct egress, add `-proxy proxy.internal.example.com:8080` to the command so the connection goes through your proxy.
@@ -94,7 +94,7 @@ Two caveats: this writes only the leaf certificate, so it stops working when the
 openssl x509 -in ca.pem -noout -subject
 ```
 
-If the subject names your organisation instead of `licensing.rallly.co`, TLS interception is confirmed.
+If the subject names your organisation instead of `licensing.kinpal.com`, TLS interception is confirmed.
 
 ## Diagnosing failures
 

@@ -42,4 +42,4 @@ Every request is signed. Verify the signature before acting on a body; [Security
 
 ## Versioning
 
-The payload contract is dated. `version` in the body and the `X-Rallly-Webhook-Version` header carry the version a delivery was built against; today that is `2026-09-20`. Additive changes, such as new fields, new events or new modifiers, keep the version, so ignore fields you do not recognise. A change that could break a receiver arrives under a new date, and existing endpoints keep the version they were created with until you upgrade them.
+The payload contract is dated. `version` in the body and the `X-Kinpal-Webhook-Version` header carry the version a delivery was built against; today that is `2026-09-20`. Additive changes, such as new fields, new events or new modifiers, keep the version, so ignore fields you do not recognise. A change that could break a receiver arrives under a new date, and existing endpoints keep the version they were created with until you upgrade them.
