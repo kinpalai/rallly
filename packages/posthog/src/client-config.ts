@@ -3,7 +3,7 @@ import type { PostHogConfig } from "posthog-js";
 /**
  * Persistence options for the browser client. The anonymous id lives in a
  * cookie scoped to the registrable domain, so a visitor keeps one id from
- * rallly.co through to app.rallly.co. When they sign in, initPostHog
+ * kinpal.com through to app.kinpal.com. When they sign in, initPostHog
  * identifies them, which merges that anonymous id (and every marketing
  * pageview on it) into their person.
  *
@@ -18,7 +18,7 @@ export function getPostHogInitOptions(): Partial<PostHogConfig> {
     person_profiles: "identified_only",
     persistence: "localStorage+cookie",
     cross_subdomain_cookie: true,
-    // localStorage is per origin, so rallly.co and app.rallly.co each keep a
+    // localStorage is per origin, so kinpal.com and app.kinpal.com each keep a
     // copy that goes stale when the other signs in or out. The shared cookie
     // is the one source both see.
     cookieWinsOnConflict: true,

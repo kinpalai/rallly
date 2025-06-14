@@ -305,7 +305,7 @@ test.describe("Webhooks settings", () => {
     await expect(popover.getByText("HTTP 500")).toBeVisible();
   });
 
-  test("tells an endpoint Rallly turned off apart from one the owner did", async ({
+  test("tells an endpoint Kinpal turned off apart from one the owner did", async ({
     page,
   }) => {
     const { space, email } = await createOwner("webhooks-turned-off", {
@@ -344,13 +344,13 @@ test.describe("Webhooks settings", () => {
       .getByRole("button", { name: "Turned off after failures" })
       .click();
     const popover = page.getByRole("dialog");
-    await expect(popover.getByText("Turned off by Rallly")).toBeVisible();
+    await expect(popover.getByText("Turned off by Kinpal")).toBeVisible();
     await expect(
       popover.getByText("getaddrinfo ENOTFOUND example.invalid"),
     ).toBeVisible();
 
     // Turning it back on clears the count, so it is no longer shown as
-    // turned off by Rallly.
+    // turned off by Kinpal.
     await page.keyboard.press("Escape");
     await endpointRow(page, turnedOffUrl)
       .getByRole("switch", { name: "Enabled" })
@@ -399,8 +399,8 @@ test.describe("Webhooks settings", () => {
         type: "ping",
         data: {},
       });
-      expect(request?.headers["x-rallly-event"]).toBe("ping");
-      const [t, v1] = String(request?.headers["x-rallly-signature"])
+      expect(request?.headers["x-kinpal-event"]).toBe("ping");
+      const [t, v1] = String(request?.headers["x-kinpal-signature"])
         .split(",")
         .map((part) => part.split("=")[1]);
       expect(v1).toBe(
@@ -431,7 +431,7 @@ test.describe("Webhooks settings", () => {
     }
   });
 
-  test("a successful test event keeps an endpoint Rallly turned off marked as such", async ({
+  test("a successful test event keeps an endpoint Kinpal turned off marked as such", async ({
     page,
   }) => {
     const receiver = await startReceiver(204);

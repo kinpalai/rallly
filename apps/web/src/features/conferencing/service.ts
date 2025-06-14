@@ -363,7 +363,7 @@ export async function checkTeamsCanHostMeetings({
       method: "POST",
       headers,
       body: JSON.stringify({
-        subject: "Rallly connection check",
+        subject: "Kinpal connection check",
         startDateTime: start.toISOString(),
         endDateTime: end.toISOString(),
       }),

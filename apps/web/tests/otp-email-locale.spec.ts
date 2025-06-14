@@ -41,7 +41,7 @@ test.describe.serial(() => {
       "/api/better-auth/email-otp/send-verification-otp",
       {
         data: { email: unknownEmail, type: "sign-in" },
-        headers: { cookie: "rallly_locale=de" },
+        headers: { cookie: "kinpal_locale=de" },
       },
     );
     expect(send.status()).toBe(200);
@@ -82,7 +82,7 @@ test.describe.serial(() => {
       "/api/better-auth/email-otp/send-verification-otp",
       {
         data: { email: existingEmail, type: "sign-in" },
-        headers: { cookie: "rallly_locale=en", "accept-language": "en" },
+        headers: { cookie: "kinpal_locale=en", "accept-language": "en" },
       },
     );
     expect(send.status()).toBe(200);

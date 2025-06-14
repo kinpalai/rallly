@@ -1,33 +1,33 @@
 ---
 icon: video
 title: Zoom
-description: Connect your Zoom account so Rallly creates the meeting link when you finalize a poll
+description: Connect your Zoom account so Kinpal creates the meeting link when you finalize a poll
 ---
 
-With the Zoom integration, Rallly creates a Zoom meeting on your account at the moment you finalize a poll. The join link goes into the event, the calendar invite and the confirmation emails, so participants never wait for a link to follow.
+With the Zoom integration, Kinpal creates a Zoom meeting on your account at the moment you finalize a poll. The join link goes into the event, the calendar invite and the confirmation emails, so participants never wait for a link to follow.
 
 <Callout icon="gem" color="#4f46e5">
-  Zoom meeting links require a [Pro subscription](https://rallly.co/pricing) on rallly.co. Connecting your account works on every plan, but choosing Zoom as the video call for a poll is a Pro feature.
+  Zoom meeting links require a [Pro subscription](https://kinpal.com/pricing) on kinpal.com. Connecting your account works on every plan, but choosing Zoom as the video call for a poll is a Pro feature.
 </Callout>
 
 ## How it works
 
 1. You connect your Zoom account once, from your settings.
 2. When you create a poll, you choose Zoom as the video call. The poll shows "Zoom" to participants while voting is open; there is no link yet.
-3. When you finalize the poll, Rallly creates a Zoom meeting for the chosen time on your Zoom account and attaches the join link to the event.
+3. When you finalize the poll, Kinpal creates a Zoom meeting for the chosen time on your Zoom account and attaches the join link to the event.
 
-The meeting is created on the Zoom account you connected, so it follows that account's settings, such as waiting rooms, passcodes and recording defaults. Rallly does not change those settings.
+The meeting is created on the Zoom account you connected, so it follows that account's settings, such as waiting rooms, passcodes and recording defaults. Kinpal does not change those settings.
 
 ## Requirements
 
 - A Zoom account. A free Zoom plan is enough.
-- The Zoom integration must be enabled on the Rallly instance you use. On rallly.co it is available to all accounts; on a self-hosted instance the administrator turns it on.
+- The Zoom integration must be enabled on the Kinpal instance you use. On kinpal.com it is available to all accounts; on a self-hosted instance the administrator turns it on.
 
 ## Adding the app
 
 <Steps>
   <Step title="Open Conferencing settings">
-    In Rallly, open **Settings** from the sidebar and choose **Conferencing**.
+    In Kinpal, open **Settings** from the sidebar and choose **Conferencing**.
   </Step>
   <Step title="Connect your account">
     Next to **Zoom**, click **Connect**. You are sent to Zoom to sign in and approve the connection.
@@ -37,7 +37,7 @@ The meeting is created on the Zoom account you connected, so it follows that acc
 </Frame>
   </Step>
   <Step title="Approve the permissions">
-    Zoom shows what Rallly is asking for (listed under [Permissions](#permissions)). Click **Allow**. You are returned to Rallly, where the email address of your Zoom account appears next to Zoom.
+    Zoom shows what Kinpal is asking for (listed under [Permissions](#permissions)). Click **Allow**. You are returned to Kinpal, where the email address of your Zoom account appears next to Zoom.
 
 <Frame>
   <img src="/images/integrations/zoom/connected-account.png" alt="The Conferencing settings page showing the connected account's email address next to Zoom" />
@@ -45,7 +45,7 @@ The meeting is created on the Zoom account you connected, so it follows that acc
   </Step>
 </Steps>
 
-You can connect one Zoom account per Rallly account. To switch to a different Zoom account, disconnect the current one, then connect the new one.
+You can connect one Zoom account per Kinpal account. To switch to a different Zoom account, disconnect the current one, then connect the new one.
 
 ## Using the integration
 
@@ -77,7 +77,7 @@ Participants see "Zoom" on the poll page while voting is open. No meeting exists
 
 ### Finalizing the poll
 
-When you finalize the poll and pick the winning time, Rallly:
+When you finalize the poll and pick the winning time, Kinpal:
 
 1. Creates a scheduled Zoom meeting on your account for that date and time, using the poll title as the meeting topic.
 2. Attaches the join link to the event.
@@ -85,7 +85,7 @@ When you finalize the poll and pick the winning time, Rallly:
 
 The meeting also appears in your Zoom account under **Meetings**, where you can edit or delete it like any other meeting.
 
-If the meeting cannot be created, for example because the Zoom connection has expired, the poll stays open and Rallly shows an error. Reconnect your account in Conferencing settings and finalize again.
+If the meeting cannot be created, for example because the Zoom connection has expired, the poll stays open and Kinpal shows an error. Reconnect your account in Conferencing settings and finalize again.
 
 ### Which account hosts the meeting
 
@@ -93,29 +93,29 @@ The meeting is created on the Zoom account of the poll's organizer. If a space m
 
 ## Permissions
 
-When you connect, Rallly asks Zoom for these permissions:
+When you connect, Kinpal asks Zoom for these permissions:
 
 | Permission | Why |
 | --- | --- |
 | View your user information (`user:read:user`) | To read your Zoom account id and email, which identify the connection and show which account is connected. |
 | Create meetings (`meeting:write:meeting`) | To create the meeting when you finalize a poll. |
 
-Rallly does not read your existing meetings, recordings, contacts or chat, and does not join or record meetings.
+Kinpal does not read your existing meetings, recordings, contacts or chat, and does not join or record meetings.
 
-## Data Rallly stores
+## Data Kinpal stores
 
-For a connected Zoom account, Rallly stores:
+For a connected Zoom account, Kinpal stores:
 
 - Your Zoom account id and email address, to identify the connection and show it in your settings.
-- The access token and refresh token Zoom issues, encrypted at rest, so Rallly can create meetings on your behalf without asking you to sign in each time.
+- The access token and refresh token Zoom issues, encrypted at rest, so Kinpal can create meetings on your behalf without asking you to sign in each time.
 
-For each finalized poll, Rallly stores the meeting id, join link and passcode of the meeting it created, as part of the event.
+For each finalized poll, Kinpal stores the meeting id, join link and passcode of the meeting it created, as part of the event.
 
-Rallly does not store the content of any meeting.
+Kinpal does not store the content of any meeting.
 
 ## Removing the app
 
-### From Rallly
+### From Kinpal
 
 1. Open **Settings**, then **Conferencing**.
 2. Next to **Zoom**, click the **More options** button and choose **Disconnect**.
@@ -124,7 +124,7 @@ Rallly does not store the content of any meeting.
   <img src="/images/integrations/zoom/disconnect-menu.png" alt="The connected Zoom row with its menu open, showing Disconnect" />
 </Frame>
 
-The connection is removed immediately: Rallly deletes the account details and tokens it stored, then asks Zoom to revoke its access. To confirm the access is gone, remove the app from Zoom as described below. Polls that already chose Zoom keep that choice but can no longer be finalized with a Zoom link until an account is connected again. Meetings Rallly already created stay in your Zoom account; delete them from Zoom if you no longer need them.
+The connection is removed immediately: Kinpal deletes the account details and tokens it stored, then asks Zoom to revoke its access. To confirm the access is gone, remove the app from Zoom as described below. Polls that already chose Zoom keep that choice but can no longer be finalized with a Zoom link until an account is connected again. Meetings Kinpal already created stay in your Zoom account; delete them from Zoom if you no longer need them.
 
 ### From Zoom
 
@@ -132,13 +132,13 @@ You can also remove the app from the Zoom side:
 
 1. Sign in to the [Zoom App Marketplace](https://marketplace.zoom.us/).
 2. Click **Manage**, then **Added Apps**.
-3. Find **Rallly** and click **Remove**.
+3. Find **Kinpal** and click **Remove**.
 
-Removing the app from Zoom revokes Rallly's access. Zoom tells Rallly, which deletes the connection and the tokens it stored, so the account no longer appears in your settings. On a self-hosted instance, this needs the administrator to set up Zoom's deauthorization notice, which Zoom only sends for apps published on the Marketplace. If the account still appears in your settings, disconnect it in Rallly as well.
+Removing the app from Zoom revokes Kinpal's access. Zoom tells Kinpal, which deletes the connection and the tokens it stored, so the account no longer appears in your settings. On a self-hosted instance, this needs the administrator to set up Zoom's deauthorization notice, which Zoom only sends for apps published on the Marketplace. If the account still appears in your settings, disconnect it in Kinpal as well.
 
 ## Troubleshooting
 
-**"Zoom is not connected" when creating a poll.** Your Rallly account has no Zoom connection, or it was removed. Connect one in Conferencing settings and choose Zoom again.
+**"Zoom is not connected" when creating a poll.** Your Kinpal account has no Zoom connection, or it was removed. Connect one in Conferencing settings and choose Zoom again.
 
 **Finalizing fails with a video call error.** The Zoom connection has expired or was revoked on the Zoom side. Disconnect and reconnect the account, then finalize again. The poll is unchanged until finalizing succeeds.
 
