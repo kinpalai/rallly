@@ -8,7 +8,7 @@
   "branding": "品牌設定",
   "cancelSubscription": "如何取消訂閱？",
   "cancelSubscriptionAnswer": "您可以隨時前往<a>帳單設定</a>取消訂閱。取消訂閱後，您仍可使用付費方案至目前帳單週期結束。之後，您的方案將降級為免費方案。",
-  "canUseFree": "我可以免費使用 Rallly 嗎？",
+  "canUseFree": "我可以免費使用 Kinpal 嗎？",
   "canUseFreeAnswer3": "可以。免費方案不是試用版。您可以建立任意數量的投票、邀請任意數量的參與者，並且不需付費或新增信用卡即可無限期使用。付費方案提供額外功能，例如永久保留投票和自訂品牌，但您永遠不會因繼續使用基本功能而被要求付費。",
   "canUseFreeAnswerOpenPollLimit": "可以。免費方案不是試用版。您可以建立任意數量的投票，同時最多開啟 {count} 個投票、邀請任意數量的參與者，並且不需付費或新增信用卡即可無限期使用。付費方案提供額外功能，例如無限開放中的投票、永久保留投票和自訂品牌，但您永遠不會因繼續使用基本功能而被要求付費。",
   "compareFeature": "功能",
@@ -63,7 +63,7 @@
   "pricingTitle": "價格",
   "recommended": "推薦",
   "removeAttribution": "移除署名",
-  "removeAttributionBenefitDescription": "不向參與者顯示「由 Rallly 提供」",
+  "removeAttributionBenefitDescription": "不向參與者顯示「由 Kinpal 提供」",
   "teamCollaboration": "團隊協作",
   "teamCollaborationDescription": "邀請團隊共同管理投票",
   "thirtyDayPollRetention": "投票保留 30 天",
@@ -73,6 +73,6 @@
   "whenPollInactive": "投票何時會變成非活動狀態？",
   "whenPollInactiveAnswer": "當所有日期選項都已過去超過 30 天，且 30 天內沒有任何活動時，投票就會變成非活動狀態。活動包括新的投票、留言或投票變更。如果您沒有付費訂閱，非活動投票會自動刪除。",
   "whyUpgrade": "為什麼要升級？",
-  "whyUpgradeAnswer2": "如果您經常使用 Rallly 或將其用於工作，升級至付費方案會是明智的選擇。目前的訂閱價格是提供給早期採用者的優惠價格，未來將會調漲。現在升級即可提早使用即將推出的高品質排程工具，並鎖定您的訂閱價格，不受未來價格調漲影響。",
+  "whyUpgradeAnswer2": "如果您經常使用 Kinpal 或將其用於工作，升級至付費方案會是明智的選擇。目前的訂閱價格是提供給早期採用者的優惠價格，未來將會調漲。現在升級即可提早使用即將推出的高品質排程工具，並鎖定您的訂閱價格，不受未來價格調漲影響。",
   "yearlySaveUpTo": "最多省下 {percent}%"
 }

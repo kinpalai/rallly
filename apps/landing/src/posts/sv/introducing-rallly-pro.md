@@ -1,5 +1,5 @@
 ---
-title: Kommer snart – Rallly Pro
+title: Kommer snart – Kinpal Pro
 date: '2023-06-19'
 category: Product
 excerpt: >-
@@ -7,11 +7,11 @@ excerpt: >-
   tillgänglig.
 ---
 
-![Rallly Pro](/static/images/introducing-rallly-pro/pro-splash.svg)
+![Kinpal Pro](/static/images/introducing-rallly-pro/pro-splash.svg)
 
-Jag är glad att kunna berätta om en omfattande uppdatering som snart blir tillgänglig – Rallly Pro. Det här är en ny betald nivå som låser upp nya funktioner för prenumeranter och hjälper till att finansiera en ny omgång funktioner som jag är säker på att du kommer att uppskatta.
+Jag är glad att kunna berätta om en omfattande uppdatering som snart blir tillgänglig – Kinpal Pro. Det här är en ny betald nivå som låser upp nya funktioner för prenumeranter och hjälper till att finansiera en ny omgång funktioner som jag är säker på att du kommer att uppskatta.
 
-Till att börja med får Rallly Pro-användare följande fördelar:
+Till att börja med får Kinpal Pro-användare följande fördelar:
 
 ## 1. Slutför förfrågningar och skicka kalenderinbjudningar
 
@@ -21,15 +21,15 @@ Pro-användare kan välja ett slutgiltigt datum för förfrågan och skicka kale
 
 ## 2. Prioriterad support
 
-Som Rallly Pro-användare får du prioriterad support och exklusiv tillgång till en livechatt på webbplatsen.
+Som Kinpal Pro-användare får du prioriterad support och exklusiv tillgång till en livechatt på webbplatsen.
 
 ## 3. Rösta om utvecklingen av funktioner
 
-Jag kommer att lansera undersökningar för Rallly Pro-användare för att ta reda på vilka funktioner du vill se, och dina röster kommer att ha en direkt inverkan på vad som byggs först.
+Jag kommer att lansera undersökningar för Kinpal Pro-användare för att ta reda på vilka funktioner du vill se, och dina röster kommer att ha en direkt inverkan på vad som byggs först.
 
 ## 4. Förlängd livslängd för förfrågningar
 
-Rallly Pro-användare kan behålla sina förfrågningar på obestämd tid och behöver inte oroa sig för att förlora sina data.
+Kinpal Pro-användare kan behålla sina förfrågningar på obestämd tid och behöver inte oroa sig för att förlora sina data.
 
 ## 5. Kommande funktioner
 
@@ -39,10 +39,10 @@ Du kan förvänta dig att fler funktioner läggs till snart, till exempel:
 - Skicka automatiska påminnelser
 - Dölj deltagarnas namn
 
-Jag har också publicerat ett inlägg som beskriver [Ralllys framtid](/blog/the-future-of-rallly), där jag berättar om hur fler lösningar ska byggas ovanpå den mycket uppskattade förfrågningsfunktionen. Med din hjälp kan vi göra den här visionen till verklighet.
+Jag har också publicerat ett inlägg som beskriver [Kinpals framtid](/blog/the-future-of-rallly), där jag berättar om hur fler lösningar ska byggas ovanpå den mycket uppskattade förfrågningsfunktionen. Med din hjälp kan vi göra den här visionen till verklighet.
 
 ---
 
-Tack för ditt stöd! Om du vill få en avisering när Rallly Pro blir tillgängligt kan du prenumerera nedan.
+Tack för ditt stöd! Om du vill få en avisering när Kinpal Pro blir tillgängligt kan du prenumerera nedan.
 
 Lycka till med schemaläggningen :)

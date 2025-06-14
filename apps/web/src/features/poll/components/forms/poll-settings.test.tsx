@@ -76,9 +76,9 @@ describe("PollSettingsForm require email setting on a free space", () => {
     render(<TestForm />);
     const advanced = screen.getByRole("group", { name: /advanced/i });
     expect(
-      within(advanced).getByText("Unlock with Rallly Pro"),
+      within(advanced).getByText("Unlock with Kinpal Pro"),
     ).toBeInTheDocument();
-    expect(screen.getAllByText("Unlock with Rallly Pro")).toHaveLength(1);
+    expect(screen.getAllByText("Unlock with Kinpal Pro")).toHaveLength(1);
     expect(
       within(advanced).getByRole("switch", { name: /hide participant names/i }),
     ).toBeInTheDocument();

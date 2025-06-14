@@ -3,15 +3,15 @@ title: 'Ссылки на видеовстречи, создаваемые пр�
 date: '2026-10-14'
 category: Product
 excerpt: >-
-  Подключите Google Meet, Zoom, Microsoft Teams или Webex — и Rallly добавит
+  Подключите Google Meet, Zoom, Microsoft Teams или Webex — и Kinpal добавит
   ссылку на видеовстречу в приглашение, когда вы выберете время.
 ---
 
-Теперь Rallly может создать ссылку на видеовстречу за вас. Подключите Google Meet, Zoom, Microsoft Teams или Webex, добавьте видеовстречу в опрос — и после его завершения Rallly создаст встречу на выбранное время и добавит ссылку для подключения в событие, приглашение в календаре и письма с подтверждением.
+Теперь Kinpal может создать ссылку на видеовстречу за вас. Подключите Google Meet, Zoom, Microsoft Teams или Webex, добавьте видеовстречу в опрос — и после его завершения Kinpal создаст встречу на выбранное время и добавит ссылку для подключения в событие, приглашение в календаре и письма с подтверждением.
 
 Больше не нужно вручную создавать встречу после получения ответов и вставлять ссылку в отдельное письмо.
 
-![Меню «Добавить видеовстречу» в форме опроса со списком подключенных и доступных сервисов](https://support.rallly.co/images/integrations/zoom/video-call-menu.png)
+![Меню «Добавить видеовстречу» в форме опроса со списком подключенных и доступных сервисов](https://support.kinpal.com/images/integrations/zoom/video-call-menu.png)
 
 ## Как это работает
 
@@ -34,11 +34,11 @@ Google Meet, Zoom, Microsoft Teams и Webex доступны на всех та�
 
 Для каждой интеграции есть руководство с требованиями, разрешениями и инструкциями по отключению:
 
-- [Google Meet](https://support.rallly.co/integrations/google-meet)
-- [Zoom](https://support.rallly.co/integrations/zoom)
-- [Microsoft Teams](https://support.rallly.co/integrations/microsoft-teams)
-- [Webex](https://support.rallly.co/integrations/webex)
+- [Google Meet](https://support.kinpal.com/integrations/google-meet)
+- [Zoom](https://support.kinpal.com/integrations/zoom)
+- [Microsoft Teams](https://support.kinpal.com/integrations/microsoft-teams)
+- [Webex](https://support.kinpal.com/integrations/webex)
 
-Если у вас возникнут проблемы или вы хотите увидеть здесь другой сервис, напишите мне на [feedback@rallly.co](mailto:feedback@rallly.co).
+Если у вас возникнут проблемы или вы хотите увидеть здесь другой сервис, напишите мне на [feedback@kinpal.com](mailto:feedback@kinpal.com).
 
 Желаю удобного планирования! :)

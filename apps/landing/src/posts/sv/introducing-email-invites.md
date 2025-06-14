@@ -15,8 +15,8 @@ Nu kan du bjuda in personer via e-post direkt från förfrågningssidan. Öppna 
 
 Alla du bjuder in visas i dialogrutan med sin aktuella status. Skickat betyder att e-postmeddelandet har skickats. Öppnat betyder att personen har klickat på länken. Svarat betyder att personen har skickat in sin tillgänglighet. Du ser direkt vilka som fortfarande behöver en påminnelse.
 
-Inbjudningslänken finns fortfarande kvar och är fortfarande gratis. E-postinbjudningar ingår i Rallly Pro, så om du redan har en Pro-prenumeration eller tillhör ett Pro-område finns funktionen nu i dina förfrågningar. Du måste vara inloggad för att skicka inbjudningar, eftersom både inbjudningarna och svaren de leder till är kopplade till ditt konto och inte till webbläsaren du råkar använda.
+Inbjudningslänken finns fortfarande kvar och är fortfarande gratis. E-postinbjudningar ingår i Kinpal Pro, så om du redan har en Pro-prenumeration eller tillhör ett Pro-område finns funktionen nu i dina förfrågningar. Du måste vara inloggad för att skicka inbjudningar, eftersom både inbjudningarna och svaren de leder till är kopplade till ditt konto och inte till webbläsaren du råkar använda.
 
-Det här är det första steget mot att göra Rallly bättre på den del av mötesplaneringen som sker efter att du har skapat förfrågan. Påminnelser till personer som inte har svarat är nästa steg.
+Det här är det första steget mot att göra Kinpal bättre på den del av mötesplaneringen som sker efter att du har skapat förfrågan. Påminnelser till personer som inte har svarat är nästa steg.
 
-Som alltid får du gärna höra av dig på [feedback@rallly.co](mailto:feedback@rallly.co) om du har synpunkter eller stöter på något problem.
+Som alltid får du gärna höra av dig på [feedback@kinpal.com](mailto:feedback@kinpal.com) om du har synpunkter eller stöter på något problem.

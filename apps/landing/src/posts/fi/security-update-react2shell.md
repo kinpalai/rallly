@@ -8,11 +8,11 @@ excerpt: >-
   käyttäjien tulee päivittää välittömästi.
 ---
 
-**Tämä ilmoitus koskee vain omalla palvelimella ylläpidettäviä Rallly-asennuksia.** Jos käytät Ralllyn ylläpidettyä palvelua osoitteessa [rallly.co](https://rallly.co), sinun ei tarvitse tehdä mitään. Palvelimet paikattiin muutaman tunnin kuluessa CVE-tunnusten julkistamisesta, eikä tuona aikana tapahtunut tietomurtoa.
+**Tämä ilmoitus koskee vain omalla palvelimella ylläpidettäviä Kinpal-asennuksia.** Jos käytät Kinpaln ylläpidettyä palvelua osoitteessa [kinpal.com](https://kinpal.com), sinun ei tarvitse tehdä mitään. Palvelimet paikattiin muutaman tunnin kuluessa CVE-tunnusten julkistamisesta, eikä tuona aikana tapahtunut tietomurtoa.
 
 ---
 
-React Server Componentsista on löydetty kriittinen tietoturvahaavoittuvuus, joka vaikuttaa Ralllyyn. Paikkaamattomissa asennuksissa haavoittuvuus voi antaa hyökkääjälle mahdollisuuden suorittaa koodia etänä palvelimellasi. Jos instanssisi on käytettävissä internetistä etkä käytä uusinta julkaisua, **palvelimesi on merkittävässä vaarassa**.
+React Server Componentsista on löydetty kriittinen tietoturvahaavoittuvuus, joka vaikuttaa Kinpalyn. Paikkaamattomissa asennuksissa haavoittuvuus voi antaa hyökkääjälle mahdollisuuden suorittaa koodia etänä palvelimellasi. Jos instanssisi on käytettävissä internetistä etkä käytä uusinta julkaisua, **palvelimesi on merkittävässä vaarassa**.
 
 Tämä haavoittuvuus, [CVE-2025-55182](https://www.cve.org/CVERecord?id=CVE-2025-55182) (tunnetaan myös nimellä [React2Shell](https://react2shell.com/)), vaikuttaa moniin React 19:llä rakennettuihin sovelluksiin. Tosielämän tietomurroista on jo raportoitu, ja hyökkääjät ovat asentaneet haittaohjelmistoja vaarantuneille palvelimille.
 
@@ -30,9 +30,9 @@ React-tiimi havaitsi myöhemmin, että CVE-2025-55184:n korjaus oli puutteelline
 
 ## Toimenpiteet
 
-Jos ylläpidät Ralllya omalla palvelimellasi, tee seuraavat toimet välittömästi:
+Jos ylläpidät Kinpala omalla palvelimellasi, tee seuraavat toimet välittömästi:
 
-- **Päivitä** Rallly uusimpaan versioon (v4.5.11 tai uudempi), jotta kaikki neljä CVE-haavoittuvuutta on korjattu. Katso lisätiedot [julkaisutiedoista](https://github.com/lukevella/rallly/releases/tag/v4.5.11).
+- **Päivitä** Kinpal uusimpaan versioon (v4.5.11 tai uudempi), jotta kaikki neljä CVE-haavoittuvuutta on korjattu. Katso lisätiedot [julkaisutiedoista](https://github.com/lukevella/rallly/releases/tag/v4.5.11).
 - Jos käytössäsi on v4.5.10, sinun on päivitettävä versioon v4.5.11, koska aiempi korjaus oli puutteellinen.
 - Jos käytössäsi on v4.5.8 (joka suojasi täysin React2Shelliltä), sinun on päivitettävä versioon v4.5.11, jotta kaikki haavoittuvuudet on korjattu.
 - Jos käytössäsi on v4.5.7, sinun kannattaa päivittää versioon v4.5.11, sillä v4.5.7 ei välttämättä suojannut täysin React2Shelliltä.
@@ -40,7 +40,7 @@ Jos ylläpidät Ralllya omalla palvelimellasi, tee seuraavat toimet välittömä
 - **Käynnistä uudelleen** kaikki palvelut ja, jos käytät Dockeria, rakenna uudelleen tai lataa uusin näköistiedosto.
 - **Jos et voi päivittää heti**, rajoita käyttöoikeus tilapäisesti (VPN tai todennusvälityspalvelin), kunnes päivitys on asennettu.
 
-Varmista päivityksen jälkeen, että instanssisi ilmoittaa uusimman Rallly-version, ja tarkista lokeista mahdolliset varoitukset. Voit tarkistaa version osoitteessa: `<your‑rallly‑instance>/api/status`.
+Varmista päivityksen jälkeen, että instanssisi ilmoittaa uusimman Kinpal-version, ja tarkista lokeista mahdolliset varoitukset. Voit tarkistaa version osoitteessa: `<your‑rallly‑instance>/api/status`.
 
 ## Lisätietoja
 

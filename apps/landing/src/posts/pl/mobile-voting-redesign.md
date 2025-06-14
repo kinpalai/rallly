@@ -7,7 +7,7 @@ excerpt: >-
   dostępności był od razu oczywisty.
 ---
 
-Większość osób odpowiadających na Ankietę w Rallly robi to na telefonie, często w ciągu kilku minut od otrzymania linku zaproszenia. To najważniejszy moment korzystania z produktu, dlatego gdy słyszymy, że coś powoduje zamieszanie, słuchamy.
+Większość osób odpowiadających na Ankietę w Kinpal robi to na telefonie, często w ciągu kilku minut od otrzymania linku zaproszenia. To najważniejszy moment korzystania z produktu, dlatego gdy słyszymy, że coś powoduje zamieszanie, słuchamy.
 
 I rzeczywiście to usłyszeliśmy. Część z Was powiedziała nam, że stary interfejs głosowania nie był wystarczająco intuicyjny. Mały przycisk „?” obok każdej godziny łatwo było przeoczyć, a niektórzy uczestnicy naciskali przycisk Kontynuuj, spodziewając się, że na następnej stronie wybiorą odpowiadające im godziny, a odkrywali, że przypadkowo odpowiedzieli „nie” na wszystkie opcje.
 
@@ -33,4 +33,4 @@ Nowe elementy sterujące spełniają zalecane przez Apple rozmiary obszarów dot
 
 Nic nie zmieniło się w Twoich istniejących Ankietach ani Odpowiedziach. To po prostu lepszy sposób na zrobienie tego samego.
 
-Jak zawsze, jeśli coś wydaje się nie działać tak, jak powinno, albo masz pomysł, jak jeszcze usprawnić głosowanie, [daj nam znać](mailto:support@rallly.co). Ta aktualizacja powstała dzięki opiniom użytkowników takich jak Ty.
+Jak zawsze, jeśli coś wydaje się nie działać tak, jak powinno, albo masz pomysł, jak jeszcze usprawnić głosowanie, [daj nam znać](mailto:support@kinpal.com). Ta aktualizacja powstała dzięki opiniom użytkowników takich jak Ty.

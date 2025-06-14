@@ -1,7 +1,7 @@
 ---
 title: "Security"
 icon: "shield-check"
-description: "Verify that a request came from Rallly before acting on it."
+description: "Verify that a request came from Kinpal before acting on it."
 ---
 
 Anyone who knows your endpoint's URL can send it a request. The signing secret is what tells a genuine delivery from a forged one, so verify every request before you trust its body.
@@ -17,7 +17,7 @@ Deliveries do not come from a fixed set of IP addresses, so allowlisting is not 
 Every request carries:
 
 ```http
-X-Rallly-Signature: t=1736670600,v1=5257a869e7ecebeda32affa62cdca3fa51cad7e77a0e56ff536d0ce8e108d8bd
+X-Kinpal-Signature: t=1736670600,v1=5257a869e7ecebeda32affa62cdca3fa51cad7e77a0e56ff536d0ce8e108d8bd
 ```
 
 `t` is the time the request was signed, in seconds since the Unix epoch. `v1` is the hex HMAC-SHA256, keyed with the signing secret, of the string `<t>.<raw body>`: the timestamp, a full stop, and the request body exactly as received.

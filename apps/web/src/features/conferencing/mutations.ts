@@ -128,7 +128,7 @@ const removeConferencingConnection = async ({
 };
 
 // Zoom has already revoked the grant, so unlike a disconnect there is nothing
-// to revoke. The Zoom user id is global, so every Rallly account that linked it
+// to revoke. The Zoom user id is global, so every Kinpal account that linked it
 // loses the connection, and every Zoom credential for it goes, including one
 // an earlier disconnect left behind. A reconnect rewrites both rows, so rows
 // written after the deauthorization belong to a newer grant and stay, even

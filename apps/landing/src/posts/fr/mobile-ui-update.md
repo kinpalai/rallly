@@ -7,7 +7,7 @@ excerpt: >-
   appareils mobiles.
 ---
 
-Saviez-vous que plus de la moitié des utilisateurs de Rallly utilisent un appareil mobile?
+Saviez-vous que plus de la moitié des utilisateurs de Kinpal utilisent un appareil mobile?
 
 ![Données sur les appareils](/static/images/device-data.png)
 

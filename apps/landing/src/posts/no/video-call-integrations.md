@@ -3,15 +3,15 @@ title: Videomøtelenker som opprettes når du fullfører
 date: '2026-10-14'
 category: Product
 excerpt: >-
-  Koble til Google Meet, Zoom, Microsoft Teams eller Webex, så legger Rallly
+  Koble til Google Meet, Zoom, Microsoft Teams eller Webex, så legger Kinpal
   møtelenken til i invitasjonen når du velger et tidspunkt.
 ---
 
-Rallly kan nå opprette møtelenken for deg. Koble til Google Meet, Zoom, Microsoft Teams eller Webex, legg til en videosamtale i avstemningen, og når du fullfører, oppretter Rallly møtet på det valgte tidspunktet og legger lenken for å bli med i arrangementet, kalenderinvitasjonen og bekreftelses-e-postene.
+Kinpal kan nå opprette møtelenken for deg. Koble til Google Meet, Zoom, Microsoft Teams eller Webex, legg til en videosamtale i avstemningen, og når du fullfører, oppretter Kinpal møtet på det valgte tidspunktet og legger lenken for å bli med i arrangementet, kalenderinvitasjonen og bekreftelses-e-postene.
 
 Du slipper å opprette et møte manuelt når svarene har kommet inn og lime lenken inn i en oppfølgings-e-post.
 
-![Menyen for å legge til en videosamtale i avstemningsskjemaet, med tilkoblede og tilgjengelige leverandører](https://support.rallly.co/images/integrations/zoom/video-call-menu.png)
+![Menyen for å legge til en videosamtale i avstemningsskjemaet, med tilkoblede og tilgjengelige leverandører](https://support.kinpal.com/images/integrations/zoom/video-call-menu.png)
 
 ## Slik fungerer det
 
@@ -34,11 +34,11 @@ Hvis du heller vil bruke noe annet, kan du fortsatt legge til en hvilken som hel
 
 Hver integrasjon har en veiledning som dekker krav, tillatelser og hvordan du kobler fra:
 
-- [Google Meet](https://support.rallly.co/integrations/google-meet)
-- [Zoom](https://support.rallly.co/integrations/zoom)
-- [Microsoft Teams](https://support.rallly.co/integrations/microsoft-teams)
-- [Webex](https://support.rallly.co/integrations/webex)
+- [Google Meet](https://support.kinpal.com/integrations/google-meet)
+- [Zoom](https://support.kinpal.com/integrations/zoom)
+- [Microsoft Teams](https://support.kinpal.com/integrations/microsoft-teams)
+- [Webex](https://support.kinpal.com/integrations/webex)
 
-Hvis du får problemer, eller det er en leverandør du gjerne vil se som neste, kan du gi meg beskjed på [feedback@rallly.co](mailto:feedback@rallly.co).
+Hvis du får problemer, eller det er en leverandør du gjerne vil se som neste, kan du gi meg beskjed på [feedback@kinpal.com](mailto:feedback@kinpal.com).
 
 God planlegging :)

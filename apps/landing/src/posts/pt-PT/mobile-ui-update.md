@@ -7,7 +7,7 @@ excerpt: >-
   dispositivos móveis.
 ---
 
-Sabia que mais de metade de todos os utilizadores do Rallly utilizam dispositivos móveis?
+Sabia que mais de metade de todos os utilizadores do Kinpal utilizam dispositivos móveis?
 
 ![Dados sobre dispositivos](/static/images/device-data.png)
 

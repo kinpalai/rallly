@@ -137,7 +137,7 @@ export function OAuthIntegration<T extends string>(
 
   // A link a user hands to their administrator when their organization does
   // not let users approve apps themselves. It carries no session: the
-  // administrator need not have a Rallly account.
+  // administrator need not have a Kinpal account.
   app.get("/admin-consent/:id", validateParams, async (c) => {
     try {
       const { id } = c.req.valid("param");

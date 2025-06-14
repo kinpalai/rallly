@@ -1,14 +1,14 @@
 ---
-title: Ralllyn tulevaisuus
+title: Kinpaln tulevaisuus
 date: '2023-06-18'
 category: Company
 excerpt: >-
-  Ralllyn tarkoituksena on aina ollut helpottaa ryhmien aikataulujen
+  Kinpaln tarkoituksena on aina ollut helpottaa ryhmien aikataulujen
   suunnittelua, mutta tavoitteeni on kehittää siitä enemmän kuin pelkkä
   kyselyalusta.
 ---
 
-Ralllyn tarkoituksena on aina ollut helpottaa ryhmien aikataulujen suunnittelua, mutta tavoitteeni on kehittää siitä enemmän kuin pelkkä kyselyalusta. Haluan luoda ainutlaatuisen, joustavan ja tutun työnkulun, joka auttaa käyttäjiä löytämään tapahtumalleen täydellisen ajankohdan.
+Kinpaln tarkoituksena on aina ollut helpottaa ryhmien aikataulujen suunnittelua, mutta tavoitteeni on kehittää siitä enemmän kuin pelkkä kyselyalusta. Haluan luoda ainutlaatuisen, joustavan ja tutun työnkulun, joka auttaa käyttäjiä löytämään tapahtumalleen täydellisen ajankohdan.
 
 ## Työnkulku
 
@@ -28,7 +28,7 @@ Kun suunnittelet tapahtumaa, osallistujien saatavuudesta on erittäin hyödyllis
 
 ### Kyselyt
 
-Kyselyt ovat Ralllyn toiminnan ytimessä, ja ne sopivat saumattomasti tähän uuteen työnkulkuun. Kun yleinen saatavuus on selvitetty, järjestäjät voivat rajata vaihtoehdot muutamaan ajankohtaan ja antaa osallistujien äänestää heille parhaiten sopivista päivistä.
+Kyselyt ovat Kinpaln toiminnan ytimessä, ja ne sopivat saumattomasti tähän uuteen työnkulkuun. Kun yleinen saatavuus on selvitetty, järjestäjät voivat rajata vaihtoehdot muutamaan ajankohtaan ja antaa osallistujien äänestää heille parhaiten sopivista päivistä.
 
 ![Polls](/static/images/the-future-of-rallly/poll.svg)
 
@@ -44,4 +44,4 @@ Edellä mainitut osat etenevät tässä järjestyksessä: Saatavuusruudukko -> K
 
 ## Lopuksi
 
-Olen todella innoissani päästessäni työskentelemään tämän Ralllyn uudistetun työnkulun parissa. Kuten aina, palautteesi on minulle erittäin arvokasta. Kerro, voisiko tästä työnkulusta olla mielestäsi hyötyä tai onko sinulla ehdotuksia sen parantamiseksi. Odotan innolla, että voimme yhdessä kehittää Rallysta työkalun, joka tekee aikataulujen suunnittelusta helppoa ja sujuvaa kaikille.
+Olen todella innoissani päästessäni työskentelemään tämän Kinpaln uudistetun työnkulun parissa. Kuten aina, palautteesi on minulle erittäin arvokasta. Kerro, voisiko tästä työnkulusta olla mielestäsi hyötyä tai onko sinulla ehdotuksia sen parantamiseksi. Odotan innolla, että voimme yhdessä kehittää Rallysta työkalun, joka tekee aikataulujen suunnittelusta helppoa ja sujuvaa kaikille.

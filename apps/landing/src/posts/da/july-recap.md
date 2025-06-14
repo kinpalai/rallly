@@ -8,7 +8,7 @@ excerpt: >-
 ---
 
 Wow, tiden flyver!
-Det er over en måned siden [lanceringen af Rallly Pro](/blog/rallly-pro-launch).
+Det er over en måned siden [lanceringen af Kinpal Pro](/blog/rallly-pro-launch).
 En stor og oprigtig tak til alle jer, der har tegnet abonnement – jeres støtte betyder rigtig meget.
 At vide, at der er værdi i det, jeg har bygget, giver et kæmpe moralsk boost og motiverer mig til at skubbe grænserne endnu længere!
 
@@ -25,21 +25,21 @@ Du kan holde oplysninger om dine deltagere private ved at skjule deltagerlisten 
 
 **Forbedret tabelvisning** - Tabelvisningen er blevet gennemarbejdet for at gøre den mere overskuelig. Der er langt mindre gentagelse og rod, så det er nemmere at arbejde med lange lister af muligheder.
 
-## Få Rallly Pro til lanceringsprisen
+## Få Kinpal Pro til lanceringsprisen
 
-Hvis du endnu ikke er hoppet med ombord, kan du stadig få Rallly Pro til lanceringsprisen.
+Hvis du endnu ikke er hoppet med ombord, kan du stadig få Kinpal Pro til lanceringsprisen.
 **Som tidlig bruger bliver du ikke påvirket af fremtidige prisstigninger**, så du får en markant lavere pris, når der bliver tilføjet flere funktioner.
 
-Klar til at skifte til Pro? Du kan opgradere fra din [betalingsside](https://app.rallly.co/settings/billing).
+Klar til at skifte til Pro? Du kan opgradere fra din [betalingsside](https://app.kinpal.com/settings/billing).
 
 ### Prisændringer
 
 Den nuværende pris er omkring 3-4 gange lavere end konkurrenternes priser på samme område.
-Mit mål er på sigt at prissætte Rallly Pro på niveau med lignende produkter, men jeg vil justere prisen i etaper, efterhånden som der bliver lanceret flere funktioner. Næste trin bliver **7 USD/måned** eller **42 USD/år**.
+Mit mål er på sigt at prissætte Kinpal Pro på niveau med lignende produkter, men jeg vil justere prisen i etaper, efterhånden som der bliver lanceret flere funktioner. Næste trin bliver **7 USD/måned** eller **42 USD/år**.
 De opdaterede priser træder i kraft **1. september 2023** (så du har indtil da til at fastholde den nuværende pris).
 
 ## Tak
 
-Til alle abonnenter og sponsorer, som gør det muligt for mig at fortsætte mit arbejde med Rallly.
+Til alle abonnenter og sponsorer, som gør det muligt for mig at fortsætte mit arbejde med Kinpal.
 
 Skål!

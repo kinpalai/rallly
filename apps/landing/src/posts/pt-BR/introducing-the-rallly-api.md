@@ -1,15 +1,15 @@
 ---
-title: Apresentamos a API do Rallly
+title: Apresentamos a API do Kinpal
 date: '2026-09-15'
 category: Product
 excerpt: >-
   Crie enquetes, leia resultados e encerre-as usando suas próprias ferramentas.
-  A API já está disponível para Espaços Pro no Rallly Cloud.
+  A API já está disponível para Espaços Pro no Kinpal Cloud.
 ---
 
-O Rallly tem uma pequena API por trás de um recurso experimental há algum tempo. Algumas pessoas a vêm usando para criar enquetes a partir dos próprios sistemas, e o feedback delas ajudou a definir o que está sendo lançado hoje. Agora, ela está disponível para todos os Espaços Pro no Rallly Cloud.
+O Kinpal tem uma pequena API por trás de um recurso experimental há algum tempo. Algumas pessoas a vêm usando para criar enquetes a partir dos próprios sistemas, e o feedback delas ajudou a definir o que está sendo lançado hoje. Agora, ela está disponível para todos os Espaços Pro no Kinpal Cloud.
 
-![Um editor de código mostrando uma solicitação fetch que cria uma enquete de datas com três opções usando a API do Rallly](/static/images/rallly-api/create-poll-editor.svg)
+![Um editor de código mostrando uma solicitação fetch que cria uma enquete de datas com três opções usando a API do Kinpal](/static/images/rallly-api/create-poll-editor.svg)
 
 ## O que ela faz
 
@@ -28,8 +28,8 @@ Cada solicitação é vinculada a um único Espaço. A chave da API identifica o
 O proprietário do Espaço cria uma chave em **Configurações → Chaves de API**. As solicitações a enviam como um token bearer:
 
 ```sh
-curl https://api.rallly.co/v1/polls \
-  -H "Authorization: Bearer $RALLLY_API_KEY" \
+curl https://api.kinpal.com/v1/polls \
+  -H "Authorization: Bearer $KINPAL_API_KEY" \
   -H "Content-Type: application/json" \
   -d '{
     "title": "Team offsite",
@@ -44,8 +44,8 @@ curl https://api.rallly.co/v1/polls \
 
 A resposta inclui um `inviteUrl` para compartilhar com os participantes e um `adminUrl` para o Organizador. Cada Espaço pode fazer 60 solicitações por minuto.
 
-A [referência da API](https://support.rallly.co/api-reference/introduction) contém todos os endpoints, com exemplos de solicitações e respostas, e o documento OpenAPI está disponível caso você prefira gerar um cliente.
+A [referência da API](https://support.kinpal.com/api-reference/introduction) contém todos os endpoints, com exemplos de solicitações e respostas, e o documento OpenAPI está disponível caso você prefira gerar um cliente.
 
 ## O que vem a seguir
 
-Consultar os resultados funciona, mas não é assim que a maioria das integrações quer operar. Webhooks para eventos de enquetes estão planejados para que seu sistema seja informado sobre uma nova Resposta ou uma enquete encerrada assim que isso acontecer. Ainda não há uma data para isso. Se você criar algo usando a API, quero saber o que está desenvolvendo e o que está dificultando o processo. Escreva para [feedback@rallly.co](mailto:feedback@rallly.co).
+Consultar os resultados funciona, mas não é assim que a maioria das integrações quer operar. Webhooks para eventos de enquetes estão planejados para que seu sistema seja informado sobre uma nova Resposta ou uma enquete encerrada assim que isso acontecer. Ainda não há uma data para isso. Se você criar algo usando a API, quero saber o que está desenvolvendo e o que está dificultando o processo. Escreva para [feedback@kinpal.com](mailto:feedback@kinpal.com).

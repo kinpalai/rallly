@@ -1,14 +1,14 @@
 ---
-title: Fremtiden for Rallly
+title: Fremtiden for Kinpal
 date: '2023-06-18'
 category: Company
 excerpt: >-
-  Rallly har alltid handlet om å gjøre det enklere å finne et tidspunkt som
+  Kinpal har alltid handlet om å gjøre det enklere å finne et tidspunkt som
   passer for en gruppe, men målet mitt er å videreutvikle tjenesten til noe mer
   enn bare en avstemningsplattform.
 ---
 
-Rallly har alltid handlet om å gjøre det enklere å finne et tidspunkt som passer for en gruppe, men målet mitt er å videreutvikle tjenesten til noe mer enn bare en avstemningsplattform. Jeg ønsker å lage en unik, fleksibel og velkjent arbeidsflyt som hjelper brukerne med å finne den perfekte datoen for arrangementet sitt.
+Kinpal har alltid handlet om å gjøre det enklere å finne et tidspunkt som passer for en gruppe, men målet mitt er å videreutvikle tjenesten til noe mer enn bare en avstemningsplattform. Jeg ønsker å lage en unik, fleksibel og velkjent arbeidsflyt som hjelper brukerne med å finne den perfekte datoen for arrangementet sitt.
 
 ## Arbeidsflyten
 
@@ -28,7 +28,7 @@ Når du planlegger et arrangement, kan det være svært nyttig å få en generel
 
 ### Avstemninger
 
-Avstemninger er kjernen i det Rallly gjør, og passer sømløst inn i denne nye arbeidsflyten. Når du har fått en generell oversikt over tilgjengeligheten, kan arrangørene snevre inn til noen få alternativer og la deltakerne stemme på datoene de foretrekker.
+Avstemninger er kjernen i det Kinpal gjør, og passer sømløst inn i denne nye arbeidsflyten. Når du har fått en generell oversikt over tilgjengeligheten, kan arrangørene snevre inn til noen få alternativer og la deltakerne stemme på datoene de foretrekker.
 
 ![Avstemninger](/static/images/the-future-of-rallly/poll.svg)
 
@@ -44,4 +44,4 @@ Komponentene ovenfor vil følge denne rekkefølgen: Tilgjengelighetsrutenett -> 
 
 ## Avslutning
 
-Jeg gleder meg utrolig mye til å begynne arbeidet med denne videreutviklede arbeidsflyten for Rallly. Som alltid er tilbakemeldingene deres uvurderlige for meg. Fortell meg gjerne om du tror denne arbeidsflyten kan være nyttig, eller om du har forslag til forbedringer. Jeg ser frem til å fortsette å forme Rallly til et verktøy som gjør planlegging enkelt og effektivt for alle.
+Jeg gleder meg utrolig mye til å begynne arbeidet med denne videreutviklede arbeidsflyten for Kinpal. Som alltid er tilbakemeldingene deres uvurderlige for meg. Fortell meg gjerne om du tror denne arbeidsflyten kan være nyttig, eller om du har forslag til forbedringer. Jeg ser frem til å fortsette å forme Kinpal til et verktøy som gjør planlegging enkelt og effektivt for alle.

@@ -15,8 +15,8 @@ Nyní můžete lidi pozvat e-mailem přímo ze stránky ankety. Otevřete dialog
 
 Všichni, které pozvete, se v dialogovém okně zobrazí s aktuálním stavem. Odesláno znamená, že e-mail odešel. Otevřeno znamená, že klikli na odkaz. Odpovědělo znamená, že odeslali svou dostupnost. Na první pohled tak vidíte, komu je ještě potřeba připomenout, aby odpověděl.
 
-Odkaz na pozvánku je stále k dispozici a stále zdarma. E-mailové pozvánky jsou součástí Rallly Pro, takže pokud už máte předplatné Pro nebo patříte do Prostoru Pro, můžete je ve svých anketách používat hned. K odesílání pozvánek se musíte přihlásit, protože pozvánky i reakce, které díky nim získáte, jsou propojené s vaším účtem, nikoli s prohlížečem, který zrovna používáte.
+Odkaz na pozvánku je stále k dispozici a stále zdarma. E-mailové pozvánky jsou součástí Kinpal Pro, takže pokud už máte předplatné Pro nebo patříte do Prostoru Pro, můžete je ve svých anketách používat hned. K odesílání pozvánek se musíte přihlásit, protože pozvánky i reakce, které díky nim získáte, jsou propojené s vaším účtem, nikoli s prohlížečem, který zrovna používáte.
 
-Tohle je první krok ke zlepšení Rallly v části plánování, která nastává po vytvoření ankety. Další na řadě jsou připomenutí pro lidi, kteří ještě neodpověděli.
+Tohle je první krok ke zlepšení Kinpal v části plánování, která nastává po vytvoření ankety. Další na řadě jsou připomenutí pro lidi, kteří ještě neodpověděli.
 
-Jako vždy budu rád, když mi dáte vědět o své zpětné vazbě nebo pokud na něco narazíte na adrese [feedback@rallly.co](mailto:feedback@rallly.co).
+Jako vždy budu rád, když mi dáte vědět o své zpětné vazbě nebo pokud na něco narazíte na adrese [feedback@kinpal.com](mailto:feedback@kinpal.com).

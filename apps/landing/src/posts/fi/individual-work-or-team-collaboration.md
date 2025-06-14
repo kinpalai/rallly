@@ -7,7 +7,7 @@ excerpt: >-
   valitse, työskentelevätkö he yhdessä vai itsenäisesti.
 ---
 
-Tilojen avulla tiimi voi jakaa yhden Rallly-tilauksen. Tähän asti ne toimivat vain yhdellä tavalla: jokainen jäsen pystyi näkemään ja hallitsemaan kaikkien muiden kyselyitä ja tapahtumia. Tämä toimii hyvin pienessä tiimissä, joka sopii tapaamisia yhdessä, mutta suuremmilta tiimeiltä saamani palautteen mukaan siitä on usein haittaa. He haluavat antaa kaikille käyttöoikeuden ilman, että ihmiset häiritsevät toistensa työskentelyä.
+Tilojen avulla tiimi voi jakaa yhden Kinpal-tilauksen. Tähän asti ne toimivat vain yhdellä tavalla: jokainen jäsen pystyi näkemään ja hallitsemaan kaikkien muiden kyselyitä ja tapahtumia. Tämä toimii hyvin pienessä tiimissä, joka sopii tapaamisia yhdessä, mutta suuremmilta tiimeiltä saamani palautteen mukaan siitä on usein haittaa. He haluavat antaa kaikille käyttöoikeuden ilman, että ihmiset häiritsevät toistensa työskentelyä.
 
 Siksi Tiloissa on nyt tiimiyhteistyön asetus.
 
@@ -25,12 +25,12 @@ Asetus jakaa Tilat kahteen eri käyttötapaan:
 
 Pieni tiimi, joka sopii tapaamisia yhdessä, pitää yhteistyön käytössä. Avustaja voi hallita kollegansa luomaa kyselyä, eikä kenenkään tarvitse välittää linkkejä erikseen.
 
-Organisaatio, joka haluaa ottaa Ralllyn käyttöön suuremmassa joukossa, poistaa yhteistyön käytöstä. Kaikki saavat Pro-ominaisuudet yhden tilauksen kautta, jokaisen omat ajanvaraukset pysyvät hänen omissa käsissään, eikä uuden jäsenen lisääminen paljasta kenenkään aiempia kyselyitä.
+Organisaatio, joka haluaa ottaa Kinpaln käyttöön suuremmassa joukossa, poistaa yhteistyön käytöstä. Kaikki saavat Pro-ominaisuudet yhden tilauksen kautta, jokaisen omat ajanvaraukset pysyvät hänen omissa käsissään, eikä uuden jäsenen lisääminen paljasta kenenkään aiempia kyselyitä.
 
 Kummassakin tapauksessa tämä vaikuttaa vain siihen, mitä Tilan jäsenet voivat nähdä. Kutsulinkit ja osallistujasivut toimivat molemmissa tiloissa täsmälleen samalla tavalla, joten tapaamisiin kutsutut ihmiset eivät huomaa mitään eroa.
 
-Lue lisää toiminnasta [yhteistyötä käsittelevistä ohjeista](https://support.rallly.co/spaces/collaboration).
+Lue lisää toiminnasta [yhteistyötä käsittelevistä ohjeista](https://support.kinpal.com/spaces/collaboration).
 
 ## Mitä seuraavaksi
 
-Tämä on ensimmäinen askel kohti sitä, että Rallly toimisi paremmin suuremmissa organisaatioissa. Jos harkitset Ralllyn käyttöönottoa tiimissäsi ja jokin tarvitsemasi puuttuu, kuulen siitä mielelläni. Lähetä sähköpostia osoitteeseen [support@rallly.co](mailto:support@rallly.co).
+Tämä on ensimmäinen askel kohti sitä, että Kinpal toimisi paremmin suuremmissa organisaatioissa. Jos harkitset Kinpaln käyttöönottoa tiimissäsi ja jokin tarvitsemasi puuttuu, kuulen siitä mielelläni. Lähetä sähköpostia osoitteeseen [support@kinpal.com](mailto:support@kinpal.com).

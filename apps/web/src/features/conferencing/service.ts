@@ -338,7 +338,7 @@ async function createZoomMeeting({
   );
 }
 
-// Rallly sends the invites, so Webex is told not to email anyone.
+// Kinpal sends the invites, so Webex is told not to email anyone.
 async function createWebexMeeting({
   accessToken,
   title,
@@ -454,7 +454,7 @@ export async function checkTeamsCanHostMeetings({
       method: "POST",
       headers,
       body: JSON.stringify({
-        subject: "Rallly connection check",
+        subject: "Kinpal connection check",
         startDateTime: start.toISOString(),
         endDateTime: end.toISOString(),
       }),

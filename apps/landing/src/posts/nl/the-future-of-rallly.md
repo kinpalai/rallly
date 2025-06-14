@@ -1,13 +1,13 @@
 ---
-title: De toekomst van Rallly
+title: De toekomst van Kinpal
 date: '2023-06-18'
 category: Company
 excerpt: >-
-  Rallly draait altijd om het eenvoudiger maken van plannen met een groep, maar
+  Kinpal draait altijd om het eenvoudiger maken van plannen met een groep, maar
   ik wil het verder ontwikkelen tot meer dan alleen een platform voor Polls.
 ---
 
-Rallly draait altijd om het eenvoudiger maken van plannen met een groep, maar ik wil het verder ontwikkelen tot meer dan alleen een platform voor Polls. Ik wil een unieke, flexibele en vertrouwde werkwijze creëren die gebruikers helpt de perfecte datum voor hun evenement te vinden.
+Kinpal draait altijd om het eenvoudiger maken van plannen met een groep, maar ik wil het verder ontwikkelen tot meer dan alleen een platform voor Polls. Ik wil een unieke, flexibele en vertrouwde werkwijze creëren die gebruikers helpt de perfecte datum voor hun evenement te vinden.
 
 ## De werkwijze
 
@@ -27,7 +27,7 @@ Wanneer je een evenement plant, kan het ontzettend handig zijn om eerst een alge
 
 ### Polls
 
-Polls vormen de kern van wat Rallly doet en passen naadloos in deze nieuwe werkwijze. Zodra je een algemeen beeld van de Beschikbaarheid hebt verzameld, kunnen organisatoren een paar Opties selecteren en deelnemers laten stemmen op hun voorkeursdatums.
+Polls vormen de kern van wat Kinpal doet en passen naadloos in deze nieuwe werkwijze. Zodra je een algemeen beeld van de Beschikbaarheid hebt verzameld, kunnen organisatoren een paar Opties selecteren en deelnemers laten stemmen op hun voorkeursdatums.
 
 ![Polls](/static/images/the-future-of-rallly/poll.svg)
 
@@ -43,4 +43,4 @@ De bovenstaande onderdelen worden in deze volgorde gebruikt: beschikbaarheidsras
 
 ## Conclusie
 
-Ik kijk er enorm naar uit om aan deze verbeterde werkwijze voor Rallly te gaan werken. Zoals altijd is jullie feedback voor mij van onschatbare waarde. Laat me weten of je denkt dat deze werkwijze nuttig kan zijn en of je suggesties hebt voor verbeteringen. Ik kijk ernaar uit om Rallly verder te ontwikkelen tot een hulpmiddel waarmee plannen voor iedereen eenvoudig en efficiënt wordt.
+Ik kijk er enorm naar uit om aan deze verbeterde werkwijze voor Kinpal te gaan werken. Zoals altijd is jullie feedback voor mij van onschatbare waarde. Laat me weten of je denkt dat deze werkwijze nuttig kan zijn en of je suggesties hebt voor verbeteringen. Ik kijk ernaar uit om Kinpal verder te ontwikkelen tot een hulpmiddel waarmee plannen voor iedereen eenvoudig en efficiënt wordt.

@@ -1,13 +1,13 @@
 ---
-title: Fremtiden for Rallly
+title: Fremtiden for Kinpal
 date: '2023-06-18'
 category: Company
 excerpt: >-
-  Rallly har altid handlet om at gøre planlægning i grupper enklere, men mit mål
+  Kinpal har altid handlet om at gøre planlægning i grupper enklere, men mit mål
   er at udvikle det til mere end bare en afstemningsplatform.
 ---
 
-Rallly har altid handlet om at gøre planlægning i grupper enklere, men mit mål er at udvikle det til mere end bare en afstemningsplatform. Jeg vil skabe en unik, fleksibel og velkendt arbejdsgang, der hjælper brugerne med at finde den perfekte dato til deres begivenhed.
+Kinpal har altid handlet om at gøre planlægning i grupper enklere, men mit mål er at udvikle det til mere end bare en afstemningsplatform. Jeg vil skabe en unik, fleksibel og velkendt arbejdsgang, der hjælper brugerne med at finde den perfekte dato til deres begivenhed.
 
 ## Arbejdsgangen
 
@@ -27,7 +27,7 @@ Når du planlægger en begivenhed, kan det være en stor hjælp at få et overor
 
 ### Afstemninger
 
-Afstemninger er kernen i det, Rallly gør, og de passer naturligt ind i denne nye arbejdsgang. Når du har indsamlet oplysninger om den generelle tilgængelighed, kan arrangørerne indsnævre det til nogle få muligheder og lade deltagerne stemme på deres foretrukne datoer.
+Afstemninger er kernen i det, Kinpal gør, og de passer naturligt ind i denne nye arbejdsgang. Når du har indsamlet oplysninger om den generelle tilgængelighed, kan arrangørerne indsnævre det til nogle få muligheder og lade deltagerne stemme på deres foretrukne datoer.
 
 ![Polls](/static/images/the-future-of-rallly/poll.svg)
 
@@ -43,4 +43,4 @@ Komponenterne ovenfor følger denne rækkefølge: Availability Grid -> Poll -> R
 
 ## Konklusion
 
-Jeg glæder mig utrolig meget til at begynde arbejdet med denne forbedrede arbejdsgang for Rallly. Som altid er din feedback uvurderlig for mig. Fortæl mig, om du synes, at denne arbejdsgang kunne være nyttig, eller om du har forslag til forbedringer. Jeg ser frem til fortsat at forme Rallly til et værktøj, der gør planlægning nemt og effektivt for alle.
+Jeg glæder mig utrolig meget til at begynde arbejdet med denne forbedrede arbejdsgang for Kinpal. Som altid er din feedback uvurderlig for mig. Fortæl mig, om du synes, at denne arbejdsgang kunne være nyttig, eller om du har forslag til forbedringer. Jeg ser frem til fortsat at forme Kinpal til et værktøj, der gør planlægning nemt og effektivt for alle.

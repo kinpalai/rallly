@@ -7,9 +7,9 @@ excerpt: >-
   místě.
 ---
 
-S radostí vám představuji **Prostory** – novou funkci Rallly pro týmovou spolupráci, která mění způsob, jakým organizace spravují plánování a fakturaci. Místo správy několika samostatných předplatných Pro spojí Prostory celý váš tým v jednom jednotném pracovním prostoru.
+S radostí vám představuji **Prostory** – novou funkci Kinpal pro týmovou spolupráci, která mění způsob, jakým organizace spravují plánování a fakturaci. Místo správy několika samostatných předplatných Pro spojí Prostory celý váš tým v jednom jednotném pracovním prostoru.
 
-![Rallly Spaces](https://d39ixtfgglw55o.cloudfront.net/images/spaces.webp)
+![Kinpal Spaces](https://d39ixtfgglw55o.cloudfront.net/images/spaces.webp)
 
 ## Co jsou Prostory?
 
@@ -44,10 +44,10 @@ Ať už jste startup, který koordinuje krátké každodenní porady, marketingo
 
 Chcete zjednodušit plánování svého týmu? Vytvoření prvního Prostoru zabere jen pár kliknutí a stávající uživatelé Pro mohou snadno přejít na nový model týmové fakturace.
 
-Prostory jsou důkazem mého odhodlání udělat z Rallly nejlepší řešení pro plánování týmů všech velikostí. S vaší podporou budu dál vytvářet funkce, díky kterým bude koordinace bez námahy.
+Prostory jsou důkazem mého odhodlání udělat z Kinpal nejlepší řešení pro plánování týmů všech velikostí. S vaší podporou budu dál vytvářet funkce, díky kterým bude koordinace bez námahy.
 
 ---
 
-Máte dotazy ohledně Prostorů? Rád si poslechnu váš [názor](mailto:feedback@rallly.co) a pomohu vám se vším začít!
+Máte dotazy ohledně Prostorů? Rád si poslechnu váš [názor](mailto:feedback@kinpal.com) a pomohu vám se vším začít!
 
 Příjemné plánování!

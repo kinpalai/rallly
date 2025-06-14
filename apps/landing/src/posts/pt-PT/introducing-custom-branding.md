@@ -7,7 +7,7 @@ excerpt: >-
   participantes.
 ---
 
-Uma coisa que ouvi de equipas que usam o Rallly é que a página de convite parecia desligada da sua marca. Essa é a página onde os seus convidados chegam quando lhes envia uma sondagem. Quando envia uma ligação de agendamento a um cliente ou a uma pessoa que acabou de entrar na equipa, uma interface genérica pode desvalorizar a experiência que tem vindo a criar em todos os outros pontos de contacto. O mesmo se aplica aos e-mails de confirmação que os participantes recebem depois de votarem.
+Uma coisa que ouvi de equipas que usam o Kinpal é que a página de convite parecia desligada da sua marca. Essa é a página onde os seus convidados chegam quando lhes envia uma sondagem. Quando envia uma ligação de agendamento a um cliente ou a uma pessoa que acabou de entrar na equipa, uma interface genérica pode desvalorizar a experiência que tem vindo a criar em todos os outros pontos de contacto. O mesmo se aplica aos e-mails de confirmação que os participantes recebem depois de votarem.
 
 ![Sondagem de agendamento personalizada](https://d39ixtfgglw55o.cloudfront.net/images/branded-poll.webp)
 
@@ -21,7 +21,7 @@ Para os utilizadores Pro, essa personalização estende-se a todos os pontos de 
 
 ## Como configurar
 
-1. Aceda a [Definições do espaço](https://app.rallly.co/settings/general)
+1. Aceda a [Definições do espaço](https://app.kinpal.com/settings/general)
 2. Carregue o seu logótipo e escolha uma cor primária
 3. Ative **Ativar personalização da marca**
 
@@ -29,4 +29,4 @@ Para os utilizadores Pro, essa personalização estende-se a todos os pontos de 
 
 Todas as suas páginas públicas utilizarão automaticamente a sua personalização da marca.
 
-Como sempre, se tiver comentários ou se encontrar algum problema, terei todo o gosto em receber as suas sugestões através de [feedback@rallly.co](mailto:feedback@rallly.co).
+Como sempre, se tiver comentários ou se encontrar algum problema, terei todo o gosto em receber as suas sugestões através de [feedback@kinpal.com](mailto:feedback@kinpal.com).

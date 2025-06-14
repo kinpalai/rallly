@@ -1,17 +1,17 @@
 ---
-title: Spuštění Rallly Pro
+title: Spuštění Kinpal Pro
 date: '2023-07-05'
 category: Product
 excerpt: >-
-  Představujeme Rallly Pro, prémiový tarif předplatného, který vám pomůže
+  Představujeme Kinpal Pro, prémiový tarif předplatného, který vám pomůže
   dokončit celý proces plánování schůzek.
 ---
 
-Představujeme Rallly Pro, prémiový tarif předplatného, který vám pomůže dokončit celý proces plánování schůzek.
+Představujeme Kinpal Pro, prémiový tarif předplatného, který vám pomůže dokončit celý proces plánování schůzek.
 
 ![Billing Page](/static/images/rallly-pro-launch/billing-page.png)
 
-Hlavní funkcí Rallly Pro je možnost vybrat datum a dokončit své ankety.
+Hlavní funkcí Kinpal Pro je možnost vybrat datum a dokončit své ankety.
 
 ![Finalize Page](/static/images/rallly-pro-launch/finalize-page.png)
 
@@ -19,10 +19,10 @@ Když anketu dokončíte, vy i její účastníci obdržíte e-mail s konečným
 
 ![Email](/static/images/rallly-pro-launch/email.png)
 
-Uživatelé Rallly Pro si také budou moci své ankety ponechat neomezeně dlouho. Jinými slovy, ankety nebudou automaticky smazány kvůli neaktivitě ani proto, že jejich data již uplynula.
+Uživatelé Kinpal Pro si také budou moci své ankety ponechat neomezeně dlouho. Jinými slovy, ankety nebudou automaticky smazány kvůli neaktivitě ani proto, že jejich data již uplynula.
 
-Počáteční cena Rallly Pro bude 5 $ měsíčně nebo 30 $ ročně. To vychází jen na 2,50 $ měsíčně!
+Počáteční cena Kinpal Pro bude 5 $ měsíčně nebo 30 $ ročně. To vychází jen na 2,50 $ měsíčně!
 
-Díky vaší podpoře se mohu dál věnovat práci na Rallly a zavádět řadu velmi žádaných funkcí. Jako předplatitel hrajete klíčovou roli v tom, aby se to mohlo uskutečnit, a zároveň máte možnost ovlivnit další směřování Rallly.
+Díky vaší podpoře se mohu dál věnovat práci na Kinpal a zavádět řadu velmi žádaných funkcí. Jako předplatitel hrajete klíčovou roli v tom, aby se to mohlo uskutečnit, a zároveň máte možnost ovlivnit další směřování Kinpal.
 
-Děkuji vám a jako vždy budu rád za jakoukoli [zpětnou vazbu](mailto:feedback@rallly.co)!
+Děkuji vám a jako vždy budu rád za jakoukoli [zpětnou vazbu](mailto:feedback@kinpal.com)!

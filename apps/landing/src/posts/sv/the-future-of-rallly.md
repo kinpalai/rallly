@@ -1,14 +1,14 @@
 ---
-title: Framtiden för Rallly
+title: Framtiden för Kinpal
 date: '2023-06-18'
 category: Company
 excerpt: >-
-  Rallly har alltid handlat om att förenkla mötesplanering i grupper, men mitt
+  Kinpal har alltid handlat om att förenkla mötesplanering i grupper, men mitt
   mål är att utveckla tjänsten till något mer än bara en plattform för
   förfrågningar.
 ---
 
-Rallly har alltid handlat om att förenkla mötesplanering i grupper, men mitt mål är att utveckla tjänsten till något mer än bara en plattform för förfrågningar. Jag vill skapa ett unikt, flexibelt och välbekant arbetsflöde som hjälper användare att hitta det perfekta datumet för sitt evenemang.
+Kinpal har alltid handlat om att förenkla mötesplanering i grupper, men mitt mål är att utveckla tjänsten till något mer än bara en plattform för förfrågningar. Jag vill skapa ett unikt, flexibelt och välbekant arbetsflöde som hjälper användare att hitta det perfekta datumet för sitt evenemang.
 
 ## Arbetsflödet
 
@@ -28,7 +28,7 @@ När du planerar ett evenemang kan det vara till stor hjälp att få en allmän 
 
 ### Förfrågningar
 
-Förfrågningar är kärnan i det Rallly gör och passar sömlöst in i det nya arbetsflödet. När du har samlat in en allmän bild av tillgängligheten kan organisatörer välja ut några alternativ och låta deltagarna rösta på de datum de föredrar.
+Förfrågningar är kärnan i det Kinpal gör och passar sömlöst in i det nya arbetsflödet. När du har samlat in en allmän bild av tillgängligheten kan organisatörer välja ut några alternativ och låta deltagarna rösta på de datum de föredrar.
 
 ![Förfrågningar](/static/images/the-future-of-rallly/poll.svg)
 
@@ -44,4 +44,4 @@ Delarna ovan följer den här ordningen: Tillgänglighetsmatris -> Förfrågan -
 
 ## Sammanfattning
 
-Jag ser verkligen fram emot att börja arbeta med det här förbättrade arbetsflödet för Rallly. Som alltid är din feedback ovärderlig för mig. Berätta gärna om du tror att arbetsflödet skulle kunna vara användbart eller om du har några förslag på förbättringar. Jag ser fram emot att fortsätta forma Rallly till ett verktyg som gör det enkelt och effektivt för alla att planera möten.
+Jag ser verkligen fram emot att börja arbeta med det här förbättrade arbetsflödet för Kinpal. Som alltid är din feedback ovärderlig för mig. Berätta gärna om du tror att arbetsflödet skulle kunna vara användbart eller om du har några förslag på förbättringar. Jag ser fram emot att fortsätta forma Kinpal till ett verktyg som gör det enkelt och effektivt för alla att planera möten.

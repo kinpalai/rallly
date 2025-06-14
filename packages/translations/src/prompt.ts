@@ -154,7 +154,7 @@ export const sampleReference = ({
   return Object.fromEntries(picked);
 };
 
-export const productBrief = `Rallly helps a group find a time to meet.
+export const productBrief = `Kinpal helps a group find a time to meet.
 - An organizer creates a poll that proposes several dates or times (options) and shares a link to it.
 - Participants open the link and vote on each option: yes, if need be (works but not ideal) or no. A participant does not need an account; one set of votes is their response.
 - The organizer sees everyone's availability and finalizes the poll by picking one option. That creates a scheduled event, and participants can be notified and add it to their calendar.
@@ -174,8 +174,8 @@ export const buildSystem = ({
   const language = languageName(locale);
 
   return [
-    `You are a professional translator localizing the user interface of Rallly, a meeting scheduling app, from English into ${language} (${locale}).`,
-    `## About Rallly
+    `You are a professional translator localizing the user interface of Kinpal, a meeting scheduling app, from English into ${language} (${locale}).`,
+    `## About Kinpal
 ${productBrief}
 - Strings are short interface labels, buttons, messages and emails. Keep translations about as concise as the English.`,
     `## Rules
@@ -216,8 +216,8 @@ export const buildPostSystem = ({
   const language = languageName(locale);
 
   return [
-    `You are a professional translator localizing a blog post of Rallly, a meeting scheduling app, from English into ${language} (${locale}).`,
-    `## About Rallly
+    `You are a professional translator localizing a blog post of Kinpal, a meeting scheduling app, from English into ${language} (${locale}).`,
+    `## About Kinpal
 ${productBrief}`,
     `## Rules
 - Keep Markdown and MDX syntax, URLs, code, component names and props exactly as in the source.

@@ -7,7 +7,7 @@ excerpt: >-
   siehst, welche Zeiten für dich passen.
 ---
 
-Die meisten Menschen, die auf eine Rallly-Umfrage antworten, tun das auf ihrem Handy – oft innerhalb weniger Minuten, nachdem sie den Einladungslink erhalten haben. Dieser Moment ist das Herzstück des Produkts. Wenn wir also hören, dass er für Verwirrung sorgt, hören wir zu.
+Die meisten Menschen, die auf eine Kinpal-Umfrage antworten, tun das auf ihrem Handy – oft innerhalb weniger Minuten, nachdem sie den Einladungslink erhalten haben. Dieser Moment ist das Herzstück des Produkts. Wenn wir also hören, dass er für Verwirrung sorgt, hören wir zu.
 
 Und wir haben davon gehört. Einige von euch haben uns gesagt, dass die alte Abstimmungsoberfläche nicht deutlich genug war. Die kleine Schaltfläche „?“ neben jeder Zeit war leicht zu übersehen, und einige Teilnehmende tippten auf „Weiter“ in der Erwartung, ihre Zeiten auf der nächsten Seite auszuwählen – nur um festzustellen, dass sie versehentlich überall mit „Nein“ geantwortet hatten.
 
@@ -33,4 +33,4 @@ Die neuen Steuerelemente entsprechen den von Apple empfohlenen Größen für Ber
 
 An deinen bestehenden Umfragen oder Antworten hat sich nichts geändert. Es ist einfach eine bessere Möglichkeit, dasselbe zu tun.
 
-Wenn sich etwas nicht richtig anfühlt oder du eine Idee hast, wie das Abstimmen noch einfacher werden kann, [sag uns Bescheid](mailto:support@rallly.co). Wie immer begann dieses Update mit dem Feedback von Nutzerinnen und Nutzern wie dir.
+Wenn sich etwas nicht richtig anfühlt oder du eine Idee hast, wie das Abstimmen noch einfacher werden kann, [sag uns Bescheid](mailto:support@kinpal.com). Wie immer begann dieses Update mit dem Feedback von Nutzerinnen und Nutzern wie dir.

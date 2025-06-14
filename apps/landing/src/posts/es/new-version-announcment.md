@@ -1,16 +1,16 @@
 ---
-title: Presentamos Rallly 2.0
+title: Presentamos Kinpal 2.0
 date: '2022-04-08'
 category: Company
 tags:
   - announcement
 draft: false
-excerpt: Un vistazo a la primera gran actualización de Rallly.
+excerpt: Un vistazo a la primera gran actualización de Kinpal.
 ---
 
 Por si te preguntas por qué hoy todo tiene un aspecto diferente, es porque
 acabo de publicar una actualización importante. Esta actualización llevaba [algún tiempo](https://twitter.com/imlukevella/status/1288066459248349184)
-planeándose, pero desde principios de este año he decidido dedicar más tiempo a Rallly, lo que me ha permitido
+planeándose, pero desde principios de este año he decidido dedicar más tiempo a Kinpal, lo que me ha permitido
 llegar a este hito y, con suerte, a muchos más en el futuro. Así que…
 
 ## ¿Qué pasa con las encuestas creadas con la versión anterior?
@@ -21,7 +21,7 @@ Tengo previsto desactivar la base de datos antigua dentro de unos dos meses, as�
 las encuestas creadas con la versión anterior seguirán disponibles. Espero que sea tiempo suficiente
 para transferir todas las encuestas activas.
 
-Si tienes algún problema para acceder a tu encuesta, escríbenos a través del chat del sitio o envía un correo electrónico a [support@rallly.co](mailto:support@rallly.co).
+Si tienes algún problema para acceder a tu encuesta, escríbenos a través del chat del sitio o envía un correo electrónico a [support@kinpal.com](mailto:support@kinpal.com).
 
 ## ¿Qué hay de nuevo?
 
@@ -46,7 +46,7 @@ los detalles de la encuesta.
 
 ### Vista compacta para dispositivos móviles
 
-Rallly siempre ha sido compatible con dispositivos móviles, pero ahora ofrece una vista más optimizada para las pantallas pequeñas.
+Kinpal siempre ha sido compatible con dispositivos móviles, pero ahora ofrece una vista más optimizada para las pantallas pequeñas.
 
 ![Mobile Demo](/static/images/mobile-demo.gif)
 
@@ -70,7 +70,7 @@ Hay varios motivos por los que he decidido no incluir esta función:
    así que estudiaré la posibilidad de cambiar de proveedor y utilizar una IP dedicada para mejorar
    la capacidad de entrega.
 
-2. **Coste**&mdash;Enviar estos correos no es gratis, y la base de usuarios de Rallly ha crecido hasta el punto de que
+2. **Coste**&mdash;Enviar estos correos no es gratis, y la base de usuarios de Kinpal ha crecido hasta el punto de que
    el coste de estos correos representa una parte importante de los costes totales de funcionamiento. Reducir el número de correos
    enviados ayudaría a gestionar este coste de una forma más sostenible.
 

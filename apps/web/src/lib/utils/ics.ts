@@ -2,7 +2,7 @@ import * as ics from "ics";
 
 import { wallTimeToInstant } from "@/lib/datetime/wall-time";
 
-const productId = "-//Rallly//EN";
+const productId = "-//Kinpal//EN";
 
 export interface CreateIcsEventOptions {
   uid: string;

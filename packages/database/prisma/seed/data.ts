@@ -25,32 +25,32 @@ export const users = [
   {
     id: "user-1",
     name: "Dev User",
-    email: "dev@rallly.co",
+    email: "dev@kinpal.com",
     timeZone: "America/New_York",
     weekStart: 1,
   },
   {
     id: "user-2",
     name: "Sarah Chen",
-    email: "sarah@rallly.co",
+    email: "sarah@kinpal.com",
     timeZone: "America/Los_Angeles",
   },
   {
     id: "user-3",
     name: "Michael Torres",
-    email: "michael@rallly.co",
+    email: "michael@kinpal.com",
     timeZone: "Europe/London",
   },
   {
     id: "user-4",
     name: "Emily Nakamura",
-    email: "emily@rallly.co",
+    email: "emily@kinpal.com",
     timeZone: "Asia/Tokyo",
   },
   {
     id: "user-5",
     name: "James Okonkwo",
-    email: "james@rallly.co",
+    email: "james@kinpal.com",
     timeZone: "America/Chicago",
   },
 ] as const;
@@ -509,27 +509,27 @@ const acmePolls: PollDef[] = [
       {
         name: "Sarah Chen",
         userId: "user-2",
-        email: "sarah@rallly.co",
+        email: "sarah@kinpal.com",
         votes: ["yes", "no", "yes", "yes"],
       },
       {
         name: "Michael Torres",
         userId: "user-3",
-        email: "michael@rallly.co",
+        email: "michael@kinpal.com",
         note: "The last slot clashes with our release window but I can shuffle things if needed.",
         votes: ["yes", "yes", "no", "ifNeedBe"],
       },
       {
         name: "Emily Nakamura",
         userId: "user-4",
-        email: "emily@rallly.co",
+        email: "emily@kinpal.com",
         note: "I'm out Monday but flexible otherwise. Can join remotely if needed.",
         votes: ["no", "yes", "yes", "yes"],
       },
       {
         name: "James Okonkwo",
         userId: "user-5",
-        email: "james@rallly.co",
+        email: "james@kinpal.com",
         votes: ["yes", "ifNeedBe", "yes", "no"],
       },
     ],
@@ -558,7 +558,7 @@ const acmePolls: PollDef[] = [
       {
         name: "Sarah Chen",
         userId: "user-2",
-        email: "sarah@rallly.co",
+        email: "sarah@kinpal.com",
         votes: ["yes", "yes", "yes"],
       },
       {
@@ -569,7 +569,7 @@ const acmePolls: PollDef[] = [
       {
         name: "Emily Nakamura",
         userId: "user-4",
-        email: "emily@rallly.co",
+        email: "emily@kinpal.com",
         votes: ["no", "yes", "yes"],
       },
       {
@@ -598,7 +598,7 @@ const acmePolls: PollDef[] = [
       {
         name: "Michael Torres",
         userId: "user-3",
-        email: "michael@rallly.co",
+        email: "michael@kinpal.com",
         votes: ["yes", "yes", "yes"],
       },
       {
@@ -609,21 +609,21 @@ const acmePolls: PollDef[] = [
       {
         name: "Sarah Chen",
         userId: "user-2",
-        email: "sarah@rallly.co",
+        email: "sarah@kinpal.com",
         note: "The 4pm slot overlaps with a meeting I can't move.",
         votes: ["yes", "no", "yes"],
       },
       {
         name: "James Okonkwo",
         userId: "user-5",
-        email: "james@rallly.co",
+        email: "james@kinpal.com",
         note: "I'm on support rotation the first day, the later date is safest for me.",
         votes: ["ifNeedBe", "no", "yes"],
       },
       {
         name: "Emily Nakamura",
         userId: "user-4",
-        email: "emily@rallly.co",
+        email: "emily@kinpal.com",
         votes: ["no", "no", "yes"],
       },
     ],
@@ -653,19 +653,19 @@ const acmePolls: PollDef[] = [
       {
         name: "Sarah Chen",
         userId: "user-2",
-        email: "sarah@rallly.co",
+        email: "sarah@kinpal.com",
         votes: ["yes", "yes", "no", "yes", "no"],
       },
       {
         name: "Michael Torres",
         userId: "user-3",
-        email: "michael@rallly.co",
+        email: "michael@kinpal.com",
         votes: ["no", "yes", "yes", "no", "yes"],
       },
       {
         name: "James Okonkwo",
         userId: "user-5",
-        email: "james@rallly.co",
+        email: "james@kinpal.com",
         note: "I fly out midweek so the earlier sessions suit me much better.",
         votes: ["yes", "ifNeedBe", "yes", "no", "no"],
       },
@@ -693,26 +693,26 @@ const acmePolls: PollDef[] = [
       {
         name: "Sarah Chen",
         userId: "user-2",
-        email: "sarah@rallly.co",
+        email: "sarah@kinpal.com",
         votes: ["yes", "yes", "no", "yes"],
       },
       {
         name: "Michael Torres",
         userId: "user-3",
-        email: "michael@rallly.co",
+        email: "michael@kinpal.com",
         votes: ["yes", "no", "yes", "yes"],
       },
       {
         name: "Emily Nakamura",
         userId: "user-4",
-        email: "emily@rallly.co",
+        email: "emily@kinpal.com",
         note: "If we pick the last date I may need to leave early for a flight.",
         votes: ["no", "yes", "yes", "ifNeedBe"],
       },
       {
         name: "James Okonkwo",
         userId: "user-5",
-        email: "james@rallly.co",
+        email: "james@kinpal.com",
         votes: ["yes", "yes", "ifNeedBe", "no"],
       },
       {
@@ -756,7 +756,7 @@ const acmePolls: PollDef[] = [
       {
         name: "Sarah Chen",
         userId: "user-2",
-        email: "sarah@rallly.co",
+        email: "sarah@kinpal.com",
         note: "The first slot lands right after another sync, the later two are better.",
         votes: ["no", "yes", "yes"],
       },
@@ -781,7 +781,7 @@ const acmePolls: PollDef[] = [
       {
         name: "Michael Torres",
         userId: "user-3",
-        email: "michael@rallly.co",
+        email: "michael@kinpal.com",
         votes: ["yes", "yes", "yes", "yes"],
       },
       {
@@ -792,14 +792,14 @@ const acmePolls: PollDef[] = [
       {
         name: "Emily Nakamura",
         userId: "user-4",
-        email: "emily@rallly.co",
+        email: "emily@kinpal.com",
         note: "The earlier slots land at a rough hour in Tokyo, the later two are doable.",
         votes: ["no", "no", "yes", "yes"],
       },
       {
         name: "James Okonkwo",
         userId: "user-5",
-        email: "james@rallly.co",
+        email: "james@kinpal.com",
         votes: ["yes", "yes", "no", "no"],
       },
       {
@@ -827,7 +827,7 @@ const acmePolls: PollDef[] = [
       {
         name: "Sarah Chen",
         userId: "user-2",
-        email: "sarah@rallly.co",
+        email: "sarah@kinpal.com",
         votes: ["yes", "yes", "yes"],
       },
       {
@@ -838,20 +838,20 @@ const acmePolls: PollDef[] = [
       {
         name: "Michael Torres",
         userId: "user-3",
-        email: "michael@rallly.co",
+        email: "michael@kinpal.com",
         note: "I'm on leave the last day, the first two are wide open for me.",
         votes: ["yes", "yes", "no"],
       },
       {
         name: "Emily Nakamura",
         userId: "user-4",
-        email: "emily@rallly.co",
+        email: "emily@kinpal.com",
         votes: ["no", "yes", "yes"],
       },
       {
         name: "James Okonkwo",
         userId: "user-5",
-        email: "james@rallly.co",
+        email: "james@kinpal.com",
         note: "I can move a review on the second day if that's the one that wins.",
         votes: ["yes", "ifNeedBe", "yes"],
       },
@@ -881,13 +881,13 @@ const acmePolls: PollDef[] = [
       {
         name: "Sarah Chen",
         userId: "user-2",
-        email: "sarah@rallly.co",
+        email: "sarah@kinpal.com",
         votes: ["no", "yes", "yes", "yes"],
       },
       {
         name: "Michael Torres",
         userId: "user-3",
-        email: "michael@rallly.co",
+        email: "michael@kinpal.com",
         votes: ["yes", "no", "yes", "no"],
       },
       {
@@ -922,7 +922,7 @@ const acmePolls: PollDef[] = [
       {
         name: "James Okonkwo",
         userId: "user-5",
-        email: "james@rallly.co",
+        email: "james@kinpal.com",
         votes: ["yes", "yes", "yes"],
       },
       {
@@ -933,19 +933,19 @@ const acmePolls: PollDef[] = [
       {
         name: "Sarah Chen",
         userId: "user-2",
-        email: "sarah@rallly.co",
+        email: "sarah@kinpal.com",
         votes: ["yes", "yes", "no"],
       },
       {
         name: "Michael Torres",
         userId: "user-3",
-        email: "michael@rallly.co",
+        email: "michael@kinpal.com",
         votes: ["no", "yes", "yes"],
       },
       {
         name: "Emily Nakamura",
         userId: "user-4",
-        email: "emily@rallly.co",
+        email: "emily@kinpal.com",
         note: "I'm out of office the week of the last option.",
         votes: ["yes", "ifNeedBe", "no"],
       },
@@ -989,19 +989,19 @@ const acmePolls: PollDef[] = [
       {
         name: "Sarah Chen",
         userId: "user-2",
-        email: "sarah@rallly.co",
+        email: "sarah@kinpal.com",
         votes: ["yes", "yes", "yes", "no"],
       },
       {
         name: "Dev User",
         userId: "user-1",
-        email: "dev@rallly.co",
+        email: "dev@kinpal.com",
         votes: ["yes", "no", "yes", "yes"],
       },
       {
         name: "Emily Nakamura",
         userId: "user-4",
-        email: "emily@rallly.co",
+        email: "emily@kinpal.com",
         votes: ["no", "yes", "no", "yes"],
       },
       {
@@ -1029,7 +1029,7 @@ const acmePolls: PollDef[] = [
       {
         name: "Emily Nakamura",
         userId: "user-4",
-        email: "emily@rallly.co",
+        email: "emily@kinpal.com",
         votes: ["yes", "yes", "yes", "yes"],
       },
       {
@@ -1040,19 +1040,19 @@ const acmePolls: PollDef[] = [
       {
         name: "Sarah Chen",
         userId: "user-2",
-        email: "sarah@rallly.co",
+        email: "sarah@kinpal.com",
         votes: ["yes", "yes", "no", "yes"],
       },
       {
         name: "Michael Torres",
         userId: "user-3",
-        email: "michael@rallly.co",
+        email: "michael@kinpal.com",
         votes: ["no", "yes", "yes", "yes"],
       },
       {
         name: "James Okonkwo",
         userId: "user-5",
-        email: "james@rallly.co",
+        email: "james@kinpal.com",
         votes: ["yes", "ifNeedBe", "yes", "no"],
       },
       {
@@ -1335,28 +1335,28 @@ export const scheduledEvents: ScheduledEventDef[] = [
     invites: [
       {
         inviteeName: "Dev User",
-        inviteeEmail: "dev@rallly.co",
+        inviteeEmail: "dev@kinpal.com",
         inviteeId: "user-1",
         inviteeTimeZone: "America/New_York",
         status: "accepted",
       },
       {
         inviteeName: "Sarah Chen",
-        inviteeEmail: "sarah@rallly.co",
+        inviteeEmail: "sarah@kinpal.com",
         inviteeId: "user-2",
         inviteeTimeZone: "America/Los_Angeles",
         status: "accepted",
       },
       {
         inviteeName: "Emily Nakamura",
-        inviteeEmail: "emily@rallly.co",
+        inviteeEmail: "emily@kinpal.com",
         inviteeId: "user-4",
         inviteeTimeZone: "Asia/Tokyo",
         status: "declined",
       },
       {
         inviteeName: "James Okonkwo",
-        inviteeEmail: "james@rallly.co",
+        inviteeEmail: "james@kinpal.com",
         inviteeId: "user-5",
         inviteeTimeZone: "America/Chicago",
         status: "accepted",
@@ -1377,14 +1377,14 @@ export const scheduledEvents: ScheduledEventDef[] = [
     invites: [
       {
         inviteeName: "Dev User",
-        inviteeEmail: "dev@rallly.co",
+        inviteeEmail: "dev@kinpal.com",
         inviteeId: "user-1",
         inviteeTimeZone: "America/New_York",
         status: "accepted",
       },
       {
         inviteeName: "Emily Nakamura",
-        inviteeEmail: "emily@rallly.co",
+        inviteeEmail: "emily@kinpal.com",
         inviteeId: "user-4",
         inviteeTimeZone: "Asia/Tokyo",
         status: "accepted",
@@ -1405,21 +1405,21 @@ export const scheduledEvents: ScheduledEventDef[] = [
     invites: [
       {
         inviteeName: "Sarah Chen",
-        inviteeEmail: "sarah@rallly.co",
+        inviteeEmail: "sarah@kinpal.com",
         inviteeId: "user-2",
         inviteeTimeZone: "America/Los_Angeles",
         status: "accepted",
       },
       {
         inviteeName: "Michael Torres",
-        inviteeEmail: "michael@rallly.co",
+        inviteeEmail: "michael@kinpal.com",
         inviteeId: "user-3",
         inviteeTimeZone: "Europe/London",
         status: "accepted",
       },
       {
         inviteeName: "James Okonkwo",
-        inviteeEmail: "james@rallly.co",
+        inviteeEmail: "james@kinpal.com",
         inviteeId: "user-5",
         inviteeTimeZone: "America/Chicago",
         status: "tentative",
@@ -1439,13 +1439,13 @@ export const scheduledEvents: ScheduledEventDef[] = [
     invites: [
       {
         inviteeName: "Dev User",
-        inviteeEmail: "dev@rallly.co",
+        inviteeEmail: "dev@kinpal.com",
         inviteeId: "user-1",
         status: "accepted",
       },
       {
         inviteeName: "Emily Nakamura",
-        inviteeEmail: "emily@rallly.co",
+        inviteeEmail: "emily@kinpal.com",
         inviteeId: "user-4",
         status: "accepted",
       },
@@ -1465,25 +1465,25 @@ export const scheduledEvents: ScheduledEventDef[] = [
     invites: [
       {
         inviteeName: "Dev User",
-        inviteeEmail: "dev@rallly.co",
+        inviteeEmail: "dev@kinpal.com",
         inviteeId: "user-1",
         status: "accepted",
       },
       {
         inviteeName: "Sarah Chen",
-        inviteeEmail: "sarah@rallly.co",
+        inviteeEmail: "sarah@kinpal.com",
         inviteeId: "user-2",
         status: "accepted",
       },
       {
         inviteeName: "Michael Torres",
-        inviteeEmail: "michael@rallly.co",
+        inviteeEmail: "michael@kinpal.com",
         inviteeId: "user-3",
         status: "accepted",
       },
       {
         inviteeName: "Emily Nakamura",
-        inviteeEmail: "emily@rallly.co",
+        inviteeEmail: "emily@kinpal.com",
         inviteeId: "user-4",
         status: "tentative",
       },
@@ -1503,25 +1503,25 @@ export const scheduledEvents: ScheduledEventDef[] = [
     invites: [
       {
         inviteeName: "Sarah Chen",
-        inviteeEmail: "sarah@rallly.co",
+        inviteeEmail: "sarah@kinpal.com",
         inviteeId: "user-2",
         status: "accepted",
       },
       {
         inviteeName: "Michael Torres",
-        inviteeEmail: "michael@rallly.co",
+        inviteeEmail: "michael@kinpal.com",
         inviteeId: "user-3",
         status: "accepted",
       },
       {
         inviteeName: "Emily Nakamura",
-        inviteeEmail: "emily@rallly.co",
+        inviteeEmail: "emily@kinpal.com",
         inviteeId: "user-4",
         status: "accepted",
       },
       {
         inviteeName: "James Okonkwo",
-        inviteeEmail: "james@rallly.co",
+        inviteeEmail: "james@kinpal.com",
         inviteeId: "user-5",
         status: "accepted",
       },
@@ -1542,25 +1542,25 @@ export const scheduledEvents: ScheduledEventDef[] = [
     invites: [
       {
         inviteeName: "Dev User",
-        inviteeEmail: "dev@rallly.co",
+        inviteeEmail: "dev@kinpal.com",
         inviteeId: "user-1",
         status: "accepted",
       },
       {
         inviteeName: "Michael Torres",
-        inviteeEmail: "michael@rallly.co",
+        inviteeEmail: "michael@kinpal.com",
         inviteeId: "user-3",
         status: "accepted",
       },
       {
         inviteeName: "Emily Nakamura",
-        inviteeEmail: "emily@rallly.co",
+        inviteeEmail: "emily@kinpal.com",
         inviteeId: "user-4",
         status: "accepted",
       },
       {
         inviteeName: "James Okonkwo",
-        inviteeEmail: "james@rallly.co",
+        inviteeEmail: "james@kinpal.com",
         inviteeId: "user-5",
         status: "tentative",
       },
@@ -1578,25 +1578,25 @@ export const scheduledEvents: ScheduledEventDef[] = [
     invites: [
       {
         inviteeName: "Sarah Chen",
-        inviteeEmail: "sarah@rallly.co",
+        inviteeEmail: "sarah@kinpal.com",
         inviteeId: "user-2",
         status: "accepted",
       },
       {
         inviteeName: "Michael Torres",
-        inviteeEmail: "michael@rallly.co",
+        inviteeEmail: "michael@kinpal.com",
         inviteeId: "user-3",
         status: "accepted",
       },
       {
         inviteeName: "Emily Nakamura",
-        inviteeEmail: "emily@rallly.co",
+        inviteeEmail: "emily@kinpal.com",
         inviteeId: "user-4",
         status: "accepted",
       },
       {
         inviteeName: "James Okonkwo",
-        inviteeEmail: "james@rallly.co",
+        inviteeEmail: "james@kinpal.com",
         inviteeId: "user-5",
         status: "pending",
       },
@@ -1617,14 +1617,14 @@ export const scheduledEvents: ScheduledEventDef[] = [
     invites: [
       {
         inviteeName: "Sarah Chen",
-        inviteeEmail: "sarah@rallly.co",
+        inviteeEmail: "sarah@kinpal.com",
         inviteeId: "user-2",
         inviteeTimeZone: "America/Los_Angeles",
         status: "accepted",
       },
       {
         inviteeName: "Michael Torres",
-        inviteeEmail: "michael@rallly.co",
+        inviteeEmail: "michael@kinpal.com",
         inviteeId: "user-3",
         inviteeTimeZone: "Europe/London",
         status: "accepted",

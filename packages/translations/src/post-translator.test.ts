@@ -4,11 +4,11 @@ import { translatePost } from "./post-translator.ts";
 import type { Glossary } from "./prompt.ts";
 import type { Complete } from "./translator.ts";
 
-const glossary: Glossary = { doNotTranslate: ["Rallly"], terms: [] };
+const glossary: Glossary = { doNotTranslate: ["Kinpal"], terms: [] };
 const model = "test/model";
 
 const source = `---
-title: Plan with Rallly
+title: Plan with Kinpal
 date: 2026-01-02
 category: guides
 excerpt: How to plan.
@@ -16,7 +16,7 @@ excerpt: How to plan.
 
 ## A heading
 
-Visit [pricing](https://rallly.co/pricing) now.
+Visit [pricing](https://kinpal.com/pricing) now.
 `;
 
 const sourceBody = matter(source).content;
@@ -56,9 +56,9 @@ const userJson = (call: Call | undefined) =>
   JSON.parse(call?.messages[call.messages.length - 1]?.content ?? "{}");
 
 const good = {
-  title: "Planen mit Rallly",
+  title: "Planen mit Kinpal",
   excerpt: "So planst du.",
-  body: "## Eine Überschrift\n\nBesuche [Preise](https://rallly.co/pricing) jetzt.\n",
+  body: "## Eine Überschrift\n\nBesuche [Preise](https://kinpal.com/pricing) jetzt.\n",
 };
 
 const run = (complete: Complete, extra: { previous?: string } = {}) =>
@@ -78,7 +78,7 @@ describe("translatePost", () => {
     expect(calls[0]?.service_tier).toBe("flex");
     expect(calls[0]?.response_format.json_schema.strict).toBe(true);
     expect(userJson(calls[0])).toEqual({
-      title: "Plan with Rallly",
+      title: "Plan with Kinpal",
       excerpt: "How to plan.",
       body: sourceBody,
     });
@@ -97,7 +97,7 @@ describe("translatePost", () => {
       source: noExcerpt,
     });
     expect(userJson(calls[0])).toEqual({
-      title: "Plan with Rallly",
+      title: "Plan with Kinpal",
       body: sourceBody,
     });
     expect(result.ok).toBe(true);
@@ -111,7 +111,7 @@ describe("translatePost", () => {
     expect(result.ok).toBe(true);
     if (!result.ok) return;
     const file = matter(result.content);
-    expect(file.data.title).toBe("Planen mit Rallly");
+    expect(file.data.title).toBe("Planen mit Kinpal");
     expect(file.data.category).toBe("guides");
     expect(file.data.date).toEqual(matter(source).data.date);
     expect(file.content).toContain("Eine Überschrift");
@@ -135,7 +135,7 @@ describe("translatePost", () => {
     const result = await run(complete);
     expect(result.ok).toBe(true);
     expect(calls).toHaveLength(2);
-    expect(userJson(calls[1]).error).toContain("https://rallly.co/pricing");
+    expect(userJson(calls[1]).error).toContain("https://kinpal.com/pricing");
     expect(userJson(calls[1]).previous).toContain("Besuche Preise jetzt");
   });
 
@@ -164,7 +164,7 @@ describe("translatePost", () => {
     const { complete, calls } = fake([bad, bad]);
     const result = await run(complete);
     expect(result.ok).toBe(false);
-    if (!result.ok) expect(result.reason).toContain("Rallly");
+    if (!result.ok) expect(result.reason).toContain("Kinpal");
     expect(calls).toHaveLength(2);
   });
 

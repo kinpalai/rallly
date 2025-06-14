@@ -7,7 +7,7 @@ excerpt: >-
   apparaten.
 ---
 
-Wist je dat meer dan de helft van alle Rallly-gebruikers mobiele apparaten gebruikt?
+Wist je dat meer dan de helft van alle Kinpal-gebruikers mobiele apparaten gebruikt?
 
 ![Apparaatgegevens](/static/images/device-data.png)
 

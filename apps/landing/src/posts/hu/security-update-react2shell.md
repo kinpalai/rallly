@@ -8,11 +8,11 @@ excerpt: >-
   üzemeltetőinek azonnal frissíteniük kell.
 ---
 
-**Ez a közlemény csak a Rallly saját üzemeltetésű telepítéseire vonatkozik.** Ha a Rallly hosztolt szolgáltatását használod a [rallly.co](https://rallly.co) címen, nincs teendőd. A szervereket a CVE-k bejelentését követő néhány órán belül javítottuk, és ez idő alatt nem történt adatszivárgás vagy feltörés.
+**Ez a közlemény csak a Kinpal saját üzemeltetésű telepítéseire vonatkozik.** Ha a Kinpal hosztolt szolgáltatását használod a [kinpal.com](https://kinpal.com) címen, nincs teendőd. A szervereket a CVE-k bejelentését követő néhány órán belül javítottuk, és ez idő alatt nem történt adatszivárgás vagy feltörés.
 
 ---
 
-Kritikus biztonsági sérülékenységet fedeztek fel a React Server Componentsben, amely a Ralllyt is érinti. A nem javított telepítéseken ez a sérülékenység lehetővé teheti, hogy egy támadó távolról kódot futtasson a szervereden. Ha a példányod elérhető az internetről, és nem a legújabb kiadást használod, **a szervered jelentős veszélynek van kitéve**.
+Kritikus biztonsági sérülékenységet fedeztek fel a React Server Componentsben, amely a Kinpalt is érinti. A nem javított telepítéseken ez a sérülékenység lehetővé teheti, hogy egy támadó távolról kódot futtasson a szervereden. Ha a példányod elérhető az internetről, és nem a legújabb kiadást használod, **a szervered jelentős veszélynek van kitéve**.
 
 Ez a sérülékenység, a [CVE-2025-55182](https://www.cve.org/CVERecord?id=CVE-2025-55182) (más néven [React2Shell](https://react2shell.com/)), számos React 19-cel készült alkalmazást érint. Már valódi feltörésekről is érkeztek jelentések, amelyek során a támadók kártékony szoftvereket telepítettek a feltört szerverekre.
 
@@ -30,9 +30,9 @@ A React csapata később felfedezte, hogy a CVE-2025-55184 javítása nem volt t
 
 ## Szükséges teendők
 
-Ha a Ralllyt saját magad üzemelteted, azonnal végezd el a következő lépéseket:
+Ha a Kinpalt saját magad üzemelteted, azonnal végezd el a következő lépéseket:
 
-- **Frissítsd** a Ralllyt a legújabb verzióra (v4.5.11 vagy újabb), hogy mind a négy CVE-vel szemben védett legyél. A részletekért tekintsd meg a [kiadási megjegyzéseket](https://github.com/lukevella/rallly/releases/tag/v4.5.11).
+- **Frissítsd** a Kinpalt a legújabb verzióra (v4.5.11 vagy újabb), hogy mind a négy CVE-vel szemben védett legyél. A részletekért tekintsd meg a [kiadási megjegyzéseket](https://github.com/lukevella/rallly/releases/tag/v4.5.11).
 - Ha a v4.5.10-es verziót használod, frissítened kell a v4.5.11-es verzióra, mert az előző javítás nem volt teljes.
 - Ha a v4.5.8-as verziót használod (amely teljes védelmet nyújtott a React2Shell ellen), frissítened kell a v4.5.11-es verzióra, hogy minden sérülékenységgel szemben védett legyél.
 - Ha a v4.5.7-es verziót használod, érdemes frissítened a v4.5.11-es verzióra, mivel a v4.5.7 lehet, hogy nem nyújtott teljes védelmet a React2Shell ellen.
@@ -40,7 +40,7 @@ Ha a Ralllyt saját magad üzemelteted, azonnal végezd el a következő lépés
 - **Indítsd újra** az összes szolgáltatást, Docker használata esetén pedig építsd újra a legújabb lemezképet, vagy töltsd le azt.
 - **Ha nem tudsz azonnal frissíteni**, a javítás telepítéséig ideiglenesen korlátozd a hozzáférést (VPN-nel vagy hitelesítési proxyval).
 
-A frissítés után ellenőrizd, hogy a példányod a legújabb Rallly-verziót jelenti-e, és nézd át a naplókat az esetleges figyelmeztetések miatt. A verzió ellenőrzéséhez keresd fel ezt a címet: `<your‑rallly‑instance>/api/status`.
+A frissítés után ellenőrizd, hogy a példányod a legújabb Kinpal-verziót jelenti-e, és nézd át a naplókat az esetleges figyelmeztetések miatt. A verzió ellenőrzéséhez keresd fel ezt a címet: `<your‑rallly‑instance>/api/status`.
 
 ## További információk
 

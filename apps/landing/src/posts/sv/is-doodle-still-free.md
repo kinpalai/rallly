@@ -100,12 +100,12 @@ Det är ett helt rimligt affärsval, och om ditt företag planerar kundmöten he
 
 ## Om du bara behöver en schemaläggningsförfrågan
 
-Det är den luckan som [Rallly](https://rallly.co) fyller. Rallly gör en sak: du föreslår några tider, delar en länk och alla röstar på vad som passar. Så här jämförs gratisplanerna:
+Det är den luckan som [Kinpal](https://kinpal.com) fyller. Kinpal gör en sak: du föreslår några tider, delar en länk och alla röstar på vad som passar. Så här jämförs gratisplanerna:
 
 <div className="overflow-x-auto">
 <table>
 <thead>
-<tr><th></th><th>Doodle Free</th><th>Rallly Free</th></tr>
+<tr><th></th><th>Doodle Free</th><th>Kinpal Free</th></tr>
 </thead>
 <tbody>
 <tr><td>Gruppförfrågningar</td><td>1</td><td>Obegränsat, upp till 3 öppna samtidigt</td></tr>
@@ -116,15 +116,15 @@ Det är den luckan som [Rallly](https://rallly.co) fyller. Rallly gör en sak: d
 </table>
 </div>
 
-I Rallly röstar deltagarna med bara länken och behöver aldrig skapa ett konto. Alla ser alternativen i sin egen tidszon, och det är gratis att slutföra datumet och meddela alla.
+I Kinpal röstar deltagarna med bara länken och behöver aldrig skapa ett konto. Alla ser alternativen i sin egen tidszon, och det är gratis att slutföra datumet och meddela alla.
 
-För att vara lika tydliga med våra begränsningar: i Ralllys gratisplan kan du skapa så många förfrågningar du vill, men högst 3 kan vara öppna och samla in röster samtidigt. Slutför eller stäng en så kan du öppna en annan. Utan att registrera dig kan du ha 1 öppen förfrågan åt gången, och samma sak gäller då: slutför eller stäng den för att öppna en annan. Gratisförfrågningar raderas när alla deras datum ligger minst 30 dagar bakåt i tiden och ingen har redigerat, röstat eller kommenterat under de senaste 30 dagarna.
+För att vara lika tydliga med våra begränsningar: i Kinpals gratisplan kan du skapa så många förfrågningar du vill, men högst 3 kan vara öppna och samla in röster samtidigt. Slutför eller stäng en så kan du öppna en annan. Utan att registrera dig kan du ha 1 öppen förfrågan åt gången, och samma sak gäller då: slutför eller stäng den för att öppna en annan. Gratisförfrågningar raderas när alla deras datum ligger minst 30 dagar bakåt i tiden och ingen har redigerat, röstat eller kommenterat under de senaste 30 dagarna.
 
-Rallly har också [öppen källkod](https://github.com/lukevella/rallly), så du kan granska exakt hur det fungerar och till och med vara värd för det på din egen server.
+Kinpal har också [öppen källkod](https://github.com/lukevella/rallly), så du kan granska exakt hur det fungerar och till och med vara värd för det på din egen server.
 
-Rallly tjänar pengar på [Rallly Pro](https://rallly.co/pricing), som lägger till funktioner du kan vilja ha om du använder tjänsten professionellt, till exempel obegränsat antal öppna förfrågningar, egen profilering och förfrågningar som finns kvar utan tidsbegränsning. Det är det som håller gratisplanen gratis och annonsfri för alla andra.
+Kinpal tjänar pengar på [Kinpal Pro](https://kinpal.com/pricing), som lägger till funktioner du kan vilja ha om du använder tjänsten professionellt, till exempel obegränsat antal öppna förfrågningar, egen profilering och förfrågningar som finns kvar utan tidsbegränsning. Det är det som håller gratisplanen gratis och annonsfri för alla andra.
 
-Om du vill ha en jämförelse funktion för funktion kan du läsa [hur Rallly jämförs med Doodle](https://rallly.co/best-doodle-alternative).
+Om du vill ha en jämförelse funktion för funktion kan du läsa [hur Kinpal jämförs med Doodle](https://kinpal.com/best-doodle-alternative).
 
 ## Vanliga frågor
 
@@ -154,10 +154,10 @@ Inte just nu. Doodle pausade sina appar för iOS och Android i juni 2025 medan d
 
 ### Finns det ett gratis alternativ till Doodle?
 
-Ja. [Rallly](https://rallly.co) är en kostnadsfri schemaläggningsförfrågan med öppen källkod och utan annonser. Du kan skapa så många förfrågningar du vill, med upp till 3 öppna samtidigt, och deltagarna kan rösta utan konto.
+Ja. [Kinpal](https://kinpal.com) är en kostnadsfri schemaläggningsförfrågan med öppen källkod och utan annonser. Du kan skapa så många förfrågningar du vill, med upp till 3 öppna samtidigt, och deltagarna kan rösta utan konto.
 
 ## Sammanfattning
 
 Doodle är fortfarande gratis, men bara för en förfrågan med 10 alternativ och med annonser. Om det täcker det du behöver är det ett bra val. Om det inte gör det behöver du inte betala bara för att hitta en tid som passar.
 
-[Skapa en förfrågan](https://app.rallly.co/new) nu. Det tar ungefär en minut, och ingen behöver registrera sig.
+[Skapa en förfrågan](https://app.kinpal.com/new) nu. Det tar ungefär en minut, och ingen behöver registrera sig.

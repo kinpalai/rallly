@@ -1,15 +1,15 @@
 ---
-title: Již brzy – Rallly Pro
+title: Již brzy – Kinpal Pro
 date: '2023-06-19'
 category: Product
 excerpt: 'S radostí oznamuji významnou aktualizaci, která bude brzy k dispozici.'
 ---
 
-![Rallly Pro](/static/images/introducing-rallly-pro/pro-splash.svg)
+![Kinpal Pro](/static/images/introducing-rallly-pro/pro-splash.svg)
 
-S radostí oznamuji významnou aktualizaci, která bude brzy k dispozici – Rallly Pro. Jedná se o nový placený tarif, který předplatitelům zpřístupní nové funkce a pomůže financovat další vývoj funkcí, které si určitě oblíbíte.
+S radostí oznamuji významnou aktualizaci, která bude brzy k dispozici – Kinpal Pro. Jedná se o nový placený tarif, který předplatitelům zpřístupní nové funkce a pomůže financovat další vývoj funkcí, které si určitě oblíbíte.
 
-Na začátek budou mít uživatelé Rallly Pro tyto výhody:
+Na začátek budou mít uživatelé Kinpal Pro tyto výhody:
 
 ## 1. Dokončení anket a odesílání pozvánek do kalendáře
 
@@ -19,15 +19,15 @@ Uživatelé Pro budou moci vybrat konečné datum ankety a odeslat pozvánky do 
 
 ## 2. Přednostní podpora
 
-Jako uživatel Rallly Pro získáte přednostní podporu a výhradní přístup k živému chatu přímo na webu.
+Jako uživatel Kinpal Pro získáte přednostní podporu a výhradní přístup k živému chatu přímo na webu.
 
 ## 3. Hlasování o vývoji funkcí
 
-Uživatelům Rallly Pro budu posílat průzkumy, abych zjistil, jaké funkce byste chtěli. Vaše hlasy budou mít přímý vliv na to, co vytvoříme jako první.
+Uživatelům Kinpal Pro budu posílat průzkumy, abych zjistil, jaké funkce byste chtěli. Vaše hlasy budou mít přímý vliv na to, co vytvoříme jako první.
 
 ## 4. Delší platnost anket
 
-Uživatelé Rallly Pro si mohou své ankety ponechat neomezeně dlouho a nebudou se muset obávat ztráty svých dat.
+Uživatelé Kinpal Pro si mohou své ankety ponechat neomezeně dlouho a nebudou se muset obávat ztráty svých dat.
 
 ## 5. Připravované funkce
 
@@ -37,10 +37,10 @@ Brzy můžete očekávat další funkce, například:
 - Odesílání automatických připomenutí
 - Skrytí jmen účastníků
 
-Také jsem zveřejnil příspěvek o [budoucnosti Rallly](/blog/the-future-of-rallly), která spočívá v přidání dalších řešení nad oblíbenou funkcí anket. S vaší pomocí můžeme tuto vizi proměnit ve skutečnost.
+Také jsem zveřejnil příspěvek o [budoucnosti Kinpal](/blog/the-future-of-rallly), která spočívá v přidání dalších řešení nad oblíbenou funkcí anket. S vaší pomocí můžeme tuto vizi proměnit ve skutečnost.
 
 ---
 
-Děkuji vám za podporu. Pokud chcete dostat upozornění, až bude Rallly Pro k dispozici, můžete se přihlásit k odběru níže.
+Děkuji vám za podporu. Pokud chcete dostat upozornění, až bude Kinpal Pro k dispozici, můžete se přihlásit k odběru níže.
 
 Příjemné plánování :)

@@ -15,8 +15,8 @@ Ahora puedes invitar a personas por correo electrónico desde la página de la e
 
 Todas las personas a las que invites aparecerán en el cuadro de diálogo con su estado actual. Enviada significa que el correo ha salido. Abierta significa que han hecho clic en el enlace. Respondida significa que han enviado su disponibilidad. De un vistazo puedes ver quién necesita todavía un recordatorio.
 
-El enlace de invitación sigue ahí y sigue siendo gratuito. Las invitaciones por correo electrónico forman parte de Rallly Pro, así que, si ya tienes una suscripción Pro o perteneces a un Espacio Pro, ya están disponibles en tus encuestas. Tendrás que haber iniciado sesión para enviar invitaciones, porque tanto estas como las respuestas que generan están vinculadas a tu cuenta y no al navegador que estés utilizando.
+El enlace de invitación sigue ahí y sigue siendo gratuito. Las invitaciones por correo electrónico forman parte de Kinpal Pro, así que, si ya tienes una suscripción Pro o perteneces a un Espacio Pro, ya están disponibles en tus encuestas. Tendrás que haber iniciado sesión para enviar invitaciones, porque tanto estas como las respuestas que generan están vinculadas a tu cuenta y no al navegador que estés utilizando.
 
-Este es el primer paso para que Rallly gestione mejor la parte de la organización que tiene lugar después de crear la encuesta. Lo siguiente serán los recordatorios para las personas que aún no hayan respondido.
+Este es el primer paso para que Kinpal gestione mejor la parte de la organización que tiene lugar después de crear la encuesta. Lo siguiente serán los recordatorios para las personas que aún no hayan respondido.
 
-Como siempre, si tienes algún comentario o te encuentras con algún problema, estaré encantado de recibir noticias tuyas en [feedback@rallly.co](mailto:feedback@rallly.co).
+Como siempre, si tienes algún comentario o te encuentras con algún problema, estaré encantado de recibir noticias tuyas en [feedback@kinpal.com](mailto:feedback@kinpal.com).

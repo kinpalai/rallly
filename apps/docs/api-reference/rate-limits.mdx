@@ -56,7 +56,7 @@ Separately from the request limits, polls created through the API count against 
 - The quota resets at the start of each calendar month in UTC.
 - Only successful `POST /polls` requests count. A request that fails validation is not counted.
 - Deleting a poll does not give its slot back.
-- Polls created in Rallly itself never count.
+- Polls created in Kinpal itself never count.
 - The space owner is emailed when the space reaches 80% of its quota, and again when it reaches 100%.
 
 Every `POST /polls` response that passes authentication and the request limits carries three headers:
@@ -81,7 +81,7 @@ X-Poll-Quota-Reset: 2027-01-01T00:00:00.000Z
 {
   "error": {
     "code": "POLL_QUOTA_EXCEEDED",
-    "message": "This space has reached its monthly API poll quota. It resets at 2027-01-01T00:00:00.000Z. To raise it, add API capacity at https://app.rallly.co/settings/api-keys."
+    "message": "This space has reached its monthly API poll quota. It resets at 2027-01-01T00:00:00.000Z. To raise it, add API capacity at https://app.kinpal.com/settings/api-keys."
   }
 }
 ```

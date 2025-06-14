@@ -8,11 +8,11 @@ excerpt: >-
   omedelbart.
 ---
 
-**Det här meddelandet gäller endast Rallly-installationer med egen drift.** Om du använder Rallyys hostade tjänst på [rallly.co](https://rallly.co) behöver du inte göra någonting. Servrarna säkerhetsuppdaterades inom några timmar efter att CVE:erna offentliggjordes, och inget intrång skedde under den tiden.
+**Det här meddelandet gäller endast Kinpal-installationer med egen drift.** Om du använder Rallyys hostade tjänst på [kinpal.com](https://kinpal.com) behöver du inte göra någonting. Servrarna säkerhetsuppdaterades inom några timmar efter att CVE:erna offentliggjordes, och inget intrång skedde under den tiden.
 
 ---
 
-En kritisk säkerhetssårbarhet har upptäckts i React Server Components som påverkar Rallly. På installationer som inte har uppdaterats kan sårbarheten göra det möjligt för en angripare att köra kod på distans på din server. Om din instans är åtkomlig från internet och du inte kör den senaste versionen är **din server utsatt för en betydande risk**.
+En kritisk säkerhetssårbarhet har upptäckts i React Server Components som påverkar Kinpal. På installationer som inte har uppdaterats kan sårbarheten göra det möjligt för en angripare att köra kod på distans på din server. Om din instans är åtkomlig från internet och du inte kör den senaste versionen är **din server utsatt för en betydande risk**.
 
 Den här sårbarheten, [CVE-2025-55182](https://www.cve.org/CVERecord?id=CVE-2025-55182) (även kallad [React2Shell](https://react2shell.com/)), påverkar många program som bygger på React 19. Det har redan rapporterats om verkliga intrång där angripare installerat skadlig programvara på utsatta servrar.
 
@@ -30,9 +30,9 @@ React-teamet upptäckte senare att åtgärden för CVE-2025-55184 var ofullstän
 
 ## Åtgärd krävs
 
-Om du kör Rallly med egen drift ska du omedelbart vidta följande åtgärder:
+Om du kör Kinpal med egen drift ska du omedelbart vidta följande åtgärder:
 
-- **Uppdatera** Rallly till den senaste versionen (v4.5.11 eller senare) för att skyddas mot alla fyra CVE:er. Mer information finns i [versionsinformationen](https://github.com/lukevella/rallly/releases/tag/v4.5.11).
+- **Uppdatera** Kinpal till den senaste versionen (v4.5.11 eller senare) för att skyddas mot alla fyra CVE:er. Mer information finns i [versionsinformationen](https://github.com/lukevella/rallly/releases/tag/v4.5.11).
 - Om du använder v4.5.10 måste du uppdatera till v4.5.11 eftersom den tidigare åtgärden var ofullständig.
 - Om du använder v4.5.8 (som gav fullt skydd mot React2Shell) måste du uppdatera till v4.5.11 för att skyddas mot alla sårbarheter.
 - Om du använder v4.5.7 bör du uppdatera till v4.5.11 eftersom v4.5.7 kanske inte gav fullt skydd mot React2Shell.
@@ -40,7 +40,7 @@ Om du kör Rallly med egen drift ska du omedelbart vidta följande åtgärder:
 - **Starta om** alla tjänster och bygg om eller hämta den senaste avbildningen om du använder Docker.
 - **Om du inte kan uppdatera direkt**, begränsa tillfälligt åtkomsten (VPN/autentiseringsproxy) tills uppdateringen är installerad.
 
-När du har uppdaterat ska du kontrollera att din instans rapporterar den senaste Rallly-versionen och granska loggarna efter eventuella varningar. Kontrollera versionen genom att besöka: `<your‑rallly‑instance>/api/status`.
+När du har uppdaterat ska du kontrollera att din instans rapporterar den senaste Kinpal-versionen och granska loggarna efter eventuella varningar. Kontrollera versionen genom att besöka: `<your‑rallly‑instance>/api/status`.
 
 ## Ytterligare information
 

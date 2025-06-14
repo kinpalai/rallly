@@ -7,7 +7,7 @@ excerpt: >-
   javítására összpontosít.
 ---
 
-Tudtad, hogy a Rallly-felhasználók több mint fele mobileszközről használja az alkalmazást?
+Tudtad, hogy a Kinpal-felhasználók több mint fele mobileszközről használja az alkalmazást?
 
 ![Eszközadatok](/static/images/device-data.png)
 

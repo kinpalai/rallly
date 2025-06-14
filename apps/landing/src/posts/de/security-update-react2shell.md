@@ -8,11 +8,11 @@ excerpt: >-
   sofort aktualisieren.
 ---
 
-**Diese Ankündigung ist nur für selbst gehostete Rallly-Installationen relevant.** Wenn du den gehosteten Dienst von Rallly unter [rallly.co](https://rallly.co) verwendest, musst du nichts unternehmen. Die Server wurden innerhalb weniger Stunden nach Bekanntgabe der CVEs gepatcht, und in dieser Zeit kam es zu keinem Sicherheitsvorfall.
+**Diese Ankündigung ist nur für selbst gehostete Kinpal-Installationen relevant.** Wenn du den gehosteten Dienst von Kinpal unter [kinpal.com](https://kinpal.com) verwendest, musst du nichts unternehmen. Die Server wurden innerhalb weniger Stunden nach Bekanntgabe der CVEs gepatcht, und in dieser Zeit kam es zu keinem Sicherheitsvorfall.
 
 ---
 
-In React Server Components wurde eine kritische Sicherheitslücke entdeckt, die Rallly betrifft. Auf ungepatchten Installationen könnte diese Sicherheitslücke einem Angreifer ermöglichen, Code aus der Ferne auf deinem Server auszuführen. Wenn deine Instanz aus dem Internet erreichbar ist und du nicht die neueste Version verwendest, **ist dein Server erheblich gefährdet**.
+In React Server Components wurde eine kritische Sicherheitslücke entdeckt, die Kinpal betrifft. Auf ungepatchten Installationen könnte diese Sicherheitslücke einem Angreifer ermöglichen, Code aus der Ferne auf deinem Server auszuführen. Wenn deine Instanz aus dem Internet erreichbar ist und du nicht die neueste Version verwendest, **ist dein Server erheblich gefährdet**.
 
 Diese Sicherheitslücke, [CVE-2025-55182](https://www.cve.org/CVERecord?id=CVE-2025-55182) (auch bekannt als [React2Shell](https://react2shell.com/)), betrifft viele Anwendungen, die mit React 19 erstellt wurden. Es gibt bereits Berichte über Sicherheitsvorfälle in der Praxis, bei denen Angreifer Schadsoftware auf kompromittierten Servern installiert haben.
 
@@ -30,9 +30,9 @@ Das React-Team stellte später fest, dass die Behebung von CVE-2025-55184 unvoll
 
 ## Erforderliche Maßnahmen
 
-Wenn du Rallly selbst hostest, führe bitte sofort die folgenden Schritte durch:
+Wenn du Kinpal selbst hostest, führe bitte sofort die folgenden Schritte durch:
 
-- **Aktualisiere** Rallly auf die neueste Version (v4.5.11 oder höher), um gegen alle vier CVEs geschützt zu sein. Einzelheiten findest du in den [Versionshinweisen](https://github.com/lukevella/rallly/releases/tag/v4.5.11).
+- **Aktualisiere** Kinpal auf die neueste Version (v4.5.11 oder höher), um gegen alle vier CVEs geschützt zu sein. Einzelheiten findest du in den [Versionshinweisen](https://github.com/lukevella/rallly/releases/tag/v4.5.11).
 - Wenn du v4.5.10 verwendest, musst du auf v4.5.11 aktualisieren, da die vorherige Behebung unvollständig war.
 - Wenn du v4.5.8 verwendest (diese Version war vollständig gegen React2Shell geschützt), musst du auf v4.5.11 aktualisieren, um gegen alle Sicherheitslücken geschützt zu sein.
 - Wenn du v4.5.7 verwendest, solltest du auf v4.5.11 aktualisieren, da v4.5.7 möglicherweise keinen vollständigen Schutz gegen React2Shell bot.
@@ -40,7 +40,7 @@ Wenn du Rallly selbst hostest, führe bitte sofort die folgenden Schritte durch:
 - **Starte** alle Dienste neu und erstelle bei Verwendung von Docker das neueste Image neu bzw. lade es herunter.
 - **Wenn du nicht sofort aktualisieren kannst**, beschränke den Zugriff vorübergehend (VPN/Auth-Proxy), bis die Patches installiert sind.
 
-Überprüfe nach der Aktualisierung, dass deine Instanz die neueste Rallly-Version meldet, und sieh die Protokolle auf Warnungen durch. Um die Version zu überprüfen, rufe folgende Adresse auf: `<your‑rallly‑instance>/api/status`.
+Überprüfe nach der Aktualisierung, dass deine Instanz die neueste Kinpal-Version meldet, und sieh die Protokolle auf Warnungen durch. Um die Version zu überprüfen, rufe folgende Adresse auf: `<your‑rallly‑instance>/api/status`.
 
 ## Weitere Informationen
 

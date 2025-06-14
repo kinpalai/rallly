@@ -7,7 +7,7 @@ excerpt: >-
   enheter.
 ---
 
-Visste du att över hälften av alla Rallly-användare använder mobila enheter?
+Visste du att över hälften av alla Kinpal-användare använder mobila enheter?
 
 ![Enhetsdata](/static/images/device-data.png)
 

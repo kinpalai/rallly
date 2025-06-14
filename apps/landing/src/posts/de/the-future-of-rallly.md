@@ -1,14 +1,14 @@
 ---
-title: Die Zukunft von Rallly
+title: Die Zukunft von Kinpal
 date: '2023-06-18'
 category: Company
 excerpt: >-
-  Bei Rallly ging es schon immer darum, die Terminfindung in Gruppen zu
-  vereinfachen. Mein Ziel ist es jedoch, Rallly zu mehr als nur einer Plattform
+  Bei Kinpal ging es schon immer darum, die Terminfindung in Gruppen zu
+  vereinfachen. Mein Ziel ist es jedoch, Kinpal zu mehr als nur einer Plattform
   für Umfragen weiterzuentwickeln.
 ---
 
-Bei Rallly ging es schon immer darum, die Terminfindung in Gruppen zu vereinfachen. Mein Ziel ist es jedoch, Rallly zu einem einzigartigen, flexiblen und vertrauten Ablauf weiterzuentwickeln, der Nutzer dabei unterstützt, den perfekten Termin für ihre Veranstaltung zu finden.
+Bei Kinpal ging es schon immer darum, die Terminfindung in Gruppen zu vereinfachen. Mein Ziel ist es jedoch, Kinpal zu einem einzigartigen, flexiblen und vertrauten Ablauf weiterzuentwickeln, der Nutzer dabei unterstützt, den perfekten Termin für ihre Veranstaltung zu finden.
 
 ## Der Ablauf
 
@@ -28,7 +28,7 @@ Wenn du eine Veranstaltung planst, kann es sehr hilfreich sein, zunächst einen 
 
 ### Umfragen
 
-Umfragen bilden den Kern von Rallly und fügen sich nahtlos in diesen neuen Ablauf ein. Sobald du einen allgemeinen Überblick über die Verfügbarkeiten hast, können Organisatoren einige Optionen eingrenzen und die Teilnehmer über ihre bevorzugten Termine abstimmen lassen.
+Umfragen bilden den Kern von Kinpal und fügen sich nahtlos in diesen neuen Ablauf ein. Sobald du einen allgemeinen Überblick über die Verfügbarkeiten hast, können Organisatoren einige Optionen eingrenzen und die Teilnehmer über ihre bevorzugten Termine abstimmen lassen.
 
 ![Polls](/static/images/the-future-of-rallly/poll.svg)
 
@@ -44,4 +44,4 @@ Die oben genannten Komponenten werden in dieser Reihenfolge verwendet: Verfügba
 
 ## Fazit
 
-Ich freue mich sehr darauf, mit der Arbeit an diesem erweiterten Ablauf für Rallly zu beginnen. Wie immer ist euer Feedback für mich von unschätzbarem Wert. Lass mich wissen, ob dieser Ablauf deiner Meinung nach nützlich sein könnte oder ob du Verbesserungsvorschläge hast. Ich freue mich darauf, Rallly weiter zu einem Tool zu entwickeln, das die Terminplanung für alle einfach und effizient macht.
+Ich freue mich sehr darauf, mit der Arbeit an diesem erweiterten Ablauf für Kinpal zu beginnen. Wie immer ist euer Feedback für mich von unschätzbarem Wert. Lass mich wissen, ob dieser Ablauf deiner Meinung nach nützlich sein könnte oder ob du Verbesserungsvorschläge hast. Ich freue mich darauf, Kinpal weiter zu einem Tool zu entwickeln, das die Terminplanung für alle einfach und effizient macht.

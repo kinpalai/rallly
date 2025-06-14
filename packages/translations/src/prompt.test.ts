@@ -14,7 +14,7 @@ import {
 } from "./prompt.ts";
 
 const glossary: Glossary = {
-  doNotTranslate: ["Rallly", "Zoom"],
+  doNotTranslate: ["Kinpal", "Zoom"],
   terms: [
     {
       en: "Poll",
@@ -77,7 +77,7 @@ describe("buildSystem", () => {
 
   it("lists the do-not-translate terms", () => {
     const s = buildSystem({ locale: "de", glossary, reference: {} });
-    expect(s).toContain("Rallly, Zoom");
+    expect(s).toContain("Kinpal, Zoom");
   });
 
   it("states that select keys are never translated and plurals include other", () => {
@@ -129,7 +129,7 @@ describe("buildSystem", () => {
     });
     const order = [
       "You are a professional translator",
-      "## About Rallly",
+      "## About Kinpal",
       "## Rules",
       "## Glossary",
       "## Existing translations",
@@ -192,7 +192,7 @@ describe("loadGlossary", () => {
   it("loads the committed glossary", () => {
     const repoRoot = join(import.meta.dirname, "..", "..", "..");
     const committed = loadGlossary({ repoRoot });
-    expect(committed.doNotTranslate).toContain("Rallly");
+    expect(committed.doNotTranslate).toContain("Kinpal");
     expect(committed.doNotTranslate).toContain("Pro");
     expect(committed.terms.map((term) => term.en)).not.toContain("Pro");
   });
@@ -312,13 +312,13 @@ describe("buildSystem reference sampling", () => {
 describe("buildPostSystem", () => {
   const s = buildPostSystem({ locale: "de", glossary });
   it("names the language and locale", () => expect(s).toContain("German (de)"));
-  it("describes the product", () => expect(s).toContain("## About Rallly"));
+  it("describes the product", () => expect(s).toContain("## About Kinpal"));
   it("includes only this locale's glossary translations", () => {
     expect(s).toContain("Umfrage");
     expect(s).not.toContain("Sondage");
   });
   it("lists the protected terms", () =>
-    expect(s).toContain("Never translate these terms: Rallly, Zoom"));
+    expect(s).toContain("Never translate these terms: Kinpal, Zoom"));
   it("leaves out the interface-only brevity bullet", () =>
     expect(s).not.toContain("Keep translations about as concise"));
   it.each([

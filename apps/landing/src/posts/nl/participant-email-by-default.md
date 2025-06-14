@@ -12,18 +12,18 @@ Nieuwe polls vragen deelnemers nu om een e-mailadres in te vullen wanneer ze ant
 
 ## Waarom
 
-Wanneer je [een poll afrondt](/blog/finalizing-polls-is-now-free), stuurt Rallly een agenda-uitnodiging naar iedereen die een e-mailadres heeft achtergelaten. Tot nu toe was het achterlaten van een e-mailadres optioneel, tenzij je Pro gebruikte en **E-mailadres verplicht** had ingeschakeld voordat je de poll deelde. De meeste mensen deden dat nooit. Daardoor eindigden polls vaak met een paar deelnemers die niet op de hoogte konden worden gebracht — en tegen de tijd dat je dat merkte, was het te laat om er nog om te vragen.
+Wanneer je [een poll afrondt](/blog/finalizing-polls-is-now-free), stuurt Kinpal een agenda-uitnodiging naar iedereen die een e-mailadres heeft achtergelaten. Tot nu toe was het achterlaten van een e-mailadres optioneel, tenzij je Pro gebruikte en **E-mailadres verplicht** had ingeschakeld voordat je de poll deelde. De meeste mensen deden dat nooit. Daardoor eindigden polls vaak met een paar deelnemers die niet op de hoogte konden worden gebracht — en tegen de tijd dat je dat merkte, was het te laat om er nog om te vragen.
 
 Deelnemers lopen ook iets mis. Zonder e-mailadres is er geen link om naar terug te keren. Om een antwoord te wijzigen, moeten ze het oorspronkelijke apparaat en de oorspronkelijke browser terugvinden of de organisator vragen het voor hen te doen.
 
 ## Wat er verandert
 
-- **E-mailadres verplicht** staat standaard ingeschakeld voor nieuwe polls die je in Rallly maakt, ongeacht je abonnement. Voor polls die via de API worden aangemaakt, blijft de huidige standaardinstelling gelden.
+- **E-mailadres verplicht** staat standaard ingeschakeld voor nieuwe polls die je in Kinpal maakt, ongeacht je abonnement. Voor polls die via de API worden aangemaakt, blijft de huidige standaardinstelling gelden.
 - Deelnemers kunnen naast het e-mailveld op **Waarom?** klikken om te zien wat het voordeel is van het achterlaten van een e-mailadres.
 - Bestaande polls behouden hun huidige instelling.
 
 Als je liever wilt dat mensen alleen met hun naam kunnen antwoorden, bijvoorbeeld voor een snelle poll in een groepschat, schakel je **E-mailadres verplicht** uit onder **Instellingen** wanneer je de poll maakt of bewerkt.
 
-Als je feedback hebt, hoor ik die graag via [feedback@rallly.co](mailto:feedback@rallly.co).
+Als je feedback hebt, hoor ik die graag via [feedback@kinpal.com](mailto:feedback@kinpal.com).
 
 Veel plezier met plannen :)

@@ -7,7 +7,7 @@ excerpt: >-
   legyen az elérhetőséged kiválasztása.
 ---
 
-A Rallly-szavazásokra válaszolók többsége telefonról teszi ezt, gyakran a meghívólink megérkezése után néhány percen belül. Ez a pillanat a termék lényege, ezért amikor azt halljuk, hogy zavart okoz, odafigyelünk rá.
+A Kinpal-szavazásokra válaszolók többsége telefonról teszi ezt, gyakran a meghívólink megérkezése után néhány percen belül. Ez a pillanat a termék lényege, ezért amikor azt halljuk, hogy zavart okoz, odafigyelünk rá.
 
 És hallottuk is. Néhányan jeleztétek, hogy a régi szavazási felület nem volt elég egyértelmű. Az egyes időpontok melletti kis „?” gombot könnyű volt nem észrevenni, néhány résztvevő pedig a Folytatás gombra koppintott, mert arra számított, hogy a következő oldalon választhatja ki az időpontokat, és csak ott derült ki, hogy véletlenül mindenre „nem” választ adott.
 
@@ -33,4 +33,4 @@ Az új vezérlők megfelelnek az Apple által ajánlott érintési célméretekn
 
 A meglévő szavazásaid és válaszaid semmit sem változtak. Ez egyszerűen ugyanannak a folyamatnak egy jobb módja.
 
-Ahogy mindig, most is szólj [nekünk](mailto:support@rallly.co), ha valami nem működik megfelelően, vagy van egy ötleted, amivel még gördülékenyebbé tehetnénk a szavazást. Ez a frissítés is a hozzád hasonló felhasználók visszajelzéseivel kezdődött.
+Ahogy mindig, most is szólj [nekünk](mailto:support@kinpal.com), ha valami nem működik megfelelően, vagy van egy ötleted, amivel még gördülékenyebbé tehetnénk a szavazást. Ez a frissítés is a hozzád hasonló felhasználók visszajelzéseivel kezdődött.

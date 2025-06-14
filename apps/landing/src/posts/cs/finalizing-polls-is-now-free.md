@@ -7,7 +7,7 @@ excerpt: >-
   tarifu. Tady se dozvíte, co se mění a proč.
 ---
 
-Když jsem spustil [Rallly Pro](/blog/introducing-rallly-pro), bylo dokončení ankety hlavní funkcí. Vyberete datum, rozešlete pozvánky do kalendáře a je hotovo. Teď je tato funkce zdarma pro všechny.
+Když jsem spustil [Kinpal Pro](/blog/introducing-rallly-pro), bylo dokončení ankety hlavní funkcí. Vyberete datum, rozešlete pozvánky do kalendáře a je hotovo. Teď je tato funkce zdarma pro všechny.
 
 ## Dokončení v každém tarifu
 
@@ -25,9 +25,9 @@ Všem vybraným přijde e-mail s pozvánkou do kalendáře. Pokud jste do ankety
 
 ## Proč tuto změnu dělám
 
-Letos jsem strávil spoustu času přemýšlením o tom, jak by měl vypadat férový cenový model pro Rallly. Chci, aby Rallly zůstal skutečně užitečný i zdarma, protože tak ho většina lidí objeví a začne se šířit. Někdo zorganizuje večeři, jeho přátelé zahlasují a někteří z nich ho pak začnou používat pro své vlastní plány. Zároveň ale potřebuji, aby byl Rallly udržitelný, abych na něm mohl dál pracovat a vydávat vylepšení.
+Letos jsem strávil spoustu času přemýšlením o tom, jak by měl vypadat férový cenový model pro Kinpal. Chci, aby Kinpal zůstal skutečně užitečný i zdarma, protože tak ho většina lidí objeví a začne se šířit. Někdo zorganizuje večeři, jeho přátelé zahlasují a někteří z nich ho pak začnou používat pro své vlastní plány. Zároveň ale potřebuji, aby byl Kinpal udržitelný, abych na něm mohl dál pracovat a vydávat vylepšení.
 
-Nikdy mi nepřišlo správné účtovat si za dokončení ankety. Je to krok, který z ankety udělá skutečnou událost, a bez něj bezplatný tarif přestal svou práci těsně před cílem. Rallly nejvíce využívají lidé, kteří jeho prostřednictvím plánují hodně schůzek, často v rámci práce, takže hranici bych raději stanovil právě tam.
+Nikdy mi nepřišlo správné účtovat si za dokončení ankety. Je to krok, který z ankety udělá skutečnou událost, a bez něj bezplatný tarif přestal svou práci těsně před cílem. Kinpal nejvíce využívají lidé, kteří jeho prostřednictvím plánují hodně schůzek, často v rámci práce, takže hranici bych raději stanovil právě tam.
 
 ## Limity otevřených anket
 
@@ -35,13 +35,13 @@ Odteď se tarify liší tím, kolik anket můžete mít současně otevřených.
 
 Anket můžete stále vytvářet, kolik chcete, a neexistuje žádný limit počtu účastníků ani možností. Anketa se přestane započítávat, jakmile ji dokončíte nebo zavřete, a po uplynutí uvedených dat se zavře sama. Pokud organizujete jen občasnou týmovou schůzku nebo setkání, nejspíš si toho nikdy nevšimnete.
 
-Pokud máte otevřených několik anket najednou, Pro limit odstraní a nabídne vám i vše ostatní, co Pro poskytuje, například e-mailové pozvánky a vlastní branding. Každé předplatné se přímo vrací do vývoje Rallly.
+Pokud máte otevřených několik anket najednou, Pro limit odstraní a nabídne vám i vše ostatní, co Pro poskytuje, například e-mailové pozvánky a vlastní branding. Každé předplatné se přímo vrací do vývoje Kinpal.
 
 ## Co bude dál
 
-Je to součást většího úsilí udělat Rallly lepším pro všechny, ať už platíte, nebo ne. Dlouhodobým cílem je bezplatný tarif, ve kterém si můžete vyzkoušet vše, co Rallly nabízí, a Pro pro chvíle, kdy plánujete schůzky v takovém objemu, že už dává smysl.
+Je to součást většího úsilí udělat Kinpal lepším pro všechny, ať už platíte, nebo ne. Dlouhodobým cílem je bezplatný tarif, ve kterém si můžete vyzkoušet vše, co Kinpal nabízí, a Pro pro chvíle, kdy plánujete schůzky v takovém objemu, že už dává smysl.
 
-Budu pozorně sledovat, jak tyto změny dopadnou, a pokud něco nebude fungovat, upravím je. Jestli vás limit omezuje nebo máte nápady, jak by mělo fungovat účtování, budu rád, když se mi ozvete na [feedback@rallly.co](mailto:feedback@rallly.co).
+Budu pozorně sledovat, jak tyto změny dopadnou, a pokud něco nebude fungovat, upravím je. Jestli vás limit omezuje nebo máte nápady, jak by mělo fungovat účtování, budu rád, když se mi ozvete na [feedback@kinpal.com](mailto:feedback@kinpal.com).
 
 Děkuji za vaši trvalou podporu.
 

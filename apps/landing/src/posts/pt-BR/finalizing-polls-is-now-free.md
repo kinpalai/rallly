@@ -7,7 +7,7 @@ excerpt: >-
   todos em qualquer plano. Veja o que mudou e por quê.
 ---
 
-Quando lancei o [Rallly Pro](/blog/introducing-rallly-pro), finalizar uma enquete era o principal recurso. Escolha uma data, envie os convites de calendário e pronto. Agora isso é grátis para todos.
+Quando lancei o [Kinpal Pro](/blog/introducing-rallly-pro), finalizar uma enquete era o principal recurso. Escolha uma data, envie os convites de calendário e pronto. Agora isso é grátis para todos.
 
 ## Finalize em qualquer plano
 
@@ -25,9 +25,9 @@ Todas as pessoas selecionadas recebem um e-mail com um convite de calendário. S
 
 ## Por que estou fazendo essa mudança
 
-Passei bastante tempo este ano pensando em como seria um modelo de preços justo para o Rallly. Quero que o Rallly continue sendo realmente útil de graça, porque é assim que a maioria das pessoas o conhece e é assim que ele se espalha. Alguém organiza um jantar, os amigos votam e alguns deles passam a usá-lo nos próprios planos. Mas também preciso que o Rallly seja sustentável para que eu possa continuar trabalhando nele e lançando melhorias.
+Passei bastante tempo este ano pensando em como seria um modelo de preços justo para o Kinpal. Quero que o Kinpal continue sendo realmente útil de graça, porque é assim que a maioria das pessoas o conhece e é assim que ele se espalha. Alguém organiza um jantar, os amigos votam e alguns deles passam a usá-lo nos próprios planos. Mas também preciso que o Kinpal seja sustentável para que eu possa continuar trabalhando nele e lançando melhorias.
 
-Nunca achei que finalizar fosse algo certo de cobrar. Essa é a etapa que transforma uma enquete em um evento de verdade e, sem ela, o plano gratuito ficava a um passo de cumprir seu objetivo. Quem mais aproveita o Rallly são as pessoas que o usam para agendar muitas coisas, geralmente como parte do trabalho, então é aí que prefiro estabelecer o limite.
+Nunca achei que finalizar fosse algo certo de cobrar. Essa é a etapa que transforma uma enquete em um evento de verdade e, sem ela, o plano gratuito ficava a um passo de cumprir seu objetivo. Quem mais aproveita o Kinpal são as pessoas que o usam para agendar muitas coisas, geralmente como parte do trabalho, então é aí que prefiro estabelecer o limite.
 
 ## Limites de enquetes abertas
 
@@ -35,13 +35,13 @@ A partir de agora, o que diferencia os planos é quantas enquetes você pode man
 
 Você ainda pode criar quantas enquetes quiser, sem limite de participantes ou opções. Uma enquete deixa de contar assim que você a finaliza ou encerra, e as enquetes são encerradas automaticamente quando suas datas passam. Se você organiza uma reunião de equipe ou um encontro de vez em quando, provavelmente nem vai perceber.
 
-Se você estiver organizando várias enquetes ao mesmo tempo, o Pro elimina o limite e oferece tudo o que o Pro tem a oferecer, como convites por e-mail e personalização da marca. Cada assinatura é investida diretamente na construção do Rallly.
+Se você estiver organizando várias enquetes ao mesmo tempo, o Pro elimina o limite e oferece tudo o que o Pro tem a oferecer, como convites por e-mail e personalização da marca. Cada assinatura é investida diretamente na construção do Kinpal.
 
 ## O que vem a seguir
 
-Isso faz parte de um esforço maior para tornar o Rallly melhor para todos, pagando ou não. O objetivo a longo prazo é ter um plano gratuito em que você possa experimentar tudo o que o Rallly oferece, com o Pro para quando você estiver agendando em um volume que justifique a assinatura.
+Isso faz parte de um esforço maior para tornar o Kinpal melhor para todos, pagando ou não. O objetivo a longo prazo é ter um plano gratuito em que você possa experimentar tudo o que o Kinpal oferece, com o Pro para quando você estiver agendando em um volume que justifique a assinatura.
 
-Vou acompanhar de perto como essas mudanças serão recebidas e ajustá-las se algo não estiver funcionando. Se o limite estiver atrapalhando você ou se tiver opiniões sobre como os preços deveriam funcionar, eu adoraria ouvir você pelo e-mail [feedback@rallly.co](mailto:feedback@rallly.co).
+Vou acompanhar de perto como essas mudanças serão recebidas e ajustá-las se algo não estiver funcionando. Se o limite estiver atrapalhando você ou se tiver opiniões sobre como os preços deveriam funcionar, eu adoraria ouvir você pelo e-mail [feedback@kinpal.com](mailto:feedback@kinpal.com).
 
 Obrigado pelo seu apoio contínuo.
 

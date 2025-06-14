@@ -39,23 +39,23 @@ A lehetőségeket inkább több különböző napra oszd el, mintsem néhány na
 
 ## A szavazás beállítása
 
-Bármelyik időpont-egyeztető szavazás megfelel. Az alábbi lépések a [Rallly](/scheduling-for/thesis-defense) használatát mutatják be, amely ingyenes, és nem kéri a bizottság tagjaitól, hogy fiókot hozzanak létre.
+Bármelyik időpont-egyeztető szavazás megfelel. Az alábbi lépések a [Kinpal](/scheduling-for/thesis-defense) használatát mutatják be, amely ingyenes, és nem kéri a bizottság tagjaitól, hogy fiókot hozzanak létre.
 
-1. Jelentkezz be a Ralllyba, majd nyisd meg a [Szavazás létrehozása](https://app.rallly.co/new) oldalt. Egy ingyenes fiók elegendő, de az időpont véglegesítéséhez szükséged lesz rá.
+1. Jelentkezz be a Kinpalba, majd nyisd meg a [Szavazás létrehozása](https://app.kinpal.com/new) oldalt. Egy ingyenes fiók elegendő, de az időpont véglegesítéséhez szükséged lesz rá.
 2. Adj meg egy címet, például: „Doktori védés, biológia, április”. Aki rendelkezik a linkkel, láthatja a címet és a leírást, ezért a még nem nyilvános dolgozatcímeket hagyd ki.
-3. Kattints a **Helyszín hozzáadása** lehetőségre, vagy a **Videóhívás hozzáadása** gombra, hogy a Rallly a véglegesítéskor létrehozzon egy Google Meet-, Zoom-, Microsoft Teams- vagy Webex-linket. Előbb a **Beállítások** alatt össze kell kapcsolnod az adott szolgáltatást.
-4. Kattints a **Leírás hozzáadása** lehetőségre, és írd le, meddig tart az esemény, valamint azt, meddig lehet válaszolni. A Rallly nem kényszeríti ki ezt a határidőt, ezért neked kell figyelned a válaszokra.
+3. Kattints a **Helyszín hozzáadása** lehetőségre, vagy a **Videóhívás hozzáadása** gombra, hogy a Kinpal a véglegesítéskor létrehozzon egy Google Meet-, Zoom-, Microsoft Teams- vagy Webex-linket. Előbb a **Beállítások** alatt össze kell kapcsolnod az adott szolgáltatást.
+4. Kattints a **Leírás hozzáadása** lehetőségre, és írd le, meddig tart az esemény, valamint azt, meddig lehet válaszolni. A Kinpal nem kényszeríti ki ezt a határidőt, ezért neked kell figyelned a válaszokra.
 5. Állítsd be az **Időtartamot**, majd válaszd ki a lehetőségeket a naptárban.
 6. Hagyd bekapcsolva az **E-mail megkövetelése** beállítást, hogy mindenki megkaphassa a naptármeghívót, és hagyd bekapcsolva a **Szavazási lehetőségek** között az Igen, Ha szükséges és Nem válaszokat.
 7. Kattints a **Szavazás létrehozása** gombra.
 
-![Az új szavazási űrlap a Ralllyban címmel, kétórás időtartammal és három kiválasztott időponttal](/static/images/thesis-defense/create-poll.png)
+![Az új szavazási űrlap a Kinpalban címmel, kétórás időtartammal és három kiválasztott időponttal](/static/images/thesis-defense/create-poll.png)
 
 ### Ha külső bírálód van
 
 A külső bírálóval gyakran a legnehezebb időpontot egyeztetni. Nem jelenik meg az egyetem naptárában, és lehet, hogy több időzónányi távolságra van.
 
-A Rallly mindenki számára a saját időzónájában jeleníti meg a lehetőségeket, így senkinek nem kell átszámolnia az időpontokat. Néhány lehetőséget a külső bíráló munkaidejére időzíts, és légy körültekintő az óraátállítás körüli hetekben, mivel az egyes országokban más-más napokon változik az idő. A linkről fiók nélkül is válaszolhat.
+A Kinpal mindenki számára a saját időzónájában jeleníti meg a lehetőségeket, így senkinek nem kell átszámolnia az időpontokat. Néhány lehetőséget a külső bíráló munkaidejére időzíts, és légy körültekintő az óraátállítás körüli hetekben, mivel az egyes országokban más-más napokon változik az idő. A linkről fiók nélkül is válaszolhat.
 
 ## Oszd meg, majd kövesd nyomon a válaszokat
 
@@ -69,7 +69,7 @@ Adj az embereknek egy hetet a válaszadásra, és három nap elteltével keresd 
 
 ## Az időpont véglegesítése
 
-Kattints a **Véglegesítés** gombra. A Rallly a lehetőségeket a legtöbb résztvevő által támogatottal kezdi. Válaszd ki az időpontot, majd jelöld ki, kit szeretnél értesíteni. Minden kijelölt személy e-mailben kapja meg a naptármeghívót, amely a videóhívás linkjét is tartalmazza, ha hozzáadtál ilyet. A termet ugyanazon a napon foglald le.
+Kattints a **Véglegesítés** gombra. A Kinpal a lehetőségeket a legtöbb résztvevő által támogatottal kezdi. Válaszd ki az időpontot, majd jelöld ki, kit szeretnél értesíteni. Minden kijelölt személy e-mailben kapja meg a naptármeghívót, amely a videóhívás linkjét is tartalmazza, ha hozzáadtál ilyet. A termet ugyanazon a napon foglald le.
 
 ![A Véglegesítés párbeszédablaka, amely az egyes lehetőségeket a részt venni tudó személyek száma alapján sorolja fel](/static/images/thesis-defense/finalize.png)
 
@@ -92,8 +92,8 @@ Négy ember három napon belül válaszol, ezért e-mailt küld az ötödiknek. 
 <PostFaq>
   <FaqItem question="Mennyivel korábban érdemes beütemezni a szakdolgozatvédést?">A szavazást legalább négy héttel a legkorábbi lehetséges időpont előtt küldd el, nagy bizottság esetén pedig még korábban. A programod előírt értesítési határidejei ennél több időt is szükségessé tehetnek.</FaqItem>
   <FaqItem question="Hány időpontot ajánljak fel?">5 és 10 között, több különböző napra elosztva. Ha egyik sem megfelelő, később továbbiakat is hozzáadhatsz.</FaqItem>
-  <FaqItem question="Mit tegyek, ha a bizottság egyik tagja nem válaszol?">Három nap elteltével keresd meg közvetlenül. Ha e-mailes meghívókat használsz, amelyek a Rallly Pro részei, láthatod, ki nyitotta meg a szavazást, és ki válaszolt.</FaqItem>
-  <FaqItem question="Szükségük van a bizottság tagjainak Rallly-fiókra?">Nem. Megnyitják a linket, megadják a nevüket és az e-mail-címüket, majd kiválasztják a számukra megfelelő időpontokat.</FaqItem>
+  <FaqItem question="Mit tegyek, ha a bizottság egyik tagja nem válaszol?">Három nap elteltével keresd meg közvetlenül. Ha e-mailes meghívókat használsz, amelyek a Kinpal Pro részei, láthatod, ki nyitotta meg a szavazást, és ki válaszolt.</FaqItem>
+  <FaqItem question="Szükségük van a bizottság tagjainak Kinpal-fiókra?">Nem. Megnyitják a linket, megadják a nevüket és az e-mail-címüket, majd kiválasztják a számukra megfelelő időpontokat.</FaqItem>
   <FaqItem question="Beütemezheti-e a koordinátor a hallgató védését?">Igen. Hozd létre te a szavazást, és vedd fel a jelöltet is a válaszadók közé. A válaszok hozzád érkeznek, és te állítod be a végleges időpontot.</FaqItem>
-  <FaqItem question="Ingyenes ehhez a Rallly?">Igen. A szavazások létrehozása, a válaszok összegyűjtése és a véglegesítés ingyenes. Egy ingyenes fiókban egyszerre három szavazás lehet nyitva, a Rallly Pro pedig megszünteti ezt a korlátozást.</FaqItem>
+  <FaqItem question="Ingyenes ehhez a Kinpal?">Igen. A szavazások létrehozása, a válaszok összegyűjtése és a véglegesítés ingyenes. Egy ingyenes fiókban egyszerre három szavazás lehet nyitva, a Kinpal Pro pedig megszünteti ezt a korlátozást.</FaqItem>
 </PostFaq>

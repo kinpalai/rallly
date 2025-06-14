@@ -8,7 +8,7 @@ excerpt: >-
   et pourquoi.
 ---
 
-Quand j'ai lancé [Rallly Pro](/blog/introducing-rallly-pro), la finalisation d'un sondage était sa fonctionnalité phare. Choisissez une date, envoyez les invitations de calendrier, et c'est fait. C'est désormais gratuit pour tout le monde.
+Quand j'ai lancé [Kinpal Pro](/blog/introducing-rallly-pro), la finalisation d'un sondage était sa fonctionnalité phare. Choisissez une date, envoyez les invitations de calendrier, et c'est fait. C'est désormais gratuit pour tout le monde.
 
 ## Finaliser avec tous les forfaits
 
@@ -26,9 +26,9 @@ Toutes les personnes sélectionnées reçoivent un e-mail avec une invitation de
 
 ## Pourquoi je fais ce changement
 
-Cette année, j'ai passé beaucoup de temps à réfléchir à ce que serait un modèle tarifaire équitable pour Rallly. Je veux que Rallly reste réellement utile gratuitement, car c'est ainsi que la plupart des gens le découvrent et qu'il se fait connaître. Quelqu'un organise un dîner, ses amis votent, et quelques-uns d'entre eux commencent ensuite à l'utiliser pour leurs propres projets. Mais Rallly doit aussi être viable pour que je puisse continuer à travailler dessus et à proposer des améliorations.
+Cette année, j'ai passé beaucoup de temps à réfléchir à ce que serait un modèle tarifaire équitable pour Kinpal. Je veux que Kinpal reste réellement utile gratuitement, car c'est ainsi que la plupart des gens le découvrent et qu'il se fait connaître. Quelqu'un organise un dîner, ses amis votent, et quelques-uns d'entre eux commencent ensuite à l'utiliser pour leurs propres projets. Mais Kinpal doit aussi être viable pour que je puisse continuer à travailler dessus et à proposer des améliorations.
 
-La finalisation ne m'a jamais semblé être la bonne fonctionnalité à faire payer. C'est l'étape qui transforme un sondage en véritable événement, et sans elle, le forfait gratuit s'arrêtait juste avant de remplir son rôle. Les personnes qui tirent le plus de profit de Rallly sont celles qui l'utilisent pour organiser beaucoup de rendez-vous, souvent dans le cadre de leur travail. C'est donc là que je préfère placer la limite.
+La finalisation ne m'a jamais semblé être la bonne fonctionnalité à faire payer. C'est l'étape qui transforme un sondage en véritable événement, et sans elle, le forfait gratuit s'arrêtait juste avant de remplir son rôle. Les personnes qui tirent le plus de profit de Kinpal sont celles qui l'utilisent pour organiser beaucoup de rendez-vous, souvent dans le cadre de leur travail. C'est donc là que je préfère placer la limite.
 
 ## Limites des sondages ouverts
 
@@ -36,13 +36,13 @@ Désormais, ce qui différencie les forfaits est le nombre de sondages que vous 
 
 Vous pouvez toujours créer autant de sondages que vous le souhaitez, sans limite concernant le nombre de participants ou d'options. Un sondage cesse d'être comptabilisé dès que vous le finalisez ou le fermez, et les sondages se ferment automatiquement une fois leurs dates passées. Si vous organisez de temps en temps une réunion d'équipe ou une rencontre, vous ne le remarquerez probablement jamais.
 
-Si vous gérez plusieurs sondages à la fois, Pro supprime cette limite et vous donne accès à tout ce que Pro a à offrir, comme les invitations par e-mail et la personnalisation de la marque. Chaque abonnement sert directement à développer Rallly.
+Si vous gérez plusieurs sondages à la fois, Pro supprime cette limite et vous donne accès à tout ce que Pro a à offrir, comme les invitations par e-mail et la personnalisation de la marque. Chaque abonnement sert directement à développer Kinpal.
 
 ## La suite
 
-Cela s'inscrit dans un effort plus large pour améliorer Rallly pour tout le monde, que vous payiez ou non. À plus long terme, l'objectif est de proposer un forfait gratuit qui vous permette d'essayer tout ce que Rallly a à offrir, avec Pro lorsque vous organiserez suffisamment de rendez-vous pour que cela en vaille la peine.
+Cela s'inscrit dans un effort plus large pour améliorer Kinpal pour tout le monde, que vous payiez ou non. À plus long terme, l'objectif est de proposer un forfait gratuit qui vous permette d'essayer tout ce que Kinpal a à offrir, avec Pro lorsque vous organiserez suffisamment de rendez-vous pour que cela en vaille la peine.
 
-Je suivrai attentivement la façon dont ces changements sont accueillis et je les ajusterai si quelque chose ne fonctionne pas. Si la limite vous gêne, ou si vous avez des idées sur la manière dont la tarification devrait fonctionner, j'aimerais vraiment vous entendre à l'adresse [feedback@rallly.co](mailto:feedback@rallly.co).
+Je suivrai attentivement la façon dont ces changements sont accueillis et je les ajusterai si quelque chose ne fonctionne pas. Si la limite vous gêne, ou si vous avez des idées sur la manière dont la tarification devrait fonctionner, j'aimerais vraiment vous entendre à l'adresse [feedback@kinpal.com](mailto:feedback@kinpal.com).
 
 Merci pour votre soutien continu.
 

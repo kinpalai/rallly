@@ -2,18 +2,18 @@
 title: Egen profilering for selvhostede installasjoner
 date: '2026-01-15'
 category: Self-hosting
-excerpt: 'Tilpass Rallly-installasjonen din med egen profilering, egne farger og logoer.'
+excerpt: 'Tilpass Kinpal-installasjonen din med egen profilering, egne farger og logoer.'
 ---
 
-Jeg er glad for å kunne kunngjøre at egen profilering nå er tilgjengelig for selvhostede Rallly-installasjoner.
+Jeg er glad for å kunne kunngjøre at egen profilering nå er tilgjengelig for selvhostede Kinpal-installasjoner.
 
-![Eksempel på egen profilering](https://support.rallly.co/images/self-hosting/whitelabel-splash.webp)
+![Eksempel på egen profilering](https://support.kinpal.com/images/self-hosting/whitelabel-splash.webp)
 
-Denne funksjonen ble utviklet etter en forespørsel fra en bedriftskunde som trengte at Rallly-installasjonen deres skulle integreres sømløst med den eksisterende merkevaren. Den er nå tilgjengelig som et valgfritt tillegg for alle som har en Enterprise-lisens.
+Denne funksjonen ble utviklet etter en forespørsel fra en bedriftskunde som trengte at Kinpal-installasjonen deres skulle integreres sømløst med den eksisterende merkevaren. Den er nå tilgjengelig som et valgfritt tillegg for alle som har en Enterprise-lisens.
 
-Hvis du har fulgt med, husker du kanskje at jeg nylig la til [støtte for mørk modus](/blog/introducing-dark-mode) og nevnte at mulighetene for tematilpasning var på vei. Egen profilering er resultatet av dette arbeidet. Du kan nå tilpasse navnet på installasjonen, primærfarger for både lys og mørk modus, logoer og fjerne all henvisning til Rallly.
+Hvis du har fulgt med, husker du kanskje at jeg nylig la til [støtte for mørk modus](/blog/introducing-dark-mode) og nevnte at mulighetene for tematilpasning var på vei. Egen profilering er resultatet av dette arbeidet. Du kan nå tilpasse navnet på installasjonen, primærfarger for både lys og mørk modus, logoer og fjerne all henvisning til Kinpal.
 
-Du finner tekniske detaljer og konfigurasjonsalternativer i [dokumentasjonen om egen profilering](https://support.rallly.co/self-hosting/white-labeling).
+Du finner tekniske detaljer og konfigurasjonsalternativer i [dokumentasjonen om egen profilering](https://support.kinpal.com/self-hosting/white-labeling).
 
 ## Hvorfor et Enterprise-tillegg?
 

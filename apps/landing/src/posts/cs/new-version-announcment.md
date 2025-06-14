@@ -1,15 +1,15 @@
 ---
-title: Představujeme Rallly 2.0
+title: Představujeme Kinpal 2.0
 date: '2022-04-08'
 category: Company
 tags:
   - announcement
 draft: false
-excerpt: Pohled na první velkou aktualizaci Rallly.
+excerpt: Pohled na první velkou aktualizaci Kinpal.
 ---
 
 Pokud vás zajímá, proč dnes všechno vypadá jinak, je to proto, že jsem právě vydal velkou aktualizaci. Na této aktualizaci se pracuje [už nějakou dobu](https://twitter.com/imlukevella/status/1288066459248349184),
-ale od začátku tohoto roku jsem se rozhodl věnovat Rallly více času. Díky tomu se mi podařilo dosáhnout tohoto milníku a snad budou v budoucnu následovat i další. Takže…
+ale od začátku tohoto roku jsem se rozhodl věnovat Kinpal více času. Díky tomu se mi podařilo dosáhnout tohoto milníku a snad budou v budoucnu následovat i další. Takže…
 
 ## Co se stane s anketami vytvořenými ve staré verzi?
 
@@ -19,7 +19,7 @@ Starou databázi plánuji přibližně za dva měsíce deaktivovat, takže do t�
 všechny ankety vytvořené ve staré verzi stále dostupné. Doufám, že to bude
 dostatek času na převedení všech aktivních anket.
 
-Pokud máte s přístupem ke své anketě nějaký problém, napište nám prostřednictvím chatu na webu nebo pošlete e-mail na [support@rallly.co](mailto:support@rallly.co).
+Pokud máte s přístupem ke své anketě nějaký problém, napište nám prostřednictvím chatu na webu nebo pošlete e-mail na [support@kinpal.com](mailto:support@kinpal.com).
 
 ## Co je nového?
 
@@ -42,7 +42,7 @@ odkaz pro účastníky, zabráníte jim v úpravách podrobností ankety.
 
 ### Kompaktní zobrazení pro mobilní zařízení
 
-Rallly je vždy přizpůsobené mobilním zařízením, nyní však nabízí ještě lépe optimalizované zobrazení pro menší obrazovky.
+Kinpal je vždy přizpůsobené mobilním zařízením, nyní však nabízí ještě lépe optimalizované zobrazení pro menší obrazovky.
 
 ![Ukázka na mobilu](/static/images/mobile-demo.gif)
 
@@ -66,7 +66,7 @@ Existuje několik důvodů, proč jsem se rozhodl tuto funkci vynechat:
    takže se podívám na změnu poskytovatele a možná použijeme vyhrazenou IP adresu, která by měla pomoci
    zlepšit doručitelnost našich e-mailů.
 
-2. **Náklady**&mdash;Odesílání těchto e-mailů není zdarma a uživatelská základna Rallly vyrostla natolik,
+2. **Náklady**&mdash;Odesílání těchto e-mailů není zdarma a uživatelská základna Kinpal vyrostla natolik,
    že náklady na tyto e-maily tvoří významnou část celkových provozních nákladů. Omezení počtu odesílaných e-mailů
    by pomohlo snížit tyto náklady na udržitelnější úroveň.
 

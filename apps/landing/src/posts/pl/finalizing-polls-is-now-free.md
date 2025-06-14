@@ -7,7 +7,7 @@ excerpt: >-
   kalendarza w każdym planie. Oto, co się zmienia i dlaczego.
 ---
 
-Kiedy uruchomiłem [Rallly Pro](/blog/introducing-rallly-pro), zatwierdzanie ankiety było najważniejszą funkcją. Wybierasz datę, wysyłasz zaproszenia do kalendarza i gotowe. Teraz jest to darmowe dla wszystkich.
+Kiedy uruchomiłem [Kinpal Pro](/blog/introducing-rallly-pro), zatwierdzanie ankiety było najważniejszą funkcją. Wybierasz datę, wysyłasz zaproszenia do kalendarza i gotowe. Teraz jest to darmowe dla wszystkich.
 
 ## Zatwierdzanie w każdym planie
 
@@ -25,9 +25,9 @@ Każda wybrana osoba otrzyma e-mail z zaproszeniem do kalendarza. Jeśli dodasz 
 
 ## Dlaczego wprowadzam tę zmianę
 
-W tym roku poświęciłem dużo czasu na zastanawianie się, jak powinien wyglądać uczciwy model cenowy Rallly. Chcę, aby Rallly pozostało naprawdę przydatne za darmo, ponieważ właśnie tak większość osób je poznaje i tak się ono rozpowszechnia. Ktoś organizuje kolację, jego znajomi głosują, a kilka z tych osób zaczyna później używać Rallly przy własnych planach. Jednocześnie Rallly musi być opłacalne, żebym mógł dalej nad nim pracować i wprowadzać ulepszenia.
+W tym roku poświęciłem dużo czasu na zastanawianie się, jak powinien wyglądać uczciwy model cenowy Kinpal. Chcę, aby Kinpal pozostało naprawdę przydatne za darmo, ponieważ właśnie tak większość osób je poznaje i tak się ono rozpowszechnia. Ktoś organizuje kolację, jego znajomi głosują, a kilka z tych osób zaczyna później używać Kinpal przy własnych planach. Jednocześnie Kinpal musi być opłacalne, żebym mógł dalej nad nim pracować i wprowadzać ulepszenia.
 
-Pobieranie opłat za zatwierdzanie nigdy nie wydawało mi się właściwe. To właśnie ten krok zmienia ankietę w prawdziwe wydarzenie, a bez niego darmowy plan kończył się tuż przed wykonaniem swojego zadania. Najwięcej korzyści z Rallly czerpią osoby, które często planują spotkania, zazwyczaj w ramach pracy — dlatego właśnie w tym miejscu wolę postawić granicę.
+Pobieranie opłat za zatwierdzanie nigdy nie wydawało mi się właściwe. To właśnie ten krok zmienia ankietę w prawdziwe wydarzenie, a bez niego darmowy plan kończył się tuż przed wykonaniem swojego zadania. Najwięcej korzyści z Kinpal czerpią osoby, które często planują spotkania, zazwyczaj w ramach pracy — dlatego właśnie w tym miejscu wolę postawić granicę.
 
 ## Limity otwartych ankiet
 
@@ -35,13 +35,13 @@ Od teraz plany różnią się tym, ile ankiet możesz mieć jednocześnie otwart
 
 Nadal możesz tworzyć tyle ankiet, ile chcesz, a liczba uczestników i opcji nie jest ograniczona. Ankieta przestaje być wliczana do limitu, gdy tylko ją zatwierdzisz lub zamkniesz. Ankiety zamykają się automatycznie po upływie zawartych w nich terminów. Jeśli od czasu do czasu organizujesz spotkanie zespołu lub wspólne wyjście, prawdopodobnie nigdy tego nie zauważysz.
 
-Jeśli prowadzisz kilka ankiet jednocześnie, plan Pro usuwa ten limit i oferuje wszystko, co jeszcze ma do zaoferowania Pro, na przykład zaproszenia e-mailowe i własne oznakowanie. Cały przychód z każdej subskrypcji przeznaczamy na dalszy rozwój Rallly.
+Jeśli prowadzisz kilka ankiet jednocześnie, plan Pro usuwa ten limit i oferuje wszystko, co jeszcze ma do zaoferowania Pro, na przykład zaproszenia e-mailowe i własne oznakowanie. Cały przychód z każdej subskrypcji przeznaczamy na dalszy rozwój Kinpal.
 
 ## Co dalej
 
-To część większych działań mających uczynić Rallly lepszym dla wszystkich, niezależnie od tego, czy płacisz za usługę. Długoterminowym celem jest darmowy plan, w którym możesz wypróbować wszystko, co oferuje Rallly, a Pro będzie dostępne wtedy, gdy planujesz spotkania na taką skalę, że będzie to miało sens.
+To część większych działań mających uczynić Kinpal lepszym dla wszystkich, niezależnie od tego, czy płacisz za usługę. Długoterminowym celem jest darmowy plan, w którym możesz wypróbować wszystko, co oferuje Kinpal, a Pro będzie dostępne wtedy, gdy planujesz spotkania na taką skalę, że będzie to miało sens.
 
-Będę uważnie obserwować, jak te zmiany zostaną przyjęte, i wprowadzę poprawki, jeśli coś nie będzie działać. Jeśli limit zacznie Ci przeszkadzać lub masz pomysły na to, jak powinny działać ceny, bardzo chętnie poznam Twoją opinię pod adresem [feedback@rallly.co](mailto:feedback@rallly.co).
+Będę uważnie obserwować, jak te zmiany zostaną przyjęte, i wprowadzę poprawki, jeśli coś nie będzie działać. Jeśli limit zacznie Ci przeszkadzać lub masz pomysły na to, jak powinny działać ceny, bardzo chętnie poznam Twoją opinię pod adresem [feedback@kinpal.com](mailto:feedback@kinpal.com).
 
 Dziękuję za nieustające wsparcie.
 

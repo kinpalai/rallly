@@ -6,7 +6,7 @@ excerpt: Yhteenveto muuttuneista asioista ja tietoa tulevista hinnoittelumuutoks
 ---
 
 Vau, aika rientää!
-[Rallly Pron julkaisusta](/blog/rallly-pro-launch) on kulunut jo yli kuukausi.
+[Kinpal Pron julkaisusta](/blog/rallly-pro-launch) on kulunut jo yli kuukausi.
 Lämmin kiitos teille jokaiselle tilaajalle – tukenne merkitsee minulle paljon.
 On suuri kannustus tietää, että rakentamallani palvelulla on arvoa, ja se innostaa minua viemään rajoja vieläkin pidemmälle!
 
@@ -23,21 +23,21 @@ Voit pitää osallistujien tiedot yksityisinä piilottamalla osallistujaluettelo
 
 **Taulukkonäkymän uudistus** – Taulukkonäkymää on uudistettu sen luettavuuden parantamiseksi. Toistoa ja sekavuutta on nyt paljon vähemmän, joten pitkien vaihtoehtolistojen käsittely on helpompaa.
 
-## Hanki Rallly Pro julkaisuhintaan
+## Hanki Kinpal Pro julkaisuhintaan
 
-Jos et ole vielä lähtenyt mukaan, Rallly Pron julkaisuhinta on edelleen saatavilla.
+Jos et ole vielä lähtenyt mukaan, Kinpal Pron julkaisuhinta on edelleen saatavilla.
 **Varhaisena käyttöönottajana tulevat hinnankorotukset eivät koske sinua**, joten saat jatkossa käyttöösi huomattavasti edullisemman hinnan, kun uusia ominaisuuksia lisätään.
 
-Haluatko siirtyä Pro-versioon? Voit päivittää tilauksesi [laskutussivulta](https://app.rallly.co/settings/billing).
+Haluatko siirtyä Pro-versioon? Voit päivittää tilauksesi [laskutussivulta](https://app.kinpal.com/settings/billing).
 
 ### Hinnoittelupäivitykset
 
 Nykyinen hinta on noin 3–4 kertaa kilpailijoita edullisempi samassa kategoriassa.
-Tavoitteeni on hinnoitella Rallly Pro lopulta samalle tasolle vastaavien tuotteiden kanssa, mutta nostan hintaa vaiheittain uusien ominaisuuksien julkaisun myötä. Seuraava vaihe on **7 $ kuukaudessa** tai **42 $ vuodessa**.
+Tavoitteeni on hinnoitella Kinpal Pro lopulta samalle tasolle vastaavien tuotteiden kanssa, mutta nostan hintaa vaiheittain uusien ominaisuuksien julkaisun myötä. Seuraava vaihe on **7 $ kuukaudessa** tai **42 $ vuodessa**.
 Uudet hinnat tulevat voimaan **1. syyskuuta 2023** (eli sinulla on siihen asti aikaa varmistaa nykyinen hinta).
 
 ## Kiitos
 
-Kiitos kaikille tilaajille ja tukijoille, jotka mahdollistavat työni jatkamisen Ralllyn parissa.
+Kiitos kaikille tilaajille ja tukijoille, jotka mahdollistavat työni jatkamisen Kinpaln parissa.
 
 Kippis!

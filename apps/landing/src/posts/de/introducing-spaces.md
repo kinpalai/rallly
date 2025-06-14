@@ -7,9 +7,9 @@ excerpt: >-
   Ort.
 ---
 
-Ich freue mich, **Gruppen** vorzustellen – Ralllys neue Funktion für die Zusammenarbeit im Team, die die Verwaltung von Terminplanung und Abrechnung in Organisationen verändert. Statt mehrere einzelne Pro-Abonnements zu verwalten, bringt Gruppen dein gesamtes Team in einem gemeinsamen Arbeitsbereich zusammen.
+Ich freue mich, **Gruppen** vorzustellen – Kinpals neue Funktion für die Zusammenarbeit im Team, die die Verwaltung von Terminplanung und Abrechnung in Organisationen verändert. Statt mehrere einzelne Pro-Abonnements zu verwalten, bringt Gruppen dein gesamtes Team in einem gemeinsamen Arbeitsbereich zusammen.
 
-![Rallly Spaces](https://d39ixtfgglw55o.cloudfront.net/images/spaces.webp)
+![Kinpal Spaces](https://d39ixtfgglw55o.cloudfront.net/images/spaces.webp)
 
 ## Was sind Gruppen?
 
@@ -44,10 +44,10 @@ Ob du als Start-up Stand-up-Meetings koordinierst, in einer Marketingagentur Kun
 
 Möchtest du die Terminplanung deines Teams vereinfachen? Deine erste Gruppe ist mit nur wenigen Klicks erstellt, und bestehende Pro-Nutzer können ganz einfach zum neuen teamorientierten Abrechnungsmodell wechseln.
 
-Gruppen stehen für mein Engagement, Rallly zur besten Lösung für die Terminplanung von Teams jeder Größe zu machen. Mit deiner Unterstützung werde ich weiterhin Funktionen entwickeln, die die Koordination mühelos machen.
+Gruppen stehen für mein Engagement, Kinpal zur besten Lösung für die Terminplanung von Teams jeder Größe zu machen. Mit deiner Unterstützung werde ich weiterhin Funktionen entwickeln, die die Koordination mühelos machen.
 
 ---
 
-Fragen zu Gruppen? Ich freue mich über dein [Feedback](mailto:feedback@rallly.co) und helfe dir gerne bei der Einrichtung!
+Fragen zu Gruppen? Ich freue mich über dein [Feedback](mailto:feedback@kinpal.com) und helfe dir gerne bei der Einrichtung!
 
 Viel Spaß bei der Terminplanung!

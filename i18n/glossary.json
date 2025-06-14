@@ -1,6 +1,6 @@
 {
   "doNotTranslate": [
-    "Rallly",
+    "Kinpal",
     "Zoom",
     "Google Meet",
     "Microsoft Teams",
@@ -426,7 +426,7 @@
     },
     {
       "en": "Guest",
-      "note": "someone using Rallly without an account",
+      "note": "someone using Kinpal without an account",
       "translations": {
         "cs": "Host",
         "da": "Gæst",

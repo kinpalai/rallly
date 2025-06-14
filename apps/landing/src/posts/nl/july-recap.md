@@ -8,7 +8,7 @@ excerpt: >-
 ---
 
 Wauw, wat vliegt de tijd!
-Het is alweer meer dan een maand geleden dat [Rallly Pro werd gelanceerd](/blog/rallly-pro-launch).
+Het is alweer meer dan een maand geleden dat [Kinpal Pro werd gelanceerd](/blog/rallly-pro-launch).
 Een welgemeend bedankje aan iedereen die een abonnement heeft genomen – jullie steun betekent veel voor me.
 Weten dat wat ik heb gebouwd waarde biedt, geeft me een enorme motivatie en stimuleert me om de grenzen nog verder te verleggen!
 
@@ -25,21 +25,21 @@ Je kunt de gegevens van deelnemers privé houden door de deelnemerslijst te verb
 
 **Vernieuwd tabeloverzicht** - Het tabeloverzicht is volledig vernieuwd om de leesbaarheid te verbeteren. Er is veel minder herhaling en rommel, waardoor het eenvoudiger wordt om met lange lijsten opties te werken.
 
-## Rallly Pro voor de lanceringsprijs
+## Kinpal Pro voor de lanceringsprijs
 
-Als je nog niet bent ingestapt, kun je Rallly Pro nog steeds krijgen voor de lanceringsprijs.
+Als je nog niet bent ingestapt, kun je Kinpal Pro nog steeds krijgen voor de lanceringsprijs.
 **Als vroege gebruiker krijg je niet te maken met toekomstige prijsverhogingen**, dus je profiteert van aanzienlijk lagere tarieven zodra er meer functies worden toegevoegd.
 
-Klaar om Pro te gaan? Je kunt upgraden via je [facturatiepagina](https://app.rallly.co/settings/billing).
+Klaar om Pro te gaan? Je kunt upgraden via je [facturatiepagina](https://app.kinpal.com/settings/billing).
 
 ### Prijsupdates
 
 De huidige prijs is ongeveer 3 tot 4 keer lager dan die van concurrenten in dezelfde markt.
-Mijn doel is om Rallly Pro uiteindelijk in lijn te prijzen met vergelijkbare producten, maar ik zal de prijs stapsgewijs aanpassen naarmate er meer functies worden uitgebracht. De volgende stap wordt **$7 per maand** of **$42 per jaar**.
+Mijn doel is om Kinpal Pro uiteindelijk in lijn te prijzen met vergelijkbare producten, maar ik zal de prijs stapsgewijs aanpassen naarmate er meer functies worden uitgebracht. De volgende stap wordt **$7 per maand** of **$42 per jaar**.
 De nieuwe prijzen gaan in op **1 september 2023** (je hebt dus tot die tijd om het huidige tarief vast te leggen).
 
 ## Bedankt
 
-Aan alle abonnees en sponsors die het mogelijk maken dat ik mijn werk aan Rallly kan voortzetten.
+Aan alle abonnees en sponsors die het mogelijk maken dat ik mijn werk aan Kinpal kan voortzetten.
 
 Proost!

@@ -1,13 +1,13 @@
 ---
-title: Przyszłość Rallly
+title: Przyszłość Kinpal
 date: '2023-06-18'
 category: Company
 excerpt: >-
-  Rallly od zawsze miało upraszczać planowanie spotkań w grupie, ale moim celem
+  Kinpal od zawsze miało upraszczać planowanie spotkań w grupie, ale moim celem
   jest rozwinięcie go w coś więcej niż tylko platformę do tworzenia ankiet.
 ---
 
-Rallly od zawsze miało upraszczać planowanie spotkań w grupie, ale moim celem jest rozwinięcie go w coś więcej niż tylko platformę do tworzenia ankiet. Chcę stworzyć wyjątkowy, elastyczny i znajomy sposób planowania, który pomoże użytkownikom znaleźć idealny termin wydarzenia.
+Kinpal od zawsze miało upraszczać planowanie spotkań w grupie, ale moim celem jest rozwinięcie go w coś więcej niż tylko platformę do tworzenia ankiet. Chcę stworzyć wyjątkowy, elastyczny i znajomy sposób planowania, który pomoże użytkownikom znaleźć idealny termin wydarzenia.
 
 ## Sposób działania
 
@@ -27,7 +27,7 @@ Podczas planowania wydarzenia bardzo pomocne może być uzyskanie ogólnego obra
 
 ### Ankiety
 
-Ankiety są podstawą działania Rallly i doskonale wpisują się w ten nowy sposób planowania. Po zebraniu ogólnych informacji o dostępności organizatorzy będą mogli zawęzić wybór do kilku opcji i poprosić uczestników o zagłosowanie na preferowane terminy.
+Ankiety są podstawą działania Kinpal i doskonale wpisują się w ten nowy sposób planowania. Po zebraniu ogólnych informacji o dostępności organizatorzy będą mogli zawęzić wybór do kilku opcji i poprosić uczestników o zagłosowanie na preferowane terminy.
 
 ![Polls](/static/images/the-future-of-rallly/poll.svg)
 
@@ -43,4 +43,4 @@ Powyższe elementy będą następować po sobie w tej kolejności: siatka dostę
 
 ## Podsumowanie
 
-Bardzo się cieszę, że mogę rozpocząć pracę nad tym usprawnionym sposobem planowania w Rallly. Jak zawsze, Wasze opinie są dla mnie niezwykle cenne. Dajcie mi znać, czy uważacie, że ten sposób działania może być przydatny, albo czy macie sugestie dotyczące jego ulepszenia. Z niecierpliwością czekam na dalsze rozwijanie Rallly w narzędzie, które sprawi, że planowanie będzie łatwe i sprawne dla każdego.
+Bardzo się cieszę, że mogę rozpocząć pracę nad tym usprawnionym sposobem planowania w Kinpal. Jak zawsze, Wasze opinie są dla mnie niezwykle cenne. Dajcie mi znać, czy uważacie, że ten sposób działania może być przydatny, albo czy macie sugestie dotyczące jego ulepszenia. Z niecierpliwością czekam na dalsze rozwijanie Kinpal w narzędzie, które sprawi, że planowanie będzie łatwe i sprawne dla każdego.

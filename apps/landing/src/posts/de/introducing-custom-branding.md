@@ -7,7 +7,7 @@ excerpt: >-
   anzeigen.
 ---
 
-Eine Sache, die ich von Teams gehört habe, die Rallly nutzen, ist, dass die Einladungsseite nicht zu ihrer Marke passte. Das ist die Seite, auf der deine Gäste landen, wenn du ihnen eine Umfrage schickst. Wenn du einen Terminplanungslink an einen Kunden oder eine neue Mitarbeiterin bzw. einen neuen Mitarbeiter sendest, kann eine allgemeine Oberfläche das Erlebnis beeinträchtigen, das du an anderer Stelle aufgebaut hast. Dasselbe gilt für die Bestätigungs-E-Mails, die Teilnehmende nach dem Abstimmen erhalten.
+Eine Sache, die ich von Teams gehört habe, die Kinpal nutzen, ist, dass die Einladungsseite nicht zu ihrer Marke passte. Das ist die Seite, auf der deine Gäste landen, wenn du ihnen eine Umfrage schickst. Wenn du einen Terminplanungslink an einen Kunden oder eine neue Mitarbeiterin bzw. einen neuen Mitarbeiter sendest, kann eine allgemeine Oberfläche das Erlebnis beeinträchtigen, das du an anderer Stelle aufgebaut hast. Dasselbe gilt für die Bestätigungs-E-Mails, die Teilnehmende nach dem Abstimmen erhalten.
 
 ![Branded scheduling poll](https://d39ixtfgglw55o.cloudfront.net/images/branded-poll.webp)
 
@@ -21,7 +21,7 @@ Optisch ist das nur eine kleine Änderung, aber sie macht einen echten Unterschi
 
 ## So richtest du es ein
 
-1. Gehe zu den [Gruppeneinstellungen](https://app.rallly.co/settings/general)
+1. Gehe zu den [Gruppeneinstellungen](https://app.kinpal.com/settings/general)
 2. Lade dein Logo hoch und wähle eine Primärfarbe aus
 3. Aktiviere **Individuelles Branding aktivieren**
 
@@ -29,4 +29,4 @@ Optisch ist das nur eine kleine Änderung, aber sie macht einen echten Unterschi
 
 Alle deine öffentlich zugänglichen Seiten verwenden automatisch dein Branding.
 
-Wie immer freue ich mich über dein Feedback oder Hinweise auf Probleme unter [feedback@rallly.co](mailto:feedback@rallly.co).
+Wie immer freue ich mich über dein Feedback oder Hinweise auf Probleme unter [feedback@kinpal.com](mailto:feedback@kinpal.com).

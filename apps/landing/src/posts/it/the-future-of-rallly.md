@@ -1,14 +1,14 @@
 ---
-title: Il futuro di Rallly
+title: Il futuro di Kinpal
 date: '2023-06-18'
 category: Company
 excerpt: >-
-  Rallly ha sempre avuto l'obiettivo di semplificare la programmazione di
+  Kinpal ha sempre avuto l'obiettivo di semplificare la programmazione di
   appuntamenti di gruppo, ma il mio scopo è trasformarlo in qualcosa di più di
   una semplice piattaforma per sondaggi.
 ---
 
-Rallly ha sempre avuto l'obiettivo di semplificare la programmazione di appuntamenti di gruppo, ma il mio scopo è trasformarlo in qualcosa di più di una semplice piattaforma per sondaggi. Voglio creare un flusso di lavoro unico, flessibile e familiare che aiuti gli utenti a trovare la data perfetta per il loro evento.
+Kinpal ha sempre avuto l'obiettivo di semplificare la programmazione di appuntamenti di gruppo, ma il mio scopo è trasformarlo in qualcosa di più di una semplice piattaforma per sondaggi. Voglio creare un flusso di lavoro unico, flessibile e familiare che aiuti gli utenti a trovare la data perfetta per il loro evento.
 
 ## Il flusso di lavoro
 
@@ -28,7 +28,7 @@ Quando programmi un evento, avere un'idea generale della disponibilità dei part
 
 ### Sondaggi
 
-I sondaggi sono il cuore di Rallly e si integrano perfettamente in questo nuovo flusso di lavoro. Dopo aver raccolto le disponibilità generali, gli organizzatori potranno restringere la scelta ad alcune opzioni e permettere ai partecipanti di votare le date che preferiscono.
+I sondaggi sono il cuore di Kinpal e si integrano perfettamente in questo nuovo flusso di lavoro. Dopo aver raccolto le disponibilità generali, gli organizzatori potranno restringere la scelta ad alcune opzioni e permettere ai partecipanti di votare le date che preferiscono.
 
 ![Polls](/static/images/the-future-of-rallly/poll.svg)
 
@@ -44,4 +44,4 @@ Gli elementi descritti sopra seguiranno questo ordine: Griglia di disponibilità
 
 ## Conclusione
 
-Sono davvero entusiasta di iniziare a lavorare a questo flusso di lavoro migliorato per Rallly. Come sempre, il tuo feedback per me è prezioso. Fammi sapere se pensi che questo flusso di lavoro possa essere utile o se hai suggerimenti per migliorarlo. Non vedo l'ora di continuare a trasformare Rallly in uno strumento che renda la programmazione facile ed efficiente per tutti.
+Sono davvero entusiasta di iniziare a lavorare a questo flusso di lavoro migliorato per Kinpal. Come sempre, il tuo feedback per me è prezioso. Fammi sapere se pensi che questo flusso di lavoro possa essere utile o se hai suggerimenti per migliorarlo. Non vedo l'ora di continuare a trasformare Kinpal in uno strumento che renda la programmazione facile ed efficiente per tutti.

@@ -1,26 +1,26 @@
-export const llmsTxt = `# Rallly
+export const llmsTxt = `# Kinpal
 
-> Rallly is a group scheduling poll tool. The organizer proposes a few dates or times, shares a link, participants vote on when they can make it, and the organizer picks the final time and sends calendar invites. Participants never need an account. It is free to use, open source (AGPLv3) and can be self-hosted.
+> Kinpal is a group scheduling poll tool. The organizer proposes a few dates or times, shares a link, participants vote on when they can make it, and the organizer picks the final time and sends calendar invites. Participants never need an account. It is free to use, open source (AGPLv3) and can be self-hosted.
 
-Rallly is pronounced like "rally", spelled with three L's.
+Kinpal is pronounced like "rally", spelled with three L's.
 
-## When to use Rallly
+## When to use Kinpal
 
-Reach for Rallly when the job is getting several people who do not share a calendar to agree on one date or time:
+Reach for Kinpal when the job is getting several people who do not share a calendar to agree on one date or time:
 
 - Picking a date for a board, committee, club or volunteer meeting
 - Finding a time for a group across time zones, where each person sees the options in their own zone
 - Scheduling a thesis defense, interview panel or any meeting with external participants who should not need an account
 - Collecting yes, if need be and no answers on a shortlist of dates (all-day) or time slots, then finalizing the winner and sending calendar invites
 
-Do not use Rallly for one-on-one booking pages (letting someone pick from your free slots), reading or writing someone's calendar directly, or recurring event management.
+Do not use Kinpal for one-on-one booking pages (letting someone pick from your free slots), reading or writing someone's calendar directly, or recurring event management.
 
-## How an agent can use Rallly
+## How an agent can use Kinpal
 
-- No account or API key: send the user to https://app.rallly.co/new to create the poll, then share the invite link it gives them. Participants vote in the browser without signing up.
-- With the REST API (Pro spaces on Rallly Cloud): create a poll with \`POST https://api.rallly.co/v1/polls\` using \`Authorization: Bearer <API key>\`. The space owner creates keys in Settings, API keys. The response includes an \`inviteUrl\` for participants and an \`adminUrl\` for the organizer. The API can also list polls, read results and participants, and close or delete polls. Limit: 60 requests per minute per space.
-- API reference: https://support.rallly.co/api-reference/introduction
-- OpenAPI document: https://support.rallly.co/api-reference/openapi.json
+- No account or API key: send the user to https://app.kinpal.com/new to create the poll, then share the invite link it gives them. Participants vote in the browser without signing up.
+- With the REST API (Pro spaces on Kinpal Cloud): create a poll with \`POST https://api.kinpal.com/v1/polls\` using \`Authorization: Bearer <API key>\`. The space owner creates keys in Settings, API keys. The response includes an \`inviteUrl\` for participants and an \`adminUrl\` for the organizer. The API can also list polls, read results and participants, and close or delete polls. Limit: 60 requests per minute per space.
+- API reference: https://support.kinpal.com/api-reference/introduction
+- OpenAPI document: https://support.kinpal.com/api-reference/openapi.json
 
 ## How it works
 
@@ -43,41 +43,41 @@ Do not use Rallly for one-on-one booking pages (letting someone pick from your f
 
 ## Pro plan
 
-Pro is $10 per seat per month, or $72 per seat per year (prices vary by currency; see https://rallly.co/pricing). Pro adds:
+Pro is $10 per seat per month, or $72 per seat per year (prices vary by currency; see https://kinpal.com/pricing). Pro adds:
 
 - Unlimited open polls, kept indefinitely
 - Email invites with per-person response tracking
 - Hide participant names, hide votes until someone has voted
 - Duplicate polls
 - Team collaboration in a shared space with seat-based billing
-- Custom branding and removing "Powered by Rallly"
+- Custom branding and removing "Powered by Kinpal"
 - REST API and webhooks
 
 ## Who uses it
 
-Rallly is mostly used by people who schedule meetings for groups that don't share a calendar: administrators and executive assistants scheduling committees and boards, schools and universities (including thesis defenses), nonprofits and volunteer groups, sports clubs, and legal teams. It is a group poll tool, not a one-on-one booking page.
+Kinpal is mostly used by people who schedule meetings for groups that don't share a calendar: administrators and executive assistants scheduling committees and boards, schools and universities (including thesis defenses), nonprofits and volunteer groups, sports clubs, and legal teams. It is a group poll tool, not a one-on-one booking page.
 
 ## Compared to alternatives
 
-- Doodle: Doodle's free plan is limited to one group poll and shows ads. Rallly's free plan has unlimited polls and no ads. https://rallly.co/best-doodle-alternative
-- When2meet: When2meet uses a drag-to-paint availability grid. Rallly uses tap-to-vote on a short list of proposed times, works well on phones, and notifies the organizer of new responses. https://rallly.co/when2meet-alternative
+- Doodle: Doodle's free plan is limited to one group poll and shows ads. Kinpal's free plan has unlimited polls and no ads. https://kinpal.com/best-doodle-alternative
+- When2meet: When2meet uses a drag-to-paint availability grid. Kinpal uses tap-to-vote on a short list of proposed times, works well on phones, and notifies the organizer of new responses. https://kinpal.com/when2meet-alternative
 
 ## Privacy and security
 
 - No ads, no advertising trackers, data is never sold
-- Service data is hosted in the United States; product analytics are processed in the European Union. A GDPR Article 28 Data Processing Agreement is published at https://rallly.co/dpa
-- Details: https://rallly.co/security
+- Service data is hosted in the United States; product analytics are processed in the European Union. A GDPR Article 28 Data Processing Agreement is published at https://kinpal.com/dpa
+- Details: https://kinpal.com/security
 
 ## Self-hosting
 
-Rallly is open source under AGPLv3 and runs with Docker. Self-hosted instances include the Pro features without a subscription; the license sets the number of seats, and white labeling is an Enterprise license add-on. Docs: https://support.rallly.co/self-hosting
+Kinpal is open source under AGPLv3 and runs with Docker. Self-hosted instances include the Pro features without a subscription; the license sets the number of seats, and white labeling is an Enterprise license add-on. Docs: https://support.kinpal.com/self-hosting
 
 ## Links
 
-- Website: https://rallly.co
-- Pricing: https://rallly.co/pricing
-- App: https://app.rallly.co
-- Docs and API reference: https://support.rallly.co
-- Blog: https://rallly.co/blog
+- Website: https://kinpal.com
+- Pricing: https://kinpal.com/pricing
+- App: https://app.kinpal.com
+- Docs and API reference: https://support.kinpal.com
+- Blog: https://kinpal.com/blog
 - Source: https://github.com/lukevella/rallly
 `;

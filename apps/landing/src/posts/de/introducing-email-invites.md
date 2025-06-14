@@ -15,8 +15,8 @@ Jetzt kannst du Personen direkt von der Umfrageseite aus per E-Mail einladen. Ö
 
 Alle Personen, die du einlädst, werden im Dialog mit ihrem aktuellen Status angezeigt. „Gesendet“ bedeutet, dass die E-Mail verschickt wurde. „Geöffnet“ bedeutet, dass die Person auf den Link geklickt hat. „Geantwortet“ bedeutet, dass sie ihre Verfügbarkeit übermittelt hat. So siehst du auf einen Blick, wen du noch einmal erinnern solltest.
 
-Der Einladungslink ist weiterhin verfügbar und kostenlos. E-Mail-Einladungen sind Teil von Rallly Pro. Wenn du also bereits ein Pro-Abonnement hast oder zu einer Pro-Gruppe gehörst, kannst du sie jetzt für deine Umfragen nutzen. Du musst angemeldet sein, um Einladungen zu versenden, da sie und die darüber eingehenden Antworten deinem Konto zugeordnet sind und nicht dem Browser, den du gerade verwendest.
+Der Einladungslink ist weiterhin verfügbar und kostenlos. E-Mail-Einladungen sind Teil von Kinpal Pro. Wenn du also bereits ein Pro-Abonnement hast oder zu einer Pro-Gruppe gehörst, kannst du sie jetzt für deine Umfragen nutzen. Du musst angemeldet sein, um Einladungen zu versenden, da sie und die darüber eingehenden Antworten deinem Konto zugeordnet sind und nicht dem Browser, den du gerade verwendest.
 
-Das ist der erste Schritt, um Rallly bei dem Teil der Terminplanung zu verbessern, der nach dem Erstellen der Umfrage stattfindet. Als Nächstes kommen Erinnerungen für Personen, die noch nicht geantwortet haben.
+Das ist der erste Schritt, um Kinpal bei dem Teil der Terminplanung zu verbessern, der nach dem Erstellen der Umfrage stattfindet. Als Nächstes kommen Erinnerungen für Personen, die noch nicht geantwortet haben.
 
-Wie immer freue ich mich über dein Feedback oder wenn du auf etwas stößt. Schreib uns an [feedback@rallly.co](mailto:feedback@rallly.co).
+Wie immer freue ich mich über dein Feedback oder wenn du auf etwas stößt. Schreib uns an [feedback@kinpal.com](mailto:feedback@kinpal.com).

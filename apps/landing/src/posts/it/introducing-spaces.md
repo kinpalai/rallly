@@ -7,9 +7,9 @@ excerpt: >-
   interruzioni, tutto in un unico posto.
 ---
 
-Sono entusiasta di presentare gli **Spazi**: la nuova funzionalità di collaborazione per team di Rallly, che cambia il modo in cui le organizzazioni gestiscono la pianificazione e la fatturazione. Invece di dover gestire più abbonamenti Pro individuali, gli Spazi riuniscono tutto il team in un unico spazio di lavoro.
+Sono entusiasta di presentare gli **Spazi**: la nuova funzionalità di collaborazione per team di Kinpal, che cambia il modo in cui le organizzazioni gestiscono la pianificazione e la fatturazione. Invece di dover gestire più abbonamenti Pro individuali, gli Spazi riuniscono tutto il team in un unico spazio di lavoro.
 
-![Rallly Spaces](https://d39ixtfgglw55o.cloudfront.net/images/spaces.webp)
+![Kinpal Spaces](https://d39ixtfgglw55o.cloudfront.net/images/spaces.webp)
 
 ## Cosa sono gli Spazi?
 
@@ -44,10 +44,10 @@ Che tu stia coordinando riunioni stand-up in una startup, pianificando chiamate 
 
 Vuoi semplificare la pianificazione del tuo team? Creare il tuo primo Spazio richiede solo pochi clic e gli utenti Pro esistenti possono passare facilmente al nuovo modello di fatturazione basato sul team.
 
-Gli Spazi rappresentano il mio impegno a rendere Rallly la migliore soluzione di pianificazione per team di qualsiasi dimensione. Con il tuo supporto, continuerò a sviluppare funzionalità che rendono il coordinamento semplice e senza sforzo.
+Gli Spazi rappresentano il mio impegno a rendere Kinpal la migliore soluzione di pianificazione per team di qualsiasi dimensione. Con il tuo supporto, continuerò a sviluppare funzionalità che rendono il coordinamento semplice e senza sforzo.
 
 ---
 
-Hai domande sugli Spazi? Mi farebbe piacere ricevere il tuo [feedback](mailto:feedback@rallly.co) e aiutarti a iniziare!
+Hai domande sugli Spazi? Mi farebbe piacere ricevere il tuo [feedback](mailto:feedback@kinpal.com) e aiutarti a iniziare!
 
 Buona pianificazione!

@@ -5,9 +5,9 @@ category: Product
 excerpt: 'Centrale facturatie, ledenbeheer en naadloze samenwerking op één plek.'
 ---
 
-Ik ben enthousiast om **Ruimtes** te introduceren: de nieuwe samenwerkingsfunctie voor teams van Rallly, die de manier waarop organisaties planning en facturatie beheren verandert. In plaats van meerdere afzonderlijke Pro-abonnementen te beheren, brengt Ruimtes je hele team samen in één centrale werkruimte.
+Ik ben enthousiast om **Ruimtes** te introduceren: de nieuwe samenwerkingsfunctie voor teams van Kinpal, die de manier waarop organisaties planning en facturatie beheren verandert. In plaats van meerdere afzonderlijke Pro-abonnementen te beheren, brengt Ruimtes je hele team samen in één centrale werkruimte.
 
-![Rallly Spaces](https://d39ixtfgglw55o.cloudfront.net/images/spaces.webp)
+![Kinpal Spaces](https://d39ixtfgglw55o.cloudfront.net/images/spaces.webp)
 
 ## Wat zijn Ruimtes?
 
@@ -42,10 +42,10 @@ Of je nu een startup bent die stand-upvergaderingen plant, een marketingbureau d
 
 Klaar om de planning van je team te stroomlijnen? Je eerste Ruimte aanmaken kost maar een paar klikken. Bestaande Pro-gebruikers kunnen bovendien eenvoudig overstappen op het nieuwe facturatiemodel per team.
 
-Ruimtes laten zien hoe ik Rallly de beste planningsoplossing voor teams van elke omvang wil maken. Met jullie steun blijf ik functies bouwen die afstemmen moeiteloos maken.
+Ruimtes laten zien hoe ik Kinpal de beste planningsoplossing voor teams van elke omvang wil maken. Met jullie steun blijf ik functies bouwen die afstemmen moeiteloos maken.
 
 ---
 
-Heb je vragen over Ruimtes? Ik hoor graag je [feedback](mailto:feedback@rallly.co) en help je graag op weg!
+Heb je vragen over Ruimtes? Ik hoor graag je [feedback](mailto:feedback@kinpal.com) en help je graag op weg!
 
 Veel plezier met plannen!

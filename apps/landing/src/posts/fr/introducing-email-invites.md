@@ -15,8 +15,8 @@ Vous pouvez désormais inviter des personnes par e-mail depuis la page du sondag
 
 Chaque personne que vous invitez apparaît dans la boîte de dialogue avec son statut actuel. « Envoyé » signifie que l’e-mail a été envoyé. « Ouvert » signifie que la personne a cliqué sur le lien. « Répondu » signifie qu’elle a envoyé ses disponibilités. Vous voyez ainsi rapidement qui doit encore être relancé.
 
-Le lien d’invitation est toujours disponible et reste gratuit. Les invitations par e-mail font partie de Rallly Pro. Si vous avez déjà un abonnement Pro ou si vous appartenez à un Espace Pro, elles sont donc désormais disponibles dans vos sondages. Vous devez être connecté pour envoyer des invitations, car celles-ci et les réponses qu’elles permettent de recueillir sont associées à votre compte, et non au navigateur que vous utilisez par hasard.
+Le lien d’invitation est toujours disponible et reste gratuit. Les invitations par e-mail font partie de Kinpal Pro. Si vous avez déjà un abonnement Pro ou si vous appartenez à un Espace Pro, elles sont donc désormais disponibles dans vos sondages. Vous devez être connecté pour envoyer des invitations, car celles-ci et les réponses qu’elles permettent de recueillir sont associées à votre compte, et non au navigateur que vous utilisez par hasard.
 
-C’est la première étape pour améliorer Rallly sur tout ce qui concerne l’organisation après la création du sondage. Les rappels pour les personnes qui n’ont pas répondu seront la prochaine étape.
+C’est la première étape pour améliorer Kinpal sur tout ce qui concerne l’organisation après la création du sondage. Les rappels pour les personnes qui n’ont pas répondu seront la prochaine étape.
 
-Comme toujours, si vous avez des commentaires ou rencontrez un problème, je serais ravi de vous entendre à l’adresse [feedback@rallly.co](mailto:feedback@rallly.co).
+Comme toujours, si vous avez des commentaires ou rencontrez un problème, je serais ravi de vous entendre à l’adresse [feedback@kinpal.com](mailto:feedback@kinpal.com).

@@ -1,15 +1,15 @@
 ---
-title: Vi introduserer Rallly 2.0
+title: Vi introduserer Kinpal 2.0
 date: '2022-04-08'
 category: Company
 tags:
   - announcement
 draft: false
-excerpt: En titt på Ralllys første store oppdatering.
+excerpt: En titt på Kinpals første store oppdatering.
 ---
 
 Hvis du lurer på hvorfor alt ser annerledes ut i dag, er det fordi jeg nettopp har lansert en stor oppdatering. Denne oppdateringen har vært planlagt [en stund](https://twitter.com/imlukevella/status/1288066459248349184),
-men fra og med i år har jeg bestemt meg for å bruke mer av tiden min på Rallly. Det har gjort det mulig å nå denne milepælen, og forhåpentligvis kommer det flere i fremtiden. Så …
+men fra og med i år har jeg bestemt meg for å bruke mer av tiden min på Kinpal. Det har gjort det mulig å nå denne milepælen, og forhåpentligvis kommer det flere i fremtiden. Så …
 
 ## Hva skjer med avstemninger som ble opprettet med den gamle versjonen?
 
@@ -19,7 +19,7 @@ Jeg planlegger å deaktivere den gamle databasen om omtrent to måneder, så fre
 avstemninger som ble opprettet med den gamle versjonen, fortsatt være tilgjengelige. Forhåpentligvis vil dette
 være nok tid til å overføre alle aktive avstemninger.
 
-Hvis du har problemer med å åpne avstemningen, kan du ta kontakt via chatten på nettstedet eller sende en e-post til [support@rallly.co](mailto:support@rallly.co).
+Hvis du har problemer med å åpne avstemningen, kan du ta kontakt via chatten på nettstedet eller sende en e-post til [support@kinpal.com](mailto:support@kinpal.com).
 
 ## Hva er nytt?
 
@@ -44,7 +44,7 @@ detaljene i avstemningen.
 
 ### Kompakt visning for mobile enheter
 
-Rallly har alltid vært mobilvennlig, men har nå en mer optimalisert visning for mindre skjermer.
+Kinpal har alltid vært mobilvennlig, men har nå en mer optimalisert visning for mindre skjermer.
 
 ![Demo på mobil](/static/images/mobile-demo.gif)
 
@@ -68,7 +68,7 @@ Det er noen grunner til at jeg valgte å utelate denne funksjonen:
    pålitelig måte. Derfor ser jeg på muligheten for å bytte leverandør og eventuelt bruke en dedikert IP-adresse for å forbedre
    leveringssikkerheten.
 
-2. **Kostnad**&mdash;Det er ikke gratis å sende ut disse e-postene, og brukerbasen til Rallly har vokst til et punkt der
+2. **Kostnad**&mdash;Det er ikke gratis å sende ut disse e-postene, og brukerbasen til Kinpal har vokst til et punkt der
    kostnadene for disse e-postene utgjør en betydelig del av de totale driftskostnadene. Hvis vi sender ut færre e-poster,
    blir det lettere å holde kostnadene på et mer bærekraftig nivå.
 

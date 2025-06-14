@@ -74,7 +74,7 @@ export async function SecurityUpdateBanner() {
               i18n={i18n}
               ns="app"
               i18nKey="securityUpdateBannerDescription"
-              defaults="Rallly {version} fixes {count, plural, one {a {severity} severity vulnerability} other {# vulnerabilities, the most severe rated {severity},}} affecting the version you are running. Update as soon as possible."
+              defaults="Kinpal {version} fixes {count, plural, one {a {severity} severity vulnerability} other {# vulnerabilities, the most severe rated {severity},}} affecting the version you are running. Update as soon as possible."
               values={{
                 version: update.latest,
                 count: advisories.length,
@@ -87,7 +87,7 @@ export async function SecurityUpdateBanner() {
               i18n={i18n}
               ns="app"
               i18nKey="securityUpdateBannerNewMajorDescription"
-              defaults="Rallly v{major} fixes {count, plural, one {a {severity} severity vulnerability} other {# vulnerabilities, the most severe rated {severity},}} affecting the version you are running, and the fix is not available for your major version. Migrate as soon as possible."
+              defaults="Kinpal v{major} fixes {count, plural, one {a {severity} severity vulnerability} other {# vulnerabilities, the most severe rated {severity},}} affecting the version you are running, and the fix is not available for your major version. Migrate as soon as possible."
               values={{
                 major: update.newMajor?.major,
                 count: advisories.length,

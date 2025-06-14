@@ -5,7 +5,7 @@ category: Product
 excerpt: 本次更新着重提升应用在移动设备上的易用性。
 ---
 
-你知道吗？Rallly 用户中有超过一半使用移动设备访问。
+你知道吗？Kinpal 用户中有超过一半使用移动设备访问。
 
 ![设备数据](/static/images/device-data.png)
 

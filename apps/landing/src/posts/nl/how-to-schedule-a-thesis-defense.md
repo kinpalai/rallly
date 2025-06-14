@@ -39,23 +39,23 @@ Verspreid je opties over verschillende dagen in plaats van elk uur van een paar 
 
 ## De poll instellen
 
-Elke planningspoll is geschikt. In deze stappen gebruiken we [Rallly](/scheduling-for/thesis-defense), dat gratis is en je commissieleden niet vraagt om een account aan te maken.
+Elke planningspoll is geschikt. In deze stappen gebruiken we [Kinpal](/scheduling-for/thesis-defense), dat gratis is en je commissieleden niet vraagt om een account aan te maken.
 
-1. Meld je aan bij Rallly en ga naar [Een poll maken](https://app.rallly.co/new). Een gratis account is voldoende en je hebt er een nodig om de datum af te ronden.
+1. Meld je aan bij Kinpal en ga naar [Een poll maken](https://app.kinpal.com/new). Een gratis account is voldoende en je hebt er een nodig om de datum af te ronden.
 2. Voeg een titel toe, zoals "Promotieverdediging, biologie, april". Iedereen met de link kan de titel en beschrijving zien, dus vermeld geen proefschrifttitels waarop een embargo rust.
-3. Klik op **Locatie toevoegen** of klik op **Videogesprek toevoegen** om Rallly bij het afronden een Google Meet-, Zoom-, Microsoft Teams- of Webex-link te laten maken. Je moet die dienst eerst koppelen onder **Instellingen**.
-4. Klik op **Beschrijving toevoegen** en vermeld hoe lang het evenement duurt en vóór welke datum mensen moeten reageren. Rallly handhaaft deze datum niet, dus je moet zelf opvolgen.
+3. Klik op **Locatie toevoegen** of klik op **Videogesprek toevoegen** om Kinpal bij het afronden een Google Meet-, Zoom-, Microsoft Teams- of Webex-link te laten maken. Je moet die dienst eerst koppelen onder **Instellingen**.
+4. Klik op **Beschrijving toevoegen** en vermeld hoe lang het evenement duurt en vóór welke datum mensen moeten reageren. Kinpal handhaaft deze datum niet, dus je moet zelf opvolgen.
 5. Stel de **Duur** in en selecteer je opties in de agenda.
 6. Laat **E-mail verplicht** ingeschakeld, zodat iedereen de agenda-uitnodiging kan ontvangen, en laat **Stemopties** ingesteld op ja, optioneel en nee.
 7. Klik op **Poll maken**.
 
-![Het formulier voor een nieuwe poll in Rallly met een titel, een duur van twee uur en drie geselecteerde datums](/static/images/thesis-defense/create-poll.png)
+![Het formulier voor een nieuwe poll in Kinpal met een titel, een duur van twee uur en drie geselecteerde datums](/static/images/thesis-defense/create-poll.png)
 
 ### Als je een externe examinator hebt
 
 Een externe examinator is vaak de lastigste persoon om in te plannen. Die staat niet in de agenda van je universiteit en bevindt zich mogelijk in een andere tijdzone.
 
-Rallly toont de opties aan iedereen in de eigen tijdzone, zodat niemand iets hoeft om te rekenen. Voeg een paar opties toe die binnen de werkdag van de externe examinator vallen en let goed op de weken waarin de klok wordt verzet, omdat landen dat op verschillende datums doen. De examinator kan via de link reageren zonder account.
+Kinpal toont de opties aan iedereen in de eigen tijdzone, zodat niemand iets hoeft om te rekenen. Voeg een paar opties toe die binnen de werkdag van de externe examinator vallen en let goed op de weken waarin de klok wordt verzet, omdat landen dat op verschillende datums doen. De examinator kan via de link reageren zonder account.
 
 ## Deel de poll en volg op
 
@@ -69,7 +69,7 @@ Geef mensen een week om te reageren en neem na drie dagen contact op met iederee
 
 ## De datum afronden
 
-Klik op **Afronden**. Rallly toont je opties met de optie met de meeste steun bovenaan. Kies de datum en selecteer wie je op de hoogte wilt stellen. Iedereen die je selecteert, ontvangt een e-mail met een agenda-uitnodiging, inclusief de link voor het videogesprek als je die hebt toegevoegd. Reserveer diezelfde dag de ruimte.
+Klik op **Afronden**. Kinpal toont je opties met de optie met de meeste steun bovenaan. Kies de datum en selecteer wie je op de hoogte wilt stellen. Iedereen die je selecteert, ontvangt een e-mail met een agenda-uitnodiging, inclusief de link voor het videogesprek als je die hebt toegevoegd. Reserveer diezelfde dag de ruimte.
 
 ![Het venster voor Afronden met elke optie, gerangschikt op basis van het aantal mensen dat aanwezig kan zijn](/static/images/thesis-defense/finalize.png)
 
@@ -92,8 +92,8 @@ Vier mensen reageren binnen drie dagen en ze e-mailt de vijfde. Geen enkele opti
 <PostFaq>
   <FaqItem question="Hoe ver van tevoren moet je een proefschriftverdediging plannen?">Verstuur je poll minstens vier weken vóór de vroegst mogelijke datum en begin eerder als je commissie groot is. De aankondigingstermijnen van je programma kunnen meer tijd vereisen.</FaqItem>
   <FaqItem question="Hoeveel datums moet je aanbieden?">Tussen de 5 en 10, verspreid over verschillende dagen. Je kunt later meer toevoegen als geen ervan past.</FaqItem>
-  <FaqItem question="Wat als een commissielid niet reageert?">Neem na drie dagen rechtstreeks contact op. Als je e-mailuitnodigingen gebruikt, die onderdeel zijn van Rallly Pro, kun je zien wie de poll heeft geopend en wie heeft gereageerd.</FaqItem>
-  <FaqItem question="Hebben commissieleden een Rallly-account nodig?">Nee. Ze openen de link, vullen hun naam en e-mailadres in en kiezen de tijden die voor hen werken.</FaqItem>
+  <FaqItem question="Wat als een commissielid niet reageert?">Neem na drie dagen rechtstreeks contact op. Als je e-mailuitnodigingen gebruikt, die onderdeel zijn van Kinpal Pro, kun je zien wie de poll heeft geopend en wie heeft gereageerd.</FaqItem>
+  <FaqItem question="Hebben commissieleden een Kinpal-account nodig?">Nee. Ze openen de link, vullen hun naam en e-mailadres in en kiezen de tijden die voor hen werken.</FaqItem>
   <FaqItem question="Kan een coördinator een verdediging voor een student plannen?">Ja. Maak de poll zelf en voeg de promovendus toe als een van de mensen die reageert. De antwoorden komen bij jou binnen en jij stelt de uiteindelijke datum vast.</FaqItem>
-  <FaqItem question="Is Rallly hiervoor gratis?">Ja. Polls maken, antwoorden verzamelen en polls afronden zijn gratis. Met een gratis account kun je drie polls tegelijk open hebben en met Rallly Pro verdwijnt die limiet.</FaqItem>
+  <FaqItem question="Is Kinpal hiervoor gratis?">Ja. Polls maken, antwoorden verzamelen en polls afronden zijn gratis. Met een gratis account kun je drie polls tegelijk open hebben en met Kinpal Pro verdwijnt die limiet.</FaqItem>
 </PostFaq>

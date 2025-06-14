@@ -5,7 +5,7 @@ category: Product
 excerpt: Päivitys keskittyy sovelluksen käytettävyyden parantamiseen mobiililaitteilla.
 ---
 
-Tiesitkö, että yli puolet kaikista Ralllyn käyttäjistä käyttää palvelua mobiililaitteella?
+Tiesitkö, että yli puolet kaikista Kinpaln käyttäjistä käyttää palvelua mobiililaitteella?
 
 ![Laitetiedot](/static/images/device-data.png)
 

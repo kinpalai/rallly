@@ -7,7 +7,7 @@ excerpt: >-
   pohled.
 ---
 
-Většina lidí, kteří reagují na anketu v Rallly, tak činí z telefonu, často během několika minut od obdržení odkazu s pozvánkou. Právě tento okamžik je srdcem celého produktu, takže když se dozvíme, že v něm něco způsobuje zmatek, nasloucháme.
+Většina lidí, kteří reagují na anketu v Kinpal, tak činí z telefonu, často během několika minut od obdržení odkazu s pozvánkou. Právě tento okamžik je srdcem celého produktu, takže když se dozvíme, že v něm něco způsobuje zmatek, nasloucháme.
 
 A přesně to jsme slyšeli. Někteří z vás nám řekli, že staré rozhraní pro hlasování nebylo dostatečně přehledné. Malé tlačítko „?“ vedle každého času se dalo snadno přehlédnout a někteří účastníci stiskli tlačítko Pokračovat v očekávání, že si své časy vyberou na další stránce. Místo toho zjistili, že omylem odpověděli „ne“ na všechny možnosti.
 
@@ -33,4 +33,4 @@ Nové ovládací prvky splňují velikosti dotykových cílů doporučené spole
 
 Na vašich stávajících anketách ani reakcích se nic nezměnilo. Jde čistě o lepší způsob, jak dělat totéž.
 
-Jako vždy nám [dejte vědět](mailto:support@rallly.co), pokud vám něco připadá zvláštní nebo máte nápad, jak hlasování ještě více zjednodušit. Tato aktualizace vznikla na základě zpětné vazby od uživatelů, jako jste vy.
+Jako vždy nám [dejte vědět](mailto:support@kinpal.com), pokud vám něco připadá zvláštní nebo máte nápad, jak hlasování ještě více zjednodušit. Tato aktualizace vznikla na základě zpětné vazby od uživatelů, jako jste vy.

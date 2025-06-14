@@ -5,14 +5,14 @@ category: Security
 excerpt: >-
   Importantes mises à jour de sécurité pour corriger les vulnérabilités des
   composants serveur de React, notamment React2Shell. Les personnes qui
-  auto-hébergent Rallly doivent effectuer la mise à jour immédiatement.
+  auto-hébergent Kinpal doivent effectuer la mise à jour immédiatement.
 ---
 
-**Cette annonce concerne uniquement les installations de Rallly auto-hébergées.** Si vous utilisez le service hébergé de Rallly à l’adresse [rallly.co](https://rallly.co), vous n’avez aucune action à effectuer. Les serveurs ont été corrigés dans les heures qui ont suivi l’annonce des CVE, et aucune faille n’a été exploitée pendant cette période.
+**Cette annonce concerne uniquement les installations de Kinpal auto-hébergées.** Si vous utilisez le service hébergé de Kinpal à l’adresse [kinpal.com](https://kinpal.com), vous n’avez aucune action à effectuer. Les serveurs ont été corrigés dans les heures qui ont suivi l’annonce des CVE, et aucune faille n’a été exploitée pendant cette période.
 
 ---
 
-Une vulnérabilité critique a été découverte dans les composants serveur de React et concerne Rallly. Sur les installations qui n’ont pas été corrigées, cette vulnérabilité pourrait permettre à un attaquant d’exécuter du code à distance sur votre serveur. Si votre instance est accessible depuis Internet et que vous n’utilisez pas la dernière version, **votre serveur court un risque important**.
+Une vulnérabilité critique a été découverte dans les composants serveur de React et concerne Kinpal. Sur les installations qui n’ont pas été corrigées, cette vulnérabilité pourrait permettre à un attaquant d’exécuter du code à distance sur votre serveur. Si votre instance est accessible depuis Internet et que vous n’utilisez pas la dernière version, **votre serveur court un risque important**.
 
 Cette vulnérabilité, [CVE-2025-55182](https://www.cve.org/CVERecord?id=CVE-2025-55182) (également connue sous le nom de [React2Shell](https://react2shell.com/)), concerne de nombreuses applications créées avec React 19. Des compromissions réelles ont déjà été signalées : des attaquants ont déployé des logiciels malveillants sur des serveurs compromis.
 
@@ -30,9 +30,9 @@ L’équipe React a ensuite découvert que le correctif pour CVE-2025-55184 éta
 
 ## Action requise
 
-Si vous auto-hébergez Rallly, veuillez effectuer immédiatement les étapes suivantes :
+Si vous auto-hébergez Kinpal, veuillez effectuer immédiatement les étapes suivantes :
 
-- **Mettez à jour** Rallly vers la dernière version (v4.5.11 ou ultérieure) pour être protégé contre les quatre CVE. Consultez les [notes de version](https://github.com/lukevella/rallly/releases/tag/v4.5.11) pour plus de détails.
+- **Mettez à jour** Kinpal vers la dernière version (v4.5.11 ou ultérieure) pour être protégé contre les quatre CVE. Consultez les [notes de version](https://github.com/lukevella/rallly/releases/tag/v4.5.11) pour plus de détails.
 - Si vous utilisez la version v4.5.10, vous devez passer à la version v4.5.11, car le correctif précédent était incomplet.
 - Si vous utilisez la version v4.5.8 (qui offrait une protection complète contre React2Shell), vous devez passer à la version v4.5.11 pour être protégé contre toutes les vulnérabilités.
 - Si vous utilisez la version v4.5.7, nous vous recommandons de passer à la version v4.5.11, car la version v4.5.7 pourrait ne pas avoir fourni une protection complète contre React2Shell.
@@ -40,7 +40,7 @@ Si vous auto-hébergez Rallly, veuillez effectuer immédiatement les étapes sui
 - **Redémarrez** tous les services et, si vous utilisez Docker, reconstruisez ou récupérez la dernière image.
 - **Si vous ne pouvez pas effectuer la mise à jour immédiatement**, limitez temporairement l’accès (VPN ou proxy d’authentification) jusqu’à l’installation du correctif.
 
-Après la mise à jour, vérifiez que votre instance indique la dernière version de Rallly et consultez les journaux pour repérer d’éventuels avertissements. Pour vérifier la version, rendez-vous à l’adresse suivante : `<your‑rallly‑instance>/api/status`.
+Après la mise à jour, vérifiez que votre instance indique la dernière version de Kinpal et consultez les journaux pour repérer d’éventuels avertissements. Pour vérifier la version, rendez-vous à l’adresse suivante : `<your‑rallly‑instance>/api/status`.
 
 ## Informations supplémentaires
 

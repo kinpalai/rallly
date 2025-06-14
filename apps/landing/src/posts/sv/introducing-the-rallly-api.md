@@ -1,15 +1,15 @@
 ---
-title: Vi presenterar Rallly API
+title: Vi presenterar Kinpal API
 date: '2026-09-15'
 category: Product
 excerpt: >-
   Skapa förfrågningar, läs resultat och avsluta dem från dina egna verktyg.
-  API:et är nu tillgängligt för Pro-områden på Rallly Cloud.
+  API:et är nu tillgängligt för Pro-områden på Kinpal Cloud.
 ---
 
-Rallly har haft ett litet API bakom en dold inställning ett tag. Några personer har använt det för att skapa förfrågningar från sina egna system, och deras feedback har format det som lanseras i dag. Nu är det öppet för alla Pro-områden på Rallly Cloud.
+Kinpal har haft ett litet API bakom en dold inställning ett tag. Några personer har använt det för att skapa förfrågningar från sina egna system, och deras feedback har format det som lanseras i dag. Nu är det öppet för alla Pro-områden på Kinpal Cloud.
 
-![En kodredigerare som visar en fetch-förfrågan som skapar en datumförfrågan med tre alternativ via Rallly API](/static/images/rallly-api/create-poll-editor.svg)
+![En kodredigerare som visar en fetch-förfrågan som skapar en datumförfrågan med tre alternativ via Kinpal API](/static/images/rallly-api/create-poll-editor.svg)
 
 ## Vad det gör
 
@@ -28,8 +28,8 @@ Varje begäran är kopplad till ett område. API-nyckeln identifierar området, 
 Områdets ägare skapar en nyckel under **Inställningar → API-nycklar**. Begäranden skickar med den som en bearer-token:
 
 ```sh
-curl https://api.rallly.co/v1/polls \
-  -H "Authorization: Bearer $RALLLY_API_KEY" \
+curl https://api.kinpal.com/v1/polls \
+  -H "Authorization: Bearer $KINPAL_API_KEY" \
   -H "Content-Type: application/json" \
   -d '{
     "title": "Team offsite",
@@ -44,8 +44,8 @@ curl https://api.rallly.co/v1/polls \
 
 Svaret innehåller en `inviteUrl` som du kan dela med deltagarna och en `adminUrl` för organisatören. Varje område kan göra 60 begäranden per minut.
 
-I [API-dokumentationen](https://support.rallly.co/api-reference/introduction) finns alla slutpunkter med exempel på begäranden och svar. OpenAPI-dokumentet finns också tillgängligt om du hellre vill generera en klient.
+I [API-dokumentationen](https://support.kinpal.com/api-reference/introduction) finns alla slutpunkter med exempel på begäranden och svar. OpenAPI-dokumentet finns också tillgängligt om du hellre vill generera en klient.
 
 ## Vad händer härnäst
 
-Det fungerar att fråga efter resultat, men det är inte så de flesta integrationer vill arbeta. Webhooks för händelser i förfrågningar är planerade, så att ditt system får veta när ett nytt svar kommer in eller en förfrågan avslutas. Det finns inget datum för det ännu. Om du bygger något med API:et vill jag gärna höra vad du bygger och vad som står i vägen på [feedback@rallly.co](mailto:feedback@rallly.co).
+Det fungerar att fråga efter resultat, men det är inte så de flesta integrationer vill arbeta. Webhooks för händelser i förfrågningar är planerade, så att ditt system får veta när ett nytt svar kommer in eller en förfrågan avslutas. Det finns inget datum för det ännu. Om du bygger något med API:et vill jag gärna höra vad du bygger och vad som står i vägen på [feedback@kinpal.com](mailto:feedback@kinpal.com).

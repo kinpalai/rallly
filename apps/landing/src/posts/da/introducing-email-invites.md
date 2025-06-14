@@ -15,8 +15,8 @@ Nu kan du invitere folk via e-mail fra afstemningssiden. Åbn dialogboksen Del, 
 
 Alle, du inviterer, vises i dialogboksen med deres aktuelle status. Sendt betyder, at e-mailen er blevet sendt. Åbnet betyder, at personen har klikket på linket. Svaret betyder, at personen har indsendt sin tilgængelighed. Du kan hurtigt se, hvem der stadig har brug for en påmindelse.
 
-Invitationslinket er stadig tilgængeligt og stadig gratis. E-mailinvitationer er en del af Rallly Pro, så hvis du allerede har et Pro-abonnement eller tilhører et Pro-rum, er funktionen allerede tilgængelig i dine afstemninger. Du skal være logget ind for at sende invitationer, fordi invitationerne og de svar, de giver, er knyttet til din konto og ikke til den browser, du tilfældigvis bruger.
+Invitationslinket er stadig tilgængeligt og stadig gratis. E-mailinvitationer er en del af Kinpal Pro, så hvis du allerede har et Pro-abonnement eller tilhører et Pro-rum, er funktionen allerede tilgængelig i dine afstemninger. Du skal være logget ind for at sende invitationer, fordi invitationerne og de svar, de giver, er knyttet til din konto og ikke til den browser, du tilfældigvis bruger.
 
-Dette er det første skridt mod at gøre Rallly bedre til den del af planlægningen, der sker, efter du har oprettet afstemningen. Påmindelser til personer, der ikke har svaret, er det næste.
+Dette er det første skridt mod at gøre Kinpal bedre til den del af planlægningen, der sker, efter du har oprettet afstemningen. Påmindelser til personer, der ikke har svaret, er det næste.
 
-Som altid vil jeg meget gerne høre fra dig på [feedback@rallly.co](mailto:feedback@rallly.co), hvis du har feedback eller støder på problemer.
+Som altid vil jeg meget gerne høre fra dig på [feedback@kinpal.com](mailto:feedback@kinpal.com), hvis du har feedback eller støder på problemer.

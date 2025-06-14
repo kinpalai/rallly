@@ -3,15 +3,15 @@ title: 'Link per le videochiamate, creati quando concludi il sondaggio'
 date: '2026-10-14'
 category: Product
 excerpt: >-
-  Collega Google Meet, Zoom, Microsoft Teams o Webex e Rallly aggiungerà il link
+  Collega Google Meet, Zoom, Microsoft Teams o Webex e Kinpal aggiungerà il link
   della riunione all'invito quando scegli un orario.
 ---
 
-Rallly ora può creare il link della riunione per te. Collega Google Meet, Zoom, Microsoft Teams o Webex, aggiungi una videochiamata al tuo sondaggio e, quando lo concludi, Rallly crea la riunione per l'orario scelto e inserisce il link per partecipare nell'evento, nell'invito del calendario e nelle email di conferma.
+Kinpal ora può creare il link della riunione per te. Collega Google Meet, Zoom, Microsoft Teams o Webex, aggiungi una videochiamata al tuo sondaggio e, quando lo concludi, Kinpal crea la riunione per l'orario scelto e inserisce il link per partecipare nell'evento, nell'invito del calendario e nelle email di conferma.
 
 Non dovrai più creare una riunione manualmente dopo aver ricevuto le risposte e incollare il link in un'email di follow-up.
 
-![Il menu Aggiungi videochiamata nel modulo del sondaggio, con l'elenco dei provider collegati e disponibili](https://support.rallly.co/images/integrations/zoom/video-call-menu.png)
+![Il menu Aggiungi videochiamata nel modulo del sondaggio, con l'elenco dei provider collegati e disponibili](https://support.kinpal.com/images/integrations/zoom/video-call-menu.png)
 
 ## Come funziona
 
@@ -34,11 +34,11 @@ Se preferisci usare un altro servizio, puoi comunque aggiungere qualsiasi videoc
 
 Ogni integrazione ha una guida che illustra i requisiti, le autorizzazioni e come scollegarla:
 
-- [Google Meet](https://support.rallly.co/integrations/google-meet)
-- [Zoom](https://support.rallly.co/integrations/zoom)
-- [Microsoft Teams](https://support.rallly.co/integrations/microsoft-teams)
-- [Webex](https://support.rallly.co/integrations/webex)
+- [Google Meet](https://support.kinpal.com/integrations/google-meet)
+- [Zoom](https://support.kinpal.com/integrations/zoom)
+- [Microsoft Teams](https://support.kinpal.com/integrations/microsoft-teams)
+- [Webex](https://support.kinpal.com/integrations/webex)
 
-Se riscontri problemi o c'è un provider che vorresti vedere tra i prossimi disponibili, scrivimi a [feedback@rallly.co](mailto:feedback@rallly.co).
+Se riscontri problemi o c'è un provider che vorresti vedere tra i prossimi disponibili, scrivimi a [feedback@kinpal.com](mailto:feedback@kinpal.com).
 
 Buona organizzazione :)

@@ -39,23 +39,23 @@ Rozložte možnosti do různých dnů, místo abyste uvedli každou hodinu běhe
 
 ## Jak anketu nastavit
 
-Postačí jakákoli anketa pro plánování termínu. V tomto návodu použijeme [Rallly](/scheduling-for/thesis-defense), které je zdarma a nevyžaduje, aby si členové komise vytvářeli účty.
+Postačí jakákoli anketa pro plánování termínu. V tomto návodu použijeme [Kinpal](/scheduling-for/thesis-defense), které je zdarma a nevyžaduje, aby si členové komise vytvářeli účty.
 
-1. Přihlaste se do Rallly a přejděte na [Vytvořit anketu](https://app.rallly.co/new). Bezplatný účet stačí, ale budete ho potřebovat k dokončení termínu.
+1. Přihlaste se do Kinpal a přejděte na [Vytvořit anketu](https://app.kinpal.com/new). Bezplatný účet stačí, ale budete ho potřebovat k dokončení termínu.
 2. Přidejte název, například „Obhajoba Ph.D., biologie, duben“. Název a popis uvidí každý, kdo má odkaz, proto do nich neuvádějte názvy prací pod embargem.
-3. Klikněte na **Přidat místo** nebo na **Přidat videohovor**, pokud chcete, aby Rallly při dokončení termínu vytvořilo odkaz pro Google Meet, Zoom, Microsoft Teams nebo Webex. Tuto službu nejdřív musíte připojit v části **Nastavení**.
-4. Klikněte na **Přidat popis** a uveďte délku události a datum, do kdy mají lidé odpovědět. Rallly toto datum nevynucuje, takže je na vás, abyste se případně připomněli.
+3. Klikněte na **Přidat místo** nebo na **Přidat videohovor**, pokud chcete, aby Kinpal při dokončení termínu vytvořilo odkaz pro Google Meet, Zoom, Microsoft Teams nebo Webex. Tuto službu nejdřív musíte připojit v části **Nastavení**.
+4. Klikněte na **Přidat popis** a uveďte délku události a datum, do kdy mají lidé odpovědět. Kinpal toto datum nevynucuje, takže je na vás, abyste se případně připomněli.
 5. Nastavte **Délku** a v kalendáři vyberte své možnosti.
 6. Nechte zapnutou možnost **Vyžadovat e-mail**, aby všichni mohli dostat pozvánku do kalendáře, a ponechte zapnuté **Hlasovací možnosti** Ano, Pokud je to nutné a Ne.
 7. Klikněte na **Vytvořit anketu**.
 
-![Formulář nové ankety v Rallly s názvem, dvouhodinovou délkou a vybranými třemi termíny](/static/images/thesis-defense/create-poll.png)
+![Formulář nové ankety v Kinpal s názvem, dvouhodinovou délkou a vybranými třemi termíny](/static/images/thesis-defense/create-poll.png)
 
 ### Pokud máte externího oponenta
 
 Externí oponent bývá při plánování často nejobtížnější. Neobjevuje se v kalendáři vaší univerzity a může být v jiném časovém pásmu.
 
-Rallly každému zobrazí možnosti v jeho vlastním časovém pásmu, takže nikdo nemusí nic přepočítávat. Zahrňte několik možností, které spadají do pracovní doby externího oponenta, a dávejte pozor na týdny, kdy se mění čas, protože jednotlivé země ho mění v různých dnech. Oponent může odpovědět prostřednictvím odkazu i bez účtu.
+Kinpal každému zobrazí možnosti v jeho vlastním časovém pásmu, takže nikdo nemusí nic přepočítávat. Zahrňte několik možností, které spadají do pracovní doby externího oponenta, a dávejte pozor na týdny, kdy se mění čas, protože jednotlivé země ho mění v různých dnech. Oponent může odpovědět prostřednictvím odkazu i bez účtu.
 
 ## Sdílejte anketu a připomínejte se
 
@@ -69,7 +69,7 @@ Dejte lidem na odpověď týden a každému, kdo po třech dnech stále neodpov�
 
 ## Dokončete termín
 
-Klikněte na **Dokončit**. Rallly zobrazí vaše možnosti a jako první uvede tu s největší podporou. Vyberte termín a zvolte, koho chcete informovat. Každý vybraný člověk dostane e-mail s pozvánkou do kalendáře, včetně odkazu na videohovor, pokud jste ho přidali. Místnost rezervujte ještě tentýž den.
+Klikněte na **Dokončit**. Kinpal zobrazí vaše možnosti a jako první uvede tu s největší podporou. Vyberte termín a zvolte, koho chcete informovat. Každý vybraný člověk dostane e-mail s pozvánkou do kalendáře, včetně odkazu na videohovor, pokud jste ho přidali. Místnost rezervujte ještě tentýž den.
 
 ![Dialog Dokončit se seznamem jednotlivých možností podle počtu lidí, kteří se mohou zúčastnit](/static/images/thesis-defense/finalize.png)
 
@@ -92,8 +92,8 @@ Koordinátorka začátkem dubna zkontroluje předpisy. Všichni se musí zúčas
 <PostFaq>
   <FaqItem question="Jak dlouho předem naplánovat obhajobu diplomové nebo disertační práce?">Anketu odešlete nejméně čtyři týdny před nejbližším možným termínem, u velké komise ještě dříve. Lhůty stanovené vaším studijním programem mohou vyžadovat delší předstih.</FaqItem>
   <FaqItem question="Kolik termínů nabídnout?">Mezi 5 a 10, rozložených do různých dnů. Pokud žádný z nich nebude vyhovovat, můžete později přidat další.</FaqItem>
-  <FaqItem question="Co když člen komise neodpoví?">Po třech dnech ho kontaktujte přímo. Pokud používáte e-mailové pozvánky, které jsou součástí Rallly Pro, uvidíte, kdo anketu otevřel a kdo odpověděl.</FaqItem>
-  <FaqItem question="Potřebují členové komise účet Rallly?">Ne. Otevřou odkaz, zadají své jméno a e-mail a vyberou termíny, které jim vyhovují.</FaqItem>
+  <FaqItem question="Co když člen komise neodpoví?">Po třech dnech ho kontaktujte přímo. Pokud používáte e-mailové pozvánky, které jsou součástí Kinpal Pro, uvidíte, kdo anketu otevřel a kdo odpověděl.</FaqItem>
+  <FaqItem question="Potřebují členové komise účet Kinpal?">Ne. Otevřou odkaz, zadají své jméno a e-mail a vyberou termíny, které jim vyhovují.</FaqItem>
   <FaqItem question="Může koordinátor naplánovat obhajobu za studenta?">Ano. Vytvořte anketu sami a zahrňte kandidáta mezi lidi, kteří mají odpovědět. Odpovědi se vrátí vám a vy stanovíte konečný termín.</FaqItem>
-  <FaqItem question="Je Rallly pro tento účel zdarma?">Ano. Vytváření anket, shromažďování odpovědí i dokončení termínu jsou zdarma. Bezplatný účet může mít současně otevřené tři ankety a Rallly Pro tento limit odstraňuje.</FaqItem>
+  <FaqItem question="Je Kinpal pro tento účel zdarma?">Ano. Vytváření anket, shromažďování odpovědí i dokončení termínu jsou zdarma. Bezplatný účet může mít současně otevřené tři ankety a Kinpal Pro tento limit odstraňuje.</FaqItem>
 </PostFaq>

@@ -1,17 +1,17 @@
 ---
-title: Rallly 3.0 er her – hvad er nyt?
+title: Kinpal 3.0 er her – hvad er nyt?
 date: '2023-06-19'
 category: Product
 excerpt: >-
-  Rallly 3.0 er et vigtigt skridt på vejen, mens jeg arbejder på at udvide
-  Rallly med flere funktioner.
+  Kinpal 3.0 er et vigtigt skridt på vejen, mens jeg arbejder på at udvide
+  Kinpal med flere funktioner.
 ---
 
-Rallly 3.0 er et vigtigt skridt på vejen, mens jeg arbejder på at udvide Rallly med flere funktioner. Læs indlægget om [Rallylys fremtid](/blog/the-future-of-rallly), hvis du vil vide mere om, hvor det hele er på vej hen. Men indtil videre gennemgår vi denne opdatering i detaljer, og jeg forklarer nogle af de ændringer, der er blevet lavet.
+Kinpal 3.0 er et vigtigt skridt på vejen, mens jeg arbejder på at udvide Kinpal med flere funktioner. Læs indlægget om [Rallylys fremtid](/blog/the-future-of-rallly), hvis du vil vide mere om, hvor det hele er på vej hen. Men indtil videre gennemgår vi denne opdatering i detaljer, og jeg forklarer nogle af de ændringer, der er blevet lavet.
 
 ## Navigation
 
-Rallly 3.0 har en opdateret brugerflade, der gør det hurtigt og nemt at navigere mellem skærmbilleder. Det gør det også muligt at tilføje endnu flere sider og funktioner i fremtiden, så hold øje med det.
+Kinpal 3.0 har en opdateret brugerflade, der gør det hurtigt og nemt at navigere mellem skærmbilleder. Det gør det også muligt at tilføje endnu flere sider og funktioner i fremtiden, så hold øje med det.
 
 ![Navigation](/static/images/introducing-rallly-3-0/navigation.png)
 
@@ -23,13 +23,13 @@ Den nye side med afstemninger giver dig et overblik over alle de afstemninger, d
 
 ## Afstemningsstatus
 
-I stedet for at låse en afstemning kan du nu sætte den på pause for at forhindre, at der foretages ændringer i den. Denne ændring i terminologien blev lavet for at passe sammen med den nye funktion til at færdiggøre afstemninger, som bliver lanceret for brugere af [Rallly Pro](/blog/introducing-rallly-pro).
+I stedet for at låse en afstemning kan du nu sætte den på pause for at forhindre, at der foretages ændringer i den. Denne ændring i terminologien blev lavet for at passe sammen med den nye funktion til at færdiggøre afstemninger, som bliver lanceret for brugere af [Kinpal Pro](/blog/introducing-rallly-pro).
 
 ![Poll Status](/static/images/introducing-rallly-3-0/poll-status.png)
 
 ## Ydeevne
 
-Du vil måske bemærke, at Rallly føles hurtigere end før. Der er blevet arbejdet med tingene bag kulisserne for at forbedre, hvor hurtigt sider indlæses, og hvor responsiv appen er.
+Du vil måske bemærke, at Kinpal føles hurtigere end før. Der er blevet arbejdet med tingene bag kulisserne for at forbedre, hvor hurtigt sider indlæses, og hvor responsiv appen er.
 
 ## Opdateret pointberegning
 
@@ -39,4 +39,4 @@ Pointene vises nu på en lidt anden måde. Hver mulighed viser et tal, der angiv
 
 ## Konklusion
 
-Tak, fordi du fulgte med, og jeg håber virkelig, at du kan lide den nye version. Hvis du har [feedback](mailto:feedback@rallly.co), vil jeg meget gerne høre fra dig.
+Tak, fordi du fulgte med, og jeg håber virkelig, at du kan lide den nye version. Hvis du har [feedback](mailto:feedback@kinpal.com), vil jeg meget gerne høre fra dig.

@@ -8,7 +8,7 @@
   "branding": "Marka",
   "cancelSubscription": "Jak anulować subskrypcję?",
   "cancelSubscriptionAnswer": "Subskrypcję można anulować w dowolnym momencie, przechodząc do <a>ustawień rozliczeniowych</a>. Po anulowaniu subskrypcji nadal będziesz mieć dostęp do płatnego planu do końca okresu rozliczeniowego. Po tym czasie zostaniesz przeniesiony do planu bezpłatnego.",
-  "canUseFree": "Czy mogę używać Rallly za darmo?",
+  "canUseFree": "Czy mogę używać Kinpal za darmo?",
   "canUseFreeAnswer3": "Tak. Plan bezpłatny nie jest wersją próbną. Możesz tworzyć dowolną liczbę ankiet, zapraszać dowolną liczbę uczestników i korzystać z niego tak długo, jak chcesz, bez płacenia i bez podawania karty. Plany płatne dodają funkcje takie jak bezterminowe przechowywanie ankiet i własna identyfikacja wizualna, ale nigdy nie poprosimy Cię o opłatę za dalsze korzystanie z podstaw.",
   "canUseFreeAnswerOpenPollLimit": "Tak. Plan bezpłatny nie jest wersją próbną. Możesz tworzyć dowolną liczbę ankiet, z czego jednocześnie otwartych może być maksymalnie {count}, zapraszać dowolną liczbę uczestników i korzystać z niego tak długo, jak chcesz, bez płacenia ani dodawania karty. Plany płatne oferują dodatkowe funkcje, takie jak nieograniczona liczba otwartych ankiet, bezterminowe przechowywanie ankiet i własna marka, ale nigdy nie poprosimy Cię o opłatę za dalsze korzystanie z podstawowych funkcji.",
   "compareFeature": "Funkcje",
@@ -63,7 +63,7 @@
   "pricingTitle": "Cennik",
   "recommended": "Polecany",
   "removeAttribution": "Usuń atrybucję",
-  "removeAttributionBenefitDescription": "Ukryj \"Powered by Rallly\" przed uczestnikami",
+  "removeAttributionBenefitDescription": "Ukryj \"Powered by Kinpal\" przed uczestnikami",
   "teamCollaboration": "Współpraca zespołowa",
   "teamCollaborationDescription": "Zaproś swój zespół do wspólnego zarządzania ankietami",
   "thirtyDayPollRetention": "Przechowywanie ankiet przez 30 dni",
@@ -73,6 +73,6 @@
   "whenPollInactive": "Kiedy ankieta staje się nieaktywna?",
   "whenPollInactiveAnswer": "Ankiety stają się nieaktywne, gdy wszystkie opcje terminów przypadają ponad 30 dni w przeszłości i przez 30 dni nie było żadnej aktywności. Aktywność obejmuje nowe głosy, komentarze lub zmiany w ankiecie. Nieaktywne ankiety są automatycznie usuwane, jeśli nie masz płatnej subskrypcji.",
   "whyUpgrade": "Dlaczego warto ulepszyć?",
-  "whyUpgradeAnswer2": "Przejście do płatnego planu ma sens, jeśli często korzystasz z Rallly lub używasz go do pracy. Obecna cena subskrypcji jest specjalną ceną dla wczesnych użytkowników i wzrośnie w przyszłości. Ulepszając teraz, uzyskasz wczesny dostęp do nowych, wysokiej jakości narzędzi do planowania harmonogramów w miarę ich wydawania i zablokujesz swoją cenę subskrypcji, dzięki czemu nie wpłyną na ciebie przyszłe podwyżki cen.",
+  "whyUpgradeAnswer2": "Przejście do płatnego planu ma sens, jeśli często korzystasz z Kinpal lub używasz go do pracy. Obecna cena subskrypcji jest specjalną ceną dla wczesnych użytkowników i wzrośnie w przyszłości. Ulepszając teraz, uzyskasz wczesny dostęp do nowych, wysokiej jakości narzędzi do planowania harmonogramów w miarę ich wydawania i zablokujesz swoją cenę subskrypcji, dzięki czemu nie wpłyną na ciebie przyszłe podwyżki cen.",
   "yearlySaveUpTo": "Oszczędź do {percent}%"
 }

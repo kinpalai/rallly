@@ -158,7 +158,7 @@ async function capture(page: Page, dialog: Locator, name: string) {
 
 test("free finalizing blog screenshots", async ({ page }) => {
   await page.setViewportSize({ width: 1280, height: 900 });
-  await loginWithEmail(page, { email: "dev@rallly.co" });
+  await loginWithEmail(page, { email: "dev@kinpal.com" });
   await page.goto(`/poll/${pollId}`);
   await page.waitForLoadState("networkidle");
 

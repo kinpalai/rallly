@@ -7,7 +7,7 @@ excerpt: >-
   tilauksilla. Tässä kerrotaan, mikä muuttuu ja miksi.
 ---
 
-Kun julkaisin [Rallly Pron](/blog/introducing-rallly-pro), kyselyn sulkeminen oli sen tärkein ominaisuus. Valitse päivämäärä, lähetä kalenterikutsut ja homma on valmis. Nyt se on maksutonta kaikille.
+Kun julkaisin [Kinpal Pron](/blog/introducing-rallly-pro), kyselyn sulkeminen oli sen tärkein ominaisuus. Valitse päivämäärä, lähetä kalenterikutsut ja homma on valmis. Nyt se on maksutonta kaikille.
 
 ## Sulje kysely kaikilla tilauksilla
 
@@ -25,9 +25,9 @@ Kaikki valitsemasi saavat sähköpostitse kalenterikutsun. Jos lisäsit kyselyyn
 
 ## Miksi teen tämän muutoksen
 
-Olen tänä vuonna käyttänyt paljon aikaa sen pohtimiseen, millainen Ralllyn oikeudenmukainen hinnoittelumalli olisi. Haluan, että Rallly pysyy aidosti hyödyllisenä maksutta, sillä useimmat löytävät sen juuri sitä kautta ja sen käyttö leviää siten. Joku järjestää illallisen, ystävät äänestävät, ja osa heistä alkaa käyttää sitä omien suunnitelmiensa tekemiseen. Ralllyn on kuitenkin myös oltava kestävällä pohjalla, jotta voin jatkaa sen kehittämistä ja uusien parannusten julkaisemista.
+Olen tänä vuonna käyttänyt paljon aikaa sen pohtimiseen, millainen Kinpaln oikeudenmukainen hinnoittelumalli olisi. Haluan, että Kinpal pysyy aidosti hyödyllisenä maksutta, sillä useimmat löytävät sen juuri sitä kautta ja sen käyttö leviää siten. Joku järjestää illallisen, ystävät äänestävät, ja osa heistä alkaa käyttää sitä omien suunnitelmiensa tekemiseen. Kinpaln on kuitenkin myös oltava kestävällä pohjalla, jotta voin jatkaa sen kehittämistä ja uusien parannusten julkaisemista.
 
-Kyselyn sulkemisen veloittaminen ei ole koskaan tuntunut oikealta. Se on vaihe, jossa kyselystä tulee varsinainen tapahtuma, ja ilman sitä maksuton tilaus jäi juuri ennen kuin se täytti tehtävänsä. Ralllysta hyötyvät eniten ne, jotka käyttävät sitä monien tapaamisten järjestämiseen, usein osana työtään. Siksi haluan asettaa rajan siihen.
+Kyselyn sulkemisen veloittaminen ei ole koskaan tuntunut oikealta. Se on vaihe, jossa kyselystä tulee varsinainen tapahtuma, ja ilman sitä maksuton tilaus jäi juuri ennen kuin se täytti tehtävänsä. Kinpalsta hyötyvät eniten ne, jotka käyttävät sitä monien tapaamisten järjestämiseen, usein osana työtään. Siksi haluan asettaa rajan siihen.
 
 ## Avoimien kyselyiden rajoitukset
 
@@ -35,13 +35,13 @@ Tästä lähtien tilauksia erottaa toisistaan se, kuinka monta kyselyä voi olla
 
 Voit edelleen luoda niin monta kyselyä kuin haluat, eikä osallistujien tai vaihtoehtojen määrää ole rajoitettu. Kysely lakkaa laskemasta heti, kun suljet sen tai päätät sen, ja kyselyt sulkeutuvat automaattisesti, kun niiden ajankohdat ovat menneet. Jos järjestät satunnaisesti tiimikokouksen tai tapaamisen, et todennäköisesti huomaa rajoitusta koskaan.
 
-Jos sinulla on useita kyselyitä käynnissä samanaikaisesti, Pro poistaa rajoituksen ja tarjoaa kaikki muutkin Pron ominaisuudet, kuten sähköpostikutsut ja mukautetun brändäyksen. Kaikki tilaukset käytetään suoraan Ralllyn kehittämiseen.
+Jos sinulla on useita kyselyitä käynnissä samanaikaisesti, Pro poistaa rajoituksen ja tarjoaa kaikki muutkin Pron ominaisuudet, kuten sähköpostikutsut ja mukautetun brändäyksen. Kaikki tilaukset käytetään suoraan Kinpaln kehittämiseen.
 
 ## Mitä seuraavaksi
 
-Tämä on osa laajempaa pyrkimystä tehdä Ralllysta parempi kaikille, maksatpa siitä tai et. Pidemmän aikavälin tavoitteena on maksuton tilaus, jolla voit kokeilla kaikkea Ralllyn tarjoamaa. Pro on tarkoitettu tilanteisiin, joissa järjestät tapaamisia siinä määrin, että maksullinen tilaus on järkevä.
+Tämä on osa laajempaa pyrkimystä tehdä Kinpalsta parempi kaikille, maksatpa siitä tai et. Pidemmän aikavälin tavoitteena on maksuton tilaus, jolla voit kokeilla kaikkea Kinpaln tarjoamaa. Pro on tarkoitettu tilanteisiin, joissa järjestät tapaamisia siinä määrin, että maksullinen tilaus on järkevä.
 
-Seuraan tarkasti, miten nämä muutokset otetaan vastaan, ja muutan niitä, jos jokin ei toimi. Jos rajoitus hankaloittaa toimintaasi tai sinulla on ajatuksia siitä, miten hinnoittelun pitäisi toimia, kuulisin niistä mielelläni osoitteessa [feedback@rallly.co](mailto:feedback@rallly.co).
+Seuraan tarkasti, miten nämä muutokset otetaan vastaan, ja muutan niitä, jos jokin ei toimi. Jos rajoitus hankaloittaa toimintaasi tai sinulla on ajatuksia siitä, miten hinnoittelun pitäisi toimia, kuulisin niistä mielelläni osoitteessa [feedback@kinpal.com](mailto:feedback@kinpal.com).
 
 Kiitos jatkuvasta tuestasi.
 

@@ -1,5 +1,6 @@
 import "./globals.css";
 
+import { GoogleAnalytics } from '@next/third-parties/google';
 import languages from "@rallly/languages";
 import { PostHogInit } from "@rallly/posthog/client";
 import { cn } from "@rallly/ui";
@@ -7,9 +8,10 @@ import { Analytics } from "@vercel/analytics/react";
 import { domAnimation, LazyMotion } from "motion/react";
 import type { Metadata, Viewport } from "next";
 import { cacheLife } from "next/cache";
-import { notFound } from "next/navigation";
 import { display } from "@/fonts/display";
 import { sans } from "@/fonts/sans";
+import { I18nProvider } from "@/i18n/client/i18n-provider";
+import { getTranslation } from "@/i18n/server";
 
 export const ensureStatic = "navigation";
 
@@ -31,11 +33,9 @@ export default async function Root(props: {
   const { children, params } = props;
   const { locale } = await params;
 
-  // The proxy skips paths containing a dot, so they reach [locale] with the raw
-  // path as the locale, e.g. "ads.txt".
-  if (!Object.hasOwn(languages, locale)) {
-    notFound();
-  }
+  const { i18n } = await getTranslation(locale);
+  const translations = i18n.store.data;
+  const ga = process.env.GA_MEASUREMENT_ID || "";
 
   return (
     // Horizontal overflow is clipped at the viewport, never on an ancestor of
@@ -47,21 +47,24 @@ export default async function Root(props: {
     >
       <body>
         <LazyMotion features={domAnimation}>
-          <PostHogInit>{children}</PostHogInit>
-          <Analytics />
+          <I18nProvider locale={locale} resources={translations}>
+            <PostHogInit>{children}</PostHogInit>
+            <Analytics />
+          </I18nProvider>
         </LazyMotion>
       </body>
+      <GoogleAnalytics gaId={ga} />
     </html>
   );
 }
 
 export const metadata: Metadata = {
-  title: { template: "%s | Rallly", default: "Rallly" },
+  title: { template: "%s | Kinpal", default: "Kinpal" },
   metadataBase: process.env.NEXT_PUBLIC_BASE_URL
     ? new URL(process.env.NEXT_PUBLIC_BASE_URL)
     : undefined,
   openGraph: {
     type: "website",
-    siteName: "Rallly",
+    siteName: "Kinpal",
   },
 };

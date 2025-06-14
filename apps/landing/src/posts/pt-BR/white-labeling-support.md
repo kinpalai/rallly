@@ -2,18 +2,18 @@
 title: Personalização de marca para instâncias auto-hospedadas
 date: '2026-01-15'
 category: Self-hosting
-excerpt: 'Personalize sua instância do Rallly com sua própria marca, cores e logotipos.'
+excerpt: 'Personalize sua instância do Kinpal com sua própria marca, cores e logotipos.'
 ---
 
-Tenho o prazer de anunciar que a personalização de marca já está disponível para instâncias auto-hospedadas do Rallly.
+Tenho o prazer de anunciar que a personalização de marca já está disponível para instâncias auto-hospedadas do Kinpal.
 
-![Exemplo de personalização de marca](https://support.rallly.co/images/self-hosting/whitelabel-splash.webp)
+![Exemplo de personalização de marca](https://support.kinpal.com/images/self-hosting/whitelabel-splash.webp)
 
-Esse recurso foi criado em resposta a uma solicitação de um cliente corporativo que precisava integrar perfeitamente sua implantação do Rallly à marca já existente. Agora, ele está disponível para todos os titulares de licenças Enterprise como um complemento opcional.
+Esse recurso foi criado em resposta a uma solicitação de um cliente corporativo que precisava integrar perfeitamente sua implantação do Kinpal à marca já existente. Agora, ele está disponível para todos os titulares de licenças Enterprise como um complemento opcional.
 
-Se você tem acompanhado as novidades, talvez se lembre de que adicionei recentemente o [suporte ao modo escuro](/blog/introducing-dark-mode) e mencionei que os recursos de personalização visual estavam a caminho. A personalização de marca é a concretização desse trabalho. Agora, você pode personalizar o nome da sua instância, as cores principais (tanto no modo claro quanto no escuro), os logotipos e remover completamente a atribuição ao Rallly.
+Se você tem acompanhado as novidades, talvez se lembre de que adicionei recentemente o [suporte ao modo escuro](/blog/introducing-dark-mode) e mencionei que os recursos de personalização visual estavam a caminho. A personalização de marca é a concretização desse trabalho. Agora, você pode personalizar o nome da sua instância, as cores principais (tanto no modo claro quanto no escuro), os logotipos e remover completamente a atribuição ao Kinpal.
 
-Para ver detalhes técnicos e opções de configuração, confira a [documentação sobre personalização de marca](https://support.rallly.co/self-hosting/white-labeling).
+Para ver detalhes técnicos e opções de configuração, confira a [documentação sobre personalização de marca](https://support.kinpal.com/self-hosting/white-labeling).
 
 ## Por que um complemento Enterprise?
 
@@ -21,6 +21,6 @@ Recursos como esse exigem bastante tempo para serem desenvolvidos e mantidos. Of
 
 ## O que vem a seguir?
 
-Estou planejando levar a personalização de marca também para o nível do espaço. Isso permitirá que equipes da versão hospedada na nuvem personalizem seus espaços com a própria marca, sem precisar hospedar o Rallly por conta própria.
+Estou planejando levar a personalização de marca também para o nível do espaço. Isso permitirá que equipes da versão hospedada na nuvem personalizem seus espaços com a própria marca, sem precisar hospedar o Kinpal por conta própria.
 
 Agradeço pelo apoio contínuo.

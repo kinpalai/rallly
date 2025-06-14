@@ -100,12 +100,12 @@ Tämä on täysin perusteltu liiketoimintavalinta, ja jos yrityksesi järjestä�
 
 ## Jos tarvitset vain aikataulutuskyselyn
 
-Tähän tarpeeseen [Rallly](https://rallly.co) vastaa. Se tekee yhden asian: ehdotat muutamaa aikaa, jaat linkin ja kaikki äänestävät itselleen sopivista ajoista. Näin ilmaisversiot vertailevat toisiaan:
+Tähän tarpeeseen [Kinpal](https://kinpal.com) vastaa. Se tekee yhden asian: ehdotat muutamaa aikaa, jaat linkin ja kaikki äänestävät itselleen sopivista ajoista. Näin ilmaisversiot vertailevat toisiaan:
 
 <div className="overflow-x-auto">
 <table>
 <thead>
-<tr><th></th><th>Doodle Free</th><th>Rallly Free</th></tr>
+<tr><th></th><th>Doodle Free</th><th>Kinpal Free</th></tr>
 </thead>
 <tbody>
 <tr><td>Ryhmäkyselyt</td><td>1</td><td>Rajattomasti, enintään 3 avointa kerrallaan</td></tr>
@@ -118,13 +118,13 @@ Tähän tarpeeseen [Rallly](https://rallly.co) vastaa. Se tekee yhden asian: ehd
 
 Rallyssa osallistujat äänestävät pelkän linkin avulla eivätkä tarvitse tiliä. Kaikki näkevät vaihtoehdot omalla aikavyöhykkeellään, ja päivämäärän vahvistaminen sekä kaikille ilmoittaminen on ilmaista.
 
-Kerrotaan avoimesti myös omista rajoituksistamme: Ralllyn ilmaisversiossa voit luoda niin monta kyselyä kuin haluat, mutta enintään kolme kyselyä voi olla samanaikaisesti avoinna ja kerätä ääniä. Sulje yksi kysely tai vahvista sen lopullinen aika, niin voit avata uuden. Ilman rekisteröitymistä voit pitää kerrallaan avoinna yhden kyselyn. Sama sääntö pätee tällöin: sulje kysely tai vahvista sen lopullinen aika, niin voit avata uuden. Ilmaiskyselyt poistetaan, kun kaikki niiden päivämäärät ovat vähintään 30 päivää vanhoja eikä kukaan ole muokannut, äänestänyt tai kommentoinut niitä viimeisten 30 päivän aikana.
+Kerrotaan avoimesti myös omista rajoituksistamme: Kinpaln ilmaisversiossa voit luoda niin monta kyselyä kuin haluat, mutta enintään kolme kyselyä voi olla samanaikaisesti avoinna ja kerätä ääniä. Sulje yksi kysely tai vahvista sen lopullinen aika, niin voit avata uuden. Ilman rekisteröitymistä voit pitää kerrallaan avoinna yhden kyselyn. Sama sääntö pätee tällöin: sulje kysely tai vahvista sen lopullinen aika, niin voit avata uuden. Ilmaiskyselyt poistetaan, kun kaikki niiden päivämäärät ovat vähintään 30 päivää vanhoja eikä kukaan ole muokannut, äänestänyt tai kommentoinut niitä viimeisten 30 päivän aikana.
 
-Rallly on myös [avointa lähdekoodia](https://github.com/lukevella/rallly), joten voit tarkistaa täsmälleen, miten se toimii, ja jopa ylläpitää sitä omalla palvelimellasi.
+Kinpal on myös [avointa lähdekoodia](https://github.com/lukevella/rallly), joten voit tarkistaa täsmälleen, miten se toimii, ja jopa ylläpitää sitä omalla palvelimellasi.
 
-Rallly saa tulonsa [Rallly Prosta](https://rallly.co/pricing), joka lisää ammattikäytössä tarvittavia ominaisuuksia, kuten rajattomasti avoimia kyselyitä, mukautetun brändäyksen ja kyselyt, jotka säilyvät käytettävissä toistaiseksi. Näin ilmaisversio voi pysyä kaikille ilmaisena ja mainoksettomana.
+Kinpal saa tulonsa [Kinpal Prosta](https://kinpal.com/pricing), joka lisää ammattikäytössä tarvittavia ominaisuuksia, kuten rajattomasti avoimia kyselyitä, mukautetun brändäyksen ja kyselyt, jotka säilyvät käytettävissä toistaiseksi. Näin ilmaisversio voi pysyä kaikille ilmaisena ja mainoksettomana.
 
-Jos haluat ominaisuuskohtaisen vertailun, katso [miten Rallly vertautuu Doodleen](https://rallly.co/best-doodle-alternative).
+Jos haluat ominaisuuskohtaisen vertailun, katso [miten Kinpal vertautuu Doodleen](https://kinpal.com/best-doodle-alternative).
 
 ## Usein kysyttyä
 
@@ -154,10 +154,10 @@ Ei tällä hetkellä. Doodle keskeytti iOS- ja Android-sovellustensa toiminnan k
 
 ### Onko Doodlelle ilmaista vaihtoehtoa?
 
-Kyllä. [Rallly](https://rallly.co) on ilmainen ja avoimen lähdekoodin aikataulutuskysely ilman mainoksia. Voit luoda niin monta kyselyä kuin haluat, joista enintään kolme voi olla samanaikaisesti avoinna, ja osallistujat voivat äänestää ilman tiliä.
+Kyllä. [Kinpal](https://kinpal.com) on ilmainen ja avoimen lähdekoodin aikataulutuskysely ilman mainoksia. Voit luoda niin monta kyselyä kuin haluat, joista enintään kolme voi olla samanaikaisesti avoinna, ja osallistujat voivat äänestää ilman tiliä.
 
 ## Tiivistettynä
 
 Doodle on edelleen ilmainen, mutta vain yhteen kyselyyn, jossa on 10 vaihtoehtoa, ja mainoksia näytetään. Jos tämä riittää tarpeisiisi, se on toimiva valinta. Jos ei, sinun ei tarvitse maksaa vain löytääksesi kaikille sopivan ajan.
 
-[Luo kysely](https://app.rallly.co/new) heti. Siihen kuluu noin minuutti, eikä kenenkään tarvitse rekisteröityä.
+[Luo kysely](https://app.kinpal.com/new) heti. Siihen kuluu noin minuutti, eikä kenenkään tarvitse rekisteröityä.

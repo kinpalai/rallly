@@ -1,17 +1,17 @@
 ---
-title: 'Présentation de Rallly 3.0 : quelles nouveautés ?'
+title: 'Présentation de Kinpal 3.0 : quelles nouveautés ?'
 date: '2023-06-19'
 category: Product
 excerpt: >-
-  Rallly 3.0 est une étape importante alors que je m’apprête à enrichir Rallly
+  Kinpal 3.0 est une étape importante alors que je m’apprête à enrichir Kinpal
   avec davantage de fonctionnalités.
 ---
 
-Rallly 3.0 est une étape importante alors que je m’apprête à enrichir Rallly avec davantage de fonctionnalités. Consultez l’article sur [l’avenir de Rallly](/blog/the-future-of-rallly) si vous souhaitez en savoir plus sur la direction que nous prenons, mais en attendant, passons en revue cette mise à jour en détail et je vous expliquerai certains des changements apportés.
+Kinpal 3.0 est une étape importante alors que je m’apprête à enrichir Kinpal avec davantage de fonctionnalités. Consultez l’article sur [l’avenir de Kinpal](/blog/the-future-of-rallly) si vous souhaitez en savoir plus sur la direction que nous prenons, mais en attendant, passons en revue cette mise à jour en détail et je vous expliquerai certains des changements apportés.
 
 ## Navigation
 
-Rallly 3.0 propose une interface mise à jour qui vous permet de naviguer rapidement et facilement entre les écrans. Cela permettra également d’ajouter encore plus de pages et de fonctionnalités à l’avenir, alors gardez l’œil ouvert.
+Kinpal 3.0 propose une interface mise à jour qui vous permet de naviguer rapidement et facilement entre les écrans. Cela permettra également d’ajouter encore plus de pages et de fonctionnalités à l’avenir, alors gardez l’œil ouvert.
 
 ![Navigation](/static/images/introducing-rallly-3-0/navigation.png)
 
@@ -23,13 +23,13 @@ La nouvelle page des sondages vous donne un aperçu de tous les sondages que vou
 
 ## État du sondage
 
-Au lieu de verrouiller un sondage, vous pouvez désormais le mettre en pause pour empêcher toute modification. Ce changement de terminologie accompagne la nouvelle fonctionnalité de finalisation qui sera proposée aux utilisateurs de [Rallly Pro](/blog/introducing-rallly-pro).
+Au lieu de verrouiller un sondage, vous pouvez désormais le mettre en pause pour empêcher toute modification. Ce changement de terminologie accompagne la nouvelle fonctionnalité de finalisation qui sera proposée aux utilisateurs de [Kinpal Pro](/blog/introducing-rallly-pro).
 
 ![État du sondage](/static/images/introducing-rallly-3-0/poll-status.png)
 
 ## Performances
 
-Vous remarquerez peut-être que Rallly semble plus rapide qu’avant. Des améliorations ont été apportées en coulisses pour accélérer le chargement des pages et rendre l’application plus réactive.
+Vous remarquerez peut-être que Kinpal semble plus rapide qu’avant. Des améliorations ont été apportées en coulisses pour accélérer le chargement des pages et rendre l’application plus réactive.
 
 ## Mise à jour du calcul des scores
 
@@ -39,4 +39,4 @@ Les scores sont désormais affichés d’une manière légèrement différente. 
 
 ## Conclusion
 
-Merci de nous avoir suivis, et j’espère vraiment que cette nouvelle version vous plaira. Si vous avez des [commentaires](mailto:feedback@rallly.co), je serais ravi de les connaître.
+Merci de nous avoir suivis, et j’espère vraiment que cette nouvelle version vous plaira. Si vous avez des [commentaires](mailto:feedback@kinpal.com), je serais ravi de les connaître.

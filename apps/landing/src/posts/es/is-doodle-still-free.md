@@ -100,12 +100,12 @@ Es una decisión empresarial legítima y, si tu empresa organiza reuniones con c
 
 ## Si solo necesitas una encuesta para organizar una reunión
 
-Ahí es donde encaja [Rallly](https://rallly.co). Hace una sola cosa: propones algunas horas, compartes un enlace y todo el mundo vota cuáles le vienen bien. Así se comparan los planes gratis:
+Ahí es donde encaja [Kinpal](https://kinpal.com). Hace una sola cosa: propones algunas horas, compartes un enlace y todo el mundo vota cuáles le vienen bien. Así se comparan los planes gratis:
 
 <div className="overflow-x-auto">
 <table>
 <thead>
-<tr><th></th><th>Doodle gratis</th><th>Rallly gratis</th></tr>
+<tr><th></th><th>Doodle gratis</th><th>Kinpal gratis</th></tr>
 </thead>
 <tbody>
 <tr><td>Encuestas de grupo</td><td>1</td><td>Ilimitadas, con hasta 3 abiertas a la vez</td></tr>
@@ -116,15 +116,15 @@ Ahí es donde encaja [Rallly](https://rallly.co). Hace una sola cosa: propones a
 </table>
 </div>
 
-En Rallly, los participantes votan solo con el enlace y nunca necesitan una cuenta. Todo el mundo ve las opciones en su propia zona horaria, y finalizar la fecha y avisar a todos es gratis.
+En Kinpal, los participantes votan solo con el enlace y nunca necesitan una cuenta. Todo el mundo ve las opciones en su propia zona horaria, y finalizar la fecha y avisar a todos es gratis.
 
-Para ser igual de transparentes sobre nuestros límites: en el plan gratis de Rallly puedes crear tantas encuestas como quieras, pero puede haber hasta 3 abiertas y recogiendo votos a la vez. Finaliza o cierra una y podrás abrir otra. Sin registrarte, puedes tener 1 encuesta abierta a la vez, y se aplica lo mismo: finalízala o ciérrala para abrir otra. Las encuestas gratis se eliminan cuando todas sus fechas han quedado al menos 30 días atrás y nadie las ha editado, votado ni comentado durante los últimos 30 días.
+Para ser igual de transparentes sobre nuestros límites: en el plan gratis de Kinpal puedes crear tantas encuestas como quieras, pero puede haber hasta 3 abiertas y recogiendo votos a la vez. Finaliza o cierra una y podrás abrir otra. Sin registrarte, puedes tener 1 encuesta abierta a la vez, y se aplica lo mismo: finalízala o ciérrala para abrir otra. Las encuestas gratis se eliminan cuando todas sus fechas han quedado al menos 30 días atrás y nadie las ha editado, votado ni comentado durante los últimos 30 días.
 
-Rallly también es [de código abierto](https://github.com/lukevella/rallly), así que puedes comprobar exactamente cómo funciona e incluso alojarlo en tu propio servidor.
+Kinpal también es [de código abierto](https://github.com/lukevella/rallly), así que puedes comprobar exactamente cómo funciona e incluso alojarlo en tu propio servidor.
 
-Rallly obtiene ingresos de [Rallly Pro](https://rallly.co/pricing), que añade funciones que te pueden interesar si lo utilizas profesionalmente, como encuestas abiertas ilimitadas, marca personalizada y encuestas que permanecen disponibles indefinidamente. Eso permite que el plan gratis siga siendo gratis y sin anuncios para todos los demás.
+Kinpal obtiene ingresos de [Kinpal Pro](https://kinpal.com/pricing), que añade funciones que te pueden interesar si lo utilizas profesionalmente, como encuestas abiertas ilimitadas, marca personalizada y encuestas que permanecen disponibles indefinidamente. Eso permite que el plan gratis siga siendo gratis y sin anuncios para todos los demás.
 
-Si quieres una comparación función por función, consulta [cómo se compara Rallly con Doodle](https://rallly.co/best-doodle-alternative).
+Si quieres una comparación función por función, consulta [cómo se compara Kinpal con Doodle](https://kinpal.com/best-doodle-alternative).
 
 ## Preguntas frecuentes
 
@@ -154,10 +154,10 @@ No de momento. Doodle puso en pausa sus aplicaciones para iOS y Android en junio
 
 ### ¿Hay alguna alternativa gratis a Doodle?
 
-Sí. [Rallly](https://rallly.co) es una encuesta de código abierto y gratis para organizar reuniones, sin anuncios. Puedes crear tantas encuestas como quieras, con hasta 3 abiertas a la vez, y los participantes votan sin necesidad de tener una cuenta.
+Sí. [Kinpal](https://kinpal.com) es una encuesta de código abierto y gratis para organizar reuniones, sin anuncios. Puedes crear tantas encuestas como quieras, con hasta 3 abiertas a la vez, y los participantes votan sin necesidad de tener una cuenta.
 
 ## En resumen
 
 Doodle sigue siendo gratis, pero solo para una encuesta con 10 opciones y con anuncios. Si eso cubre lo que necesitas, es una opción perfectamente válida. Si no, no tienes por qué pagar solo para encontrar una hora que le venga bien a todo el mundo.
 
-[Crea una encuesta](https://app.rallly.co/new) ahora mismo. Tardarás aproximadamente un minuto y nadie tendrá que registrarse.
+[Crea una encuesta](https://app.kinpal.com/new) ahora mismo. Tardarás aproximadamente un minuto y nadie tendrá que registrarse.

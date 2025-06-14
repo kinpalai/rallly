@@ -52,7 +52,7 @@ export interface CreateOAuthOptions<T extends string> {
   }: {
     integrationId: T;
     callbackUrl: string;
-    // `admin_consent` runs for an administrator who may have no Rallly
+    // `admin_consent` runs for an administrator who may have no Kinpal
     // session, so per user gates must not apply to it.
     flow: "connect" | "admin_consent";
   }) => OAuthClient | null | Promise<OAuthClient | null>;

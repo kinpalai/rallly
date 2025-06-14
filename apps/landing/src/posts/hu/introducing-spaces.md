@@ -7,9 +7,9 @@ excerpt: >-
   helyen.
 ---
 
-Örömmel mutatom be a **Munkatereket** – a Rallly új, csapatok közötti együttműködést támogató funkcióját, amely megváltoztatja, ahogyan a szervezetek az időpont-egyeztetést és a számlázást kezelik. Ahelyett, hogy több különálló Pro-előfizetéssel kellene zsonglőrködnöd, a Munkaterek az egész csapatot egyetlen közös munkatérbe szervezik.
+Örömmel mutatom be a **Munkatereket** – a Kinpal új, csapatok közötti együttműködést támogató funkcióját, amely megváltoztatja, ahogyan a szervezetek az időpont-egyeztetést és a számlázást kezelik. Ahelyett, hogy több különálló Pro-előfizetéssel kellene zsonglőrködnöd, a Munkaterek az egész csapatot egyetlen közös munkatérbe szervezik.
 
-![Rallly Spaces](https://d39ixtfgglw55o.cloudfront.net/images/spaces.webp)
+![Kinpal Spaces](https://d39ixtfgglw55o.cloudfront.net/images/spaces.webp)
 
 ## Mik azok a Munkaterek?
 
@@ -44,10 +44,10 @@ Legyen szó a napi rövid megbeszéléseket szervező startupcsapatról, ügyfé
 
 Szeretnéd egyszerűbbé tenni a csapatod időpont-egyeztetését? Az első Munkatér létrehozásához mindössze néhány kattintásra van szükség, a meglévő Pro-felhasználók pedig könnyedén áttérhetnek az új, csapatalapú számlázási modellre.
 
-A Munkaterek iránti elkötelezettségem része, hogy a Rallly minden méretű csapat számára a lehető legjobb időpont-egyeztetési megoldássá váljon. A támogatásoddal továbbra is olyan funkciókat fejlesztek, amelyek egyszerűbbé teszik az együttműködést.
+A Munkaterek iránti elkötelezettségem része, hogy a Kinpal minden méretű csapat számára a lehető legjobb időpont-egyeztetési megoldássá váljon. A támogatásoddal továbbra is olyan funkciókat fejlesztek, amelyek egyszerűbbé teszik az együttműködést.
 
 ---
 
-Kérdésed van a Munkaterekkel kapcsolatban? Örömmel fogadom a [visszajelzésedet](mailto:feedback@rallly.co), és segítek a beállításban!
+Kérdésed van a Munkaterekkel kapcsolatban? Örömmel fogadom a [visszajelzésedet](mailto:feedback@kinpal.com), és segítek a beállításban!
 
 Sikeres időpont-egyeztetést!

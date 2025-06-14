@@ -3,15 +3,15 @@ title: Σύνδεσμοι βιντεοκλήσης που δημιουργούν
 date: '2026-10-14'
 category: Product
 excerpt: >-
-  Συνδέστε το Google Meet, το Zoom, το Microsoft Teams ή το Webex και το Rallly
+  Συνδέστε το Google Meet, το Zoom, το Microsoft Teams ή το Webex και το Kinpal
   θα προσθέσει τον σύνδεσμο της συνάντησης στην πρόσκληση όταν επιλέξετε ώρα.
 ---
 
-Το Rallly μπορεί πλέον να δημιουργεί τον σύνδεσμο της συνάντησης για εσάς. Συνδέστε το Google Meet, το Zoom, το Microsoft Teams ή το Webex, προσθέστε μια βιντεοκλήση στην Ψηφοφορία σας και, όταν την οριστικοποιήσετε, το Rallly δημιουργεί τη συνάντηση για την επιλεγμένη ώρα και προσθέτει τον σύνδεσμο συμμετοχής στο συμβάν, στην πρόσκληση ημερολογίου και στα email επιβεβαίωσης.
+Το Kinpal μπορεί πλέον να δημιουργεί τον σύνδεσμο της συνάντησης για εσάς. Συνδέστε το Google Meet, το Zoom, το Microsoft Teams ή το Webex, προσθέστε μια βιντεοκλήση στην Ψηφοφορία σας και, όταν την οριστικοποιήσετε, το Kinpal δημιουργεί τη συνάντηση για την επιλεγμένη ώρα και προσθέτει τον σύνδεσμο συμμετοχής στο συμβάν, στην πρόσκληση ημερολογίου και στα email επιβεβαίωσης.
 
 Δεν χρειάζεται πλέον να δημιουργείτε μια συνάντηση με μη αυτόματο τρόπο αφού συγκεντρωθούν οι ψήφοι και να αντιγράφετε τον σύνδεσμο σε ένα email υπενθύμισης.
 
-![Το μενού «Προσθήκη βιντεοκλήσης» στη φόρμα Ψηφοφορίας, με τους συνδεδεμένους και διαθέσιμους παρόχους](https://support.rallly.co/images/integrations/zoom/video-call-menu.png)
+![Το μενού «Προσθήκη βιντεοκλήσης» στη φόρμα Ψηφοφορίας, με τους συνδεδεμένους και διαθέσιμους παρόχους](https://support.kinpal.com/images/integrations/zoom/video-call-menu.png)
 
 ## Πώς λειτουργεί
 
@@ -34,11 +34,11 @@ excerpt: >-
 
 Κάθε ενσωμάτωση διαθέτει έναν οδηγό που καλύπτει τις απαιτήσεις, τα δικαιώματα και τον τρόπο αποσύνδεσης:
 
-- [Google Meet](https://support.rallly.co/integrations/google-meet)
-- [Zoom](https://support.rallly.co/integrations/zoom)
-- [Microsoft Teams](https://support.rallly.co/integrations/microsoft-teams)
-- [Webex](https://support.rallly.co/integrations/webex)
+- [Google Meet](https://support.kinpal.com/integrations/google-meet)
+- [Zoom](https://support.kinpal.com/integrations/zoom)
+- [Microsoft Teams](https://support.kinpal.com/integrations/microsoft-teams)
+- [Webex](https://support.kinpal.com/integrations/webex)
 
-Αν αντιμετωπίσετε οποιοδήποτε πρόβλημα ή υπάρχει κάποιος πάροχος που θα θέλατε να δείτε στη συνέχεια, ενημερώστε με στη διεύθυνση [feedback@rallly.co](mailto:feedback@rallly.co).
+Αν αντιμετωπίσετε οποιοδήποτε πρόβλημα ή υπάρχει κάποιος πάροχος που θα θέλατε να δείτε στη συνέχεια, ενημερώστε με στη διεύθυνση [feedback@kinpal.com](mailto:feedback@kinpal.com).
 
 Καλή οργάνωση συναντήσεων :)

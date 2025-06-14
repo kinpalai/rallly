@@ -2,18 +2,18 @@
 title: White label -brändäys itse ylläpidetyissä instansseissa
 date: '2026-01-15'
 category: Self-hosting
-excerpt: 'Muokkaa Rallly-instanssiasi omalla brändilläsi, väreilläsi ja logoillasi.'
+excerpt: 'Muokkaa Kinpal-instanssiasi omalla brändilläsi, väreilläsi ja logoillasi.'
 ---
 
-Iloitsen voidessani ilmoittaa, että white label -brändäys on nyt saatavilla itse ylläpidetyille Rallly-instansseille.
+Iloitsen voidessani ilmoittaa, että white label -brändäys on nyt saatavilla itse ylläpidetyille Kinpal-instansseille.
 
-![Esimerkki white label -brändäyksestä](https://support.rallly.co/images/self-hosting/whitelabel-splash.webp)
+![Esimerkki white label -brändäyksestä](https://support.kinpal.com/images/self-hosting/whitelabel-splash.webp)
 
-Tämä ominaisuus kehitettiin yritysasiakkaan pyynnöstä. Asiakas tarvitsi ratkaisun, jolla heidän Rallly-asennuksensa integroituisi saumattomasti heidän olemassa olevaan brändiinsä. Nyt ominaisuus on saatavilla kaikille Enterprise-lisenssin haltijoille valinnaisena lisäosana.
+Tämä ominaisuus kehitettiin yritysasiakkaan pyynnöstä. Asiakas tarvitsi ratkaisun, jolla heidän Kinpal-asennuksensa integroituisi saumattomasti heidän olemassa olevaan brändiinsä. Nyt ominaisuus on saatavilla kaikille Enterprise-lisenssin haltijoille valinnaisena lisäosana.
 
-Jos olet seurannut kehitystä, saatat muistaa, että lisäsin hiljattain [tumman tilan tuen](/blog/introducing-dark-mode) ja mainitsin teemojen muokkausmahdollisuuksien olevan tulossa. White label -brändäys on tämän työn tulos. Nyt voit muokata instanssisi nimeä, päävärejä (sekä vaaleassa että tummassa tilassa) ja logoja sekä poistaa Rallly-maininnan kokonaan.
+Jos olet seurannut kehitystä, saatat muistaa, että lisäsin hiljattain [tumman tilan tuen](/blog/introducing-dark-mode) ja mainitsin teemojen muokkausmahdollisuuksien olevan tulossa. White label -brändäys on tämän työn tulos. Nyt voit muokata instanssisi nimeä, päävärejä (sekä vaaleassa että tummassa tilassa) ja logoja sekä poistaa Kinpal-maininnan kokonaan.
 
-Tekniset tiedot ja määritysvaihtoehdot löydät [white label -brändäyksen dokumentaatiosta](https://support.rallly.co/self-hosting/white-labeling).
+Tekniset tiedot ja määritysvaihtoehdot löydät [white label -brändäyksen dokumentaatiosta](https://support.kinpal.com/self-hosting/white-labeling).
 
 ## Miksi Enterprise-lisäosa?
 

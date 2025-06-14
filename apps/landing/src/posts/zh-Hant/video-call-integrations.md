@@ -2,14 +2,14 @@
 title: 確定時間後自動建立視訊通話連結
 date: '2026-10-14'
 category: Product
-excerpt: 連結 Google Meet、Zoom、Microsoft Teams 或 Webex，確定時間後，Rallly 就會將會議連結新增到邀請中。
+excerpt: 連結 Google Meet、Zoom、Microsoft Teams 或 Webex，確定時間後，Kinpal 就會將會議連結新增到邀請中。
 ---
 
-Rallly 現在可以替你建立會議連結。連結 Google Meet、Zoom、Microsoft Teams 或 Webex，將視訊通話新增到投票中；確定時間後，Rallly 會為選定的時間建立會議，並將加入連結放入活動、日曆邀請和確認電子郵件中。
+Kinpal 現在可以替你建立會議連結。連結 Google Meet、Zoom、Microsoft Teams 或 Webex，將視訊通話新增到投票中；確定時間後，Kinpal 會為選定的時間建立會議，並將加入連結放入活動、日曆邀請和確認電子郵件中。
 
 投票完成後，不必再手動建立會議，也不用將連結貼到後續電子郵件中。
 
-![投票表單中的「新增視訊通話」選單，列出已連結和可用的服務](https://support.rallly.co/images/integrations/zoom/video-call-menu.png)
+![投票表單中的「新增視訊通話」選單，列出已連結和可用的服務](https://support.kinpal.com/images/integrations/zoom/video-call-menu.png)
 
 ## 運作方式
 
@@ -32,11 +32,11 @@ Google Meet、Zoom、Microsoft Teams 和 Webex 在所有方案中都能使用，
 
 每項整合功能都有一份指南，說明使用需求、權限以及如何中斷連結：
 
-- [Google Meet](https://support.rallly.co/integrations/google-meet)
-- [Zoom](https://support.rallly.co/integrations/zoom)
-- [Microsoft Teams](https://support.rallly.co/integrations/microsoft-teams)
-- [Webex](https://support.rallly.co/integrations/webex)
+- [Google Meet](https://support.kinpal.com/integrations/google-meet)
+- [Zoom](https://support.kinpal.com/integrations/zoom)
+- [Microsoft Teams](https://support.kinpal.com/integrations/microsoft-teams)
+- [Webex](https://support.kinpal.com/integrations/webex)
 
-如果你遇到任何問題，或有希望我們接下來支援的服務，歡迎透過 [feedback@rallly.co](mailto:feedback@rallly.co) 告訴我。
+如果你遇到任何問題，或有希望我們接下來支援的服務，歡迎透過 [feedback@kinpal.com](mailto:feedback@kinpal.com) 告訴我。
 
 祝你安排會議順利 :)

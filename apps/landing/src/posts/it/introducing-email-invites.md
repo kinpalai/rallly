@@ -15,8 +15,8 @@ Ora puoi invitare le persone via email direttamente dalla pagina del sondaggio. 
 
 Tutte le persone che inviti appariranno nella finestra con il loro stato attuale. Inviato significa che l’email è stata spedita. Aperto significa che la persona ha fatto clic sul link. Ha risposto significa che ha inviato la propria disponibilità. A colpo d’occhio puoi vedere chi deve ancora ricevere un promemoria.
 
-Il link d’invito è ancora disponibile e gratuito. Gli inviti via email fanno parte di Rallly Pro: se hai già un abbonamento Pro o appartieni a uno Spazio Pro, ora puoi usarli nei tuoi sondaggi. Per inviare inviti devi aver effettuato l’accesso, perché gli inviti e le risposte che raccolgono sono associati al tuo account e non al browser che stai utilizzando.
+Il link d’invito è ancora disponibile e gratuito. Gli inviti via email fanno parte di Kinpal Pro: se hai già un abbonamento Pro o appartieni a uno Spazio Pro, ora puoi usarli nei tuoi sondaggi. Per inviare inviti devi aver effettuato l’accesso, perché gli inviti e le risposte che raccolgono sono associati al tuo account e non al browser che stai utilizzando.
 
-Questo è il primo passo per rendere Rallly ancora più utile per tutto ciò che riguarda l’organizzazione dopo la creazione del sondaggio. Il prossimo passo saranno i promemoria per le persone che non hanno ancora risposto.
+Questo è il primo passo per rendere Kinpal ancora più utile per tutto ciò che riguarda l’organizzazione dopo la creazione del sondaggio. Il prossimo passo saranno i promemoria per le persone che non hanno ancora risposto.
 
-Come sempre, se hai dei suggerimenti o incontri qualche problema, mi farebbe piacere ricevere un tuo messaggio all’indirizzo [feedback@rallly.co](mailto:feedback@rallly.co).
+Come sempre, se hai dei suggerimenti o incontri qualche problema, mi farebbe piacere ricevere un tuo messaggio all’indirizzo [feedback@kinpal.com](mailto:feedback@kinpal.com).

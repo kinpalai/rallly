@@ -5,7 +5,7 @@ category: Product
 excerpt: En opdatering med fokus på at gøre appen nemmere at bruge på mobilen.
 ---
 
-Vidste du, at over halvdelen af alle Rallly-brugere benytter mobilen?
+Vidste du, at over halvdelen af alle Kinpal-brugere benytter mobilen?
 
 ![Enhedsdata](/static/images/device-data.png)
 

@@ -600,7 +600,7 @@ test.describe("invite ballot", () => {
     await prisma.scheduledEvent.create({
       data: {
         id: eventId,
-        uid: `${eventId}@rallly.co`,
+        uid: `${eventId}@kinpal.com`,
         userId: host.id,
         spaceId: space.id,
         title: "Ballot ballot-spec-scheduled",
@@ -760,7 +760,7 @@ test.describe("invite ballot", () => {
     await prisma.scheduledEvent.create({
       data: {
         id: eventId,
-        uid: `${eventId}@rallly.co`,
+        uid: `${eventId}@kinpal.com`,
         userId: host.id,
         spaceId: space.id,
         title: "Ballot ballot-spec-comment-scheduled",

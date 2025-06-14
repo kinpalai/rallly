@@ -15,8 +15,8 @@ Vanaf nu kun je mensen vanaf de pollpagina per e-mail uitnodigen. Open het dialo
 
 Iedereen die je uitnodigt, wordt in het dialoogvenster weergegeven met de huidige status. Verzonden betekent dat de e-mail is verstuurd. Geopend betekent dat de link is aangeklikt. Geantwoord betekent dat de beschikbaarheid is ingediend. Zo zie je in één oogopslag wie nog een seintje nodig heeft.
 
-De uitnodigingslink is er nog steeds en blijft gratis. Uitnodigingen per e-mail maken deel uit van Rallly Pro. Als je al een Pro-abonnement hebt of lid bent van een Pro-ruimte, kun je ze nu voor je polls gebruiken. Je moet ingelogd zijn om uitnodigingen te versturen, omdat de uitnodigingen en de antwoorden die daarop binnenkomen aan je account zijn gekoppeld en niet aan de browser die je toevallig gebruikt.
+De uitnodigingslink is er nog steeds en blijft gratis. Uitnodigingen per e-mail maken deel uit van Kinpal Pro. Als je al een Pro-abonnement hebt of lid bent van een Pro-ruimte, kun je ze nu voor je polls gebruiken. Je moet ingelogd zijn om uitnodigingen te versturen, omdat de uitnodigingen en de antwoorden die daarop binnenkomen aan je account zijn gekoppeld en niet aan de browser die je toevallig gebruikt.
 
-Dit is de eerste stap om Rallly beter te maken in het deel van het plannen dat plaatsvindt nadat je de poll hebt aangemaakt. Herinneringen voor mensen die nog niet hebben geantwoord, volgen hierna.
+Dit is de eerste stap om Kinpal beter te maken in het deel van het plannen dat plaatsvindt nadat je de poll hebt aangemaakt. Herinneringen voor mensen die nog niet hebben geantwoord, volgen hierna.
 
-Zoals altijd hoor ik graag van je via [feedback@rallly.co](mailto:feedback@rallly.co) als je feedback hebt of ergens tegenaan loopt.
+Zoals altijd hoor ik graag van je via [feedback@kinpal.com](mailto:feedback@kinpal.com) als je feedback hebt of ergens tegenaan loopt.

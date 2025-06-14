@@ -5,7 +5,7 @@ category: Product
 excerpt: Voit nyt näyttää osallistujille logosi ja brändisi värit.
 ---
 
-Yksi asia, jonka olen kuullut Ralllya käyttäviltä tiimeiltä, on se, että kutsusivu tuntui irralliselta heidän brändistään. Se on sivu, jolle vieraat päätyvät, kun lähetät heille kyselyn. Kun lähetät ajan varaamiseen tarkoitetun linkin asiakkaalle tai uudelle työntekijälle, geneerinen käyttöliittymä voi heikentää vaikutelmaa, jota olet muualla rakentanut. Sama koskee vahvistussähköposteja, jotka osallistujat saavat äänestämisen jälkeen.
+Yksi asia, jonka olen kuullut Kinpala käyttäviltä tiimeiltä, on se, että kutsusivu tuntui irralliselta heidän brändistään. Se on sivu, jolle vieraat päätyvät, kun lähetät heille kyselyn. Kun lähetät ajan varaamiseen tarkoitetun linkin asiakkaalle tai uudelle työntekijälle, geneerinen käyttöliittymä voi heikentää vaikutelmaa, jota olet muualla rakentanut. Sama koskee vahvistussähköposteja, jotka osallistujat saavat äänestämisen jälkeen.
 
 ![Brändätty ajanvarausta koskeva kysely](https://d39ixtfgglw55o.cloudfront.net/images/branded-poll.webp)
 
@@ -19,7 +19,7 @@ Visuaalisesti kyse on pienestä muutoksesta, mutta sillä on suuri vaikutus, kun
 
 ## Näin otat sen käyttöön
 
-1. Siirry kohtaan [Tilan asetukset](https://app.rallly.co/settings/general)
+1. Siirry kohtaan [Tilan asetukset](https://app.kinpal.com/settings/general)
 2. Lataa logosi ja valitse pääväri
 3. Ota käyttöön **Mukautettu brändäys**
 
@@ -27,4 +27,4 @@ Visuaalisesti kyse on pienestä muutoksesta, mutta sillä on suuri vaikutus, kun
 
 Kaikilla julkisilla sivuillasi käytetään brändi-ilmettäsi automaattisesti.
 
-Kuten aina, jos sinulla on palautetta tai kohtaat ongelmia, kuulisin niistä mielelläni osoitteessa [feedback@rallly.co](mailto:feedback@rallly.co).
+Kuten aina, jos sinulla on palautetta tai kohtaat ongelmia, kuulisin niistä mielelläni osoitteessa [feedback@kinpal.com](mailto:feedback@kinpal.com).

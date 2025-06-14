@@ -1,14 +1,14 @@
 ---
-title: El futuro de Rallly
+title: El futuro de Kinpal
 date: '2023-06-18'
 category: Company
 excerpt: >-
-  Rallly siempre ha tenido como objetivo simplificar la organización de
+  Kinpal siempre ha tenido como objetivo simplificar la organización de
   reuniones de grupo, pero mi intención es convertirlo en algo más que una
   plataforma de encuestas.
 ---
 
-Rallly siempre ha tenido como objetivo simplificar la organización de reuniones de grupo, pero mi intención es convertirlo en algo más que una plataforma de encuestas. Quiero crear un flujo de trabajo único, flexible y familiar que ayude a los usuarios a encontrar la fecha perfecta para su evento.
+Kinpal siempre ha tenido como objetivo simplificar la organización de reuniones de grupo, pero mi intención es convertirlo en algo más que una plataforma de encuestas. Quiero crear un flujo de trabajo único, flexible y familiar que ayude a los usuarios a encontrar la fecha perfecta para su evento.
 
 ## El flujo de trabajo
 
@@ -28,7 +28,7 @@ Cuando organizas un evento, puede resultar muy útil tener una idea general de l
 
 ### Encuestas
 
-Las encuestas son el núcleo de Rallly y encajan perfectamente en este nuevo flujo de trabajo. Una vez recopilada la disponibilidad general, los organizadores podrán reducir las opciones a unas pocas y permitir que los participantes voten por sus fechas preferidas.
+Las encuestas son el núcleo de Kinpal y encajan perfectamente en este nuevo flujo de trabajo. Una vez recopilada la disponibilidad general, los organizadores podrán reducir las opciones a unas pocas y permitir que los participantes voten por sus fechas preferidas.
 
 ![Polls](/static/images/the-future-of-rallly/poll.svg)
 
@@ -44,4 +44,4 @@ Los componentes anteriores seguirán este orden: Cuadrícula de disponibilidad -
 
 ## Conclusión
 
-Me hace muchísima ilusión empezar a trabajar en este flujo de trabajo mejorado para Rallly. Como siempre, tus comentarios son muy valiosos para mí. Dime si crees que este flujo de trabajo podría resultar útil o si tienes alguna sugerencia para mejorarlo. Estoy deseando seguir dando forma a Rallly para convertirlo en una herramienta que facilite y agilice la organización de reuniones para todo el mundo.
+Me hace muchísima ilusión empezar a trabajar en este flujo de trabajo mejorado para Kinpal. Como siempre, tus comentarios son muy valiosos para mí. Dime si crees que este flujo de trabajo podría resultar útil o si tienes alguna sugerencia para mejorarlo. Estoy deseando seguir dando forma a Kinpal para convertirlo en una herramienta que facilite y agilice la organización de reuniones para todo el mundo.

@@ -100,12 +100,12 @@ C'est un choix commercial tout à fait légitime, et si votre entreprise organis
 
 ## Si vous avez simplement besoin d'un sondage de planification
 
-C'est précisément le besoin auquel [Rallly](https://rallly.co) répond. Son fonctionnement tient en une seule chose : vous proposez des horaires, vous partagez un lien et chacun vote pour les horaires qui lui conviennent. Voici comment les forfaits gratuits se comparent :
+C'est précisément le besoin auquel [Kinpal](https://kinpal.com) répond. Son fonctionnement tient en une seule chose : vous proposez des horaires, vous partagez un lien et chacun vote pour les horaires qui lui conviennent. Voici comment les forfaits gratuits se comparent :
 
 <div className="overflow-x-auto">
 <table>
 <thead>
-<tr><th></th><th>Doodle gratuit</th><th>Rallly gratuit</th></tr>
+<tr><th></th><th>Doodle gratuit</th><th>Kinpal gratuit</th></tr>
 </thead>
 <tbody>
 <tr><td>Sondages de groupe</td><td>1</td><td>Illimités, jusqu'à 3 ouverts simultanément</td></tr>
@@ -116,15 +116,15 @@ C'est précisément le besoin auquel [Rallly](https://rallly.co) répond. Son fo
 </table>
 </div>
 
-Sur Rallly, les participants votent simplement avec le lien et n'ont jamais besoin de compte. Chacun voit les options dans son propre fuseau horaire, et finaliser la date puis prévenir tout le monde est gratuit.
+Sur Kinpal, les participants votent simplement avec le lien et n'ont jamais besoin de compte. Chacun voit les options dans son propre fuseau horaire, et finaliser la date puis prévenir tout le monde est gratuit.
 
-Pour être tout aussi transparents sur nos limites : avec le forfait gratuit de Rallly, vous pouvez créer autant de sondages que vous le souhaitez, mais 3 au maximum peuvent être ouverts et recueillir des votes en même temps. Finalisez ou fermez-en un pour pouvoir en ouvrir un autre. Sans créer de compte, vous pouvez avoir 1 sondage ouvert à la fois, avec la même règle : finalisez-le ou fermez-le pour en ouvrir un autre. Les sondages gratuits sont supprimés dès que toutes leurs dates remontent à au moins 30 jours et que personne ne les a modifiés, n'y a voté ou n'y a publié de commentaire au cours des 30 derniers jours.
+Pour être tout aussi transparents sur nos limites : avec le forfait gratuit de Kinpal, vous pouvez créer autant de sondages que vous le souhaitez, mais 3 au maximum peuvent être ouverts et recueillir des votes en même temps. Finalisez ou fermez-en un pour pouvoir en ouvrir un autre. Sans créer de compte, vous pouvez avoir 1 sondage ouvert à la fois, avec la même règle : finalisez-le ou fermez-le pour en ouvrir un autre. Les sondages gratuits sont supprimés dès que toutes leurs dates remontent à au moins 30 jours et que personne ne les a modifiés, n'y a voté ou n'y a publié de commentaire au cours des 30 derniers jours.
 
-Rallly est également [open source](https://github.com/lukevella/rallly), ce qui vous permet d'examiner précisément son fonctionnement et même de l'héberger sur votre propre serveur.
+Kinpal est également [open source](https://github.com/lukevella/rallly), ce qui vous permet d'examiner précisément son fonctionnement et même de l'héberger sur votre propre serveur.
 
-Rallly gagne de l'argent grâce à [Rallly Pro](https://rallly.co/pricing), qui ajoute des fonctionnalités utiles pour un usage professionnel, comme un nombre illimité de sondages ouverts, une image de marque personnalisée et des sondages conservés indéfiniment. C'est ce qui permet de maintenir le forfait gratuit sans publicités pour tout le monde.
+Kinpal gagne de l'argent grâce à [Kinpal Pro](https://kinpal.com/pricing), qui ajoute des fonctionnalités utiles pour un usage professionnel, comme un nombre illimité de sondages ouverts, une image de marque personnalisée et des sondages conservés indéfiniment. C'est ce qui permet de maintenir le forfait gratuit sans publicités pour tout le monde.
 
-Pour une comparaison fonctionnalité par fonctionnalité, consultez [la comparaison entre Rallly et Doodle](https://rallly.co/best-doodle-alternative).
+Pour une comparaison fonctionnalité par fonctionnalité, consultez [la comparaison entre Kinpal et Doodle](https://kinpal.com/best-doodle-alternative).
 
 ## Foire aux questions
 
@@ -154,10 +154,10 @@ Pas pour le moment. Doodle a mis en pause ses applications iOS et Android en jui
 
 ### Existe-t-il une alternative gratuite à Doodle ?
 
-Oui. [Rallly](https://rallly.co) est un outil open source et gratuit de sondage de planification, sans publicités. Vous pouvez créer autant de sondages que vous le souhaitez, avec jusqu'à 3 sondages ouverts simultanément, et les participants votent sans compte.
+Oui. [Kinpal](https://kinpal.com) est un outil open source et gratuit de sondage de planification, sans publicités. Vous pouvez créer autant de sondages que vous le souhaitez, avec jusqu'à 3 sondages ouverts simultanément, et les participants votent sans compte.
 
 ## En résumé
 
 Doodle est toujours gratuit, mais uniquement pour un sondage avec 10 options, et avec des publicités. Si cela répond à vos besoins, c'est un choix tout à fait correct. Si ce n'est pas le cas, vous n'avez pas besoin de payer simplement pour trouver un horaire qui convient à tout le monde.
 
-[Créez un sondage](https://app.rallly.co/new) dès maintenant. Cela prend environ une minute et personne n'a besoin de créer un compte.
+[Créez un sondage](https://app.kinpal.com/new) dès maintenant. Cela prend environ une minute et personne n'a besoin de créer un compte.

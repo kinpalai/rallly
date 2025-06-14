@@ -39,23 +39,23 @@ Distribua as opções por dias diferentes em vez de indicar todas as horas de ap
 
 ## Como criar a sondagem
 
-Qualquer sondagem de marcação serve. Estes passos usam o [Rallly](/scheduling-for/thesis-defense), que é gratuito e não exige que o júri crie contas.
+Qualquer sondagem de marcação serve. Estes passos usam o [Kinpal](/scheduling-for/thesis-defense), que é gratuito e não exige que o júri crie contas.
 
-1. Inicie sessão no Rallly e aceda a [Create a poll](https://app.rallly.co/new). Uma conta gratuita é suficiente, mas precisará de uma para finalizar a data.
+1. Inicie sessão no Kinpal e aceda a [Create a poll](https://app.kinpal.com/new). Uma conta gratuita é suficiente, mas precisará de uma para finalizar a data.
 2. Adicione um título, como "Defesa de doutoramento, Biologia, abril". Qualquer pessoa com a ligação pode ver o título e a descrição, por isso não inclua títulos de teses sujeitos a embargo.
-3. Clique em **Add location** ou em **Add video call** para que o Rallly crie uma ligação do Google Meet, Zoom, Microsoft Teams ou Webex quando finalizar. Primeiro, terá de ligar esse serviço em **Settings**.
-4. Clique em **Add description** e indique a duração do evento e a data-limite para responder. O Rallly não impõe esta data, por isso cabe-lhe fazer o acompanhamento necessário.
+3. Clique em **Add location** ou em **Add video call** para que o Kinpal crie uma ligação do Google Meet, Zoom, Microsoft Teams ou Webex quando finalizar. Primeiro, terá de ligar esse serviço em **Settings**.
+4. Clique em **Add description** e indique a duração do evento e a data-limite para responder. O Kinpal não impõe esta data, por isso cabe-lhe fazer o acompanhamento necessário.
 5. Defina a **Duration** e selecione as opções no calendário.
 6. Mantenha **Require email** ativado, para que todos possam receber o convite de calendário, e mantenha **Vote options** com as opções Sim, Se necessário e Não.
 7. Clique em **Create poll**.
 
-![O formulário de uma nova sondagem no Rallly, com um título, uma duração de duas horas e três datas selecionadas](/static/images/thesis-defense/create-poll.png)
+![O formulário de uma nova sondagem no Kinpal, com um título, uma duração de duas horas e três datas selecionadas](/static/images/thesis-defense/create-poll.png)
 
 ### Se tiver um arguente externo
 
 Um arguente externo é frequentemente a pessoa mais difícil de incluir na marcação. Não aparece no calendário da sua universidade e pode estar a vários fusos horários de distância.
 
-O Rallly mostra a cada pessoa as opções no seu próprio fuso horário, por isso ninguém tem de fazer conversões. Inclua algumas opções que calhem durante o horário de trabalho do arguente externo e tenha cuidado com as semanas em que muda a hora, uma vez que os países alteram a hora em datas diferentes. O arguente pode responder através da ligação sem ter uma conta.
+O Kinpal mostra a cada pessoa as opções no seu próprio fuso horário, por isso ninguém tem de fazer conversões. Inclua algumas opções que calhem durante o horário de trabalho do arguente externo e tenha cuidado com as semanas em que muda a hora, uma vez que os países alteram a hora em datas diferentes. O arguente pode responder através da ligação sem ter uma conta.
 
 ## Partilhe a sondagem e faça o acompanhamento
 
@@ -69,7 +69,7 @@ Dê às pessoas uma semana para responder e contacte quem ainda não tiver respo
 
 ## Finalizar a data
 
-Clique em **Finalize** e o Rallly apresenta primeiro as opções com mais disponibilidade. Escolha a data e selecione quem pretende notificar. Todas as pessoas selecionadas recebem um e-mail com um convite de calendário, incluindo a ligação da videochamada, se tiver adicionado uma. Reserve a sala no mesmo dia.
+Clique em **Finalize** e o Kinpal apresenta primeiro as opções com mais disponibilidade. Escolha a data e selecione quem pretende notificar. Todas as pessoas selecionadas recebem um e-mail com um convite de calendário, incluindo a ligação da videochamada, se tiver adicionado uma. Reserve a sala no mesmo dia.
 
 ![A caixa de diálogo Finalize, com cada opção indicada pelo número de pessoas que podem participar](/static/images/thesis-defense/finalize.png)
 
@@ -92,8 +92,8 @@ Quatro pessoas respondem nos primeiros três dias e o coordenador envia um e-mai
 <PostFaq>
   <FaqItem question="Com quanta antecedência devo marcar uma defesa de tese?">Envie a sondagem pelo menos quatro semanas antes da primeira data possível e com mais antecedência se o júri for grande. Os períodos de aviso do seu programa podem exigir ainda mais tempo.</FaqItem>
   <FaqItem question="Quantas datas devo propor?">Entre 5 e 10, distribuídas por dias diferentes. Pode adicionar mais opções posteriormente se nenhuma for conveniente.</FaqItem>
-  <FaqItem question="E se um membro do júri não responder?">Contacte-o diretamente ao fim de três dias. Se utilizar convites por e-mail, incluídos no Rallly Pro, pode ver quem abriu a sondagem e quem respondeu.</FaqItem>
-  <FaqItem question="Os membros do júri precisam de ter uma conta Rallly?">Não. Abrem a ligação, introduzem o nome e o e-mail e escolhem os horários que lhes são convenientes.</FaqItem>
+  <FaqItem question="E se um membro do júri não responder?">Contacte-o diretamente ao fim de três dias. Se utilizar convites por e-mail, incluídos no Kinpal Pro, pode ver quem abriu a sondagem e quem respondeu.</FaqItem>
+  <FaqItem question="Os membros do júri precisam de ter uma conta Kinpal?">Não. Abrem a ligação, introduzem o nome e o e-mail e escolhem os horários que lhes são convenientes.</FaqItem>
   <FaqItem question="Um coordenador pode marcar uma defesa para um estudante?">Sim. Crie a sondagem e inclua o candidato como uma das pessoas que vão responder. As respostas chegam até si e é você que define a data final.</FaqItem>
-  <FaqItem question="O Rallly é gratuito para este caso?">Sim. Criar sondagens, recolher respostas e finalizar são ações gratuitas. Uma conta gratuita pode ter três sondagens abertas em simultâneo, e o Rallly Pro remove esse limite.</FaqItem>
+  <FaqItem question="O Kinpal é gratuito para este caso?">Sim. Criar sondagens, recolher respostas e finalizar são ações gratuitas. Uma conta gratuita pode ter três sondagens abertas em simultâneo, e o Kinpal Pro remove esse limite.</FaqItem>
 </PostFaq>
