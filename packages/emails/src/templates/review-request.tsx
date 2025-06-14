@@ -29,7 +29,7 @@ export type ReviewRequestEmailProps = {
 
 /**
  * A plain note from the founder, sent once per user a while after a poll
- * they finalized showed Rallly works for them. Deliberately unbranded: no
+ * they finalized showed Kinpal works for them. Deliberately unbranded: no
  * logo or footer badge, so it reads as a personal email.
  */
 async function ReviewRequestEmail({
@@ -47,7 +47,7 @@ async function ReviewRequestEmail({
       <Preview>
         {t("reviewRequest_preview", {
           defaultValue:
-            "Would you leave a quick review of Rallly on {siteName}?",
+            "Would you leave a quick review of Kinpal on {siteName}?",
           siteName,
         })}
       </Preview>
@@ -66,7 +66,7 @@ async function ReviewRequestEmail({
           <Text>
             {t("reviewRequest_intro", {
               defaultValue:
-                "I saw you just scheduled a meeting with Rallly. I hope it saved you some back-and-forth.",
+                "I saw you just scheduled a meeting with Kinpal. I hope it saved you some back-and-forth.",
             })}
           </Text>
           <Text>
@@ -100,7 +100,7 @@ async function ReviewRequestEmail({
           <Text>
             {t("reviewRequest_reply", {
               defaultValue:
-                "Good, bad or somewhere in between, an honest review helps. And if something about Rallly is getting in your way, just reply. I read every reply.",
+                "Good, bad or somewhere in between, an honest review helps. And if something about Kinpal is getting in your way, just reply. I read every reply.",
             })}
           </Text>
           <Text>

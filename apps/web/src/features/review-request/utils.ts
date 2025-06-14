@@ -5,7 +5,7 @@ import {
   reviewSites,
 } from "./constants";
 
-// A finalized poll with a group behind it means Rallly worked for them.
+// A finalized poll with a group behind it means Kinpal worked for them.
 // Waiting for a second one asked a fifth as many people.
 const minFinalizedPolls = 1;
 // Filters out solo tests: the poll worked for a group

@@ -89,7 +89,7 @@ async function handleZoomEvent(req: NextRequest, event: WideEvent) {
 }
 
 // Zoom's deauthorization notification endpoint: when a user removes the app
-// in the Zoom App Marketplace, Rallly deletes what it stored for them.
+// in the Zoom App Marketplace, Kinpal deletes what it stored for them.
 export async function POST(req: NextRequest) {
   const startTime = Date.now();
   const event = createWideEvent({

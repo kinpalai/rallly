@@ -51,11 +51,11 @@ export const MAX_CONSECUTIVE_FAILURES = 20;
  * verify a signature. Same home as the API reference.
  */
 export const getWebhookDocsPath = () =>
-  "https://support.rallly.co/api-reference/webhooks";
+  "https://support.kinpal.com/api-reference/webhooks";
 
 /**
  * The payload contract deliveries are built against, sent both in the body
- * and as `X-Rallly-Webhook-Version`. Date-based rather than `v1`: webhooks
+ * and as `X-Kinpal-Webhook-Version`. Date-based rather than `v1`: webhooks
  * are called at an address the receiver owns, so there is no URL to version
  * on the way `/api/v1` does, and a date sidesteps deciding what counts as a
  * major bump.

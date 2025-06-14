@@ -22,7 +22,7 @@ const timeZone = "America/New_York";
 const pollId = "Kq7xN2pLw9Rt";
 const organizer = {
   id: "docs-workflow-user",
-  email: "docs-workflow@rallly.co",
+  email: "docs-workflow@kinpal.com",
   name: "Jessie Smith",
 };
 const spaceId = "docs-workflow-space";
@@ -180,7 +180,7 @@ async function showProductionUrls(page: Page) {
       if (node.nodeValue?.includes(origin)) {
         node.nodeValue = node.nodeValue.replaceAll(
           origin,
-          "https://app.rallly.co",
+          "https://app.kinpal.com",
         );
       }
     }
