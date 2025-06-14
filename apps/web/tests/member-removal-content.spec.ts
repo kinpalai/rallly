@@ -117,7 +117,7 @@ async function createEvent({
   return prisma.scheduledEvent.create({
     data: {
       id,
-      uid: `${id}@rallly.co`,
+      uid: `${id}@kinpal.com`,
       userId,
       spaceId,
       title: `Event ${id}`,

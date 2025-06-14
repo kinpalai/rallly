@@ -199,10 +199,10 @@ test.describe("Webhook delivery", () => {
 
     expect(receiver.requests).toHaveLength(1);
     const [received] = receiver.requests;
-    expect(received?.headers["x-rallly-event"]).toBe("poll.closed");
+    expect(received?.headers["x-kinpal-event"]).toBe("poll.closed");
     expect(received?.headers["content-type"]).toBe("application/json");
-    expect(received?.headers["x-rallly-webhook-version"]).toBe(WEBHOOK_VERSION);
-    const signature = received?.headers["x-rallly-signature"] as string;
+    expect(received?.headers["x-kinpal-webhook-version"]).toBe(WEBHOOK_VERSION);
+    const signature = received?.headers["x-kinpal-signature"] as string;
     expect(verifySignature(signature, received?.body ?? "")).toBe(true);
 
     const body = JSON.parse(received?.body ?? "{}");
@@ -222,7 +222,7 @@ test.describe("Webhook delivery", () => {
         },
       },
     });
-    expect(received?.headers["x-rallly-delivery"]).toBe(delivery.id);
+    expect(received?.headers["x-kinpal-delivery"]).toBe(delivery.id);
     expect(delivery.status).toBe("succeeded");
     expect(delivery.attempts).toBe(1);
     expect(delivery.lastResponseStatus).toBe(200);
@@ -339,7 +339,7 @@ test.describe("Webhook delivery", () => {
     await runCron(request);
 
     expect(receiver.requests).toHaveLength(1);
-    expect(receiver.requests[0]?.headers["x-rallly-event"]).toBe(
+    expect(receiver.requests[0]?.headers["x-kinpal-event"]).toBe(
       "poll.created",
     );
     expect(JSON.parse(receiver.requests[0]?.body ?? "{}")).toMatchObject({
@@ -409,7 +409,7 @@ test.describe("Webhook delivery", () => {
       expect(summary.fannedOut).toBe(1);
 
       expect(receiver.requests).toHaveLength(1);
-      expect(receiver.requests[0]?.headers["x-rallly-event"]).toBe(eventType);
+      expect(receiver.requests[0]?.headers["x-kinpal-event"]).toBe(eventType);
       expect(JSON.parse(receiver.requests[0]?.body ?? "{}")).toMatchObject({
         type: eventType,
         data: {
@@ -630,7 +630,7 @@ test.describe("Webhook delivery", () => {
 
     expect(receiver.requests).toHaveLength(1);
     expect(
-      receiver.requests[0]?.headers["x-rallly-webhook-version"],
+      receiver.requests[0]?.headers["x-kinpal-webhook-version"],
     ).toBeUndefined();
   });
 

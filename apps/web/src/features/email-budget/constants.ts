@@ -1,4 +1,4 @@
-// Recipients one poll owner may cause Rallly to email in a window, across
+// Recipients one poll owner may cause Kinpal to email in a window, across
 // every send made on their behalf. The median scheduled poll emails 4
 // participants and 99% of polls have under 24 responses, so a real host
 // never gets near this; a host spraying addresses stops at it.

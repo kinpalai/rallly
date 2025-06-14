@@ -60,7 +60,7 @@ const nextConfig: NextConfig = {
   typescript: {
     ignoreBuildErrors: true,
   },
-  // The public API host (https://api.rallly.co) serves the versioned API
+  // The public API host (https://api.kinpal.com) serves the versioned API
   // without the app's `/api` prefix. Only `/v1` is exposed there: the rest of
   // `/api` stays app-host only, so a standalone API project can take over the
   // host later without inheriting them.
@@ -80,7 +80,7 @@ const nextConfig: NextConfig = {
     return [
       {
         source: "/support",
-        destination: "https://support.rallly.co",
+        destination: "https://support.kinpal.com",
         permanent: true,
       },
       {

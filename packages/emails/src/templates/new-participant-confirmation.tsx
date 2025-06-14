@@ -113,7 +113,7 @@ async function NewParticipantConfirmationEmail({
 
 NewParticipantConfirmationEmail.PreviewProps = {
   title: "Untitled Poll",
-  editSubmissionUrl: "https://rallly.co",
+  editSubmissionUrl: "https://kinpal.com",
   locale: "en",
   chrome: previewChrome,
 } as NewParticipantConfirmationEmailProps;

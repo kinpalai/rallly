@@ -97,7 +97,7 @@ export function CreateWebhookButton() {
                   <AlertDescription>
                     <Trans
                       i18nKey="webhookSecretSecurityWarning"
-                      defaults="Store this secret securely. Use it to verify that deliveries came from Rallly."
+                      defaults="Store this secret securely. Use it to verify that deliveries came from Kinpal."
                     />
                   </AlertDescription>
                 </Alert>

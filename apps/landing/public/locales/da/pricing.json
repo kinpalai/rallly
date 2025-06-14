@@ -8,7 +8,7 @@
   "branding": "Varemærkning",
   "cancelSubscription": "Hvordan annullerer jeg mit abonnement?",
   "cancelSubscriptionAnswer": "Du kan altid annullere dit abonnement ved at gå til <a>faktureringsindstillinger</a>. Du vil stadig have adgang til alle funktioner, indtil udløbet af dit abonnement. Herefter vil du kun have adgang til funktioner der følger med den gratis version.",
-  "canUseFree": "Kan jeg bruge Rallly gratis?",
+  "canUseFree": "Kan jeg bruge Kinpal gratis?",
   "canUseFreeAnswer3": "Ja. Det gratis abonnement er ikke en prøveperiode. Du kan oprette lige så mange afstemninger, du vil, invitere lige så mange deltagere, du vil, og bruge det, så længe du vil, uden at betale eller tilføje et kort. Betalte abonnementer tilføjer ekstra funktioner som at gemme afstemninger på ubestemt tid og tilpasset brandingen, men du bliver aldrig bedt om at betale for fortsat at bruge det grundlæggende.",
   "canUseFreeAnswerOpenPollLimit": "Ja. Det gratis abonnement er ikke en prøveperiode. Du kan oprette så mange afstemninger, du vil, have op til {count} åbne ad gangen, invitere så mange deltagere, du vil, og bruge det så længe du vil uden at betale eller tilføje et kort. Betalte abonnementer tilføjer ekstra funktioner som ubegrænsede åbne afstemninger, at gemme afstemninger på ubestemt tid og tilpasset varemærkning, men du vil aldrig blive bedt om at betale for at fortsætte med at bruge det grundlæggende.",
   "compareFeature": "Funktion ",
@@ -63,7 +63,7 @@
   "pricingTitle": "Priser",
   "recommended": "Anbefalet ",
   "removeAttribution": "Fjern kreditering",
-  "removeAttributionBenefitDescription": "Skjul \"Powered by Rallly\" for dine deltagere ",
+  "removeAttributionBenefitDescription": "Skjul \"Powered by Kinpal\" for dine deltagere ",
   "teamCollaboration": "Teamsamarbejde ",
   "teamCollaborationDescription": "Inviter dit team til at styre afstemninger sammen",
   "thirtyDayPollRetention": "30 dages opbevaring af afstemninger ",
@@ -73,6 +73,6 @@
   "whenPollInactive": "Hvornår bliver en afstemning inaktiv?",
   "whenPollInactiveAnswer": "Afstemninger bliver inaktive, når alle datoindstillinger ligger mere end 30 dage tilbage, og der ikke har været aktivitet i 30 dage. Aktivitet omfatter nye stemmer, kommentarer eller ændringer af afstemningen. Inaktive afstemninger slettes automatisk, hvis du ikke har et betalt abonnement.",
   "whyUpgrade": "Hvorfor opgradere?",
-  "whyUpgradeAnswer2": "Opgradering til et betalt abonnement giver mening, hvis du bruger Rallly ofte eller bruger det til arbejde. Den nuværende abonnementssats er en særlig pris og vil stige i fremtiden. Ved at opgradere nu får du tidlig adgang til nye planlægningsværktøjer af høj kvalitet, efterhånden som de bliver frigivet, og låser din abonnementspris fast, så du ikke bliver påvirket af fremtidige prisstigninger.",
+  "whyUpgradeAnswer2": "Opgradering til et betalt abonnement giver mening, hvis du bruger Kinpal ofte eller bruger det til arbejde. Den nuværende abonnementssats er en særlig pris og vil stige i fremtiden. Ved at opgradere nu får du tidlig adgang til nye planlægningsværktøjer af høj kvalitet, efterhånden som de bliver frigivet, og låser din abonnementspris fast, så du ikke bliver påvirket af fremtidige prisstigninger.",
   "yearlySaveUpTo": "Spar op til {percent} %"
 }

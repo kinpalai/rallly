@@ -19,10 +19,10 @@ import { createSpaceInDb, createUserInDb, loginWithEmail } from "./test-utils";
 
 const CRON_SECRET = process.env.CRON_SECRET;
 const EVENT_ID = "invite-email-event";
-const EVENT_UID = "invite-email-event@rallly.co";
+const EVENT_UID = "invite-email-event@kinpal.com";
 const POLL_ID = "invite-email-poll";
 const TITLE = "Invite Email Test Event";
-const HOST_EMAIL = "invite-email-host@rallly.co";
+const HOST_EMAIL = "invite-email-host@kinpal.com";
 const QUEUED_INVITE_UID = "invite-email-queued";
 
 const YEAR = new Date().getFullYear() + 1;
@@ -280,7 +280,7 @@ test.describe("Queued invite emails", () => {
 
 test.describe("Booking a poll", () => {
   const BOOKING_POLL_ID = "invite-email-booking-poll";
-  const BOOKING_HOST_EMAIL = "invite-email-booking-host@rallly.co";
+  const BOOKING_HOST_EMAIL = "invite-email-booking-host@kinpal.com";
   const ALICE = "invite-booking-alice@example.com";
   const BOB = "invite-booking-bob@example.com";
 
