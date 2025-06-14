@@ -92,7 +92,7 @@ for (const { provider, label, dir, scopes, email } of providers) {
     await clearConnections();
     await page.setViewportSize({ width: 1280, height: 900 });
     await deleteAllMessages();
-    await loginWithEmail(page, { email: "dev@rallly.co" });
+    await loginWithEmail(page, { email: "dev@kinpal.com" });
 
     await page.goto("/settings/conferencing");
     await settle(page);

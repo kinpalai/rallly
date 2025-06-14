@@ -24,4 +24,4 @@ export const API_RATE_LIMIT_PER_DAY = 5000;
  * by `scripts/generate-openapi.ts`. v1 has no in-app docs page.
  */
 export const getApiDocsPath = () =>
-  "https://support.rallly.co/api-reference/introduction";
+  "https://support.kinpal.com/api-reference/introduction";

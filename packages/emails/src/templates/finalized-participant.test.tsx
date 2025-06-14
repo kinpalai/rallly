@@ -6,7 +6,7 @@ import FinalizeParticipantEmail from "./finalized-participant";
 const baseProps = {
   title: "Team Meeting",
   hostName: "Jane Doe",
-  pollUrl: "https://rallly.co/invite/abc",
+  pollUrl: "https://kinpal.com/invite/abc",
   date: "Friday, 12 June 2026",
   time: "6:00 PM to 7:00 PM BST",
   chrome: previewChrome,

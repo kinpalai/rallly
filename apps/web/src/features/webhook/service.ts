@@ -204,7 +204,7 @@ export class WebhookSender extends Context.Service<
       body: string;
     }): Effect.Effect<{ status: number }, WebhookSendError>;
   }
->()("rallly/webhook/WebhookSender") {
+>()("kinpal/webhook/WebhookSender") {
   static readonly layer = Layer.sync(WebhookSender, () => {
     const send = Effect.fn("WebhookSender.send")(function* ({
       url,
@@ -237,11 +237,11 @@ export class WebhookSender extends Context.Service<
             method: "POST",
             headers: {
               "Content-Type": "application/json",
-              "User-Agent": "Rallly-Webhooks/1.0",
-              "X-Rallly-Event": eventType,
-              ...(version ? { "X-Rallly-Webhook-Version": version } : {}),
-              "X-Rallly-Delivery": deliveryId,
-              "X-Rallly-Signature": signature,
+              "User-Agent": "Kinpal-Webhooks/1.0",
+              "X-Kinpal-Event": eventType,
+              ...(version ? { "X-Kinpal-Webhook-Version": version } : {}),
+              "X-Kinpal-Delivery": deliveryId,
+              "X-Kinpal-Signature": signature,
             },
             body,
             redirect: "manual",

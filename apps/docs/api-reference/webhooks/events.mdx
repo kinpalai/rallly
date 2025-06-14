@@ -25,7 +25,7 @@ Every body has the same outer shape. `data` is the only part that differs betwee
 | --- | --- |
 | `version` | The payload contract the body was built against. See [Versioning](/api-reference/webhooks#versioning) |
 | `id` | The event's stable id. Retries carry the same `id`; deduplicate on it |
-| `type` | The event, also sent as the `X-Rallly-Event` header |
+| `type` | The event, also sent as the `X-Kinpal-Event` header |
 | `createdAt` | When the change happened, not when the request was sent |
 | `data` | The event's payload. Each event page documents it |
 
@@ -36,11 +36,11 @@ Payloads are deliberately thin. An event says what happened and to which poll or
 | Header | Value |
 | --- | --- |
 | `Content-Type` | `application/json` |
-| `X-Rallly-Event` | The event type, the same as `type` in the body |
-| `X-Rallly-Delivery` | Unique per delivery attempt |
-| `X-Rallly-Webhook-Version` | The payload version, the same as `version` in the body |
-| `X-Rallly-Signature` | `t=<unix seconds>,v1=<hex HMAC-SHA256>`. See [Security](/api-reference/webhooks/security) |
-| `User-Agent` | `Rallly-Webhooks/1.0` |
+| `X-Kinpal-Event` | The event type, the same as `type` in the body |
+| `X-Kinpal-Delivery` | Unique per delivery attempt |
+| `X-Kinpal-Webhook-Version` | The payload version, the same as `version` in the body |
+| `X-Kinpal-Signature` | `t=<unix seconds>,v1=<hex HMAC-SHA256>`. See [Security](/api-reference/webhooks/security) |
+| `User-Agent` | `Kinpal-Webhooks/1.0` |
 
 ## Events
 

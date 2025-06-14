@@ -1,7 +1,7 @@
 /**
  * Zones whose rules changed recently enough that engines disagree about them.
  *
- * Every Intl call reads the tz data bundled with its engine, and Rallly
+ * Every Intl call reads the tz data bundled with its engine, and Kinpal
  * converts on both the server (Node) and the viewer's browser. When one has
  * the new rules and the other doesn't, times shift by an hour. From `from`
  * (local wall time) onwards, each zone is swapped for a substitute that every

@@ -26,7 +26,7 @@
     <text x="362" y="47" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="12.5" fill="#71717a">results.ts</text>
     <text x="44" y="88" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="11" font-weight="600" letter-spacing="0.6" fill="#71717a">EXPLORER</text>
     <path d="M44 104 l4 4 -4 4" fill="none" stroke="#71717a" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-    <text x="54" y="112" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="12" fill="#a1a1aa">rallly-integration</text>
+    <text x="54" y="112" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="12" fill="#a1a1aa">kinpal-integration</text>
     <path d="M58 128 l4 4 -4 4" fill="none" stroke="#71717a" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
     <text x="68" y="136" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="12" fill="#a1a1aa">src</text>
     <rect x="32" y="145" width="152" height="22" rx="5" fill="#27272a"/>
@@ -40,13 +40,13 @@
     <text x="72" y="232" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="12" fill="#a1a1aa">package.json</text>
     <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5">
       <text x="220" y="84" text-anchor="end" fill="#52525b">1</text>
-      <text x="236" y="84"><tspan fill="#c4b5fd">const </tspan><tspan fill="#d4d4d8">res</tspan><tspan fill="#71717a"> = </tspan><tspan fill="#c4b5fd">await </tspan><tspan fill="#d4d4d8">fetch</tspan><tspan fill="#71717a">(</tspan><tspan fill="url(#accent)">"https://api.rallly.co/v1/polls"</tspan><tspan fill="#71717a">, {</tspan></text>
+      <text x="236" y="84"><tspan fill="#c4b5fd">const </tspan><tspan fill="#d4d4d8">res</tspan><tspan fill="#71717a"> = </tspan><tspan fill="#c4b5fd">await </tspan><tspan fill="#d4d4d8">fetch</tspan><tspan fill="#71717a">(</tspan><tspan fill="url(#accent)">"https://api.kinpal.com/v1/polls"</tspan><tspan fill="#71717a">, {</tspan></text>
       <text x="220" y="102" text-anchor="end" fill="#52525b">2</text>
       <text x="251" y="102"><tspan fill="#e4e4e7">method</tspan><tspan fill="#71717a">: </tspan><tspan fill="#a5b4fc">"POST"</tspan><tspan fill="#71717a">,</tspan></text>
       <text x="220" y="120" text-anchor="end" fill="#52525b">3</text>
       <text x="251" y="120"><tspan fill="#e4e4e7">headers</tspan><tspan fill="#71717a">: {</tspan></text>
       <text x="220" y="138" text-anchor="end" fill="#52525b">4</text>
-      <text x="266" y="138"><tspan fill="#e4e4e7">Authorization</tspan><tspan fill="#71717a">: </tspan><tspan fill="#a5b4fc">`Bearer </tspan><tspan fill="#a1a1aa">${</tspan><tspan fill="#d4d4d8">process</tspan><tspan fill="#71717a">.</tspan><tspan fill="#d4d4d8">env</tspan><tspan fill="#71717a">.</tspan><tspan fill="#d4d4d8">RALLLY_API_KEY</tspan><tspan fill="#a1a1aa">}</tspan><tspan fill="#a5b4fc">`</tspan><tspan fill="#71717a">,</tspan></text>
+      <text x="266" y="138"><tspan fill="#e4e4e7">Authorization</tspan><tspan fill="#71717a">: </tspan><tspan fill="#a5b4fc">`Bearer </tspan><tspan fill="#a1a1aa">${</tspan><tspan fill="#d4d4d8">process</tspan><tspan fill="#71717a">.</tspan><tspan fill="#d4d4d8">env</tspan><tspan fill="#71717a">.</tspan><tspan fill="#d4d4d8">KINPAL_API_KEY</tspan><tspan fill="#a1a1aa">}</tspan><tspan fill="#a5b4fc">`</tspan><tspan fill="#71717a">,</tspan></text>
       <text x="220" y="156" text-anchor="end" fill="#52525b">5</text>
       <text x="266" y="156"><tspan fill="#a5b4fc">"Content-Type"</tspan><tspan fill="#71717a">: </tspan><tspan fill="#a5b4fc">"application/json"</tspan><tspan fill="#71717a">,</tspan></text>
       <text x="220" y="174" text-anchor="end" fill="#52525b">6</text>

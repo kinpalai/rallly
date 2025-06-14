@@ -1,13 +1,13 @@
 ---
-title: Introducing the Rallly API
+title: Introducing the Kinpal API
 date: "2026-09-15"
 category: Product
-excerpt: Create polls, read results and close them from your own tools. The API is available now for Pro spaces on Rallly Cloud.
+excerpt: Create polls, read results and close them from your own tools. The API is available now for Pro spaces on Kinpal Cloud.
 ---
 
-Rallly has had a small API behind a flag for a while. A handful of people have been using it to create polls from their own systems, and their feedback has shaped what ships today. It is now open to every Pro space on Rallly Cloud.
+Kinpal has had a small API behind a flag for a while. A handful of people have been using it to create polls from their own systems, and their feedback has shaped what ships today. It is now open to every Pro space on Kinpal Cloud.
 
-![A code editor showing a fetch request that creates a date poll with three options through the Rallly API](/static/images/rallly-api/create-poll-editor.svg)
+![A code editor showing a fetch request that creates a date poll with three options through the Kinpal API](/static/images/kinpal-api/create-poll-editor.svg)
 
 ## What it does
 
@@ -26,8 +26,8 @@ Every request is scoped to one space. The API key identifies the space, so anyth
 The space owner creates a key in **Settings → API keys**. Requests carry it as a bearer token:
 
 ```sh
-curl https://api.rallly.co/v1/polls \
-  -H "Authorization: Bearer $RALLLY_API_KEY" \
+curl https://api.kinpal.com/v1/polls \
+  -H "Authorization: Bearer $KINPAL_API_KEY" \
   -H "Content-Type: application/json" \
   -d '{
     "title": "Team offsite",
@@ -42,8 +42,8 @@ curl https://api.rallly.co/v1/polls \
 
 The response includes an `inviteUrl` to share with participants and an `adminUrl` for the organizer. Each space can make 60 requests a minute.
 
-The [API reference](https://support.rallly.co/api-reference/introduction) has every endpoint with request and response examples, and the OpenAPI document is available if you would rather generate a client.
+The [API reference](https://support.kinpal.com/api-reference/introduction) has every endpoint with request and response examples, and the OpenAPI document is available if you would rather generate a client.
 
 ## What comes next
 
-Polling for results works, but it is not how most integrations want to run. Webhooks for poll events are planned so your system hears about a new response or a closed poll as it happens. There is no date for that yet. If you build something on the API, I would like to hear what you are building and what gets in the way, at [feedback@rallly.co](mailto:feedback@rallly.co).
+Polling for results works, but it is not how most integrations want to run. Webhooks for poll events are planned so your system hears about a new response or a closed poll as it happens. There is no date for that yet. If you build something on the API, I would like to hear what you are building and what gets in the way, at [feedback@kinpal.com](mailto:feedback@kinpal.com).

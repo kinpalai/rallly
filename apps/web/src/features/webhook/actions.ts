@@ -127,7 +127,7 @@ export const deleteWebhookAction = authActionClient
   });
 
 // Each call is an outbound request to a URL the owner chose, so it is
-// limited: enough to fix a receiver and try again, not enough to use Rallly
+// limited: enough to fix a receiver and try again, not enough to use Kinpal
 // to hammer someone else's server.
 export const sendWebhookTestEventAction = authActionClient
   .metadata({ actionName: "send_webhook_test_event" })

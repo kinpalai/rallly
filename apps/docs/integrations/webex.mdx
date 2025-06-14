@@ -1,34 +1,34 @@
 ---
 icon: video
 title: Webex
-description: Connect your Webex account so Rallly creates the Webex meeting link when you finalize a poll
+description: Connect your Webex account so Kinpal creates the Webex meeting link when you finalize a poll
 ---
 
-With the Webex integration, Rallly creates a Webex meeting on your account at the moment you finalize a poll. The join link goes into the event, the calendar invite and the confirmation emails, so participants never wait for a link to follow.
+With the Webex integration, Kinpal creates a Webex meeting on your account at the moment you finalize a poll. The join link goes into the event, the calendar invite and the confirmation emails, so participants never wait for a link to follow.
 
 <Callout icon="gem" color="#4f46e5">
-  Webex requires a [Pro subscription](https://rallly.co/pricing).
+  Webex requires a [Pro subscription](https://kinpal.com/pricing).
 </Callout>
 
 ## How it works
 
 1. You connect your Webex account once, from your settings.
 2. When you create a poll, you choose Webex as the video call. The poll shows "Webex" to participants while voting is open; there is no link yet.
-3. When you finalize the poll, Rallly creates a Webex meeting for the chosen time on your Webex account and attaches the join link to the event.
+3. When you finalize the poll, Kinpal creates a Webex meeting for the chosen time on your Webex account and attaches the join link to the event.
 
-The meeting is created on the Webex account you connected, so it follows that account's and your organization's Webex settings, such as the lobby and the meeting password. Rallly does not change those settings.
+The meeting is created on the Webex account you connected, so it follows that account's and your organization's Webex settings, such as the lobby and the meeting password. Kinpal does not change those settings.
 
 ## Requirements
 
 - A Webex account that can host meetings.
 - Your organization must allow Webex integrations. Integrations are allowed by default; an administrator can block them in Control Hub. See [Organization restrictions](#organization-restrictions).
-- The Webex integration must be enabled on the Rallly instance you use. On a self-hosted instance the administrator turns it on.
+- The Webex integration must be enabled on the Kinpal instance you use. On a self-hosted instance the administrator turns it on.
 
 ## Adding the app
 
 <Steps>
   <Step title="Open Conferencing settings">
-    In Rallly, open **Settings** from the sidebar and choose **Conferencing**.
+    In Kinpal, open **Settings** from the sidebar and choose **Conferencing**.
   </Step>
   <Step title="Connect your account">
     Next to **Webex**, click **Connect**. You are sent to Webex to sign in.
@@ -38,7 +38,7 @@ The meeting is created on the Webex account you connected, so it follows that ac
 </Frame>
   </Step>
   <Step title="Approve the permissions">
-    Webex shows what Rallly is asking for (listed under [Permissions](#permissions)). Click **Accept**. You are returned to Rallly, where the email address of your Webex account appears next to Webex.
+    Webex shows what Kinpal is asking for (listed under [Permissions](#permissions)). Click **Accept**. You are returned to Kinpal, where the email address of your Webex account appears next to Webex.
 
 <Frame>
   <img src="/images/integrations/webex/connected-account.png" alt="The Conferencing settings page showing the connected account's email address next to Webex" />
@@ -50,7 +50,7 @@ You can connect one Webex account. To switch to a different account, disconnect 
 
 ### Organization restrictions
 
-A Webex administrator can block integrations for everyone in the organization, or allow only some of them, under **Management** > **Apps** > **Integrations** in Control Hub. If yours does, Webex refuses the connection and Rallly shows an error when you return. Only an administrator of your organization can allow Rallly.
+A Webex administrator can block integrations for everyone in the organization, or allow only some of them, under **Management** > **Apps** > **Integrations** in Control Hub. If yours does, Webex refuses the connection and Kinpal shows an error when you return. Only an administrator of your organization can allow Kinpal.
 
 ## Using the integration
 
@@ -72,17 +72,17 @@ Participants see "Webex" on the poll page while voting is open. No meeting link 
 
 ### Finalizing the poll
 
-When you finalize the poll and pick the winning time, Rallly:
+When you finalize the poll and pick the winning time, Kinpal:
 
 1. Creates a Webex meeting for that time on your Webex account.
 2. Attaches the join link, meeting number and password to the event.
 3. Includes them in the calendar invite (`.ics`) and in the confirmation emails sent to you and to participants.
 
-Rallly asks Webex not to send its own invitation emails; the invite Rallly sends covers it.
+Kinpal asks Webex not to send its own invitation emails; the invite Kinpal sends covers it.
 
-Webex only schedules meetings between 10 minutes and 23 hours 59 minutes long that have not started yet. Rallly fits the Webex meeting to those limits: an all day event gets a meeting of 23 hours 59 minutes, an event shorter than 10 minutes gets a 10 minute meeting, and an event that has already started gets a meeting that starts at the next minute. The event itself keeps the time you picked.
+Webex only schedules meetings between 10 minutes and 23 hours 59 minutes long that have not started yet. Kinpal fits the Webex meeting to those limits: an all day event gets a meeting of 23 hours 59 minutes, an event shorter than 10 minutes gets a 10 minute meeting, and an event that has already started gets a meeting that starts at the next minute. The event itself keeps the time you picked.
 
-If the meeting cannot be created, for example because the Webex connection has expired, the poll stays open and Rallly shows an error. See [Troubleshooting](#troubleshooting).
+If the meeting cannot be created, for example because the Webex connection has expired, the poll stays open and Kinpal shows an error. See [Troubleshooting](#troubleshooting).
 
 ### Which account hosts the meeting
 
@@ -90,40 +90,40 @@ The meeting is created on the Webex account of the poll's organizer. If a space 
 
 ## Permissions
 
-When you connect, Rallly asks Webex for these permissions:
+When you connect, Kinpal asks Webex for these permissions:
 
 | Permission | Why |
 | --- | --- |
 | Create, manage, or cancel your scheduled Webex meetings (`meeting:schedules_write`) | To create the meeting when you finalize a poll. |
 | Read your users' company directory (`spark:people_read`) | To read your Webex account id, email address and name, which identify the connection and show which account is connected. |
 
-Rallly uses `meeting:schedules_write` only to create a meeting when you finalize a poll, and `spark:people_read` only to read your own profile. Rallly does not read your existing meetings, messages, recordings, transcripts or contacts, and does not join or record meetings.
+Kinpal uses `meeting:schedules_write` only to create a meeting when you finalize a poll, and `spark:people_read` only to read your own profile. Kinpal does not read your existing meetings, messages, recordings, transcripts or contacts, and does not join or record meetings.
 
-## Data Rallly stores
+## Data Kinpal stores
 
-For a connected Webex account, Rallly stores:
+For a connected Webex account, Kinpal stores:
 
 - Your Webex account id and email address, to identify the connection and show it in your settings.
-- The access token and refresh token Webex issues, encrypted at rest, so Rallly can create meetings on your behalf without asking you to sign in each time.
+- The access token and refresh token Webex issues, encrypted at rest, so Kinpal can create meetings on your behalf without asking you to sign in each time.
 
-For each finalized poll, Rallly stores the join link, meeting number and password of the meeting it created, as part of the event.
+For each finalized poll, Kinpal stores the join link, meeting number and password of the meeting it created, as part of the event.
 
-Rallly does not store the content of any meeting.
+Kinpal does not store the content of any meeting.
 
 ## Removing the app
 
 1. Open **Settings**, then **Conferencing**.
 2. Next to **Webex**, click the **More options** button and choose **Disconnect**.
 
-The connection is removed immediately, Rallly deletes the tokens it stored for that Webex account and stops creating Webex meetings for you. Polls that already chose Webex keep that choice but can no longer be finalized with a Webex link until an account is connected again. Meetings Rallly already created stay in your Webex account; delete them from Webex if you no longer need them.
+The connection is removed immediately, Kinpal deletes the tokens it stored for that Webex account and stops creating Webex meetings for you. Polls that already chose Webex keep that choice but can no longer be finalized with a Webex link until an account is connected again. Meetings Kinpal already created stay in your Webex account; delete them from Webex if you no longer need them.
 
 ## Troubleshooting
 
-**Webex refuses the connection.** Your organization blocks Webex integrations. Ask your Webex administrator to allow Rallly; see [Organization restrictions](#organization-restrictions).
+**Webex refuses the connection.** Your organization blocks Webex integrations. Ask your Webex administrator to allow Kinpal; see [Organization restrictions](#organization-restrictions).
 
-**"Webex is not connected" when creating a poll.** Your Rallly account has no Webex connection, or it was removed. Connect one in Conferencing settings and choose Webex again.
+**"Webex is not connected" when creating a poll.** Your Kinpal account has no Webex connection, or it was removed. Connect one in Conferencing settings and choose Webex again.
 
-**Finalizing fails because the account is not connected.** The connection expired after a long period without use, or your administrator removed Rallly. Disconnect and reconnect Webex in Conferencing settings and finalize again.
+**Finalizing fails because the account is not connected.** The connection expired after a long period without use, or your administrator removed Kinpal. Disconnect and reconnect Webex in Conferencing settings and finalize again.
 
 **Finalizing fails because the meeting link couldn't be created.** The connected account may not be able to host meetings, for example a Webex account that only has messaging. Check that you can schedule a meeting in Webex with that account, then finalize again. The poll is unchanged until finalizing succeeds.
 

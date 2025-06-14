@@ -1,17 +1,19 @@
 "use cache";
 
 import { cacheLife } from "next/cache";
-import { LegalPageLayout } from "@/components/legal-page-layout";
 import { Section } from "@/components/section";
-import { LinkBase } from "@/i18n/client/link";
 
 export default async function PrivacyPolicy() {
   cacheLife("max");
   return (
     <Section>
-      <LegalPageLayout title="Privacy policy" lastUpdated="2026-10-03">
+      <h1 className="max-w-2xl text-balance font-medium text-3xl text-gray-800 tracking-tight sm:text-4xl">
+        Privacy policy
+      </h1>
+      <p className="mt-4 text-gray-500 text-sm">Last updated: 30 August 2026</p>
+      <div className="longform mt-8 max-w-2xl">
         <p>
-          At rallly.co, we take your privacy seriously. This privacy policy
+          At kinpal.com, we take your privacy seriously. This privacy policy
           explains how we collect, use, and disclose your personal data, and
           your rights in relation to your personal data under the General Data
           Protection Regulation (GDPR).
@@ -46,18 +48,6 @@ export default async function PrivacyPolicy() {
           website.
         </p>
 
-        <p>
-          If you have an account, your analytics profile in Posthog is keyed to
-          your account and carries your name and email address. We keep the
-          email address there so that, when you contact us about a problem, we
-          can find your account&apos;s activity and work out what went wrong. It
-          is not written into individual analytics events, is not used for
-          marketing, and is erased from Posthog when you delete your account.
-          When you create an account, the pages you visited on our website
-          beforehand are linked to your profile so we can tell which pages lead
-          people to Rallly.
-        </p>
-
         <h2>Optional information about your work</h2>
 
         <p>
@@ -77,7 +67,7 @@ export default async function PrivacyPolicy() {
         </ul>
 
         <p>
-          We use this to understand which professional groups use Rallly, so we
+          We use this to understand which professional groups use Kinpal, so we
           can improve the product for them and focus our documentation and
           marketing on the people it is written for. This information is also
           shared with Posthog, our analytics processor, for the same purpose.
@@ -94,248 +84,11 @@ export default async function PrivacyPolicy() {
 
         <p>
           Both fields are optional. You can skip either one when setting up your
-          account, and neither is required to use Rallly — skipping them has no
+          account, and neither is required to use Kinpal — skipping them has no
           effect on the service you receive. To change or remove an answer you
           have already given, email us at{" "}
-          <a href="mailto:support@rallly.co">support@rallly.co</a> and we will
+          <a href="mailto:support@kinpal.com">support@kinpal.com</a> and we will
           update or erase it.
-        </p>
-
-        <h2>Google user data</h2>
-
-        <p>
-          If you sign in with Google, we receive your name, email address and
-          profile picture to create and identify your account.
-        </p>
-
-        <p>
-          If you connect Google Calendar, Rallly reads the list of calendars in
-          your Google account, with each calendar&apos;s name, time zone and
-          whether you can add events to it, so you can see and choose your
-          calendars in your settings. We store that list for as long as the
-          calendar is connected. Rallly does not read, create or change events
-          in your calendars through this connection.
-        </p>
-
-        <p>
-          If you connect Google Meet, Rallly uses the permission to create Meet
-          meeting spaces (<code>meetings.space.created</code>) only to create a
-          meeting space in your account when you finalize a poll that uses
-          Google Meet as its video call. We store the meeting link and meeting
-          code on the event, so they can be included in the calendar invite and
-          confirmation emails sent to you and your participants. Rallly does not
-          read, list or change any other meetings, and does not join or record
-          meetings.
-        </p>
-
-        <p>
-          When you connect Google Calendar or Google Meet, Google also shares
-          your Google account id, email address and basic profile (name and
-          profile picture). We do not store your name or profile picture. We
-          store your Google account id and email address to identify the
-          connection and show which account is connected, and the OAuth tokens
-          Google issues, encrypted as described in{" "}
-          <a href="#data-protection">How we protect your data</a>, so Rallly can
-          act for you without asking you to sign in each time. If you connect
-          the same Google account for both, the two connections share one set of
-          tokens. We use this data only to identify the connected account, to
-          show your calendars and to create meetings for you as the organizer.
-          We do not sell Google user data, use it for advertising, use it to
-          train AI models, or share it with third parties except as needed to
-          provide the service.
-        </p>
-
-        <p>
-          When you disconnect Google Calendar in your settings, we delete the
-          connection and the list of calendars we stored. When you disconnect
-          Google Meet, we delete the connection, and we delete the stored tokens
-          unless your Google Calendar connection on the same Google account
-          still uses them. When you delete your Rallly account, we delete all of
-          it along with your events, including the details of meetings Rallly
-          created. You can also revoke Rallly&apos;s access at any time at{" "}
-          <a href="https://myaccount.google.com/permissions">
-            myaccount.google.com/permissions
-          </a>
-          . Meetings Rallly already created stay in your Google account.
-        </p>
-
-        <p>
-          Rallly&apos;s use and transfer of information received from Google
-          APIs to any other app will adhere to the{" "}
-          <a href="https://developers.google.com/terms/api-services-user-data-policy">
-            Google API Services User Data Policy
-          </a>
-          , including the Limited Use requirements. This applies to all Google
-          user data Rallly receives, whatever permission it was received under.
-        </p>
-
-        <h2>Zoom user data</h2>
-
-        <p>
-          If you connect Zoom, Rallly uses the permissions you approve only to
-          read your Zoom user id, name and email address, and to create a
-          meeting on your Zoom account when you finalize a poll that uses Zoom
-          as its video call. Rallly does not read your existing meetings,
-          recordings, contacts or chat, and does not join or record meetings.
-        </p>
-
-        <p>
-          We do not store your name. We store your Zoom user id and email
-          address to identify the connection and show which account is
-          connected, and the access and refresh tokens Zoom issues, encrypted at
-          rest, so Rallly can create meetings without asking you to sign in each
-          time. For each meeting Rallly creates, we store its meeting id, join
-          link and passcode on the event, so they can be included in the
-          calendar invite and confirmation emails sent to you and your
-          participants.
-        </p>
-
-        <p>
-          We use this data only to identify the connected account and to create
-          meetings for you as the organizer. We do not sell Zoom user data, use
-          it for advertising, use it to train AI models, or share it with third
-          parties except as needed to provide the service.
-        </p>
-
-        <p>
-          When you disconnect Zoom in your settings, we delete the stored
-          account details and tokens and ask Zoom to revoke Rallly&apos;s
-          access. If you remove Rallly from your Zoom account in the Zoom App
-          Marketplace, Zoom notifies us and we delete them. When you delete your
-          Rallly account, we delete them along with your events, including the
-          details of meetings Rallly created. Meetings Rallly already created
-          stay in your Zoom account.
-        </p>
-
-        <h2>Microsoft user data</h2>
-
-        <p>
-          If you connect Microsoft Teams, Rallly uses the permission to create
-          online meetings (<code>OnlineMeetings.ReadWrite</code>) only to create
-          a meeting on your Microsoft account when you finalize a poll that uses
-          Microsoft Teams as its video call, and reads your Microsoft account
-          id, name and email address to identify the connection. Rallly does not
-          read your other meetings, chats, recordings, files, contacts, calendar
-          or email, and does not join or record meetings.
-        </p>
-
-        <p>
-          We do not store your name. We store your Microsoft account id and
-          email address to identify the connection and show which account is
-          connected, and the access and refresh tokens Microsoft issues,
-          encrypted at rest, so Rallly can create meetings without asking you to
-          sign in each time. For each meeting Rallly creates, we store its join
-          link, meeting id and passcode on the event, so they can be included in
-          the calendar invite and confirmation emails sent to you and your
-          participants.
-        </p>
-
-        <p>
-          We use this data only to identify the connected account and to create
-          meetings for you as the organizer. We do not sell Microsoft user data,
-          use it for advertising, use it to train AI models, or share it with
-          third parties except as needed to provide the service.
-        </p>
-
-        <p>
-          When you disconnect Microsoft Teams in your settings, we delete the
-          stored account details and tokens. When you delete your Rallly
-          account, we delete them along with your events, including the details
-          of meetings Rallly created. Microsoft does not let apps revoke their
-          own access; you can remove Rallly&apos;s permissions at any time at{" "}
-          <a href="https://myapps.microsoft.com">myapps.microsoft.com</a>.
-          Meetings Rallly already created stay in your Microsoft account.
-        </p>
-
-        <h2>Webex user data</h2>
-
-        <p>
-          If you connect Webex, Rallly uses the permission to schedule meetings
-          (<code>meeting:schedules_write</code>) only to create a meeting on
-          your Webex account when you finalize a poll that uses Webex as its
-          video call, and reads your Webex account id, name and email address to
-          identify the connection. Rallly does not read your existing meetings,
-          messages, recordings, transcripts or contacts, and does not join or
-          record meetings.
-        </p>
-
-        <p>
-          We do not store your name. We store your Webex account id and email
-          address to identify the connection and show which account is
-          connected, and the access and refresh tokens Webex issues, encrypted
-          at rest, so Rallly can create meetings without asking you to sign in
-          each time. For each meeting Rallly creates, we store its join link,
-          meeting number and password on the event, so they can be included in
-          the calendar invite and confirmation emails sent to you and your
-          participants.
-        </p>
-
-        <p>
-          We use this data only to identify the connected account and to create
-          meetings for you as the organizer. We do not sell Webex user data, use
-          it for advertising, use it to train AI models, or share it with third
-          parties except as needed to provide the service.
-        </p>
-
-        <p>
-          When you disconnect Webex in your settings, we delete the stored
-          account details and tokens. When you delete your Rallly account, we
-          delete them along with your events, including the details of meetings
-          Rallly created. Meetings Rallly already created stay in your Webex
-          account.
-        </p>
-
-        <h2 id="data-protection">How we protect your data</h2>
-
-        <p>
-          We use the following measures to keep your data, including the data we
-          receive from Google, Zoom, Microsoft and Webex, confidential and
-          secure:
-        </p>
-
-        <ul>
-          <li>
-            Encryption in transit: all traffic to rallly.co, and between our
-            servers and the service providers listed below, is encrypted with
-            TLS (HTTPS).
-          </li>
-          <li>
-            Encryption of access tokens: the OAuth access and refresh tokens
-            that Google, Zoom, Microsoft and Webex issue when you connect an
-            account are encrypted with AES-256-GCM by our application before
-            they are written to the database. The encryption key is kept
-            separately from the database, so a copy of the database alone does
-            not reveal the tokens.
-          </li>
-          <li>
-            Encryption at rest: our database and its backups are hosted by Neon,
-            which encrypts all stored data at rest.
-          </li>
-          <li>
-            Restricted access: access to our production systems and data is
-            limited to the people who need it to operate and support the
-            service, and data from connected accounts is used only for the
-            purposes described in this policy.
-          </li>
-        </ul>
-
-        <h2>Content moderation</h2>
-
-        <p>
-          To protect other people from fraud and scams, we scan the title,
-          description and location of every poll for patterns associated with
-          abuse. Content that matches a pattern is sent to OpenAI for automated
-          classification. We send only the content itself, not your name, email
-          address or any other account data, although the content may contain
-          personal data if you typed it there. OpenAI does not use content sent
-          through its API to train its models and retains it for up to 30 days
-          for abuse monitoring.
-        </p>
-
-        <p>
-          Content that the automated check flags may be reviewed by our staff,
-          together with the account that submitted it, before we decide whether
-          to remove it or suspend the account.
         </p>
 
         <h2>Legal basis for processing</h2>
@@ -356,21 +109,6 @@ export default async function PrivacyPolicy() {
           choose to leave as it is. Choosing &quot;Prefer not to say&quot;, or
           leaving a field unanswered, gives no consent and stores nothing. You
           can withdraw consent at any time by asking us to erase the answer.
-        </p>
-
-        <p>
-          We keep your name and email address on your analytics profile on the
-          basis of our legitimate interest in providing support and diagnosing
-          faults: without them we cannot connect a support request to the
-          activity that caused it. You can object to this processing at any time
-          by contacting us at the address below, and we will remove those
-          details from your analytics profile.
-        </p>
-
-        <p>
-          We scan and classify poll content on the basis of our legitimate
-          interest in preventing the service from being used for fraud, scams
-          and other abuse against the people who receive poll invitations.
         </p>
 
         <h2>Retention of personal data</h2>
@@ -394,50 +132,9 @@ export default async function PrivacyPolicy() {
         </p>
 
         <p>
-          We rely on the following service providers to operate rallly.co, each
-          of which may process personal data for the purpose described:
-        </p>
-
-        <ul>
-          <li>Vercel — application hosting (United States)</li>
-          <li>Neon — managed PostgreSQL database (United States)</li>
-          <li>Upstash — session data and rate limiting (United States)</li>
-          <li>
-            Amazon Web Services — transactional email and object storage (United
-            States)
-          </li>
-          <li>
-            Stripe — payment processing, billing contact data only (United
-            States)
-          </li>
-          <li>
-            OpenAI — automated content moderation of flagged poll content
-            (United States)
-          </li>
-          <li>PostHog — product analytics (European Union)</li>
-          <li>Sentry — error monitoring (United States)</li>
-        </ul>
-
-        <p>
-          The same providers are listed, with transfer mechanisms, in the
-          Sub-processor annex of our{" "}
-          <LinkBase href="/dpa">Data Processing Agreement</LinkBase>.
-        </p>
-
-        <p>
-          We also use Featurebase to make it easy for users to submit feedback.
-          Your name and email may be shared with Featurebase to provide a
-          seamless transition between the two services.
-        </p>
-
-        <h2>Processing on behalf of organizations</h2>
-
-        <p>
-          Where we process personal data on behalf of an organization using
-          Rallly, for example the details of people invited to that
-          organization&apos;s polls and events, we act as a processor and that
-          processing is governed by our{" "}
-          <LinkBase href="/dpa">Data Processing Agreement</LinkBase>.
+          For example, we use Featurebase to make it easy for users to submit
+          feedback. Your name and email may be shared with Featurbase to provide
+          a seamless transition between the two services.
         </p>
 
         <h2>Your rights</h2>
@@ -474,7 +171,7 @@ export default async function PrivacyPolicy() {
 
         <p>
           To exercise any of these rights, please contact us at{" "}
-          <a href="mailto:support@rallly.co">support@rallly.co</a>.
+          <a href="mailto:support@kinpal.com">support@kinpal.com</a>.
         </p>
 
         <h2>Contact</h2>
@@ -482,9 +179,9 @@ export default async function PrivacyPolicy() {
         <p>
           If you have any questions or concerns about our privacy policy or our
           practices with regards to your personal data, please contact us at{" "}
-          <a href="mailto:support@rallly.co">support@rallly.co</a>.
+          <a href="mailto:support@kinpal.com">support@kinpal.com</a>.
         </p>
-      </LegalPageLayout>
+      </div>
     </Section>
   );
 }
@@ -492,7 +189,7 @@ export default async function PrivacyPolicy() {
 export async function generateMetadata() {
   cacheLife("max");
   return {
-    title: "Privacy Policy",
-    description: "The privacy policy for Rallly.",
+    title: "Kinpal: Privacy Policy",
+    description: "The privacy policy for Kinpal.",
   };
 }

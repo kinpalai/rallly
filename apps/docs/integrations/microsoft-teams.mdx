@@ -1,35 +1,35 @@
 ---
 icon: video
 title: Microsoft Teams
-description: Connect your Microsoft work or school account so Rallly creates the Teams meeting link when you finalize a poll
+description: Connect your Microsoft work or school account so Kinpal creates the Teams meeting link when you finalize a poll
 ---
 
-With the Microsoft Teams integration, Rallly creates a Teams meeting on your Microsoft account at the moment you finalize a poll. The join link goes into the event, the calendar invite and the confirmation emails, so participants never wait for a link to follow.
+With the Microsoft Teams integration, Kinpal creates a Teams meeting on your Microsoft account at the moment you finalize a poll. The join link goes into the event, the calendar invite and the confirmation emails, so participants never wait for a link to follow.
 
 <Callout icon="gem" color="#4f46e5">
-  Microsoft Teams requires a [Pro subscription](https://rallly.co/pricing).
+  Microsoft Teams requires a [Pro subscription](https://kinpal.com/pricing).
 </Callout>
 
 ## How it works
 
 1. You connect your Microsoft work or school account once, from your settings.
 2. When you create a poll, you choose Microsoft Teams as the video call. The poll shows "Microsoft Teams" to participants while voting is open; there is no link yet.
-3. When you finalize the poll, Rallly creates a Teams meeting for the chosen time on your Microsoft account and attaches the join link to the event.
+3. When you finalize the poll, Kinpal creates a Teams meeting for the chosen time on your Microsoft account and attaches the join link to the event.
 
-The meeting is created on the Microsoft account you connected, so it follows your organization's Teams meeting policies, such as the lobby and who can present. Rallly does not change those settings.
+The meeting is created on the Microsoft account you connected, so it follows your organization's Teams meeting policies, such as the lobby and who can present. Kinpal does not change those settings.
 
 ## Requirements
 
-- A Microsoft work or school account with a Microsoft Teams license. Personal Microsoft accounts (Outlook.com, Hotmail, Live) are not supported: Microsoft does not let apps create Teams meetings for them, so Rallly asks Microsoft for a work or school account when you connect.
+- A Microsoft work or school account with a Microsoft Teams license. Personal Microsoft accounts (Outlook.com, Hotmail, Live) are not supported: Microsoft does not let apps create Teams meetings for them, so Kinpal asks Microsoft for a work or school account when you connect.
 - You must have used Teams at least once with that account. An account whose Microsoft 365 plan does not include Teams cannot create meetings.
-- Your organization must let you approve Rallly, or an administrator must approve it for the organization. See [Admin approval](#admin-approval).
-- The Microsoft Teams integration must be enabled on the Rallly instance you use. On a self-hosted instance the administrator turns it on.
+- Your organization must let you approve Kinpal, or an administrator must approve it for the organization. See [Admin approval](#admin-approval).
+- The Microsoft Teams integration must be enabled on the Kinpal instance you use. On a self-hosted instance the administrator turns it on.
 
 ## Adding the app
 
 <Steps>
   <Step title="Open Conferencing settings">
-    In Rallly, open **Settings** from the sidebar and choose **Conferencing**.
+    In Kinpal, open **Settings** from the sidebar and choose **Conferencing**.
   </Step>
   <Step title="Connect your account">
     Next to **Microsoft Teams**, click **Connect**. You are sent to Microsoft to pick your work or school account and sign in.
@@ -39,7 +39,7 @@ The meeting is created on the Microsoft account you connected, so it follows you
 </Frame>
   </Step>
   <Step title="Approve the permissions">
-    Microsoft shows what Rallly is asking for (listed under [Permissions](#permissions)). Click **Accept**. You are returned to Rallly, where the email address of your Microsoft account appears next to Microsoft Teams.
+    Microsoft shows what Kinpal is asking for (listed under [Permissions](#permissions)). Click **Accept**. You are returned to Kinpal, where the email address of your Microsoft account appears next to Microsoft Teams.
 
 <Frame>
   <img src="/images/integrations/microsoft-teams/connected-account.png" alt="The Conferencing settings page showing the connected account's email address next to Microsoft Teams" />
@@ -47,25 +47,25 @@ The meeting is created on the Microsoft account you connected, so it follows you
   </Step>
 </Steps>
 
-When you connect, Rallly checks that the account can create Teams meetings by creating a test meeting and deleting it straight away. The test meeting does not appear in your calendar or in Teams. If Microsoft refuses it, Rallly does not connect the account and tells you why; see [Troubleshooting](#troubleshooting).
+When you connect, Kinpal checks that the account can create Teams meetings by creating a test meeting and deleting it straight away. The test meeting does not appear in your calendar or in Teams. If Microsoft refuses it, Kinpal does not connect the account and tells you why; see [Troubleshooting](#troubleshooting).
 
 You can connect one Microsoft account for Microsoft Teams. To switch to a different account, disconnect the current one, then connect the new one.
 
-Connecting Microsoft Teams is separate from signing in to Rallly with Microsoft. You can sign in with any method and still connect Teams, and connecting Teams does not change how you sign in.
+Connecting Microsoft Teams is separate from signing in to Kinpal with Microsoft. You can sign in with any method and still connect Teams, and connecting Teams does not change how you sign in.
 
 ### Admin approval
 
-Many organizations do not let their users approve apps themselves. If yours is one of them, Microsoft shows "Need admin approval" instead of the permissions, and Rallly shows an error when you return. Only an administrator of your organization can resolve this.
+Many organizations do not let their users approve apps themselves. If yours is one of them, Microsoft shows "Need admin approval" instead of the permissions, and Kinpal shows an error when you return. Only an administrator of your organization can resolve this.
 
-When the connection fails, Rallly offers a **Copy link** button. Send that link to your IT administrator. The administrator opens it, signs in with their administrator account and approves Rallly for the whole organization; they do not need a Rallly account. On rallly.co the link is:
+When the connection fails, Kinpal offers a **Copy link** button. Send that link to your IT administrator. The administrator opens it, signs in with their administrator account and approves Kinpal for the whole organization; they do not need a Kinpal account. On kinpal.com the link is:
 
 ```
-https://app.rallly.co/api/integrations/admin-consent/microsoft-teams?redirect=/settings/conferencing
+https://app.kinpal.com/api/integrations/admin-consent/microsoft-teams?redirect=/settings/conferencing
 ```
 
-On a self-hosted instance, replace `https://app.rallly.co` with the address of your instance.
+On a self-hosted instance, replace `https://app.kinpal.com` with the address of your instance.
 
-After the administrator approves, connect Microsoft Teams again. Microsoft no longer asks for approval. Administrators who prefer the Microsoft Entra admin center can grant the same approval under **Enterprise apps**, after searching for Rallly and opening **Permissions**.
+After the administrator approves, connect Microsoft Teams again. Microsoft no longer asks for approval. Administrators who prefer the Microsoft Entra admin center can grant the same approval under **Enterprise apps**, after searching for Kinpal and opening **Permissions**.
 
 ## Using the integration
 
@@ -87,15 +87,15 @@ Participants see "Microsoft Teams" on the poll page while voting is open. No mee
 
 ### Finalizing the poll
 
-When you finalize the poll and pick the winning time, Rallly:
+When you finalize the poll and pick the winning time, Kinpal:
 
 1. Creates a Teams meeting for that time on your Microsoft account.
 2. Attaches the join link, meeting ID and passcode to the event.
 3. Includes them in the calendar invite (`.ics`) and in the confirmation emails sent to you and to participants.
 
-Rallly does not add the meeting to your Outlook calendar; the calendar invite Rallly sends covers it.
+Kinpal does not add the meeting to your Outlook calendar; the calendar invite Kinpal sends covers it.
 
-If the meeting cannot be created, for example because the Microsoft connection has expired or your account no longer has a Teams license, the poll stays open and Rallly shows an error that says which it is. See [Troubleshooting](#troubleshooting).
+If the meeting cannot be created, for example because the Microsoft connection has expired or your account no longer has a Teams license, the poll stays open and Kinpal shows an error that says which it is. See [Troubleshooting](#troubleshooting).
 
 ### Which account hosts the meeting
 
@@ -103,48 +103,48 @@ The meeting is created on the Microsoft account of the poll's organizer. If a sp
 
 ## Permissions
 
-When you connect, Rallly asks Microsoft for these permissions:
+When you connect, Kinpal asks Microsoft for these permissions:
 
 | Permission | Why |
 | --- | --- |
 | Read and create your online meetings (`OnlineMeetings.ReadWrite`) | To create the Teams meeting when you finalize a poll, and to check once, when you connect, that your account can create meetings. |
 | Sign you in and read your profile (`User.Read`) | To identify the connection and show which account is connected. |
-| Maintain access to data you have given it access to (`offline_access`) | So Rallly can create meetings when you finalize a poll without asking you to sign in each time. |
-| View your basic profile and email address (`openid`, `profile`, `email`) | Requested with the sign in to identify the account. Rallly does not store your name. |
+| Maintain access to data you have given it access to (`offline_access`) | So Kinpal can create meetings when you finalize a poll without asking you to sign in each time. |
+| View your basic profile and email address (`openid`, `profile`, `email`) | Requested with the sign in to identify the account. Kinpal does not store your name. |
 
-Rallly uses `OnlineMeetings.ReadWrite` only to create a meeting when you finalize a poll and to create and immediately delete one test meeting when you connect. Rallly does not read your other meetings, chats, recordings, transcripts, files, contacts, calendar or email, and does not join or record meetings.
+Kinpal uses `OnlineMeetings.ReadWrite` only to create a meeting when you finalize a poll and to create and immediately delete one test meeting when you connect. Kinpal does not read your other meetings, chats, recordings, transcripts, files, contacts, calendar or email, and does not join or record meetings.
 
-## Data Rallly stores
+## Data Kinpal stores
 
-For a connected Microsoft account, Rallly stores:
+For a connected Microsoft account, Kinpal stores:
 
 - Your Microsoft account id and email address, to identify the connection and show it in your settings.
-- The access token and refresh token Microsoft issues, encrypted at rest, so Rallly can create meetings on your behalf without asking you to sign in each time.
+- The access token and refresh token Microsoft issues, encrypted at rest, so Kinpal can create meetings on your behalf without asking you to sign in each time.
 
-For each finalized poll, Rallly stores the join link, meeting ID and passcode of the meeting it created, as part of the event.
+For each finalized poll, Kinpal stores the join link, meeting ID and passcode of the meeting it created, as part of the event.
 
-Rallly does not store the content of any meeting.
+Kinpal does not store the content of any meeting.
 
 ## Removing the app
 
-### From Rallly
+### From Kinpal
 
 1. Open **Settings**, then **Conferencing**.
 2. Next to **Microsoft Teams**, click the **More options** button and choose **Disconnect**.
 
-The connection is removed immediately, Rallly deletes the tokens it stored for that Microsoft account and stops creating Teams meetings for you.
+The connection is removed immediately, Kinpal deletes the tokens it stored for that Microsoft account and stops creating Teams meetings for you.
 
-Microsoft does not let apps revoke their own access, so disconnecting in Rallly does not remove Rallly from your Microsoft account. Rallly no longer holds tokens to use it, but to remove the permission itself, follow the steps below.
+Microsoft does not let apps revoke their own access, so disconnecting in Kinpal does not remove Kinpal from your Microsoft account. Kinpal no longer holds tokens to use it, but to remove the permission itself, follow the steps below.
 
-Polls that already chose Microsoft Teams keep that choice but can no longer be finalized with a Teams link until an account is connected again. Meetings Rallly already created keep working.
+Polls that already chose Microsoft Teams keep that choice but can no longer be finalized with a Teams link until an account is connected again. Meetings Kinpal already created keep working.
 
 ### From your Microsoft account
 
 1. Open [My Apps](https://myapps.microsoft.com) and sign in with the account you connected.
-2. Find **Rallly**, open its menu and choose **Manage your application**.
+2. Find **Kinpal**, open its menu and choose **Manage your application**.
 3. Choose **Revoke permissions** and confirm.
 
-If you do not see the option, your organization manages app permissions centrally; ask your administrator to remove Rallly. Microsoft does not tell Rallly, so the connection still appears in your settings until you disconnect it in Rallly as well; Rallly can no longer use it.
+If you do not see the option, your organization manages app permissions centrally; ask your administrator to remove Kinpal. Microsoft does not tell Kinpal, so the connection still appears in your settings until you disconnect it in Kinpal as well; Kinpal can no longer use it.
 
 ## Troubleshooting
 
@@ -152,13 +152,13 @@ If you do not see the option, your organization manages app permissions centrall
 
 **Microsoft does not accept your personal account.** Microsoft Teams meetings can only be created for work or school accounts. Connect the account your organization gave you.
 
-**Rallly says the account can't create Teams meetings.** Microsoft refused the test meeting Rallly creates when you connect. The account has no Teams license, Teams has never been opened with it, or your organization's policies do not let it create meetings. Open [Teams](https://teams.microsoft.com) with that account: if Teams does not open, ask your IT administrator for a license that includes Teams. Once Teams opens, connect the account in Rallly again.
+**Kinpal says the account can't create Teams meetings.** Microsoft refused the test meeting Kinpal creates when you connect. The account has no Teams license, Teams has never been opened with it, or your organization's policies do not let it create meetings. Open [Teams](https://teams.microsoft.com) with that account: if Teams does not open, ask your IT administrator for a license that includes Teams. Once Teams opens, connect the account in Kinpal again.
 
-**"Microsoft Teams is not connected" when creating a poll.** Your Rallly account has no Microsoft Teams connection, or it was removed. Connect one in Conferencing settings and choose Microsoft Teams again.
+**"Microsoft Teams is not connected" when creating a poll.** Your Kinpal account has no Microsoft Teams connection, or it was removed. Connect one in Conferencing settings and choose Microsoft Teams again.
 
 **Finalizing fails because Microsoft Teams couldn't create the meeting.** The account could create meetings when you connected it and no longer can, usually because its Teams license was removed. Check that you can open Teams with that account, then finalize again. The poll is unchanged until finalizing succeeds.
 
-**Finalizing fails because the account is not connected.** The connection expired after 90 days without use, your password was changed, or your administrator removed Rallly. Disconnect and reconnect Microsoft Teams in Conferencing settings and finalize again.
+**Finalizing fails because the account is not connected.** The connection expired after 90 days without use, your password was changed, or your administrator removed Kinpal. Disconnect and reconnect Microsoft Teams in Conferencing settings and finalize again.
 
 **Participants wait in the lobby.** Who waits in the lobby follows your organization's Teams meeting policies. The host can admit people from the meeting, or change the meeting options in Teams.
 
