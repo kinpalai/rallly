@@ -57,11 +57,12 @@ export default async function LoginPage(props: {
 
   const hasGoogleProvider = !!authLib.options.socialProviders.google;
   const hasMicrosoftProvider = !!authLib.options.socialProviders.microsoft;
+  const hasGithubProvider = !!authLib.options.socialProviders.github;
   const hasOidc = !!authLib.options.plugins.find(
     (plugin) => plugin.id === "generic-oauth",
   );
 
-  const hasSocialLogin = hasGoogleProvider || hasMicrosoftProvider;
+  const hasSocialLogin = hasGoogleProvider || hasMicrosoftProvider || || hasGithubProvider;
 
   const hasAlternateLoginMethods = hasSocialLogin || hasOidc;
 
@@ -130,6 +131,13 @@ export default async function LoginPage(props: {
             <SSOProvider
               providerId="microsoft"
               name="Microsoft"
+              redirectTo={searchParams?.redirectTo}
+            />
+          ) : null}
+          {hasGithubProvider ? (
+            <SSOProvider
+              providerId="github"
+              name="Github"
               redirectTo={searchParams?.redirectTo}
             />
           ) : null}

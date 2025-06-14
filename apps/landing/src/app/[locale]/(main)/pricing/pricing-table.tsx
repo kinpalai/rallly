@@ -125,7 +125,7 @@ export function PriceTables() {
                   i18nKey="annualBenefit"
                   defaults="{count} months free!"
                   values={{
-                    count: 4,
+                    count: 2,
                   }}
                 />
               </Badge>

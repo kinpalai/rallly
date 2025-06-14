@@ -27,7 +27,7 @@ const FAQ = async (props: { locale: string }) => {
           t={t}
           ns="pricing"
           i18nKey="canUseFree"
-          defaults="Can I use Rallly for free?"
+          defaults="Can I use Kinpal for free?"
         />
       </h3>
       <p className="col-span-2 text-muted-foreground text-sm leading-relaxed">
@@ -35,7 +35,7 @@ const FAQ = async (props: { locale: string }) => {
           t={t}
           ns="pricing"
           i18nKey="canUseFreeAnswer2"
-          defaults="Yes, most of Rallly's features are free and many users will never need to pay for anything. However, there are some features that are only available to paying customers. These features are designed to help you get the most out of Rallly."
+          defaults="Yes, most of Kinpal's features are free and many users will never need to pay for anything. However, there are some features that are only available to paying customers. These features are designed to help you get the most out of Kinpal."
         />
       </p>
       <h3 className="mt-6 mb-2 font-bold text-lg">
@@ -51,7 +51,7 @@ const FAQ = async (props: { locale: string }) => {
           t={t}
           ns="pricing"
           i18nKey="whyUpgradeAnswer2"
-          defaults="Upgrading to a paid plan makes sense if you use Rallly often or use it for work. The current subscription rate is a special early adopter rate and will increase in the future. By upgrading now, you will get early access to new, high-quality scheduling tools as they are released and lock in your subscription rate so you won't be affected by future price increases."
+          defaults="Upgrading to a paid plan makes sense if you use Kinpal often or use it for work. The current subscription rate is a special early adopter rate and will increase in the future. By upgrading now, you will get early access to new, high-quality scheduling tools as they are released and lock in your subscription rate so you won't be affected by future price increases."
         />
       </p>
       <h3 className="mt-6 mb-2 font-bold text-lg">

@@ -103,14 +103,6 @@ export const LanguagePreference = ({
           >
             <Trans i18nKey="save" />
           </Button>
-          <Link
-            target="_blank"
-            href="https://support.rallly.co/contribute/translations"
-            className={buttonVariants({ variant: "ghost" })}
-          >
-            <Trans i18nKey="becomeATranslator" defaults="Help translate" />
-            <ArrowUpRight className="size-4" />
-          </Link>
         </div>
       </form>
     </Form>

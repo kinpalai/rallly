@@ -159,7 +159,7 @@ describe("createIcsEvent", () => {
       );
       expect(result.value).toContain("SEQUENCE:5");
       expect(result.value).toContain("STATUS:CONFIRMED");
-      expect(result.value).toContain("PRODID:-//Rallly//EN");
+      expect(result.value).toContain("PRODID:-//Kinpal//EN");
     });
 
     it("should handle optional properties gracefully", () => {

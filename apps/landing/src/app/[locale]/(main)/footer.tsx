@@ -8,14 +8,12 @@ import {
   SelectTrigger,
   SelectValue,
 } from "@rallly/ui/select";
-import { LanguagesIcon } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
 import { usePathname, useRouter } from "next/navigation";
 import type * as React from "react";
 
 import DiscordIcon from "@/assets/discord.svg";
-import GithubIcon from "@/assets/github.svg";
 import LinkedinIcon from "@/assets/linkedin.svg";
 import XIcon from "@/assets/x.svg";
 import { LinkBase } from "@/i18n/client/link";
@@ -64,49 +62,18 @@ export const Footer: React.FunctionComponent = () => {
   return (
     <div className="mx-auto space-y-8">
       <div className="space-y-16 lg:flex lg:space-x-8 lg:space-y-0">
-        <div className="lg:w-2/6">
-          <div className="relative h-[30px] w-[30px]">
-            <Image
-              src="/logo-footer.svg"
-              fill
-              alt="Rallly"
-              className="object-contain"
-            />
-          </div>
-          <div className="my-8 text-gray-500 text-sm">
-            <p className="mb-4 leading-relaxed">
-              <Trans
-                ns="common"
-                i18nKey="footerSponsor"
-                components={{
-                  a: (
-                    <Link
-                      className="font-normal text-gray-500 leading-loose underline hover:text-gray-800 hover:underline"
-                      href="https://support.rallly.co/contribute/donations"
-                    />
-                  ),
-                }}
-              />
-            </p>
-            <div>
-              <Trans
-                ns="common"
-                i18nKey="footerCredit"
-                components={{
-                  a: (
-                    <Link
-                      className="font-normal text-gray-500 leading-loose underline hover:text-gray-800 hover:underline"
-                      href="https://twitter.com/imlukevella"
-                    />
-                  ),
-                }}
-              />
-            </div>
-          </div>
+        <div className="lg:w-1/4">
+          <Image
+            src="/logo-grayscale.svg"
+            width={120}
+            height={120}
+            className="!border-l !border-gray-400 border-l-1"
+            alt="Kinpal"
+          />
           <div className="flex items-center space-x-4">
             <a
               target="_blank"
-              href="https://x.com/ralllyco"
+              href="https://x.com/kinpalai"
               className="text-gray-500 text-sm hover:text-primary hover:no-underline"
               rel="noreferrer noopener"
             >
@@ -114,7 +81,7 @@ export const Footer: React.FunctionComponent = () => {
             </a>
             <a
               target="_blank"
-              href="https://discord.gg/uzg4ZcHbuM"
+              href="https://discord.gg/ZRZKqJf3tY"
               className="text-gray-500 text-sm hover:text-primary hover:no-underline"
               rel="noreferrer noopener"
             >
@@ -122,23 +89,15 @@ export const Footer: React.FunctionComponent = () => {
             </a>
             <a
               target="_blank"
-              href="https://www.linkedin.com/company/rallly"
+              href="https://www.linkedin.com/company/kinpal"
               className="text-gray-500 text-sm hover:text-primary hover:no-underline"
               rel="noreferrer noopener"
             >
-              <LinkedinIcon className="size-4" />
-            </a>
-            <a
-              target="_blank"
-              href="https://github.com/lukevella/rallly"
-              className="text-gray-500 text-sm hover:text-primary hover:no-underline"
-              rel="noreferrer noopener"
-            >
-              <GithubIcon className="size-4" />
+              <LinkedinIcon className="size-5" />
             </a>
           </div>
         </div>
-        <div className="lg:w-1/6">
+        <div className="lg:w-1/4">
           <div className="mb-8 font-medium">
             <Trans ns="common" i18nKey="links" defaults="Links" />
           </div>
@@ -150,20 +109,6 @@ export const Footer: React.FunctionComponent = () => {
               >
                 <Trans i18nKey="pricing" defaults="Pricing" />
               </LinkBase>
-            </li>
-            <li>
-              <a
-                target="_blank"
-                className="inline-block font-normal text-gray-500 hover:text-gray-800 hover:no-underline"
-                href="https://github.com/lukevella/rallly/discussions"
-                rel="noopener"
-              >
-                <Trans
-                  ns="common"
-                  i18nKey="discussions"
-                  defaults="Discussions"
-                />
-              </a>
             </li>
             <li>
               <LinkBase
@@ -181,17 +126,9 @@ export const Footer: React.FunctionComponent = () => {
                 <Trans ns="common" i18nKey="support" defaults="Support" />
               </a>
             </li>
-            <li>
-              <a
-                href="https://rallly.openstatus.dev"
-                className="inline-block font-normal text-gray-500 hover:text-gray-800 hover:no-underline"
-              >
-                <Trans ns="common" i18nKey="status" defaults="Status" />
-              </a>
-            </li>
           </ul>
         </div>
-        <div className="lg:w-1/6">
+        <div className="lg:w-1/4">
           <div className="mb-8 font-medium">
             <Trans i18nKey="solutions" defaults="Solutions" />
           </div>
@@ -211,18 +148,6 @@ export const Footer: React.FunctionComponent = () => {
             <li>
               <LinkBase
                 className="inline-block font-normal text-gray-500 hover:text-gray-800 hover:no-underline"
-                href="/when2meet-alternative"
-              >
-                <Trans
-                  ns="common"
-                  i18nKey="when2MeetAlternative"
-                  defaults="When2Meet Alternative"
-                />
-              </LinkBase>
-            </li>
-            <li>
-              <LinkBase
-                className="inline-block font-normal text-gray-500 hover:text-gray-800 hover:no-underline"
                 href="/free-scheduling-poll"
               >
                 <Trans
@@ -232,22 +157,27 @@ export const Footer: React.FunctionComponent = () => {
                 />
               </LinkBase>
             </li>
+            <li>
+              <LinkBase
+                className="inline-block font-normal text-gray-500 hover:text-gray-800 hover:no-underline"
+                href="/availability-poll"
+              >
+                <Trans
+                  ns="common"
+                  i18nKey="availabilityPoll"
+                  defaults="Availability Poll"
+                />
+              </LinkBase>
+            </li>
           </ul>
         </div>
-        <div className="lg:w-2/6">
+        <div className="lg:w-1/4">
           <div className="mb-8 font-medium">
             <Trans ns="common" i18nKey="language" defaults="Language" />
           </div>
           <div className="mb-4">
             <LanguageSelect />
           </div>
-          <a
-            href="https://support.rallly.co/contribute/translations"
-            className="inline-flex h-8 items-center rounded-md border px-3 text-gray-500 text-xs hover:border-primary hover:text-primary"
-          >
-            <LanguagesIcon className="mr-2 size-5" />
-            <Trans ns="common" i18nKey="volunteerTranslator" /> &rarr;
-          </a>
         </div>
       </div>
       <div className="flex flex-col justify-start gap-x-8 gap-y-8 sm:flex-row sm:items-end sm:pb-8">
@@ -277,6 +207,43 @@ export const Footer: React.FunctionComponent = () => {
             </Link>
           </li>
         </ul>
+        <div className="grid gap-2.5">
+          <div className="text-sm tracking-tight sm:text-right">
+            <Trans ns="common" i18nKey="poweredBy" defaults="Powered by" />
+          </div>
+          <div className="flex flex-wrap items-center gap-x-8 gap-y-2 md:justify-end">
+            <div>
+              <a
+                target="_blank"
+                href="https://vercel.com?utm_source=kinpal&utm_campaign=oss"
+                className="inline-block text-white"
+                rel="noreferrer noopener"
+              >
+                <Image
+                  src="/static/images/partners/vercel-logotype-dark.svg"
+                  alt="Vercel"
+                  width={100}
+                  height={24}
+                />
+              </a>
+            </div>
+            <div>
+              <a
+                target="_blank"
+                className="inline-block"
+                href="https://supabase.com"
+                rel="noopener"
+              >
+                <Image
+                  src="/static/images/partners/supabase.svg"
+                  alt="Supabase"
+                  width={123}
+                  height={24}
+                />
+              </a>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   );

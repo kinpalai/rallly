@@ -26,14 +26,14 @@ export function ErrorPage({
       >
         <Image
           src="/static/logo.svg"
-          alt="Rallly"
+          alt="Kinpal"
           width={130}
           height={30}
           className="mx-auto dark:hidden"
         />
         <Image
           src="/static/logo-dark.svg"
-          alt="Rallly"
+          alt="Kinpal"
           width={130}
           height={30}
           className="mx-auto hidden dark:block"
