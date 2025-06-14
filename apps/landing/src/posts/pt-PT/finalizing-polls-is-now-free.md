@@ -7,7 +7,7 @@ excerpt: >-
   todos, em qualquer plano. Saiba o que mudou e porquê.
 ---
 
-Quando lancei o [Rallly Pro](/blog/introducing-rallly-pro), finalizar uma sondagem era a principal novidade. Escolher uma data, enviar os convites de calendário e está feito. Agora, esta funcionalidade é grátis para todos.
+Quando lancei o [Kinpal Pro](/blog/introducing-rallly-pro), finalizar uma sondagem era a principal novidade. Escolher uma data, enviar os convites de calendário e está feito. Agora, esta funcionalidade é grátis para todos.
 
 ## Finalizar em qualquer plano
 
@@ -25,9 +25,9 @@ Todas as pessoas que selecionar recebem um email com um convite de calendário. 
 
 ## Porque estou a fazer esta alteração
 
-Passei muito tempo este ano a pensar em qual seria um modelo de preços justo para o Rallly. Quero que o Rallly continue a ser verdadeiramente útil gratuitamente, porque é assim que a maioria das pessoas o encontra e é assim que se espalha. Alguém organiza um jantar, os amigos votam e alguns deles passam a usá-lo nos seus próprios planos. Mas também preciso que o Rallly seja sustentável, para poder continuar a trabalhar nele e a disponibilizar melhorias.
+Passei muito tempo este ano a pensar em qual seria um modelo de preços justo para o Kinpal. Quero que o Kinpal continue a ser verdadeiramente útil gratuitamente, porque é assim que a maioria das pessoas o encontra e é assim que se espalha. Alguém organiza um jantar, os amigos votam e alguns deles passam a usá-lo nos seus próprios planos. Mas também preciso que o Kinpal seja sustentável, para poder continuar a trabalhar nele e a disponibilizar melhorias.
 
-Nunca me pareceu certo cobrar pela finalização. É o passo que transforma uma sondagem num evento de verdade e, sem ele, o plano gratuito ficava aquém de cumprir a sua função. As pessoas que mais tiram partido do Rallly são as que o usam para agendar muitas coisas, muitas vezes como parte do trabalho, por isso é aí que prefiro estabelecer o limite.
+Nunca me pareceu certo cobrar pela finalização. É o passo que transforma uma sondagem num evento de verdade e, sem ele, o plano gratuito ficava aquém de cumprir a sua função. As pessoas que mais tiram partido do Kinpal são as que o usam para agendar muitas coisas, muitas vezes como parte do trabalho, por isso é aí que prefiro estabelecer o limite.
 
 ## Limites de sondagens abertas
 
@@ -35,13 +35,13 @@ A partir de agora, o que distingue os planos é o número de sondagens que pode 
 
 Continua a poder criar todas as sondagens que quiser e não há qualquer limite ao número de participantes ou de opções. Uma sondagem deixa de contar assim que a finaliza ou fecha, e fecha automaticamente quando as respetivas datas já passaram. Se organiza uma reunião de equipa ou um encontro de vez em quando, é provável que nunca dê por isso.
 
-Se estiver a gerir várias sondagens ao mesmo tempo, o Pro remove o limite e dá-lhe acesso a tudo o que o Pro tem para oferecer, como convites por email e personalização da marca. Todas as subscrições são reinvestidas diretamente no desenvolvimento do Rallly.
+Se estiver a gerir várias sondagens ao mesmo tempo, o Pro remove o limite e dá-lhe acesso a tudo o que o Pro tem para oferecer, como convites por email e personalização da marca. Todas as subscrições são reinvestidas diretamente no desenvolvimento do Kinpal.
 
 ## O que se segue
 
-Isto faz parte de um esforço maior para tornar o Rallly melhor para todos, quer paguem ou não. O objetivo a longo prazo é ter um plano gratuito em que possa experimentar tudo o que o Rallly tem para oferecer, ficando o Pro disponível quando estiver a agendar com uma frequência que o justifique.
+Isto faz parte de um esforço maior para tornar o Kinpal melhor para todos, quer paguem ou não. O objetivo a longo prazo é ter um plano gratuito em que possa experimentar tudo o que o Kinpal tem para oferecer, ficando o Pro disponível quando estiver a agendar com uma frequência que o justifique.
 
-Vou acompanhar atentamente a forma como estas alterações são recebidas e ajustá-las-ei se alguma coisa não estiver a funcionar. Se o limite estiver a dificultar-lhe a vida, ou se tiver ideias sobre como os preços deveriam funcionar, gostava mesmo de saber a sua opinião através de [feedback@rallly.co](mailto:feedback@rallly.co).
+Vou acompanhar atentamente a forma como estas alterações são recebidas e ajustá-las-ei se alguma coisa não estiver a funcionar. Se o limite estiver a dificultar-lhe a vida, ou se tiver ideias sobre como os preços deveriam funcionar, gostava mesmo de saber a sua opinião através de [feedback@kinpal.com](mailto:feedback@kinpal.com).
 
 Obrigado pelo seu apoio contínuo.
 

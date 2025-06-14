@@ -49,11 +49,11 @@ export function isHomePath(pathname: string) {
 export function notFoundMarkdown(baseUrl: string) {
   return `# Page not found
 
-There is no page at this address on Rallly. It may have moved, or the link may be mistyped.
+There is no page at this address on Kinpal. It may have moved, or the link may be mistyped.
 
-- [Home](${baseUrl}/): what Rallly is, in Markdown
-- [llms.txt](${baseUrl}/llms.txt): summary for agents, including when to use Rallly
+- [Home](${baseUrl}/): what Kinpal is, in Markdown
+- [llms.txt](${baseUrl}/llms.txt): summary for agents, including when to use Kinpal
 - [Sitemap](${baseUrl}/sitemap.xml): every public page
-- [Docs and API reference](https://support.rallly.co)
+- [Docs and API reference](https://support.kinpal.com)
 `;
 }

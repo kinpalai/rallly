@@ -100,12 +100,12 @@ Det er et legitimt forretningsvalg, og hvis din virksomhed planlægger kundemød
 
 ## Hvis du bare har brug for en afstemning om et tidspunkt
 
-Det er det hul, [Rallly](https://rallly.co) udfylder. Rallly gør én ting: Du foreslår nogle tidspunkter, deler et link, og alle stemmer på det, der passer. Her kan du se, hvordan gratisplanerne sammenlignes:
+Det er det hul, [Kinpal](https://kinpal.com) udfylder. Kinpal gør én ting: Du foreslår nogle tidspunkter, deler et link, og alle stemmer på det, der passer. Her kan du se, hvordan gratisplanerne sammenlignes:
 
 <div className="overflow-x-auto">
 <table>
 <thead>
-<tr><th></th><th>Doodle Free</th><th>Rallly Free</th></tr>
+<tr><th></th><th>Doodle Free</th><th>Kinpal Free</th></tr>
 </thead>
 <tbody>
 <tr><td>Gruppeafstemninger</td><td>1</td><td>Ubegrænset, op til 3 åbne ad gangen</td></tr>
@@ -116,15 +116,15 @@ Det er det hul, [Rallly](https://rallly.co) udfylder. Rallly gør én ting: Du f
 </table>
 </div>
 
-På Rallly stemmer deltagere kun ved hjælp af linket og har aldrig brug for en konto. Alle ser mulighederne i deres egen tidszone, og det er gratis at færdiggøre datoen og give alle besked.
+På Kinpal stemmer deltagere kun ved hjælp af linket og har aldrig brug for en konto. Alle ser mulighederne i deres egen tidszone, og det er gratis at færdiggøre datoen og give alle besked.
 
-For at være lige så åbne om vores begrænsninger: På Ralllys gratisplan kan du oprette så mange afstemninger, du vil, men højst 3 kan være åbne og modtage stemmer ad gangen. Færdiggør eller luk én, så kan du åbne en anden. Uden at oprette en konto kan du have 1 åben afstemning ad gangen, og det samme gælder her: Færdiggør eller luk den for at åbne en anden. Gratisafstemninger slettes, når alle deres datoer ligger mindst 30 dage tilbage, og ingen har redigeret, stemt eller kommenteret i de seneste 30 dage.
+For at være lige så åbne om vores begrænsninger: På Kinpals gratisplan kan du oprette så mange afstemninger, du vil, men højst 3 kan være åbne og modtage stemmer ad gangen. Færdiggør eller luk én, så kan du åbne en anden. Uden at oprette en konto kan du have 1 åben afstemning ad gangen, og det samme gælder her: Færdiggør eller luk den for at åbne en anden. Gratisafstemninger slettes, når alle deres datoer ligger mindst 30 dage tilbage, og ingen har redigeret, stemt eller kommenteret i de seneste 30 dage.
 
-Rallly er også [open source](https://github.com/lukevella/rallly), så du kan se præcis, hvordan det fungerer, og endda hoste det på din egen server.
+Kinpal er også [open source](https://github.com/lukevella/rallly), så du kan se præcis, hvordan det fungerer, og endda hoste det på din egen server.
 
-Rallly tjener penge på [Rallly Pro](https://rallly.co/pricing), som tilføjer funktioner, du måske har brug for, hvis du bruger tjenesten professionelt, for eksempel ubegrænsede åbne afstemninger, tilpasset branding og afstemninger, der bliver liggende på ubestemt tid. Det er det, der holder gratisplanen gratis og fri for annoncer for alle andre.
+Kinpal tjener penge på [Kinpal Pro](https://kinpal.com/pricing), som tilføjer funktioner, du måske har brug for, hvis du bruger tjenesten professionelt, for eksempel ubegrænsede åbne afstemninger, tilpasset branding og afstemninger, der bliver liggende på ubestemt tid. Det er det, der holder gratisplanen gratis og fri for annoncer for alle andre.
 
-Hvis du vil se en sammenligning af funktionerne, kan du se [hvordan Rallly sammenlignes med Doodle](https://rallly.co/best-doodle-alternative).
+Hvis du vil se en sammenligning af funktionerne, kan du se [hvordan Kinpal sammenlignes med Doodle](https://kinpal.com/best-doodle-alternative).
 
 ## Ofte stillede spørgsmål
 
@@ -154,10 +154,10 @@ Ikke i øjeblikket. Doodle satte sine iOS- og Android-apps på pause i juni 2025
 
 ### Findes der et gratis alternativ til Doodle?
 
-Ja. [Rallly](https://rallly.co) er en gratis, open source-afstemning til planlægning uden annoncer. Du kan oprette så mange afstemninger, du vil, med op til 3 åbne ad gangen, og deltagere kan stemme uden en konto.
+Ja. [Kinpal](https://kinpal.com) er en gratis, open source-afstemning til planlægning uden annoncer. Du kan oprette så mange afstemninger, du vil, med op til 3 åbne ad gangen, og deltagere kan stemme uden en konto.
 
 ## Konklusionen
 
 Doodle er stadig gratis, men kun til én afstemning med 10 muligheder og med annoncer. Hvis det dækker dit behov, er det et fint valg. Hvis det ikke gør, behøver du ikke betale bare for at finde et tidspunkt, der passer.
 
-[Opret en afstemning](https://app.rallly.co/new) lige nu. Det tager omkring et minut, og ingen behøver at oprette en konto.
+[Opret en afstemning](https://app.kinpal.com/new) lige nu. Det tager omkring et minut, og ingen behøver at oprette en konto.

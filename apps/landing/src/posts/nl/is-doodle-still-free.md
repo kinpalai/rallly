@@ -100,12 +100,12 @@ Dat is een legitieme zakelijke keuze, en als je bedrijf de hele dag afspraken me
 
 ## Als je alleen een scheduling-poll nodig hebt
 
-Dat is het gat dat [Rallly](https://rallly.co) opvult. Het doet één ding: je stelt een aantal momenten voor, deelt een link en iedereen stemt op wat werkt. Zo vergelijken de gratis abonnementen zich:
+Dat is het gat dat [Kinpal](https://kinpal.com) opvult. Het doet één ding: je stelt een aantal momenten voor, deelt een link en iedereen stemt op wat werkt. Zo vergelijken de gratis abonnementen zich:
 
 <div className="overflow-x-auto">
 <table>
 <thead>
-<tr><th></th><th>Doodle Free</th><th>Rallly Free</th></tr>
+<tr><th></th><th>Doodle Free</th><th>Kinpal Free</th></tr>
 </thead>
 <tbody>
 <tr><td>Groepspolls</td><td>1</td><td>Onbeperkt, maximaal 3 tegelijk open</td></tr>
@@ -116,15 +116,15 @@ Dat is het gat dat [Rallly](https://rallly.co) opvult. Het doet één ding: je s
 </table>
 </div>
 
-Op Rallly stemmen deelnemers gewoon met de link en hebben ze nooit een account nodig. Iedereen ziet de opties in zijn of haar eigen tijdzone, en het afronden van de datum en het op de hoogte brengen van iedereen is gratis.
+Op Kinpal stemmen deelnemers gewoon met de link en hebben ze nooit een account nodig. Iedereen ziet de opties in zijn of haar eigen tijdzone, en het afronden van de datum en het op de hoogte brengen van iedereen is gratis.
 
-Om ook transparant te zijn over onze limieten: met het gratis abonnement van Rallly kun je zoveel polls maken als je wilt, maar er kunnen maximaal 3 tegelijk open zijn en stemmen verzamelen. Rond er één af of sluit er één en je kunt een andere openen. Zonder account kun je 1 open poll tegelijk hebben. Ook hier geldt: rond de poll af of sluit hem om een andere te openen. Gratis polls worden verwijderd zodra al hun datums minstens 30 dagen in het verleden liggen en niemand in de afgelopen 30 dagen de poll heeft bewerkt, gestemd of een opmerking heeft geplaatst.
+Om ook transparant te zijn over onze limieten: met het gratis abonnement van Kinpal kun je zoveel polls maken als je wilt, maar er kunnen maximaal 3 tegelijk open zijn en stemmen verzamelen. Rond er één af of sluit er één en je kunt een andere openen. Zonder account kun je 1 open poll tegelijk hebben. Ook hier geldt: rond de poll af of sluit hem om een andere te openen. Gratis polls worden verwijderd zodra al hun datums minstens 30 dagen in het verleden liggen en niemand in de afgelopen 30 dagen de poll heeft bewerkt, gestemd of een opmerking heeft geplaatst.
 
-Rallly is ook [open source](https://github.com/lukevella/rallly), dus je kunt precies bekijken hoe het werkt en het zelfs op je eigen server hosten.
+Kinpal is ook [open source](https://github.com/lukevella/rallly), dus je kunt precies bekijken hoe het werkt en het zelfs op je eigen server hosten.
 
-Rallly verdient geld met [Rallly Pro](https://rallly.co/pricing), dat functies toevoegt die je nodig hebt als je Rallly professioneel gebruikt, zoals een onbeperkt aantal open polls, aangepaste branding en polls die onbeperkt blijven bestaan. Daardoor blijft het gratis abonnement voor iedereen gratis, zonder advertenties.
+Kinpal verdient geld met [Kinpal Pro](https://kinpal.com/pricing), dat functies toevoegt die je nodig hebt als je Kinpal professioneel gebruikt, zoals een onbeperkt aantal open polls, aangepaste branding en polls die onbeperkt blijven bestaan. Daardoor blijft het gratis abonnement voor iedereen gratis, zonder advertenties.
 
-Bekijk [hoe Rallly zich verhoudt tot Doodle](https://rallly.co/best-doodle-alternative) voor een vergelijking per functie.
+Bekijk [hoe Kinpal zich verhoudt tot Doodle](https://kinpal.com/best-doodle-alternative) voor een vergelijking per functie.
 
 ## Veelgestelde vragen
 
@@ -154,10 +154,10 @@ Op dit moment niet. Doodle heeft de iOS- en Android-apps in juni 2025 tijdelijk 
 
 ### Is er een gratis alternatief voor Doodle?
 
-Ja. [Rallly](https://rallly.co) is een gratis, open-source scheduling-poll zonder advertenties. Je kunt zoveel polls maken als je wilt, met maximaal 3 tegelijk open, en deelnemers kunnen stemmen zonder account.
+Ja. [Kinpal](https://kinpal.com) is een gratis, open-source scheduling-poll zonder advertenties. Je kunt zoveel polls maken als je wilt, met maximaal 3 tegelijk open, en deelnemers kunnen stemmen zonder account.
 
 ## Kort samengevat
 
 Doodle is nog steeds gratis, maar alleen voor één poll met 10 opties en met advertenties. Als dat voldoende is voor wat je nodig hebt, is het een prima keuze. Als dat niet zo is, hoef je niet te betalen om alleen maar een moment te vinden dat voor iedereen werkt.
 
-[Maak nu een poll](https://app.rallly.co/new). Het duurt ongeveer een minuut en niemand hoeft ergens een account voor aan te maken.
+[Maak nu een poll](https://app.kinpal.com/new). Het duurt ongeveer een minuut en niemand hoeft ergens een account voor aan te maken.

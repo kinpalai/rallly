@@ -7,7 +7,7 @@ excerpt: >-
   trabajar juntos o de forma independiente.
 ---
 
-Los Espacios permiten que un equipo comparta una sola suscripción de Rallly. Hasta ahora, funcionaban de una única manera: todos los miembros podían ver y gestionar las Encuestas y los Eventos de los demás. Esto funciona bien para equipos pequeños que organizan sus reuniones juntos, pero no dejaba de recibir comentarios de equipos más grandes que decían que les dificultaba el trabajo. Querían dar acceso a todo el mundo sin que nadie interfiriera en el trabajo de los demás.
+Los Espacios permiten que un equipo comparta una sola suscripción de Kinpal. Hasta ahora, funcionaban de una única manera: todos los miembros podían ver y gestionar las Encuestas y los Eventos de los demás. Esto funciona bien para equipos pequeños que organizan sus reuniones juntos, pero no dejaba de recibir comentarios de equipos más grandes que decían que les dificultaba el trabajo. Querían dar acceso a todo el mundo sin que nadie interfiriera en el trabajo de los demás.
 
 Por eso, los Espacios ahora tienen una opción de colaboración en equipo.
 
@@ -25,12 +25,12 @@ Esta opción divide los Espacios en dos modalidades:
 
 Un equipo pequeño que organiza sus reuniones conjuntamente mantiene activada la colaboración. Un asistente puede gestionar una Encuesta creada por un compañero y nadie tiene que reenviar enlaces.
 
-Una organización que quiera ofrecer Rallly a un grupo más grande desactiva la colaboración. Todos obtienen las funciones Pro con una sola suscripción, la organización de las reuniones de cada persona sigue siendo privada y añadir un nuevo miembro no deja al descubierto las Encuestas existentes de nadie.
+Una organización que quiera ofrecer Kinpal a un grupo más grande desactiva la colaboración. Todos obtienen las funciones Pro con una sola suscripción, la organización de las reuniones de cada persona sigue siendo privada y añadir un nuevo miembro no deja al descubierto las Encuestas existentes de nadie.
 
 En cualquier caso, esto solo afecta a lo que pueden ver los miembros de tu Espacio. Los enlaces de invitación y las páginas de los participantes funcionan exactamente igual en ambas modalidades, así que las personas con las que organizas reuniones no notarán ninguna diferencia.
 
-Puedes leer más sobre su funcionamiento en la [documentación sobre colaboración](https://support.rallly.co/spaces/collaboration).
+Puedes leer más sobre su funcionamiento en la [documentación sobre colaboración](https://support.kinpal.com/spaces/collaboration).
 
 ## Qué viene después
 
-Este es un primer paso para conseguir que Rallly funcione mejor para organizaciones más grandes. Si estás pensando en ofrecer Rallly a tu equipo y echas algo en falta, me gustaría saberlo. Escríbeme a [support@rallly.co](mailto:support@rallly.co).
+Este es un primer paso para conseguir que Kinpal funcione mejor para organizaciones más grandes. Si estás pensando en ofrecer Kinpal a tu equipo y echas algo en falta, me gustaría saberlo. Escríbeme a [support@kinpal.com](mailto:support@kinpal.com).

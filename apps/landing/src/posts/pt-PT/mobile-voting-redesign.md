@@ -7,7 +7,7 @@ excerpt: >-
   disponibilidade seja óbvio à primeira vista.
 ---
 
-A maioria das pessoas que responde a uma sondagem do Rallly fá-lo a partir do telemóvel, muitas vezes poucos minutos depois de receber a ligação de convite. Esse momento é o centro do produto, por isso, quando ouvimos que está a causar confusão, prestamos atenção.
+A maioria das pessoas que responde a uma sondagem do Kinpal fá-lo a partir do telemóvel, muitas vezes poucos minutos depois de receber a ligação de convite. Esse momento é o centro do produto, por isso, quando ouvimos que está a causar confusão, prestamos atenção.
 
 E ouvimos mesmo. Algumas pessoas disseram-nos que a interface de votação anterior não era suficientemente clara. O pequeno botão «?» junto a cada hora passava facilmente despercebido e alguns participantes carregavam em Continuar à espera de poder escolher as horas na página seguinte, apenas para descobrirem que tinham respondido acidentalmente «Não» a tudo.
 
@@ -33,4 +33,4 @@ Os novos controlos cumprem as dimensões recomendadas pela Apple para áreas de 
 
 Nada mudou nas suas sondagens ou respostas existentes. Esta é simplesmente uma forma melhor de fazer a mesma coisa.
 
-Como sempre, se algo não parecer bem ou tiver uma ideia para tornar a votação ainda mais simples, [diga-nos](mailto:support@rallly.co). Esta atualização começou com o feedback de pessoas como você.
+Como sempre, se algo não parecer bem ou tiver uma ideia para tornar a votação ainda mais simples, [diga-nos](mailto:support@kinpal.com). Esta atualização começou com o feedback de pessoas como você.

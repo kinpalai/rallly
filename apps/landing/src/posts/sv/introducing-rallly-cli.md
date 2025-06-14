@@ -1,27 +1,27 @@
 ---
-title: Vi presenterar Rallly CLI
+title: Vi presenterar Kinpal CLI
 date: '2026-04-29'
 category: Self-hosting
 excerpt: >-
   Ett nytt CLI för att installera, konfigurera och hantera självhostade
-  Rallly-instanser, med HTTPS och bilduppladdningar som fungerar direkt.
+  Kinpal-instanser, med HTTPS och bilduppladdningar som fungerar direkt.
 ---
 
-Att självhosta Rallly brukade innebära att kopiera en exempel-`docker-compose.yml`, redigera den för hand, välja en egen reverse proxy och konfigurera en S3-bucket om bilduppladdningar skulle fungera. Det gick att få till, men varje installation blev lite annorlunda, och frågan ”konfigurerade jag verkligen den där delen rätt?” återkom ofta i supportmejl.
+Att självhosta Kinpal brukade innebära att kopiera en exempel-`docker-compose.yml`, redigera den för hand, välja en egen reverse proxy och konfigurera en S3-bucket om bilduppladdningar skulle fungera. Det gick att få till, men varje installation blev lite annorlunda, och frågan ”konfigurerade jag verkligen den där delen rätt?” återkom ofta i supportmejl.
 
 Därför byggde vi ett riktigt CLI som hanterar installation, konfiguration och den dagliga driften åt dig.
 
 ## Installera med ett kommando
 
 ```sh
-curl -fsSL https://get.rallly.co | bash
+curl -fsSL https://get.kinpal.com | bash
 ```
 
 Installationsprogrammet kontrollerar din miljö, guidar dig genom konfigurationen (domän, supportmejl och SMTP), skapar hemliga nycklar åt dig och startar allt. Du behöver inte redigera någonting för hand.
 
 En fungerande instans innehåller nu:
 
-- **Rallly** självt
+- **Kinpal** självt
 - **PostgreSQL** för databasen
 - **Traefik** som reverse proxy med automatiska Let's Encrypt-certifikat
 - **Garage** för S3-kompatibel objektlagring, så att avatarer och bilder kan laddas upp direkt
@@ -30,7 +30,7 @@ Du behöver inte längre ordna en egen proxy eller objektlagring för att få en
 
 ## Hantera allt med CLI:t
 
-När Rallly väl är installerat går allt via CLI:t `rallly.sh`:
+När Kinpal väl är installerat går allt via CLI:t `rallly.sh`:
 
 ```sh
 ./rallly.sh start          # Start all services
@@ -48,12 +48,12 @@ Genom att vi dessutom har bättre kontroll över stacken kan vi framöver lägga
 
 ## Självhostar du redan?
 
-Om du redan kör Rallly från en handredigerad `docker-compose.yml` eller `config.env` finns det en steg-för-steg-[migrationsguide](https://support.rallly.co/self-hosting/migration) som guidar dig genom uppgraderingen till 4.10 och övergången till CLI:t utan att du förlorar några data. Det viktigaste att ta med är ditt `SECRET_PASSWORD`, som krypterar sessioner.
+Om du redan kör Kinpal från en handredigerad `docker-compose.yml` eller `config.env` finns det en steg-för-steg-[migrationsguide](https://support.kinpal.com/self-hosting/migration) som guidar dig genom uppgraderingen till 4.10 och övergången till CLI:t utan att du förlorar några data. Det viktigaste att ta med är ditt `SECRET_PASSWORD`, som krypterar sessioner.
 
 ## Så kommer du igång
 
-- **Ny installation**: [Installationsguide](https://support.rallly.co/self-hosting/installation/docker)
-- **Daglig drift**: [Hanteringsguide](https://support.rallly.co/self-hosting/management)
-- **Kommer du från en äldre installation**: [Migrationsguide](https://support.rallly.co/self-hosting/migration)
+- **Ny installation**: [Installationsguide](https://support.kinpal.com/self-hosting/installation/docker)
+- **Daglig drift**: [Hanteringsguide](https://support.kinpal.com/self-hosting/management)
+- **Kommer du från en äldre installation**: [Migrationsguide](https://support.kinpal.com/self-hosting/migration)
 
-Målet med den här versionen var att få självhostning att kännas som en produkt snarare än ett recept. Om du stöter på problem på vägen, eller har idéer om vad vi borde göra härnäst, får du gärna höra av dig på [feedback@rallly.co](mailto:feedback@rallly.co).
+Målet med den här versionen var att få självhostning att kännas som en produkt snarare än ett recept. Om du stöter på problem på vägen, eller har idéer om vad vi borde göra härnäst, får du gärna höra av dig på [feedback@kinpal.com](mailto:feedback@kinpal.com).

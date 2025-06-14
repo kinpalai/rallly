@@ -51,7 +51,7 @@ export async function SignInAccounts() {
         <PageSectionDescription>
           <Trans
             i18nKey="linkedAccountsDescription"
-            defaults="Accounts you can use to sign in to Rallly"
+            defaults="Accounts you can use to sign in to Kinpal"
           />
         </PageSectionDescription>
       </PageSectionHeader>

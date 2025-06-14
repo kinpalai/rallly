@@ -36,23 +36,23 @@ Spread your options across different days rather than listing every hour of a fe
 
 ## How to set up the poll
 
-Any scheduling poll will do. These steps use [Rallly](/scheduling-for/thesis-defense), which is free and doesn't ask your committee to create accounts.
+Any scheduling poll will do. These steps use [Kinpal](/scheduling-for/thesis-defense), which is free and doesn't ask your committee to create accounts.
 
-1. Sign in to Rallly and go to [Create a poll](https://app.rallly.co/new). A free account is enough, and you'll need one to finalize the date.
+1. Sign in to Kinpal and go to [Create a poll](https://app.kinpal.com/new). A free account is enough, and you'll need one to finalize the date.
 2. Add a title such as "PhD defense, Biology, April". Anyone with the link can see the title and description, so leave out embargoed thesis titles.
-3. Click **Add location**, or click **Add video call** to have Rallly create a Google Meet, Zoom, Microsoft Teams or Webex link when you finalize. You'll need to connect that service under **Settings** first.
-4. Click **Add description** and say how long the event lasts and the date to respond by. Rallly doesn't enforce this date, so it's up to you to follow up.
+3. Click **Add location**, or click **Add video call** to have Kinpal create a Google Meet, Zoom, Microsoft Teams or Webex link when you finalize. You'll need to connect that service under **Settings** first.
+4. Click **Add description** and say how long the event lasts and the date to respond by. Kinpal doesn't enforce this date, so it's up to you to follow up.
 5. Set the **Duration** and select your options in the calendar.
 6. Leave **Require email** on, so that everyone can receive the calendar invite, and keep **Vote options** on yes, if need be and no.
 7. Click **Create poll**.
 
-![The new poll form in Rallly with a title, a two hour duration and three dates selected](/static/images/thesis-defense/create-poll.png)
+![The new poll form in Kinpal with a title, a two hour duration and three dates selected](/static/images/thesis-defense/create-poll.png)
 
 ### If you have an external examiner
 
 An external examiner is often the hardest person to schedule. They don't appear in your university's calendar, and they may be several time zones away.
 
-Rallly shows each person the options in their own time zone, so nobody has to convert anything. Include a few options that fall inside the external examiner's working day, and be careful around the weeks when clocks change, since countries change on different dates. They can respond from the link without an account.
+Kinpal shows each person the options in their own time zone, so nobody has to convert anything. Include a few options that fall inside the external examiner's working day, and be careful around the weeks when clocks change, since countries change on different dates. They can respond from the link without an account.
 
 ## Share it and follow up
 
@@ -66,7 +66,7 @@ Give people a week to respond, and contact anyone who hasn't answered after thre
 
 ## Finalize the date
 
-Click **Finalize** and Rallly lists your options with the best supported first. Choose the date and select who to notify. Everyone you select gets an email with a calendar invite, including the video call link if you added one. Book the room the same day.
+Click **Finalize** and Kinpal lists your options with the best supported first. Choose the date and select who to notify. Everyone you select gets an email with a calendar invite, including the video call link if you added one. Book the room the same day.
 
 ![The Finalize dialog listing each option by how many people can attend](/static/images/thesis-defense/finalize.png)
 
@@ -89,8 +89,8 @@ Four people respond within three days, and she emails the fifth. No option gets 
 <PostFaq>
   <FaqItem question="How far in advance should you schedule a thesis defense?">Send your poll at least four weeks before the earliest possible date, and earlier for a large committee. Your program's notice periods may require more.</FaqItem>
   <FaqItem question="How many dates should you offer?">Between 5 and 10, spread across different days. You can add more later if none of them work.</FaqItem>
-  <FaqItem question="What if a committee member doesn't respond?">Contact them directly after three days. If you use email invites, which are part of Rallly Pro, you can see who has opened the poll and who has responded.</FaqItem>
-  <FaqItem question="Do committee members need a Rallly account?">No. They open the link, enter their name and email, and choose the times that work.</FaqItem>
+  <FaqItem question="What if a committee member doesn't respond?">Contact them directly after three days. If you use email invites, which are part of Kinpal Pro, you can see who has opened the poll and who has responded.</FaqItem>
+  <FaqItem question="Do committee members need a Kinpal account?">No. They open the link, enter their name and email, and choose the times that work.</FaqItem>
   <FaqItem question="Can a coordinator schedule a defense for a student?">Yes. Create the poll yourself and include the candidate as one of the people responding. The answers come back to you, and you set the final date.</FaqItem>
-  <FaqItem question="Is Rallly free for this?">Yes. Creating polls, collecting answers and finalizing are free. A free account can have three polls open at a time, and Rallly Pro removes that limit.</FaqItem>
+  <FaqItem question="Is Kinpal free for this?">Yes. Creating polls, collecting answers and finalizing are free. A free account can have three polls open at a time, and Kinpal Pro removes that limit.</FaqItem>
 </PostFaq>

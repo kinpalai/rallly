@@ -5,7 +5,7 @@ category: Product
 excerpt: Účastníkům teď můžete zobrazit své logo a barvy značky.
 ---
 
-Jedna věc, kterou jsem slyšel od týmů používajících Rallly, je, že stránka s pozvánkou působila odtrženě od jejich značky. Je to stránka, na kterou se vaši hosté dostanou, když jim pošlete anketu. Když posíláte klientovi nebo novému zaměstnanci odkaz pro plánování, obecné rozhraní může narušit dojem, který jste všude jinde pracně budovali. Totéž platí pro potvrzovací e-maily, které účastníci dostanou po hlasování.
+Jedna věc, kterou jsem slyšel od týmů používajících Kinpal, je, že stránka s pozvánkou působila odtrženě od jejich značky. Je to stránka, na kterou se vaši hosté dostanou, když jim pošlete anketu. Když posíláte klientovi nebo novému zaměstnanci odkaz pro plánování, obecné rozhraní může narušit dojem, který jste všude jinde pracně budovali. Totéž platí pro potvrzovací e-maily, které účastníci dostanou po hlasování.
 
 ![Anketa s vlastním brandingem](https://d39ixtfgglw55o.cloudfront.net/images/branded-poll.webp)
 
@@ -19,7 +19,7 @@ Vizuálně jde o malou změnu, ale ve chvíli, kdy druhá strana uvidí něco, c
 
 ## Jak nastavit vlastní branding
 
-1. Přejděte do [Nastavení prostoru](https://app.rallly.co/settings/general)
+1. Přejděte do [Nastavení prostoru](https://app.kinpal.com/settings/general)
 2. Nahrajte své logo a vyberte hlavní barvu
 3. Zapněte **Povolit vlastní branding**
 
@@ -27,4 +27,4 @@ Vizuálně jde o malou změnu, ale ve chvíli, kdy druhá strana uvidí něco, c
 
 Všechny vaše veřejně přístupné stránky budou vaše branding automaticky používat.
 
-Jako vždy budu rád, když mi dáte vědět o svých připomínkách nebo pokud na něco narazíte. Napište mi na [feedback@rallly.co](mailto:feedback@rallly.co).
+Jako vždy budu rád, když mi dáte vědět o svých připomínkách nebo pokud na něco narazíte. Napište mi na [feedback@kinpal.com](mailto:feedback@kinpal.com).

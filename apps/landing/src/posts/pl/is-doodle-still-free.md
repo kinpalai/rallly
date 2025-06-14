@@ -100,12 +100,12 @@ To uzasadniona decyzja biznesowa i jeśli Twoja firma przez cały dzień organiz
 
 ## Jeśli potrzebujesz tylko ankiety do ustalenia terminu
 
-Tę lukę wypełnia [Rallly](https://rallly.co). To narzędzie służy do jednego: proponujesz kilka terminów, udostępniasz link, a wszyscy głosują na te, które im pasują. Oto porównanie darmowych planów:
+Tę lukę wypełnia [Kinpal](https://kinpal.com). To narzędzie służy do jednego: proponujesz kilka terminów, udostępniasz link, a wszyscy głosują na te, które im pasują. Oto porównanie darmowych planów:
 
 <div className="overflow-x-auto">
 <table>
 <thead>
-<tr><th></th><th>Doodle Free</th><th>Rallly Free</th></tr>
+<tr><th></th><th>Doodle Free</th><th>Kinpal Free</th></tr>
 </thead>
 <tbody>
 <tr><td>Ankiety grupowe</td><td>1</td><td>Bez limitu, maksymalnie 3 otwarte jednocześnie</td></tr>
@@ -116,15 +116,15 @@ Tę lukę wypełnia [Rallly](https://rallly.co). To narzędzie służy do jedneg
 </table>
 </div>
 
-W Rallly uczestnicy głosują, korzystając tylko z linku, i nigdy nie potrzebują konta. Każdy widzi opcje we własnej strefie czasowej, a zatwierdzenie terminu i powiadomienie wszystkich jest bezpłatne.
+W Kinpal uczestnicy głosują, korzystając tylko z linku, i nigdy nie potrzebują konta. Każdy widzi opcje we własnej strefie czasowej, a zatwierdzenie terminu i powiadomienie wszystkich jest bezpłatne.
 
-Dla pełnej przejrzystości wspomnijmy też o naszych limitach: w darmowym planie Rallly możesz tworzyć tyle ankiet, ile chcesz, ale jednocześnie otwarte i zbierające głosy mogą być maksymalnie 3 ankiety. Zatwierdź lub zamknij jedną z nich, a będziesz móc otworzyć kolejną. Bez rejestracji możesz mieć jednocześnie 1 otwartą ankietę — obowiązuje ta sama zasada: zatwierdź ją lub zamknij, aby otworzyć następną. Darmowe ankiety są usuwane, gdy wszystkie ich terminy przypadają co najmniej 30 dni w przeszłości i nikt nie edytował ankiety, nie głosował ani nie dodawał komentarza w ciągu ostatnich 30 dni.
+Dla pełnej przejrzystości wspomnijmy też o naszych limitach: w darmowym planie Kinpal możesz tworzyć tyle ankiet, ile chcesz, ale jednocześnie otwarte i zbierające głosy mogą być maksymalnie 3 ankiety. Zatwierdź lub zamknij jedną z nich, a będziesz móc otworzyć kolejną. Bez rejestracji możesz mieć jednocześnie 1 otwartą ankietę — obowiązuje ta sama zasada: zatwierdź ją lub zamknij, aby otworzyć następną. Darmowe ankiety są usuwane, gdy wszystkie ich terminy przypadają co najmniej 30 dni w przeszłości i nikt nie edytował ankiety, nie głosował ani nie dodawał komentarza w ciągu ostatnich 30 dni.
 
-Rallly jest również [otwartym oprogramowaniem](https://github.com/lukevella/rallly), więc możesz dokładnie sprawdzić, jak działa, a nawet uruchomić je na własnym serwerze.
+Kinpal jest również [otwartym oprogramowaniem](https://github.com/lukevella/rallly), więc możesz dokładnie sprawdzić, jak działa, a nawet uruchomić je na własnym serwerze.
 
-Rallly zarabia na [Rallly Pro](https://rallly.co/pricing), które dodaje funkcje przydatne podczas profesjonalnego korzystania z usługi, takie jak nielimitowana liczba otwartych ankiet, własne oznakowanie i ankiety, które pozostają dostępne bezterminowo. Dzięki temu darmowy plan może pozostać bezpłatny i pozbawiony reklam dla wszystkich pozostałych użytkowników.
+Kinpal zarabia na [Kinpal Pro](https://kinpal.com/pricing), które dodaje funkcje przydatne podczas profesjonalnego korzystania z usługi, takie jak nielimitowana liczba otwartych ankiet, własne oznakowanie i ankiety, które pozostają dostępne bezterminowo. Dzięki temu darmowy plan może pozostać bezpłatny i pozbawiony reklam dla wszystkich pozostałych użytkowników.
 
-Jeśli chcesz zobaczyć porównanie funkcji punkt po punkcie, przeczytaj [jak Rallly wypada w porównaniu z Doodle](https://rallly.co/best-doodle-alternative).
+Jeśli chcesz zobaczyć porównanie funkcji punkt po punkcie, przeczytaj [jak Kinpal wypada w porównaniu z Doodle](https://kinpal.com/best-doodle-alternative).
 
 ## Najczęściej zadawane pytania
 
@@ -154,10 +154,10 @@ Obecnie nie. Doodle wstrzymało działanie aplikacji na iOS i Androida w czerwcu
 
 ### Czy istnieje bezpłatna alternatywa dla Doodle?
 
-Tak. [Rallly](https://rallly.co) to bezpłatna ankieta do ustalania terminów, oparta na otwartym oprogramowaniu i pozbawiona reklam. Możesz tworzyć tyle ankiet, ile chcesz, z maksymalnie 3 otwartymi jednocześnie, a uczestnicy mogą głosować bez konta.
+Tak. [Kinpal](https://kinpal.com) to bezpłatna ankieta do ustalania terminów, oparta na otwartym oprogramowaniu i pozbawiona reklam. Możesz tworzyć tyle ankiet, ile chcesz, z maksymalnie 3 otwartymi jednocześnie, a uczestnicy mogą głosować bez konta.
 
 ## Podsumowanie
 
 Doodle nadal jest bezpłatne, ale tylko dla jednej ankiety z 10 opcjami i z reklamami. Jeśli to Ci wystarcza, jest to całkiem dobry wybór. Jeśli nie, nie musisz płacić tylko po to, żeby znaleźć termin pasujący wszystkim.
 
-[Utwórz ankietę](https://app.rallly.co/new) już teraz. Zajmuje to około minuty i nikt nie musi się do niczego rejestrować.
+[Utwórz ankietę](https://app.kinpal.com/new) już teraz. Zajmuje to około minuty i nikt nie musi się do niczego rejestrować.

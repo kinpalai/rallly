@@ -1,15 +1,15 @@
 ---
-title: Die Rallly API ist da
+title: Die Kinpal API ist da
 date: '2026-09-15'
 category: Product
 excerpt: >-
   Erstelle Umfragen, lies Ergebnisse aus und schließe sie über deine eigenen
-  Tools ab. Die API ist jetzt für Pro-Gruppen in Rallly Cloud verfügbar.
+  Tools ab. Die API ist jetzt für Pro-Gruppen in Kinpal Cloud verfügbar.
 ---
 
-Rallly bietet schon seit einiger Zeit eine kleine API hinter einem Feature-Flag. Einige wenige Personen haben sie genutzt, um Umfragen aus ihren eigenen Systemen heraus zu erstellen. Ihr Feedback hat maßgeblich geprägt, was heute veröffentlicht wird. Jetzt ist sie für jede Pro-Gruppe in Rallly Cloud verfügbar.
+Kinpal bietet schon seit einiger Zeit eine kleine API hinter einem Feature-Flag. Einige wenige Personen haben sie genutzt, um Umfragen aus ihren eigenen Systemen heraus zu erstellen. Ihr Feedback hat maßgeblich geprägt, was heute veröffentlicht wird. Jetzt ist sie für jede Pro-Gruppe in Kinpal Cloud verfügbar.
 
-![Ein Code-Editor mit einer Fetch-Anfrage, die über die Rallly API eine Datumsumfrage mit drei Optionen erstellt](/static/images/rallly-api/create-poll-editor.svg)
+![Ein Code-Editor mit einer Fetch-Anfrage, die über die Kinpal API eine Datumsumfrage mit drei Optionen erstellt](/static/images/rallly-api/create-poll-editor.svg)
 
 ## Was sie kann
 
@@ -28,8 +28,8 @@ Jede Anfrage ist auf eine Gruppe beschränkt. Der API-Schlüssel identifiziert d
 Der Gruppeninhaber erstellt einen Schlüssel unter **Einstellungen → API-Schlüssel**. Anfragen übermitteln ihn als Bearer-Token:
 
 ```sh
-curl https://api.rallly.co/v1/polls \
-  -H "Authorization: Bearer $RALLLY_API_KEY" \
+curl https://api.kinpal.com/v1/polls \
+  -H "Authorization: Bearer $KINPAL_API_KEY" \
   -H "Content-Type: application/json" \
   -d '{
     "title": "Team offsite",
@@ -44,8 +44,8 @@ curl https://api.rallly.co/v1/polls \
 
 Die Antwort enthält eine `inviteUrl`, die du mit Teilnehmern teilen kannst, sowie eine `adminUrl` für den Organisator. Jede Gruppe kann 60 Anfragen pro Minute stellen.
 
-Die [API-Referenz](https://support.rallly.co/api-reference/introduction) enthält alle Endpunkte mit Beispielen für Anfragen und Antworten. Das OpenAPI-Dokument ist ebenfalls verfügbar, falls du lieber einen Client generieren möchtest.
+Die [API-Referenz](https://support.kinpal.com/api-reference/introduction) enthält alle Endpunkte mit Beispielen für Anfragen und Antworten. Das OpenAPI-Dokument ist ebenfalls verfügbar, falls du lieber einen Client generieren möchtest.
 
 ## Wie es weitergeht
 
-Das regelmäßige Abfragen von Ergebnissen funktioniert, aber die meisten Integrationen sollen nicht so betrieben werden. Webhooks für Umfrageereignisse sind geplant, damit dein System sofort von einer neuen Antwort oder einer geschlossenen Umfrage erfährt. Ein Datum dafür gibt es noch nicht. Wenn du etwas auf Basis der API entwickelst, würde ich gerne erfahren, woran du arbeitest und was dich dabei behindert – schreib mir an [feedback@rallly.co](mailto:feedback@rallly.co).
+Das regelmäßige Abfragen von Ergebnissen funktioniert, aber die meisten Integrationen sollen nicht so betrieben werden. Webhooks für Umfrageereignisse sind geplant, damit dein System sofort von einer neuen Antwort oder einer geschlossenen Umfrage erfährt. Ein Datum dafür gibt es noch nicht. Wenn du etwas auf Basis der API entwickelst, würde ich gerne erfahren, woran du arbeitest und was dich dabei behindert – schreib mir an [feedback@kinpal.com](mailto:feedback@kinpal.com).

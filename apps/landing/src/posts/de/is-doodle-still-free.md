@@ -100,12 +100,12 @@ Das ist eine legitime geschäftliche Entscheidung. Wenn dein Unternehmen den gan
 
 ## Wenn du einfach nur eine Termin-Umfrage brauchst
 
-Diese Lücke füllt [Rallly](https://rallly.co). Rallly macht genau eine Sache: Du schlägst einige Zeiten vor, teilst einen Link und alle stimmen darüber ab, was für sie passt. So schneiden die kostenlosen Tarife im Vergleich ab:
+Diese Lücke füllt [Kinpal](https://kinpal.com). Kinpal macht genau eine Sache: Du schlägst einige Zeiten vor, teilst einen Link und alle stimmen darüber ab, was für sie passt. So schneiden die kostenlosen Tarife im Vergleich ab:
 
 <div className="overflow-x-auto">
 <table>
 <thead>
-<tr><th></th><th>Doodle Free</th><th>Rallly Free</th></tr>
+<tr><th></th><th>Doodle Free</th><th>Kinpal Free</th></tr>
 </thead>
 <tbody>
 <tr><td>Gruppen-Umfragen</td><td>1</td><td>Unbegrenzt, bis zu 3 gleichzeitig offen</td></tr>
@@ -116,15 +116,15 @@ Diese Lücke füllt [Rallly](https://rallly.co). Rallly macht genau eine Sache: 
 </table>
 </div>
 
-Bei Rallly stimmen Teilnehmer einfach über den Link ab und brauchen nie ein Konto. Alle sehen die Optionen in ihrer eigenen Zeitzone. Das Datum abzuschließen und alle zu benachrichtigen ist kostenlos.
+Bei Kinpal stimmen Teilnehmer einfach über den Link ab und brauchen nie ein Konto. Alle sehen die Optionen in ihrer eigenen Zeitzone. Das Datum abzuschließen und alle zu benachrichtigen ist kostenlos.
 
-Um unsere Limits ebenso transparent zu machen: Im kostenlosen Tarif von Rallly kannst du so viele Umfragen erstellen, wie du möchtest. Gleichzeitig können jedoch höchstens 3 Umfragen offen sein und Stimmen sammeln. Schließe eine Umfrage ab oder beende sie, kannst du eine weitere öffnen. Ohne Registrierung kannst du jeweils 1 offene Umfrage haben. Auch hier gilt: Schließe sie ab oder beende sie, um eine weitere zu öffnen. Kostenlose Umfragen werden gelöscht, sobald alle ihre Termine mindestens 30 Tage zurückliegen und in den letzten 30 Tagen niemand sie bearbeitet, dafür abgestimmt oder kommentiert hat.
+Um unsere Limits ebenso transparent zu machen: Im kostenlosen Tarif von Kinpal kannst du so viele Umfragen erstellen, wie du möchtest. Gleichzeitig können jedoch höchstens 3 Umfragen offen sein und Stimmen sammeln. Schließe eine Umfrage ab oder beende sie, kannst du eine weitere öffnen. Ohne Registrierung kannst du jeweils 1 offene Umfrage haben. Auch hier gilt: Schließe sie ab oder beende sie, um eine weitere zu öffnen. Kostenlose Umfragen werden gelöscht, sobald alle ihre Termine mindestens 30 Tage zurückliegen und in den letzten 30 Tagen niemand sie bearbeitet, dafür abgestimmt oder kommentiert hat.
 
-Rallly ist außerdem [Open Source](https://github.com/lukevella/rallly). Du kannst also genau prüfen, wie es funktioniert, und es sogar auf deinem eigenen Server hosten.
+Kinpal ist außerdem [Open Source](https://github.com/lukevella/rallly). Du kannst also genau prüfen, wie es funktioniert, und es sogar auf deinem eigenen Server hosten.
 
-Rallly verdient Geld mit [Rallly Pro](https://rallly.co/pricing). Damit kommen Funktionen hinzu, die du bei einer professionellen Nutzung brauchst, etwa unbegrenzt viele offene Umfragen, individuelles Branding und Umfragen, die dauerhaft bestehen bleiben. Dadurch bleibt der kostenlose Tarif für alle werbefrei.
+Kinpal verdient Geld mit [Kinpal Pro](https://kinpal.com/pricing). Damit kommen Funktionen hinzu, die du bei einer professionellen Nutzung brauchst, etwa unbegrenzt viele offene Umfragen, individuelles Branding und Umfragen, die dauerhaft bestehen bleiben. Dadurch bleibt der kostenlose Tarif für alle werbefrei.
 
-Wenn du einen Vergleich Funktion für Funktion möchtest, lies [wie Rallly im Vergleich zu Doodle abschneidet](https://rallly.co/best-doodle-alternative).
+Wenn du einen Vergleich Funktion für Funktion möchtest, lies [wie Kinpal im Vergleich zu Doodle abschneidet](https://kinpal.com/best-doodle-alternative).
 
 ## Häufig gestellte Fragen
 
@@ -154,10 +154,10 @@ Im Moment nicht. Doodle hat seine iOS- und Android-Apps im Juni 2025 pausiert, w
 
 ### Gibt es eine kostenlose Alternative zu Doodle?
 
-Ja. [Rallly](https://rallly.co) ist eine kostenlose Open-Source-Termin-Umfrage ohne Werbung. Du kannst so viele Umfragen erstellen, wie du möchtest, davon bis zu 3 gleichzeitig offen. Teilnehmer stimmen ohne Konto ab.
+Ja. [Kinpal](https://kinpal.com) ist eine kostenlose Open-Source-Termin-Umfrage ohne Werbung. Du kannst so viele Umfragen erstellen, wie du möchtest, davon bis zu 3 gleichzeitig offen. Teilnehmer stimmen ohne Konto ab.
 
 ## Das Wichtigste in Kürze
 
 Doodle ist weiterhin kostenlos, aber nur für eine Umfrage mit 10 Optionen und mit Werbung. Wenn das für deine Zwecke ausreicht, ist Doodle eine gute Wahl. Wenn nicht, musst du nicht bezahlen, nur um einen passenden Termin zu finden.
 
-[Erstelle jetzt eine Umfrage](https://app.rallly.co/new). Das dauert etwa eine Minute, und niemand muss sich für irgendetwas registrieren.
+[Erstelle jetzt eine Umfrage](https://app.kinpal.com/new). Das dauert etwa eine Minute, und niemand muss sich für irgendetwas registrieren.

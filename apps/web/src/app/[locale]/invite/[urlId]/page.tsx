@@ -130,15 +130,15 @@ async function PageContent({ params, searchParams }: PageProps) {
       : [
           {
             label: t("voteFooterTerms", { defaultValue: "Terms of use" }),
-            href: "https://rallly.co/terms-of-use",
+            href: "https://kinpal.com/terms-of-use",
           },
           {
             label: t("voteFooterPrivacy", { defaultValue: "Privacy policy" }),
-            href: "https://rallly.co/privacy-policy",
+            href: "https://kinpal.com/privacy-policy",
           },
           {
             label: t("voteFooterCookies", { defaultValue: "Cookie policy" }),
-            href: "https://rallly.co/cookie-policy",
+            href: "https://kinpal.com/cookie-policy",
           },
         ];
 

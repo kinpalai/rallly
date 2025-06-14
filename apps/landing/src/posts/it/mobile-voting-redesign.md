@@ -7,7 +7,7 @@ excerpt: >-
   scegliere la propria disponibilità è immediato a colpo d’occhio.
 ---
 
-La maggior parte delle persone che risponde a un Sondaggio Rallly lo fa dal telefono, spesso pochi minuti dopo aver ricevuto il link di invito. È il momento centrale del prodotto, quindi quando ci dite che crea confusione, vi ascoltiamo.
+La maggior parte delle persone che risponde a un Sondaggio Kinpal lo fa dal telefono, spesso pochi minuti dopo aver ricevuto il link di invito. È il momento centrale del prodotto, quindi quando ci dite che crea confusione, vi ascoltiamo.
 
 E infatti ce l’avete detto. Alcuni di voi ci hanno segnalato che la vecchia interfaccia di voto non era abbastanza intuitiva. Il piccolo pulsante «?» accanto a ogni orario era facile da non notare, e alcuni partecipanti premevano Continua aspettandosi di poter scegliere i propri orari nella pagina successiva, per poi scoprire di aver risposto accidentalmente «No» a tutte le opzioni.
 
@@ -33,4 +33,4 @@ I nuovi controlli rispettano le dimensioni consigliate da Apple per le aree di t
 
 I tuoi Sondaggi e le tue Risposte esistenti non sono cambiati. È semplicemente un modo migliore per fare la stessa cosa.
 
-Come sempre, se qualcosa non ti sembra corretto o hai un’idea per rendere il voto ancora più semplice, [faccelo sapere](mailto:support@rallly.co). Questo aggiornamento è nato dai feedback di utenti come te.
+Come sempre, se qualcosa non ti sembra corretto o hai un’idea per rendere il voto ancora più semplice, [faccelo sapere](mailto:support@kinpal.com). Questo aggiornamento è nato dai feedback di utenti come te.

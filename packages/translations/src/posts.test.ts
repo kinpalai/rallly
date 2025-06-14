@@ -31,7 +31,7 @@ excerpt: About ${title}.
 
 ## Heading
 
-Visit [pricing](https://rallly.co/pricing) now.
+Visit [pricing](https://kinpal.com/pricing) now.
 `;
 
 const en = (slug: string) => join(tmp, "apps/landing/src/posts", `${slug}.md`);
@@ -148,14 +148,14 @@ describe("runPosts", () => {
     await go();
     calls = [];
     const broken = readFileSync(tr("de", "alpha"), "utf8").replace(
-      "https://rallly.co/pricing",
+      "https://kinpal.com/pricing",
       "https://example.com",
     );
     writeFileSync(tr("de", "alpha"), broken);
     await go();
     expect(calls).toEqual([{ title: "Alpha" }]);
     expect(readFileSync(tr("de", "alpha"), "utf8")).toContain(
-      "https://rallly.co/pricing",
+      "https://kinpal.com/pricing",
     );
   });
 

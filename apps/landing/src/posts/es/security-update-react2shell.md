@@ -4,15 +4,15 @@ date: '2025-12-12'
 category: Security
 excerpt: >-
   Importantes actualizaciones de seguridad para solucionar vulnerabilidades en
-  React Server Components, incluida React2Shell. Quienes alojen Rallly por su
+  React Server Components, incluida React2Shell. Quienes alojen Kinpal por su
   cuenta deben actualizar inmediatamente.
 ---
 
-**Este anuncio solo es relevante para instalaciones de Rallly alojadas por sus propios administradores.** Si utilizas el servicio alojado de Rallly en [rallly.co](https://rallly.co), no tienes que hacer nada. Los servidores se actualizaron en las horas posteriores al anuncio de los CVE y no se produjo ninguna brecha durante ese tiempo.
+**Este anuncio solo es relevante para instalaciones de Kinpal alojadas por sus propios administradores.** Si utilizas el servicio alojado de Kinpal en [kinpal.com](https://kinpal.com), no tienes que hacer nada. Los servidores se actualizaron en las horas posteriores al anuncio de los CVE y no se produjo ninguna brecha durante ese tiempo.
 
 ---
 
-Se ha descubierto una vulnerabilidad de seguridad crítica en React Server Components que afecta a Rallly. En las instalaciones que no se hayan actualizado, esta vulnerabilidad podría permitir a un atacante ejecutar código de forma remota en el servidor. Si tu instancia está accesible desde internet y no ejecuta la versión más reciente, **tu servidor corre un riesgo considerable**.
+Se ha descubierto una vulnerabilidad de seguridad crítica en React Server Components que afecta a Kinpal. En las instalaciones que no se hayan actualizado, esta vulnerabilidad podría permitir a un atacante ejecutar código de forma remota en el servidor. Si tu instancia está accesible desde internet y no ejecuta la versión más reciente, **tu servidor corre un riesgo considerable**.
 
 Esta vulnerabilidad, [CVE-2025-55182](https://www.cve.org/CVERecord?id=CVE-2025-55182) (también conocida como [React2Shell](https://react2shell.com/)), afecta a muchas aplicaciones creadas con React 19. Ya se han comunicado brechas reales en las que los atacantes instalaron software malicioso en servidores comprometidos.
 
@@ -30,9 +30,9 @@ Más tarde, el equipo de React descubrió que la solución para CVE-2025-55184 e
 
 ## Acción necesaria
 
-Si alojas Rallly por tu cuenta, sigue estos pasos inmediatamente:
+Si alojas Kinpal por tu cuenta, sigue estos pasos inmediatamente:
 
-- **Actualiza** Rallly a la última versión (v4.5.11 o posterior) para estar protegido frente a los cuatro CVE. Consulta las [notas de la versión](https://github.com/lukevella/rallly/releases/tag/v4.5.11) para obtener más información.
+- **Actualiza** Kinpal a la última versión (v4.5.11 o posterior) para estar protegido frente a los cuatro CVE. Consulta las [notas de la versión](https://github.com/lukevella/rallly/releases/tag/v4.5.11) para obtener más información.
 - Si utilizas la versión v4.5.10, debes actualizar a la v4.5.11, ya que la solución anterior estaba incompleta.
 - Si utilizas la versión v4.5.8 (que ofrecía protección completa frente a React2Shell), debes actualizar a la v4.5.11 para estar protegido frente a todas las vulnerabilidades.
 - Si utilizas la versión v4.5.7, deberías actualizar a la v4.5.11, ya que la v4.5.7 podría no haber ofrecido protección completa frente a React2Shell.
@@ -40,7 +40,7 @@ Si alojas Rallly por tu cuenta, sigue estos pasos inmediatamente:
 - **Reinicia** todos los servicios y, si utilizas Docker, vuelve a crear la imagen o descarga la última versión.
 - **Si no puedes actualizar de inmediato**, restringe temporalmente el acceso (VPN o proxy de autenticación) hasta que hayas aplicado la actualización.
 
-Después de actualizar, comprueba que tu instancia muestra la última versión de Rallly y revisa los registros en busca de advertencias. Para comprobar la versión, visita: `<your‑rallly‑instance>/api/status`.
+Después de actualizar, comprueba que tu instancia muestra la última versión de Kinpal y revisa los registros en busca de advertencias. Para comprobar la versión, visita: `<your‑rallly‑instance>/api/status`.
 
 ## Información adicional
 

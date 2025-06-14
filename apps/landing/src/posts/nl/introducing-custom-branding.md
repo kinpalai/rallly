@@ -5,7 +5,7 @@ category: Product
 excerpt: Je kunt nu je logo en merkkleuren tonen aan je deelnemers.
 ---
 
-Iets wat ik heb gehoord van teams die Rallly gebruiken, is dat de uitnodigingspagina niet goed aansloot bij hun huisstijl. Dat is de pagina waarop je gasten terechtkomen wanneer je ze een Poll stuurt. Wanneer je een planningslink naar een klant of nieuwe medewerker stuurt, kan een generieke interface afbreuk doen aan de ervaring die je overal elders hebt opgebouwd. Hetzelfde geldt voor de bevestigingsmails die deelnemers ontvangen nadat ze hebben gestemd.
+Iets wat ik heb gehoord van teams die Kinpal gebruiken, is dat de uitnodigingspagina niet goed aansloot bij hun huisstijl. Dat is de pagina waarop je gasten terechtkomen wanneer je ze een Poll stuurt. Wanneer je een planningslink naar een klant of nieuwe medewerker stuurt, kan een generieke interface afbreuk doen aan de ervaring die je overal elders hebt opgebouwd. Hetzelfde geldt voor de bevestigingsmails die deelnemers ontvangen nadat ze hebben gestemd.
 
 ![Poll met huisstijl](https://d39ixtfgglw55o.cloudfront.net/images/branded-poll.webp)
 
@@ -19,7 +19,7 @@ Visueel is het een kleine verandering, maar het maakt echt verschil wanneer de p
 
 ## Zo stel je het in
 
-1. Ga naar [Instellingen van de Ruimte](https://app.rallly.co/settings/general)
+1. Ga naar [Instellingen van de Ruimte](https://app.kinpal.com/settings/general)
 2. Upload je logo en kies een hoofdkleur
 3. Schakel **Aangepaste huisstijl inschakelen** in
 
@@ -27,4 +27,4 @@ Visueel is het een kleine verandering, maar het maakt echt verschil wanneer de p
 
 Al je openbare pagina's gebruiken automatisch je huisstijl.
 
-Zoals altijd hoor ik graag van je via [feedback@rallly.co](mailto:feedback@rallly.co) als je feedback hebt of ergens tegenaan loopt.
+Zoals altijd hoor ik graag van je via [feedback@kinpal.com](mailto:feedback@kinpal.com) als je feedback hebt of ergens tegenaan loopt.

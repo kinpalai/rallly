@@ -4,15 +4,15 @@ date: '2026-10-14'
 category: Product
 excerpt: >-
   Kapcsold össze a Google Meetet, a Zoomot, a Microsoft Teamst vagy a Webexet,
-  és a Rallly hozzáadja a videóhívás linkjét a meghívóhoz, amikor kiválasztasz
+  és a Kinpal hozzáadja a videóhívás linkjét a meghívóhoz, amikor kiválasztasz
   egy időpontot.
 ---
 
-A Rallly mostantól létrehozza helyetted a videóhívás linkjét. Kapcsold össze a Google Meetet, a Zoomot, a Microsoft Teamst vagy a Webexet, adj videóhívást a szavazásodhoz, és amikor véglegesíted, a Rallly létrehozza az eseményt a kiválasztott időpontra, majd elhelyezi a csatlakozási linket az eseményben, a naptármeghívóban és a visszaigazoló e-mailekben.
+A Kinpal mostantól létrehozza helyetted a videóhívás linkjét. Kapcsold össze a Google Meetet, a Zoomot, a Microsoft Teamst vagy a Webexet, adj videóhívást a szavazásodhoz, és amikor véglegesíted, a Kinpal létrehozza az eseményt a kiválasztott időpontra, majd elhelyezi a csatlakozási linket az eseményben, a naptármeghívóban és a visszaigazoló e-mailekben.
 
 Többé nem kell a szavazás lezárulta után kézzel létrehoznod egy megbeszélést, majd bemásolnod a linket egy utólagos e-mailbe.
 
-![A szavazás űrlapján látható Videóhívás hozzáadása menü a csatlakoztatott és elérhető szolgáltatókkal](https://support.rallly.co/images/integrations/zoom/video-call-menu.png)
+![A szavazás űrlapján látható Videóhívás hozzáadása menü a csatlakoztatott és elérhető szolgáltatókkal](https://support.kinpal.com/images/integrations/zoom/video-call-menu.png)
 
 ## Így működik
 
@@ -35,11 +35,11 @@ Ha inkább valami mást használnál, továbbra is hozzáadhatsz bármilyen vide
 
 Mindegyik integrációhoz tartozik egy útmutató, amely bemutatja a követelményeket, a jogosultságokat és a kapcsolat bontásának módját:
 
-- [Google Meet](https://support.rallly.co/integrations/google-meet)
-- [Zoom](https://support.rallly.co/integrations/zoom)
-- [Microsoft Teams](https://support.rallly.co/integrations/microsoft-teams)
-- [Webex](https://support.rallly.co/integrations/webex)
+- [Google Meet](https://support.kinpal.com/integrations/google-meet)
+- [Zoom](https://support.kinpal.com/integrations/zoom)
+- [Microsoft Teams](https://support.kinpal.com/integrations/microsoft-teams)
+- [Webex](https://support.kinpal.com/integrations/webex)
 
-Ha bármilyen problémába ütközöl, vagy van olyan szolgáltató, amelyet szívesen látnál legközelebb, írj a [feedback@rallly.co](mailto:feedback@rallly.co) címre.
+Ha bármilyen problémába ütközöl, vagy van olyan szolgáltató, amelyet szívesen látnál legközelebb, írj a [feedback@kinpal.com](mailto:feedback@kinpal.com) címre.
 
 Kellemes időpont-egyeztetést! :)

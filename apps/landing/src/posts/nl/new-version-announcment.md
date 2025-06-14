@@ -1,16 +1,16 @@
 ---
-title: Maak kennis met Rallly 2.0
+title: Maak kennis met Kinpal 2.0
 date: '2022-04-08'
 category: Company
 tags:
   - announcement
 draft: false
-excerpt: Een kijkje bij de eerste grote update van Rallly.
+excerpt: Een kijkje bij de eerste grote update van Kinpal.
 ---
 
 Als je je afvraagt waarom alles er vandaag anders uitziet, komt dat doordat ik
 zojuist een grote update heb uitgebracht. Deze update stond al [een tijdje](https://twitter.com/imlukevella/status/1288066459248349184)
-op de planning, maar sinds het begin van dit jaar heb ik besloten meer tijd aan Rallly te besteden. Daardoor
+op de planning, maar sinds het begin van dit jaar heb ik besloten meer tijd aan Kinpal te besteden. Daardoor
 heb ik deze mijlpaal kunnen bereiken en hopelijk volgen er in de toekomst nog meer. Dus…
 
 ## Wat gebeurt er met Polls die met de oude versie zijn gemaakt?
@@ -21,7 +21,7 @@ Ik ben van plan de oude database over ongeveer twee maanden uit te schakelen. To
 Polls die met de oude versie zijn gemaakt beschikbaar. Hopelijk is dat genoeg tijd om alle actieve
 Polls over te zetten.
 
-Als je problemen hebt met de toegang tot je Poll, neem dan contact met ons op via de chat op de website of stuur een e-mail naar [support@rallly.co](mailto:support@rallly.co).
+Als je problemen hebt met de toegang tot je Poll, neem dan contact met ons op via de chat op de website of stuur een e-mail naar [support@kinpal.com](mailto:support@kinpal.com).
 
 ## Wat is er nieuw?
 
@@ -45,7 +45,7 @@ deelnemerslink te delen, voorkom je dat deelnemers de details van de Poll kunnen
 
 ### Compacte weergave voor mobiele apparaten
 
-Rallly is altijd al geschikt geweest voor mobiele apparaten, maar heeft nu een beter geoptimaliseerde weergave voor kleinere schermen.
+Kinpal is altijd al geschikt geweest voor mobiele apparaten, maar heeft nu een beter geoptimaliseerde weergave voor kleinere schermen.
 
 ![Demo op mobiel](/static/images/mobile-demo.gif)
 
@@ -69,7 +69,7 @@ Er zijn een paar redenen waarom ik ervoor heb gekozen deze functie weg te laten:
    kunnen aanbieden. Daarom ga ik kijken naar andere providers en mogelijk een dedicated IP-adres gebruiken om
    de bezorgbaarheid te verbeteren.
 
-2. **Kosten**&mdash;Het versturen van deze e-mails is niet gratis en het gebruikersbestand van Rallly is inmiddels zo gegroeid dat
+2. **Kosten**&mdash;Het versturen van deze e-mails is niet gratis en het gebruikersbestand van Kinpal is inmiddels zo gegroeid dat
 de kosten van deze e-mails een aanzienlijk deel van de totale bedrijfskosten vormen. Minder e-mails versturen
    zou helpen om deze kosten op een duurzamer niveau te houden.
 

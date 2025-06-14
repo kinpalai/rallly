@@ -3,15 +3,15 @@ title: Odkazy na videohovory vytvořené při dokončení ankety
 date: '2026-10-14'
 category: Product
 excerpt: >-
-  Propojte Google Meet, Zoom, Microsoft Teams nebo Webex a Rallly při výběru
+  Propojte Google Meet, Zoom, Microsoft Teams nebo Webex a Kinpal při výběru
   času přidá odkaz na schůzku do pozvánky.
 ---
 
-Rallly nyní může vytvořit odkaz na schůzku za vás. Propojte Google Meet, Zoom, Microsoft Teams nebo Webex, přidejte videohovor do své ankety a po jejím dokončení Rallly vytvoří schůzku na zvolený čas a vloží odkaz pro připojení do události, pozvánky do kalendáře a potvrzovacích e-mailů.
+Kinpal nyní může vytvořit odkaz na schůzku za vás. Propojte Google Meet, Zoom, Microsoft Teams nebo Webex, přidejte videohovor do své ankety a po jejím dokončení Kinpal vytvoří schůzku na zvolený čas a vloží odkaz pro připojení do události, pozvánky do kalendáře a potvrzovacích e-mailů.
 
 Už nemusíte po dokončení hlasování ručně vytvářet schůzku a vkládat odkaz do navazujícího e-mailu.
 
-![Nabídka Přidat videohovor ve formuláři ankety se seznamem propojených a dostupných poskytovatelů](https://support.rallly.co/images/integrations/zoom/video-call-menu.png)
+![Nabídka Přidat videohovor ve formuláři ankety se seznamem propojených a dostupných poskytovatelů](https://support.kinpal.com/images/integrations/zoom/video-call-menu.png)
 
 ## Jak to funguje
 
@@ -34,11 +34,11 @@ Pokud byste raději použili jinou službu, stále můžete přidat libovolný v
 
 Každá integrace má návod s informacemi o požadavcích, oprávněních a odpojení:
 
-- [Google Meet](https://support.rallly.co/integrations/google-meet)
-- [Zoom](https://support.rallly.co/integrations/zoom)
-- [Microsoft Teams](https://support.rallly.co/integrations/microsoft-teams)
-- [Webex](https://support.rallly.co/integrations/webex)
+- [Google Meet](https://support.kinpal.com/integrations/google-meet)
+- [Zoom](https://support.kinpal.com/integrations/zoom)
+- [Microsoft Teams](https://support.kinpal.com/integrations/microsoft-teams)
+- [Webex](https://support.kinpal.com/integrations/webex)
 
-Pokud narazíte na nějaké problémy nebo byste rádi viděli dalšího poskytovatele, napište mi na [feedback@rallly.co](mailto:feedback@rallly.co).
+Pokud narazíte na nějaké problémy nebo byste rádi viděli dalšího poskytovatele, napište mi na [feedback@kinpal.com](mailto:feedback@kinpal.com).
 
 Příjemné plánování :)

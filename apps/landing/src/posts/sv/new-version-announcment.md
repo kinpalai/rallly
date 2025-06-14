@@ -1,17 +1,17 @@
 ---
-title: Vi presenterar Rallly 2.0
+title: Vi presenterar Kinpal 2.0
 date: '2022-04-08'
 category: Company
 tags:
   - announcement
 draft: false
-excerpt: En titt på Ralllys första stora uppdatering.
+excerpt: En titt på Kinpals första stora uppdatering.
 ---
 
 Om du undrar varför allt ser annorlunda ut i dag beror det på att jag
 just har släppt en stor uppdatering. Den här uppdateringen har planerats
 [en tid](https://twitter.com/imlukevella/status/1288066459248349184),
-men sedan början av året har jag valt att lägga mer av min tid på Rallly. Det har gjort det
+men sedan början av året har jag valt att lägga mer av min tid på Kinpal. Det har gjort det
 möjligt att nå den här milstolpen, och förhoppningsvis blir det fler framöver. Så …
 
 ## Vad händer med förfrågningar som skapats med den gamla versionen?
@@ -22,7 +22,7 @@ Jag planerar att inaktivera den gamla databasen om ungefär två månader, så f
 förfrågningar som skapats med den gamla versionen fortfarande att vara tillgängliga. Förhoppningsvis
 räcker det för att alla aktiva förfrågningar ska hinna flyttas över.
 
-Om du har problem med att öppna din förfrågan kan du kontakta oss via chatten på webbplatsen eller skicka ett mejl till [support@rallly.co](mailto:support@rallly.co).
+Om du har problem med att öppna din förfrågan kan du kontakta oss via chatten på webbplatsen eller skicka ett mejl till [support@kinpal.com](mailto:support@kinpal.com).
 
 ## Vad är nytt?
 
@@ -47,7 +47,7 @@ uppgifterna i förfrågan.
 
 ### Kompakt vy för mobila enheter
 
-Rallly har alltid varit mobilanpassat, men nu har tjänsten en mer optimerad vy för mindre skärmar.
+Kinpal har alltid varit mobilanpassat, men nu har tjänsten en mer optimerad vy för mindre skärmar.
 
 ![Demo av mobilvy](/static/images/mobile-demo.gif)
 
@@ -71,7 +71,7 @@ Det finns några anledningar till att jag valde att inte ta med den här funktio
    på ett mer tillförlitligt sätt. Därför kommer jag att undersöka möjligheten att byta leverantör och eventuellt använda en
    dedikerad IP-adress för att förbättra leveransgraden.
 
-2. **Kostnad**&mdash;Det kostar att skicka ut de här mejlen, och Ralllys användarbas har vuxit till den punkt där
+2. **Kostnad**&mdash;Det kostar att skicka ut de här mejlen, och Kinpals användarbas har vuxit till den punkt där
    kostnaden för mejlen utgör en betydande del av de totala driftkostnaderna. Om vi skickar ut färre mejl blir det lättare
    att hålla kostnaden på en mer hållbar nivå.
 

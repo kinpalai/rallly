@@ -7,7 +7,7 @@ excerpt: >-
   sammen eller uafhængigt.
 ---
 
-Rum giver et team mulighed for at dele ét Rallly-abonnement. Indtil nu har de fungeret på én måde: Alle medlemmer kunne se og administrere hinandens afstemninger og begivenheder. Det fungerer godt for et lille team, der planlægger sammen, men jeg blev ved med at høre fra større teams, at det stod i vejen. De vil gerne give alle adgang uden at træde hinanden over tæerne.
+Rum giver et team mulighed for at dele ét Kinpal-abonnement. Indtil nu har de fungeret på én måde: Alle medlemmer kunne se og administrere hinandens afstemninger og begivenheder. Det fungerer godt for et lille team, der planlægger sammen, men jeg blev ved med at høre fra større teams, at det stod i vejen. De vil gerne give alle adgang uden at træde hinanden over tæerne.
 
 Derfor har rum nu en indstilling for teamsamarbejde.
 
@@ -25,12 +25,12 @@ Indstillingen opdeler rum i to former:
 
 Et lille team, der planlægger sammen, lader samarbejdet være aktiveret. En assistent kan administrere en afstemning, som en kollega har oprettet, og ingen behøver at videresende links.
 
-En organisation, der vil rulle Rallly ud til en større gruppe, deaktiverer samarbejdet. Alle får Pro-funktioner under ét abonnement, hver persons planlægning forbliver deres egen, og når et nyt medlem tilføjes, får det ikke adgang til andres eksisterende afstemninger.
+En organisation, der vil rulle Kinpal ud til en større gruppe, deaktiverer samarbejdet. Alle får Pro-funktioner under ét abonnement, hver persons planlægning forbliver deres egen, og når et nyt medlem tilføjes, får det ikke adgang til andres eksisterende afstemninger.
 
 Uanset hvad påvirker dette kun, hvad medlemmerne af dit rum kan se. Invitationslinks og deltagersider fungerer præcis på samme måde i begge tilstande, så de personer, du planlægger med, vil ikke bemærke nogen forskel.
 
-Du kan læse mere om, hvordan det fungerer, i [dokumentationen om samarbejde](https://support.rallly.co/spaces/collaboration).
+Du kan læse mere om, hvordan det fungerer, i [dokumentationen om samarbejde](https://support.kinpal.com/spaces/collaboration).
 
 ## Hvad er det næste?
 
-Dette er et første skridt mod at få Rallly til at fungere bedre for større organisationer. Hvis du overvejer at rulle Rallly ud til dit team, og der mangler noget for dig, vil jeg gerne høre om det. Skriv til mig på [support@rallly.co](mailto:support@rallly.co).
+Dette er et første skridt mod at få Kinpal til at fungere bedre for større organisationer. Hvis du overvejer at rulle Kinpal ud til dit team, og der mangler noget for dig, vil jeg gerne høre om det. Skriv til mig på [support@kinpal.com](mailto:support@kinpal.com).

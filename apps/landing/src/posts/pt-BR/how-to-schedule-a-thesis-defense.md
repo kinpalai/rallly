@@ -39,23 +39,23 @@ Distribua as opções em dias diferentes, em vez de listar todos os horários de
 
 ## Como configurar a enquete
 
-Qualquer enquete de agendamento serve. Estas etapas usam o [Rallly](/scheduling-for/thesis-defense), que é gratuito e não exige que os membros da banca criem contas.
+Qualquer enquete de agendamento serve. Estas etapas usam o [Kinpal](/scheduling-for/thesis-defense), que é gratuito e não exige que os membros da banca criem contas.
 
-1. Entre no Rallly e acesse [Criar uma enquete](https://app.rallly.co/new). Uma conta gratuita é suficiente, e você precisará de uma para finalizar a data.
+1. Entre no Kinpal e acesse [Criar uma enquete](https://app.kinpal.com/new). Uma conta gratuita é suficiente, e você precisará de uma para finalizar a data.
 2. Adicione um título como "Defesa de doutorado, Biologia, abril". Qualquer pessoa com o link pode ver o título e a descrição, então não inclua títulos de teses sob embargo.
-3. Clique em **Adicionar local** ou em **Adicionar chamada de vídeo** para que o Rallly crie um link do Google Meet, Zoom, Microsoft Teams ou Webex quando você finalizar. Primeiro, você precisará conectar esse serviço em **Configurações**.
-4. Clique em **Adicionar descrição** e informe a duração do evento e a data limite para responder. O Rallly não aplica essa data, então cabe a você fazer o acompanhamento.
+3. Clique em **Adicionar local** ou em **Adicionar chamada de vídeo** para que o Kinpal crie um link do Google Meet, Zoom, Microsoft Teams ou Webex quando você finalizar. Primeiro, você precisará conectar esse serviço em **Configurações**.
+4. Clique em **Adicionar descrição** e informe a duração do evento e a data limite para responder. O Kinpal não aplica essa data, então cabe a você fazer o acompanhamento.
 5. Defina a **Duração** e selecione suas opções no calendário.
 6. Deixe **Exigir e-mail** ativado para que todos possam receber o convite do calendário e mantenha **Opções de voto** com as respostas sim, se for necessário e não.
 7. Clique em **Criar enquete**.
 
-![O novo formulário de enquete no Rallly com um título, duração de duas horas e três datas selecionadas](/static/images/thesis-defense/create-poll.png)
+![O novo formulário de enquete no Kinpal com um título, duração de duas horas e três datas selecionadas](/static/images/thesis-defense/create-poll.png)
 
 ### Se você tiver um examinador externo
 
 Um examinador externo costuma ser a pessoa mais difícil de incluir no agendamento. Ele não aparece no calendário da sua universidade e pode estar a vários fusos horários de distância.
 
-O Rallly mostra as opções para cada pessoa no próprio fuso horário, então ninguém precisa fazer conversões. Inclua algumas opções que estejam dentro do horário de trabalho do examinador externo e tenha cuidado com as semanas em que os relógios mudam, pois os países adotam datas diferentes para isso. Ele pode responder pelo link sem ter uma conta.
+O Kinpal mostra as opções para cada pessoa no próprio fuso horário, então ninguém precisa fazer conversões. Inclua algumas opções que estejam dentro do horário de trabalho do examinador externo e tenha cuidado com as semanas em que os relógios mudam, pois os países adotam datas diferentes para isso. Ele pode responder pelo link sem ter uma conta.
 
 ## Compartilhe e faça o acompanhamento
 
@@ -69,7 +69,7 @@ Dê uma semana para as pessoas responderem e entre em contato com quem não tive
 
 ## Finalize a data
 
-Clique em **Finalizar**, e o Rallly listará primeiro as opções com mais apoio. Escolha a data e selecione quem deve ser notificado. Todas as pessoas selecionadas recebem um e-mail com um convite do calendário, incluindo o link da chamada de vídeo, caso você tenha adicionado um. Reserve a sala no mesmo dia.
+Clique em **Finalizar**, e o Kinpal listará primeiro as opções com mais apoio. Escolha a data e selecione quem deve ser notificado. Todas as pessoas selecionadas recebem um e-mail com um convite do calendário, incluindo o link da chamada de vídeo, caso você tenha adicionado um. Reserve a sala no mesmo dia.
 
 ![A caixa de diálogo Finalizar listando cada opção de acordo com o número de pessoas que podem participar](/static/images/thesis-defense/finalize.png)
 
@@ -92,8 +92,8 @@ Quatro pessoas respondem em três dias, e ela envia um e-mail para a quinta. Nen
 <PostFaq>
   <FaqItem question="Com quanta antecedência devo agendar uma defesa de tese?">Envie sua enquete pelo menos quatro semanas antes da primeira data possível e comece ainda antes se a banca for grande. Os prazos de aviso do seu programa podem exigir mais antecedência.</FaqItem>
   <FaqItem question="Quantas datas devo oferecer?">Entre 5 e 10, distribuídas em dias diferentes. Você pode adicionar mais opções depois se nenhuma funcionar.</FaqItem>
-  <FaqItem question="E se um membro da banca não responder?">Entre em contato diretamente depois de três dias. Se você usar convites por e-mail, que fazem parte do Rallly Pro, poderá ver quem abriu a enquete e quem respondeu.</FaqItem>
-  <FaqItem question="Os membros da banca precisam ter uma conta no Rallly?">Não. Eles abrem o link, informam o nome e o e-mail e escolhem os horários que funcionam.</FaqItem>
+  <FaqItem question="E se um membro da banca não responder?">Entre em contato diretamente depois de três dias. Se você usar convites por e-mail, que fazem parte do Kinpal Pro, poderá ver quem abriu a enquete e quem respondeu.</FaqItem>
+  <FaqItem question="Os membros da banca precisam ter uma conta no Kinpal?">Não. Eles abrem o link, informam o nome e o e-mail e escolhem os horários que funcionam.</FaqItem>
   <FaqItem question="Um coordenador pode agendar uma defesa para um estudante?">Sim. Crie a enquete você mesmo e inclua o candidato entre as pessoas que responderão. As respostas chegarão até você, e você definirá a data final.</FaqItem>
-  <FaqItem question="O Rallly é gratuito para isso?">Sim. Criar enquetes, coletar respostas e finalizar são ações gratuitas. Uma conta gratuita pode ter três enquetes abertas ao mesmo tempo, e o Rallly Pro remove esse limite.</FaqItem>
+  <FaqItem question="O Kinpal é gratuito para isso?">Sim. Criar enquetes, coletar respostas e finalizar são ações gratuitas. Uma conta gratuita pode ter três enquetes abertas ao mesmo tempo, e o Kinpal Pro remove esse limite.</FaqItem>
 </PostFaq>

@@ -7,7 +7,7 @@ excerpt: >-
   tidspunkter som passer.
 ---
 
-De fleste som svarer på en Rallly-avstemning, gjør det fra mobilen, ofte bare noen minutter etter at de har mottatt invitasjonslenken. Det er selve kjernen i produktet, så når vi får høre at noe skaper forvirring, lytter vi.
+De fleste som svarer på en Kinpal-avstemning, gjør det fra mobilen, ofte bare noen minutter etter at de har mottatt invitasjonslenken. Det er selve kjernen i produktet, så når vi får høre at noe skaper forvirring, lytter vi.
 
 Og det gjorde vi. Noen av dere fortalte oss at det gamle stemmegrensesnittet ikke var tydelig nok. Den lille «?»‑knappen ved siden av hvert tidspunkt var lett å overse, og noen deltakere trykket på Fortsett i forventning om å velge tidspunktene sine på neste side, men oppdaget at de ved et uhell hadde svart «nei» på alt.
 
@@ -33,4 +33,4 @@ De nye kontrollene oppfyller Apples anbefalte størrelser for berøringsmål, og
 
 Ingenting ved de eksisterende avstemningene eller svarene dine er endret. Dette er rett og slett en bedre måte å gjøre det samme på.
 
-Som alltid: Hvis noe føles feil, eller du har en idé til hvordan stemmingen kan bli enda enklere, [gi oss beskjed](mailto:support@rallly.co). Denne oppdateringen startet med tilbakemeldinger fra brukere som deg.
+Som alltid: Hvis noe føles feil, eller du har en idé til hvordan stemmingen kan bli enda enklere, [gi oss beskjed](mailto:support@kinpal.com). Denne oppdateringen startet med tilbakemeldinger fra brukere som deg.

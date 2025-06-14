@@ -7,7 +7,7 @@ excerpt: >-
   in één oogopslag duidelijk is.
 ---
 
-De meeste mensen die op een Poll van Rallly reageren, doen dat vanaf hun telefoon, vaak binnen enkele minuten nadat ze de uitnodigingslink hebben ontvangen. Dat moment vormt de kern van het product. Dus wanneer we horen dat het verwarrend is, luisteren we.
+De meeste mensen die op een Poll van Kinpal reageren, doen dat vanaf hun telefoon, vaak binnen enkele minuten nadat ze de uitnodigingslink hebben ontvangen. Dat moment vormt de kern van het product. Dus wanneer we horen dat het verwarrend is, luisteren we.
 
 En dat hebben we gehoord. Sommigen van jullie vertelden ons dat de oude steminterface niet duidelijk genoeg was. Het kleine pictogram "?" naast elk tijdstip was makkelijk over het hoofd te zien, en sommige deelnemers tikten op Doorgaan omdat ze verwachtten hun tijden op de volgende pagina te kunnen kiezen. Vervolgens ontdekten ze dat ze per ongeluk overal "Nee" op hadden geantwoord.
 
@@ -33,4 +33,4 @@ De nieuwe knoppen voldoen aan de door Apple aanbevolen afmetingen voor aanraakdo
 
 Er is niets veranderd aan je bestaande Polls of antwoorden. Dit is puur een betere manier om hetzelfde te doen.
 
-Zoals altijd: als iets niet goed voelt of je een idee hebt om stemmen nog soepeler te maken, [laat het ons weten](mailto:support@rallly.co). Deze update begon met feedback van gebruikers zoals jij.
+Zoals altijd: als iets niet goed voelt of je een idee hebt om stemmen nog soepeler te maken, [laat het ons weten](mailto:support@kinpal.com). Deze update begon met feedback van gebruikers zoals jij.

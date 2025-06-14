@@ -7,9 +7,9 @@ excerpt: >-
   ställe.
 ---
 
-Jag är glad över att få introducera **Områden** – Ralllys nya funktion för teamsamarbete som förändrar hur organisationer hanterar schemaläggning och fakturering. I stället för att hålla reda på flera individuella Pro-abonnemang samlar Områden hela teamet i en gemensam arbetsyta.
+Jag är glad över att få introducera **Områden** – Kinpals nya funktion för teamsamarbete som förändrar hur organisationer hanterar schemaläggning och fakturering. I stället för att hålla reda på flera individuella Pro-abonnemang samlar Områden hela teamet i en gemensam arbetsyta.
 
-![Rallly Spaces](https://d39ixtfgglw55o.cloudfront.net/images/spaces.webp)
+![Kinpal Spaces](https://d39ixtfgglw55o.cloudfront.net/images/spaces.webp)
 
 ## Vad är Områden?
 
@@ -44,10 +44,10 @@ Oavsett om ni är en startup som samordnar ståmöten, en marknadsföringsbyrå 
 
 Redo att effektivisera teamets schemaläggning? Det tar bara några klick att skapa ditt första Område, och befintliga Pro-användare kan enkelt byta till den nya teambaserade modellen för fakturering.
 
-Områden är ett uttryck för mitt engagemang i att göra Rallly till den bästa lösningen för schemaläggning för team av alla storlekar. Med ert stöd fortsätter jag att utveckla funktioner som gör samordningen enkel.
+Områden är ett uttryck för mitt engagemang i att göra Kinpal till den bästa lösningen för schemaläggning för team av alla storlekar. Med ert stöd fortsätter jag att utveckla funktioner som gör samordningen enkel.
 
 ---
 
-Har du frågor om Områden? Jag vill gärna höra din [feedback](mailto:feedback@rallly.co) och hjälpa dig att komma igång!
+Har du frågor om Områden? Jag vill gärna höra din [feedback](mailto:feedback@kinpal.com) och hjälpa dig att komma igång!
 
 Lycka till med schemaläggningen!

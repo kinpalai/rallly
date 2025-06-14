@@ -1,13 +1,13 @@
 ---
-title: Budoucnost Rallly
+title: Budoucnost Kinpal
 date: '2023-06-18'
 category: Company
 excerpt: >-
-  Rallly vždy usnadňovalo plánování ve skupině, ale mým cílem je posunout ho dál
+  Kinpal vždy usnadňovalo plánování ve skupině, ale mým cílem je posunout ho dál
   než jen k platformě pro ankety.
 ---
 
-Rallly vždy usnadňovalo plánování ve skupině, ale mým cílem je posunout ho dál než jen k platformě pro ankety. Chci vytvořit jedinečný, flexibilní a známý postup, který uživatelům pomůže najít ideální termín jejich události.
+Kinpal vždy usnadňovalo plánování ve skupině, ale mým cílem je posunout ho dál než jen k platformě pro ankety. Chci vytvořit jedinečný, flexibilní a známý postup, který uživatelům pomůže najít ideální termín jejich události.
 
 ## Postup
 
@@ -27,7 +27,7 @@ Při plánování události může být velmi užitečné získat obecnou předs
 
 ### Ankety
 
-Ankety jsou jádrem toho, co Rallly dělá, a do tohoto nového postupu dokonale zapadají. Jakmile získáte přehled o obecné dostupnosti, organizátoři budou moci zúžit výběr na několik možností a nechat účastníky hlasovat o preferovaných termínech.
+Ankety jsou jádrem toho, co Kinpal dělá, a do tohoto nového postupu dokonale zapadají. Jakmile získáte přehled o obecné dostupnosti, organizátoři budou moci zúžit výběr na několik možností a nechat účastníky hlasovat o preferovaných termínech.
 
 ![Polls](/static/images/the-future-of-rallly/poll.svg)
 
@@ -43,4 +43,4 @@ Výše uvedené části budou následovat v tomto pořadí: Mřížka dostupnost
 
 ## Závěr
 
-Jsem nadšený, že mohu začít pracovat na tomto vylepšeném postupu pro Rallly. Jako vždy jsou pro mě vaše připomínky velmi cenné. Dejte mi vědět, jestli by pro vás tento postup mohl být užitečný nebo jestli máte nějaké návrhy na jeho zlepšení. Těším se, že budu Rallly dál rozvíjet jako nástroj, který všem usnadní efektivní plánování.
+Jsem nadšený, že mohu začít pracovat na tomto vylepšeném postupu pro Kinpal. Jako vždy jsou pro mě vaše připomínky velmi cenné. Dejte mi vědět, jestli by pro vás tento postup mohl být užitečný nebo jestli máte nějaké návrhy na jeho zlepšení. Těším se, že budu Kinpal dál rozvíjet jako nástroj, který všem usnadní efektivní plánování.

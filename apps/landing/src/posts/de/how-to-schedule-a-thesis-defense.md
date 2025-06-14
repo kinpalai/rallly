@@ -40,23 +40,23 @@ Verteile deine Optionen auf verschiedene Tage, statt jede Stunde an nur wenigen 
 
 ## So richtest du die Umfrage ein
 
-Jede Terminfindungs-Umfrage ist dafür geeignet. Für diese Schritte verwenden wir [Rallly](/scheduling-for/thesis-defense), das kostenlos ist und von deinem Komitee nicht verlangt, Konten zu erstellen.
+Jede Terminfindungs-Umfrage ist dafür geeignet. Für diese Schritte verwenden wir [Kinpal](/scheduling-for/thesis-defense), das kostenlos ist und von deinem Komitee nicht verlangt, Konten zu erstellen.
 
-1. Melde dich bei Rallly an und gehe zu [Umfrage erstellen](https://app.rallly.co/new). Ein kostenloses Konto reicht aus. Du brauchst ein Konto, um den Termin abzuschließen.
+1. Melde dich bei Kinpal an und gehe zu [Umfrage erstellen](https://app.kinpal.com/new). Ein kostenloses Konto reicht aus. Du brauchst ein Konto, um den Termin abzuschließen.
 2. Füge einen Titel wie „Disputation, Biologie, April“ hinzu. Alle Personen mit dem Link können den Titel und die Beschreibung sehen. Lass daher gesperrte Titel deiner Dissertation weg.
-3. Klicke auf **Ort hinzufügen** oder auf **Videokonferenz hinzufügen**, damit Rallly beim Abschließen einen Google Meet-, Zoom-, Microsoft Teams- oder Webex-Link erstellt. Zuerst musst du diesen Dienst unter **Einstellungen** verbinden.
-4. Klicke auf **Beschreibung hinzufügen** und gib an, wie lange die Veranstaltung dauert und bis wann die Antworten eingehen sollen. Rallly setzt diese Frist nicht automatisch durch, daher musst du selbst nachfassen.
+3. Klicke auf **Ort hinzufügen** oder auf **Videokonferenz hinzufügen**, damit Kinpal beim Abschließen einen Google Meet-, Zoom-, Microsoft Teams- oder Webex-Link erstellt. Zuerst musst du diesen Dienst unter **Einstellungen** verbinden.
+4. Klicke auf **Beschreibung hinzufügen** und gib an, wie lange die Veranstaltung dauert und bis wann die Antworten eingehen sollen. Kinpal setzt diese Frist nicht automatisch durch, daher musst du selbst nachfassen.
 5. Lege die **Dauer** fest und wähle deine Optionen im Kalender aus.
 6. Lass **E-Mail-Adresse erforderlich** aktiviert, damit alle die Kalendereinladung erhalten können, und aktiviere die **Abstimmungsoptionen** Ja, Falls erforderlich und Nein.
 7. Klicke auf **Umfrage erstellen**.
 
-![Das Formular für eine neue Umfrage in Rallly mit einem Titel, einer Dauer von zwei Stunden und drei ausgewählten Terminen](/static/images/thesis-defense/create-poll.png)
+![Das Formular für eine neue Umfrage in Kinpal mit einem Titel, einer Dauer von zwei Stunden und drei ausgewählten Terminen](/static/images/thesis-defense/create-poll.png)
 
 ### Wenn du eine externe prüfende Person hast
 
 Eine externe prüfende Person ist oft am schwierigsten einzuplanen. Sie erscheint nicht im Kalender deiner Universität und befindet sich möglicherweise in mehreren Zeitzonen Entfernung.
 
-Rallly zeigt jeder Person die Optionen in ihrer eigenen Zeitzone an, sodass niemand etwas umrechnen muss. Nimm einige Optionen auf, die in den Arbeitstag der externen prüfenden Person fallen, und sei in den Wochen vorsichtig, in denen die Uhren umgestellt werden, da die Länder an unterschiedlichen Tagen umstellen. Die Person kann über den Link ohne Konto antworten.
+Kinpal zeigt jeder Person die Optionen in ihrer eigenen Zeitzone an, sodass niemand etwas umrechnen muss. Nimm einige Optionen auf, die in den Arbeitstag der externen prüfenden Person fallen, und sei in den Wochen vorsichtig, in denen die Uhren umgestellt werden, da die Länder an unterschiedlichen Tagen umstellen. Die Person kann über den Link ohne Konto antworten.
 
 ## Teile die Umfrage und frage nach
 
@@ -70,7 +70,7 @@ Gib den Personen eine Woche Zeit zum Antworten und kontaktiere alle, die nach dr
 
 ## Den Termin abschließen
 
-Klicke auf **Abschließen**. Rallly listet deine Optionen auf, wobei die am besten unterstützte Option zuerst steht. Wähle den Termin und lege fest, wen du benachrichtigen möchtest. Alle ausgewählten Personen erhalten eine E-Mail mit einer Kalendereinladung, einschließlich des Links zur Videokonferenz, falls du einen hinzugefügt hast. Buche den Raum noch am selben Tag.
+Klicke auf **Abschließen**. Kinpal listet deine Optionen auf, wobei die am besten unterstützte Option zuerst steht. Wähle den Termin und lege fest, wen du benachrichtigen möchtest. Alle ausgewählten Personen erhalten eine E-Mail mit einer Kalendereinladung, einschließlich des Links zur Videokonferenz, falls du einen hinzugefügt hast. Buche den Raum noch am selben Tag.
 
 ![Der Dialog zum Abschließen mit jeder Option und der Anzahl der Personen, die teilnehmen können](/static/images/thesis-defense/finalize.png)
 
@@ -93,8 +93,8 @@ Vier Personen antworten innerhalb von drei Tagen, und sie schreibt der fünften 
 <PostFaq>
   <FaqItem question="Wie früh sollte man eine Disputation planen?">Verschicke deine Umfrage mindestens vier Wochen vor dem frühestmöglichen Termin. Bei einem großen Komitee solltest du früher beginnen. Die Vorlauffristen deines Studiengangs können noch mehr Zeit erfordern.</FaqItem>
   <FaqItem question="Wie viele Termine sollte man anbieten?">Zwischen 5 und 10, verteilt auf verschiedene Tage. Wenn keiner davon passt, kannst du später weitere hinzufügen.</FaqItem>
-  <FaqItem question="Was ist, wenn ein Komiteemitglied nicht antwortet?">Kontaktiere die Person nach drei Tagen direkt. Wenn du E-Mail-Einladungen verwendest, die Teil von Rallly Pro sind, kannst du sehen, wer die Umfrage geöffnet und wer geantwortet hat.</FaqItem>
-  <FaqItem question="Brauchen Komiteemitglieder ein Rallly-Konto?">Nein. Sie öffnen den Link, geben ihren Namen und ihre E-Mail-Adresse ein und wählen die passenden Zeiten aus.</FaqItem>
+  <FaqItem question="Was ist, wenn ein Komiteemitglied nicht antwortet?">Kontaktiere die Person nach drei Tagen direkt. Wenn du E-Mail-Einladungen verwendest, die Teil von Kinpal Pro sind, kannst du sehen, wer die Umfrage geöffnet und wer geantwortet hat.</FaqItem>
+  <FaqItem question="Brauchen Komiteemitglieder ein Kinpal-Konto?">Nein. Sie öffnen den Link, geben ihren Namen und ihre E-Mail-Adresse ein und wählen die passenden Zeiten aus.</FaqItem>
   <FaqItem question="Kann eine Koordinatorin oder ein Koordinator eine Disputation für eine Studentin oder einen Studenten planen?">Ja. Erstelle die Umfrage selbst und nimm die zu prüfende Person als eine der antwortenden Personen auf. Die Antworten gehen bei dir ein, und du legst den endgültigen Termin fest.</FaqItem>
-  <FaqItem question="Ist Rallly dafür kostenlos?">Ja. Das Erstellen von Umfragen, das Sammeln von Antworten und das Abschließen sind kostenlos. Mit einem kostenlosen Konto können gleichzeitig drei Umfragen geöffnet sein. Rallly Pro hebt diese Begrenzung auf.</FaqItem>
+  <FaqItem question="Ist Kinpal dafür kostenlos?">Ja. Das Erstellen von Umfragen, das Sammeln von Antworten und das Abschließen sind kostenlos. Mit einem kostenlosen Konto können gleichzeitig drei Umfragen geöffnet sein. Kinpal Pro hebt diese Begrenzung auf.</FaqItem>
 </PostFaq>

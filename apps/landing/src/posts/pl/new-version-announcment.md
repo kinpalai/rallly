@@ -1,16 +1,16 @@
 ---
-title: Przedstawiamy Rallly 2.0
+title: Przedstawiamy Kinpal 2.0
 date: '2022-04-08'
 category: Company
 tags:
   - announcement
 draft: false
-excerpt: Przegląd pierwszej dużej aktualizacji Rallly.
+excerpt: Przegląd pierwszej dużej aktualizacji Kinpal.
 ---
 
 Jeśli zastanawiasz się, dlaczego wszystko wygląda dziś inaczej, to dlatego, że właśnie
 wydałem dużą aktualizację. Planowałem ją już [od jakiegoś czasu](https://twitter.com/imlukevella/status/1288066459248349184),
-ale od początku tego roku postanowiłem poświęcać więcej czasu na rozwój Rallly, dzięki czemu
+ale od początku tego roku postanowiłem poświęcać więcej czasu na rozwój Kinpal, dzięki czemu
 udało się osiągnąć ten kamień milowy — a mam nadzieję, że w przyszłości uda się osiągnąć jeszcze więcej. A więc…
 
 ## Co stanie się z ankietami utworzonymi w starej wersji?
@@ -21,7 +21,7 @@ Planuję wyłączyć starszą bazę danych za około dwa miesiące, więc do teg
 ankiety utworzone w starej wersji nadal będą dostępne. Mam nadzieję, że będzie to wystarczająco dużo czasu,
 aby przenieść wszystkie aktywne ankiety.
 
-Jeśli masz problem z dostępem do swojej ankiety, napisz do nas na czacie w serwisie lub wyślij wiadomość e-mail na adres [support@rallly.co](mailto:support@rallly.co).
+Jeśli masz problem z dostępem do swojej ankiety, napisz do nas na czacie w serwisie lub wyślij wiadomość e-mail na adres [support@kinpal.com](mailto:support@kinpal.com).
 
 ## Co nowego?
 
@@ -45,7 +45,7 @@ link uczestnika, nie dajesz uczestnikom możliwości zmieniania szczegółów an
 
 ### Widok kompaktowy na urządzeniach mobilnych
 
-Rallly od zawsze było przyjazne urządzeniom mobilnym, ale teraz oferuje jeszcze lepiej zoptymalizowany widok na mniejszych ekranach.
+Kinpal od zawsze było przyjazne urządzeniom mobilnym, ale teraz oferuje jeszcze lepiej zoptymalizowany widok na mniejszych ekranach.
 
 ![Demonstracja widoku mobilnego](/static/images/mobile-demo.gif)
 
@@ -69,7 +69,7 @@ Jest kilka powodów, dla których postanowiłem pominąć tę funkcję:
    sposób. Dlatego rozważę zmianę dostawcy i być może skorzystanie z dedykowanego adresu IP, aby poprawić
    dostarczalność naszych wiadomości.
 
-2. **Koszt**&mdash;Wysyłanie tych wiadomości e-mail nie jest darmowe, a baza użytkowników Rallly urosła do tego stopnia, że
+2. **Koszt**&mdash;Wysyłanie tych wiadomości e-mail nie jest darmowe, a baza użytkowników Kinpal urosła do tego stopnia, że
    ich koszt stanowi znaczną część całkowitych kosztów utrzymania usługi. Ograniczenie liczby wysyłanych wiadomości
    pomogłoby obniżyć ten koszt do bardziej zrównoważonego poziomu.
 

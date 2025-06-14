@@ -7,7 +7,7 @@ excerpt: >-
   votre disponibilité soit évident au premier coup d'œil.
 ---
 
-La plupart des personnes qui répondent à un sondage Rallly le font depuis leur téléphone, souvent dans les minutes qui suivent la réception du lien d'invitation. C'est le cœur de l'expérience, alors quand on nous dit qu'elle prête à confusion, nous sommes à l'écoute.
+La plupart des personnes qui répondent à un sondage Kinpal le font depuis leur téléphone, souvent dans les minutes qui suivent la réception du lien d'invitation. C'est le cœur de l'expérience, alors quand on nous dit qu'elle prête à confusion, nous sommes à l'écoute.
 
 Et c'est bien ce qu'on nous a dit. Certaines personnes nous ont expliqué que l'ancienne interface de vote n'était pas assez claire. Le petit bouton « ? » à côté de chaque horaire était facile à manquer, et quelques participants appuyaient sur Continuer en pensant choisir leurs horaires à la page suivante, pour découvrir qu'ils avaient répondu « Non » à toutes les options par accident.
 
@@ -33,4 +33,4 @@ Les nouveaux contrôles respectent les tailles de zones tactiles recommandées p
 
 Rien n'a changé concernant vos sondages ou vos réponses existants. Il s'agit simplement d'une meilleure façon de faire la même chose.
 
-Comme toujours, si quelque chose vous semble étrange ou si vous avez une idée pour rendre les réponses encore plus fluides, [faites-le-nous savoir](mailto:support@rallly.co). Cette mise à jour est née des retours de personnes comme vous.
+Comme toujours, si quelque chose vous semble étrange ou si vous avez une idée pour rendre les réponses encore plus fluides, [faites-le-nous savoir](mailto:support@kinpal.com). Cette mise à jour est née des retours de personnes comme vous.

@@ -1,15 +1,15 @@
 ---
-title: Presentiamo l’API di Rallly
+title: Presentiamo l’API di Kinpal
 date: '2026-09-15'
 category: Product
 excerpt: >-
   Crea sondaggi, leggi i risultati e chiudili dai tuoi strumenti. L’API è ora
-  disponibile per gli Spazi Pro su Rallly Cloud.
+  disponibile per gli Spazi Pro su Kinpal Cloud.
 ---
 
-Rallly dispone da tempo di una piccola API nascosta dietro un flag. Alcune persone l’hanno utilizzata per creare sondaggi dai propri sistemi e il loro feedback ha contribuito a definire ciò che rendiamo disponibile oggi. Ora è aperta a tutti gli Spazi Pro su Rallly Cloud.
+Kinpal dispone da tempo di una piccola API nascosta dietro un flag. Alcune persone l’hanno utilizzata per creare sondaggi dai propri sistemi e il loro feedback ha contribuito a definire ciò che rendiamo disponibile oggi. Ora è aperta a tutti gli Spazi Pro su Kinpal Cloud.
 
-![Un editor di codice che mostra una richiesta fetch per creare un sondaggio sulle date con tre opzioni tramite l’API di Rallly](/static/images/rallly-api/create-poll-editor.svg)
+![Un editor di codice che mostra una richiesta fetch per creare un sondaggio sulle date con tre opzioni tramite l’API di Kinpal](/static/images/rallly-api/create-poll-editor.svg)
 
 ## Cosa fa
 
@@ -28,8 +28,8 @@ Ogni richiesta è associata a un solo Spazio. La chiave API identifica lo Spazio
 Il proprietario dello Spazio crea una chiave in **Impostazioni → Chiavi API**. Le richieste la inviano come token bearer:
 
 ```sh
-curl https://api.rallly.co/v1/polls \
-  -H "Authorization: Bearer $RALLLY_API_KEY" \
+curl https://api.kinpal.com/v1/polls \
+  -H "Authorization: Bearer $KINPAL_API_KEY" \
   -H "Content-Type: application/json" \
   -d '{
     "title": "Team offsite",
@@ -44,8 +44,8 @@ curl https://api.rallly.co/v1/polls \
 
 La risposta include un `inviteUrl` da condividere con i partecipanti e un `adminUrl` per l’Organizzatore. Ogni Spazio può effettuare 60 richieste al minuto.
 
-Il [riferimento dell’API](https://support.rallly.co/api-reference/introduction) contiene tutti gli endpoint con esempi di richieste e risposte. È disponibile anche il documento OpenAPI, se preferisci generare un client.
+Il [riferimento dell’API](https://support.kinpal.com/api-reference/introduction) contiene tutti gli endpoint con esempi di richieste e risposte. È disponibile anche il documento OpenAPI, se preferisci generare un client.
 
 ## Cosa verrà dopo
 
-Consultare periodicamente i risultati funziona, ma non è il modo in cui la maggior parte delle integrazioni vuole operare. Sono previsti webhook per gli eventi dei sondaggi, così il tuo sistema potrà ricevere una notifica quando arriva una nuova Risposta o quando un sondaggio viene chiuso. Non c’è ancora una data. Se crei qualcosa con l’API, mi piacerebbe sapere a cosa stai lavorando e cosa ti ostacola: scrivimi all’indirizzo [feedback@rallly.co](mailto:feedback@rallly.co).
+Consultare periodicamente i risultati funziona, ma non è il modo in cui la maggior parte delle integrazioni vuole operare. Sono previsti webhook per gli eventi dei sondaggi, così il tuo sistema potrà ricevere una notifica quando arriva una nuova Risposta o quando un sondaggio viene chiuso. Non c’è ancora una data. Se crei qualcosa con l’API, mi piacerebbe sapere a cosa stai lavorando e cosa ti ostacola: scrivimi all’indirizzo [feedback@kinpal.com](mailto:feedback@kinpal.com).

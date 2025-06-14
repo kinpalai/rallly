@@ -7,7 +7,7 @@ excerpt: >-
   eller hver for seg.
 ---
 
-Områder lar et team dele ett Rallly-abonnement. Frem til nå har de fungert på én måte: Alle medlemmer kunne se og administrere alle andres avstemninger og arrangementer. Det fungerer godt for et lite team som planlegger sammen, men jeg hørte stadig fra større team at dette kom i veien. De vil gi alle tilgang uten at folk tråkker hverandre på tærne.
+Områder lar et team dele ett Kinpal-abonnement. Frem til nå har de fungert på én måte: Alle medlemmer kunne se og administrere alle andres avstemninger og arrangementer. Det fungerer godt for et lite team som planlegger sammen, men jeg hørte stadig fra større team at dette kom i veien. De vil gi alle tilgang uten at folk tråkker hverandre på tærne.
 
 Derfor har områder nå en innstilling for teamsamarbeid.
 
@@ -25,12 +25,12 @@ Innstillingen deler områder inn i to varianter:
 
 Et lite team som planlegger sammen, lar teamsamarbeid være slått på. En assistent kan administrere en avstemning som kollegaen opprettet, og ingen trenger å videresende lenker.
 
-En organisasjon som vil ta Rallly i bruk i en større gruppe, slår av teamsamarbeid. Alle får Pro-funksjoner under ett abonnement, planleggingen til hver person forblir deres egen, og det å legge til et nytt medlem gjør ikke eksisterende avstemninger synlige for andre.
+En organisasjon som vil ta Kinpal i bruk i en større gruppe, slår av teamsamarbeid. Alle får Pro-funksjoner under ett abonnement, planleggingen til hver person forblir deres egen, og det å legge til et nytt medlem gjør ikke eksisterende avstemninger synlige for andre.
 
 Uansett påvirker dette bare hva medlemmene i området kan se. Invitasjonslenker og deltakersider fungerer nøyaktig likt i begge modusene, så de du planlegger med, vil ikke merke noen forskjell.
 
-Du kan lese mer om hvordan dette fungerer, i [dokumentasjonen om samarbeid](https://support.rallly.co/spaces/collaboration).
+Du kan lese mer om hvordan dette fungerer, i [dokumentasjonen om samarbeid](https://support.kinpal.com/spaces/collaboration).
 
 ## Hva skjer videre?
 
-Dette er et første steg mot å gjøre Rallly bedre egnet for større organisasjoner. Hvis du vurderer å ta Rallly i bruk i teamet ditt, og det er noe du savner, vil jeg gjerne høre fra deg. Send meg en e-post på [support@rallly.co](mailto:support@rallly.co).
+Dette er et første steg mot å gjøre Kinpal bedre egnet for større organisasjoner. Hvis du vurderer å ta Kinpal i bruk i teamet ditt, og det er noe du savner, vil jeg gjerne høre fra deg. Send meg en e-post på [support@kinpal.com](mailto:support@kinpal.com).

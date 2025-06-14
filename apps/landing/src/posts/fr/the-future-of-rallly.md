@@ -1,14 +1,14 @@
 ---
-title: L'avenir de Rallly
+title: L'avenir de Kinpal
 date: '2023-06-18'
 category: Company
 excerpt: >-
-  Rallly a toujours eu pour objectif de simplifier la planification de réunions
+  Kinpal a toujours eu pour objectif de simplifier la planification de réunions
   de groupe, mais j'ambitionne de le faire évoluer pour en faire bien plus
   qu'une simple plateforme de sondages.
 ---
 
-Rallly a toujours eu pour objectif de simplifier la planification de réunions de groupe, mais j'ambitionne de le faire évoluer pour en faire bien plus qu'une simple plateforme de sondages. Je souhaite créer un processus unique, flexible et familier qui aidera les utilisateurs à trouver la date idéale pour leur événement.
+Kinpal a toujours eu pour objectif de simplifier la planification de réunions de groupe, mais j'ambitionne de le faire évoluer pour en faire bien plus qu'une simple plateforme de sondages. Je souhaite créer un processus unique, flexible et familier qui aidera les utilisateurs à trouver la date idéale pour leur événement.
 
 ## Le processus
 
@@ -28,7 +28,7 @@ Lorsque vous planifiez un événement, il peut être très utile d'avoir une id�
 
 ### Sondages
 
-Les sondages sont au cœur de ce que propose Rallly et s'intègrent parfaitement à ce nouveau processus. Une fois les disponibilités générales recueillies, les organisateurs pourront sélectionner quelques options et laisser les participants voter pour leurs dates préférées.
+Les sondages sont au cœur de ce que propose Kinpal et s'intègrent parfaitement à ce nouveau processus. Une fois les disponibilités générales recueillies, les organisateurs pourront sélectionner quelques options et laisser les participants voter pour leurs dates préférées.
 
 ![Polls](/static/images/the-future-of-rallly/poll.svg)
 
@@ -44,4 +44,4 @@ Les éléments ci-dessus suivront cet ordre : Grille de disponibilités -> Sonda
 
 ## Conclusion
 
-Je suis particulièrement enthousiaste à l'idée de commencer à travailler sur ce processus amélioré pour Rallly. Comme toujours, vos commentaires me sont précieux. Dites-moi si vous pensez que ce processus pourrait vous être utile ou si vous avez des suggestions pour l'améliorer. J'ai hâte de continuer à faire évoluer Rallly pour en faire un outil qui facilite la planification et la rend plus efficace pour tout le monde.
+Je suis particulièrement enthousiaste à l'idée de commencer à travailler sur ce processus amélioré pour Kinpal. Comme toujours, vos commentaires me sont précieux. Dites-moi si vous pensez que ce processus pourrait vous être utile ou si vous avez des suggestions pour l'améliorer. J'ai hâte de continuer à faire évoluer Kinpal pour en faire un outil qui facilite la planification et la rend plus efficace pour tout le monde.

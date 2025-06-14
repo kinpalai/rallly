@@ -329,7 +329,7 @@ function NoSeatsAvailableDialogContent({
             prefetch={false}
             target="_blank"
             rel="noopener noreferrer"
-            href="https://support.rallly.co/self-hosting/licensing"
+            href="https://support.kinpal.com/self-hosting/licensing"
           >
             <Trans i18nKey="upgrade" defaults="Upgrade" />
           </Link>

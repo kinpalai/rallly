@@ -1,238 +1,69 @@
 "use cache";
 
+import { buttonVariants } from "@rallly/ui";
 import { absoluteUrl } from "@rallly/utils/absolute-url";
+import { ArrowLeftIcon } from "lucide-react";
 import type { Metadata } from "next";
 import { cacheLife } from "next/cache";
 import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { MDXRemote } from "next-mdx-remote/rsc";
-import { Trans } from "react-i18next/TransWithoutContext";
-import DateFormatter from "@/components/blog/date-formatter";
-import { PostFaq } from "@/components/blog/post-faq";
-import { Cta } from "@/components/home/cta";
-import { FaqItem } from "@/components/home/faq";
-import { JsonLd } from "@/components/json-ld";
-import { Section } from "@/components/section";
-import { LinkBase } from "@/i18n/client/link";
-import { getTranslation } from "@/i18n/server";
-import { getPostAlternates } from "@/lib/alternates";
-import { getAllPosts, getPostBySlug, getPostLocales } from "@/lib/api";
-import { getCategoryLabels } from "@/lib/blog-categories";
-import { localizePostHref } from "@/lib/post-links";
+import PostHeader from "@/components/blog/post-header";
+import { getAllPosts, getPostBySlug } from "@/lib/api";
 
 export default async function Page(props: {
   params: Promise<{ locale: string; slug: string }>;
 }) {
   cacheLife("max");
   const params = await props.params;
-  const { t, i18n } = await getTranslation(params.locale, [
-    "blog",
-    "common",
-    "home",
+  const post = getPostBySlug(params.slug, [
+    "title",
+    "date",
+    "slug",
+    "author",
+    "excerpt",
+    "content",
   ]);
-  const post = getPostBySlug(
-    params.slug,
-    [
-      "title",
-      "date",
-      "slug",
-      "author",
-      "category",
-      "excerpt",
-      "content",
-      "updated",
-      "contentLocale",
-    ],
-    params.locale,
-  );
 
   if (!post) {
     notFound();
   }
 
-  const categoryLabels = getCategoryLabels(t);
-  const alternates = getPostAlternates({
-    locale: params.locale,
-    slug: post.slug,
-    translatedLocales: getPostLocales(post.slug),
-  });
-  const url = String(alternates?.canonical);
-  const articleSchema = {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    headline: post.title,
-    description: post.excerpt,
-    image: ogImageUrl(post),
-    datePublished: post.date,
-    dateModified: post.updated ?? post.date,
-    inLanguage: post.contentLocale,
-    url,
-    mainEntityOfPage: url,
-    author: {
-      "@type": "Person",
-      name: "Luke Vella",
-      url: "https://twitter.com/imlukevella",
-    },
-    publisher: {
-      "@type": "Organization",
-      name: "Rallly",
-      url: absoluteUrl(),
-      logo: {
-        "@type": "ImageObject",
-        url: absoluteUrl("/android-chrome-512x512.png"),
-      },
-    },
-  };
-
   return (
-    <div className="divide-y">
-      <JsonLd data={articleSchema} />
-      <Section>
-        <nav className="flex items-center gap-2 text-sm">
-          <LinkBase href="/blog" className="text-gray-500 hover:text-gray-800">
-            <Trans
-              t={t}
-              i18n={i18n}
-              ns="common"
-              i18nKey="blog"
-              defaults="Blog"
-            />
-          </LinkBase>
-          {post.category ? (
-            <>
-              <span aria-hidden="true" className="text-gray-400">
-                /
-              </span>
-              <span className="text-gray-800">
-                {categoryLabels[post.category] ?? post.category}
-              </span>
-            </>
-          ) : null}
-        </nav>
-        <h1 className="mt-8 max-w-2xl text-balance font-medium text-3xl text-gray-800 tracking-tight sm:text-4xl">
-          {post.title}
-        </h1>
-        <div className="mt-8 flex flex-col gap-8 lg:flex-row lg:items-start lg:justify-between lg:gap-16">
-          <aside className="lg:sticky lg:top-[calc(var(--site-header-height,61px)+2rem)] lg:order-2 lg:w-56 lg:shrink-0">
-            <dl className="flex flex-wrap gap-x-12 gap-y-6 lg:flex-col">
-              <div>
-                <dt className="text-gray-500 text-sm">
-                  <Trans
-                    t={t}
-                    i18n={i18n}
-                    ns="blog"
-                    i18nKey="blogPublishedOn"
-                    defaults="Published on"
-                  />
-                </dt>
-                <dd className="mt-1 text-gray-800">
-                  <DateFormatter dateString={post.date} />
-                </dd>
-              </div>
-              <div>
-                <dt className="text-gray-500 text-sm">
-                  <Trans
-                    t={t}
-                    i18n={i18n}
-                    ns="blog"
-                    i18nKey="blogWrittenBy"
-                    defaults="Written by"
-                  />
-                </dt>
-                <dd className="mt-1 flex items-center gap-2">
-                  <Image
-                    src="https://d39ixtfgglw55o.cloudfront.net/images/luke.webp"
-                    width={24}
-                    height={24}
-                    className="rounded-full"
-                    alt=""
-                  />
-                  <Link
-                    className="text-gray-800 hover:underline"
-                    href="https://twitter.com/imlukevella"
-                  >
-                    Luke Vella
-                  </Link>
-                </dd>
-              </div>
-            </dl>
-          </aside>
-          <article
-            lang={post.contentLocale}
-            className="longform min-w-0 max-w-2xl lg:order-1"
-          >
-            <MDXRemote
-              source={post.content}
-              components={{
-                PostFaq,
-                FaqItem,
-                a: ({ href, ...rest }: React.ComponentProps<"a">) => (
-                  <a
-                    {...rest}
-                    href={localizePostHref({
-                      href,
-                      locale: post.contentLocale,
-                      isPostTranslated: (slug) =>
-                        getPostLocales(slug).includes(post.contentLocale),
-                    })}
-                  />
-                ),
-              }}
-            />
-          </article>
+    <div>
+      <nav className="mb-4">
+        <Link href="/blog" className={buttonVariants({ variant: "ghost" })}>
+          <ArrowLeftIcon className="size-4" /> All Posts
+        </Link>
+      </nav>
+      <article className="space-y-4">
+        <PostHeader title={post.title} date={post.date} />
+        <div className="blog-content">
+          <MDXRemote source={post.content} />
         </div>
-      </Section>
-      <Section className="sm:py-24">
-        <Cta
-          locale={params.locale}
-          title={
-            <Trans
-              t={t}
-              i18n={i18n}
-              ns="home"
-              i18nKey="finalCtaTitle"
-              defaults="Ready to find the best time to meet?"
-            />
-          }
-          description={
-            <Trans
-              t={t}
-              i18n={i18n}
-              ns="home"
-              i18nKey="finalCtaDescription"
-              defaults="Set up your poll in under a minute. No account, no chasing people for replies."
-            />
-          }
-          buttonLabel={
-            <Trans
-              t={t}
-              i18n={i18n}
-              ns="home"
-              i18nKey="createAPoll"
-              defaults="Create a poll"
-            />
-          }
-          hint={
-            <Trans
-              t={t}
-              i18n={i18n}
-              ns="home"
-              i18nKey="hint"
-              defaults="It's free! No login required."
-            />
-          }
-        />
-      </Section>
+        <div className="mt-8 flex items-center gap-x-4">
+          <Image
+            src="/logo.svg"
+            width={32}
+            height={32}
+            alt="Kinpal"
+          />
+          <div>
+            <div className="font-medium text-foreground leading-none">Kinpal</div>
+            <div>
+              <Link
+                className="text-muted-foreground text-sm hover:text-primary"
+                href="https://x.com/kinpalai"
+              >
+                @kinpalai
+              </Link>
+            </div>
+          </div>
+        </div>
+      </article>
     </div>
   );
-}
-
-function ogImageUrl(post: { title?: string; excerpt?: string }) {
-  return absoluteUrl("/api/og-image", {
-    title: post.title,
-    excerpt: post.excerpt,
-  });
 }
 
 export async function generateStaticParams() {
@@ -247,35 +78,31 @@ export async function generateMetadata(props: {
 }): Promise<Metadata> {
   cacheLife("max");
   const params = await props.params;
-  const post = getPostBySlug(
-    params.slug,
-    ["title", "date", "slug", "author", "excerpt"],
-    params.locale,
-  );
+  const post = getPostBySlug(params.slug, [
+    "title",
+    "date",
+    "slug",
+    "author",
+    "excerpt",
+  ]);
 
   if (!post) {
     notFound();
   }
 
-  const alternates = getPostAlternates({
-    locale: params.locale,
-    slug: post.slug,
-    translatedLocales: getPostLocales(post.slug),
-  });
-
   return {
     title: post.title,
     description: post.excerpt,
-    alternates,
     openGraph: {
-      type: "article",
-      publishedTime: post.date,
       title: post.title,
       description: post.excerpt,
-      url: String(alternates?.canonical),
+      url: absoluteUrl(`/blog/${post.slug}`),
       images: [
         {
-          url: ogImageUrl(post),
+          url: absoluteUrl("/api/og-image", {
+            title: post.title,
+            excerpt: post.excerpt,
+          }),
           width: 1200,
           height: 630,
           alt: post.title,

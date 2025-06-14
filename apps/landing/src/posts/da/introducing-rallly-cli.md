@@ -1,28 +1,28 @@
 ---
-title: Vi introducerer Rallly CLI
+title: Vi introducerer Kinpal CLI
 date: '2026-04-29'
 category: Self-hosting
 excerpt: >-
   Et nyt CLI-værktøj til installation, konfiguration og administration af
-  selvhostede Rallly-instanser med HTTPS og billeduploads, der virker med det
+  selvhostede Kinpal-instanser med HTTPS og billeduploads, der virker med det
   samme.
 ---
 
-Selvhosting af Rallly krævede tidligere, at man kopierede en eksempel-`docker-compose.yml`, redigerede den manuelt, valgte sin egen reverseproxy og satte en S3-bucket op, hvis billeduploads skulle fungere. Det kunne lade sig gøre, men hver installation var lidt forskellig, og »har jeg konfigureret den del korrekt?« var et tilbagevendende spørgsmål i supportmails.
+Selvhosting af Kinpal krævede tidligere, at man kopierede en eksempel-`docker-compose.yml`, redigerede den manuelt, valgte sin egen reverseproxy og satte en S3-bucket op, hvis billeduploads skulle fungere. Det kunne lade sig gøre, men hver installation var lidt forskellig, og »har jeg konfigureret den del korrekt?« var et tilbagevendende spørgsmål i supportmails.
 
 Derfor har vi bygget et ordentligt CLI-værktøj, der håndterer installation, konfiguration og den daglige drift for dig.
 
 ## Installér med én kommando
 
 ```sh
-curl -fsSL https://get.rallly.co | bash
+curl -fsSL https://get.kinpal.com | bash
 ```
 
 Installationsprogrammet tjekker dit miljø, guider dig gennem konfigurationen (domæne, supportmail og SMTP), genererer hemmeligheder for dig og starter det hele. Der er ikke noget, du skal redigere manuelt.
 
 En fungerende instans indeholder nu:
 
-- **Rallly** selv
+- **Kinpal** selv
 - **PostgreSQL** til databasen
 - **Traefik** som reverseproxy med automatiske Let's Encrypt-certifikater
 - **Garage** til S3-kompatibel objektlagring, så avatarer og billeduploads virker med det samme
@@ -49,12 +49,12 @@ Ved at have mere kontrol over stakken kan vi desuden fremover gøre ting som at 
 
 ## Bruger du allerede selvhosting?
 
-Hvis du allerede kører Rallly fra en manuelt redigeret `docker-compose.yml` eller `config.env`, gennemgår denne [migrationsguide](https://support.rallly.co/self-hosting/migration) trin for trin, hvordan du opgraderer til 4.10 og skifter til CLI-værktøjet uden at miste data. Det vigtigste, du skal have med over, er din `SECRET_PASSWORD`, som krypterer sessioner.
+Hvis du allerede kører Kinpal fra en manuelt redigeret `docker-compose.yml` eller `config.env`, gennemgår denne [migrationsguide](https://support.kinpal.com/self-hosting/migration) trin for trin, hvordan du opgraderer til 4.10 og skifter til CLI-værktøjet uden at miste data. Det vigtigste, du skal have med over, er din `SECRET_PASSWORD`, som krypterer sessioner.
 
 ## Sådan kommer du i gang
 
-- **Ny installation**: [Installationsguide](https://support.rallly.co/self-hosting/installation/docker)
-- **Daglig drift**: [Administrationsguide](https://support.rallly.co/self-hosting/management)
-- **Kommer du fra en ældre opsætning**: [Migrationsguide](https://support.rallly.co/self-hosting/migration)
+- **Ny installation**: [Installationsguide](https://support.kinpal.com/self-hosting/installation/docker)
+- **Daglig drift**: [Administrationsguide](https://support.kinpal.com/self-hosting/management)
+- **Kommer du fra en ældre opsætning**: [Migrationsguide](https://support.kinpal.com/self-hosting/migration)
 
-Målet med denne udgivelse var at få selvhosting til at føles som et produkt i stedet for en opskrift. Hvis du støder på problemer undervejs eller har idéer til, hvad der bør komme som det næste, vil jeg meget gerne høre fra dig på [feedback@rallly.co](mailto:feedback@rallly.co).
+Målet med denne udgivelse var at få selvhosting til at føles som et produkt i stedet for en opskrift. Hvis du støder på problemer undervejs eller har idéer til, hvad der bør komme som det næste, vil jeg meget gerne høre fra dig på [feedback@kinpal.com](mailto:feedback@kinpal.com).

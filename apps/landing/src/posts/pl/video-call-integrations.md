@@ -3,15 +3,15 @@ title: Linki do wideorozmów tworzone po zatwierdzeniu terminu
 date: '2026-10-14'
 category: Product
 excerpt: >-
-  Połącz Google Meet, Zoom, Microsoft Teams lub Webex, a Rallly doda link do
+  Połącz Google Meet, Zoom, Microsoft Teams lub Webex, a Kinpal doda link do
   spotkania do zaproszenia, gdy wybierzesz termin.
 ---
 
-Rallly może teraz utworzyć za Ciebie link do spotkania. Połącz Google Meet, Zoom, Microsoft Teams lub Webex, dodaj wideorozmowę do ankiety, a po zatwierdzeniu terminu Rallly utworzy spotkanie na wybrany termin i doda link do dołączenia do wydarzenia, zaproszenia w kalendarzu oraz e-maili z potwierdzeniem.
+Kinpal może teraz utworzyć za Ciebie link do spotkania. Połącz Google Meet, Zoom, Microsoft Teams lub Webex, dodaj wideorozmowę do ankiety, a po zatwierdzeniu terminu Kinpal utworzy spotkanie na wybrany termin i doda link do dołączenia do wydarzenia, zaproszenia w kalendarzu oraz e-maili z potwierdzeniem.
 
 Nie musisz już ręcznie tworzyć spotkania po zebraniu odpowiedzi i wklejać linku do kolejnego e-maila.
 
-![Menu Dodaj wideorozmowę w formularzu ankiety z listą połączonych i dostępnych dostawców](https://support.rallly.co/images/integrations/zoom/video-call-menu.png)
+![Menu Dodaj wideorozmowę w formularzu ankiety z listą połączonych i dostępnych dostawców](https://support.kinpal.com/images/integrations/zoom/video-call-menu.png)
 
 ## Jak to działa
 
@@ -34,11 +34,11 @@ Jeśli wolisz korzystać z innej usługi, nadal możesz dodać dowolną wideoroz
 
 Każda integracja ma przewodnik zawierający informacje o wymaganiach, uprawnieniach i sposobie rozłączania:
 
-- [Google Meet](https://support.rallly.co/integrations/google-meet)
-- [Zoom](https://support.rallly.co/integrations/zoom)
-- [Microsoft Teams](https://support.rallly.co/integrations/microsoft-teams)
-- [Webex](https://support.rallly.co/integrations/webex)
+- [Google Meet](https://support.kinpal.com/integrations/google-meet)
+- [Zoom](https://support.kinpal.com/integrations/zoom)
+- [Microsoft Teams](https://support.kinpal.com/integrations/microsoft-teams)
+- [Webex](https://support.kinpal.com/integrations/webex)
 
-Jeśli napotkasz problemy lub jest dostawca, którego chcesz zobaczyć w następnej kolejności, napisz do mnie na adres [feedback@rallly.co](mailto:feedback@rallly.co).
+Jeśli napotkasz problemy lub jest dostawca, którego chcesz zobaczyć w następnej kolejności, napisz do mnie na adres [feedback@kinpal.com](mailto:feedback@kinpal.com).
 
 Miłego planowania :)

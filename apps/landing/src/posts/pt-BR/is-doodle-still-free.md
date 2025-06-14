@@ -100,12 +100,12 @@ Essa é uma escolha empresarial legítima e, se sua empresa agenda reuniões com
 
 ## Se você só precisa de uma enquete de agendamento
 
-É essa lacuna que o [Rallly](https://rallly.co) preenche. Ele faz uma coisa: você sugere alguns horários, compartilha um link e todos votam no que funciona. Veja como os planos gratuitos se comparam:
+É essa lacuna que o [Kinpal](https://kinpal.com) preenche. Ele faz uma coisa: você sugere alguns horários, compartilha um link e todos votam no que funciona. Veja como os planos gratuitos se comparam:
 
 <div className="overflow-x-auto">
 <table>
 <thead>
-<tr><th></th><th>Doodle Free</th><th>Rallly Free</th></tr>
+<tr><th></th><th>Doodle Free</th><th>Kinpal Free</th></tr>
 </thead>
 <tbody>
 <tr><td>Enquetes de grupo</td><td>1</td><td>Ilimitadas, com até 3 abertas ao mesmo tempo</td></tr>
@@ -116,15 +116,15 @@ Essa é uma escolha empresarial legítima e, se sua empresa agenda reuniões com
 </table>
 </div>
 
-No Rallly, os participantes votam usando apenas o link e nunca precisam de uma conta. Todos veem as opções no próprio fuso horário, e finalizar a data e avisar a todos é gratuito.
+No Kinpal, os participantes votam usando apenas o link e nunca precisam de uma conta. Todos veem as opções no próprio fuso horário, e finalizar a data e avisar a todos é gratuito.
 
-Para sermos igualmente transparentes sobre nossos limites: no plano gratuito do Rallly, você pode criar quantas enquetes quiser, mas até 3 podem estar abertas e recebendo votos ao mesmo tempo. Finalize ou feche uma delas e você poderá abrir outra. Sem criar uma conta, você pode ter 1 enquete aberta por vez, e a mesma regra se aplica: finalize ou feche-a para abrir outra. As enquetes gratuitas são excluídas quando todas as suas datas estão há pelo menos 30 dias no passado e ninguém as editou, votou ou comentou nos últimos 30 dias.
+Para sermos igualmente transparentes sobre nossos limites: no plano gratuito do Kinpal, você pode criar quantas enquetes quiser, mas até 3 podem estar abertas e recebendo votos ao mesmo tempo. Finalize ou feche uma delas e você poderá abrir outra. Sem criar uma conta, você pode ter 1 enquete aberta por vez, e a mesma regra se aplica: finalize ou feche-a para abrir outra. As enquetes gratuitas são excluídas quando todas as suas datas estão há pelo menos 30 dias no passado e ninguém as editou, votou ou comentou nos últimos 30 dias.
 
-O Rallly também é de [código aberto](https://github.com/lukevella/rallly), então você pode verificar exatamente como ele funciona e até hospedá-lo no seu próprio servidor.
+O Kinpal também é de [código aberto](https://github.com/lukevella/rallly), então você pode verificar exatamente como ele funciona e até hospedá-lo no seu próprio servidor.
 
-O Rallly ganha dinheiro com o [Rallly Pro](https://rallly.co/pricing), que adiciona recursos que você gostaria de ter se usasse o produto profissionalmente, como enquetes abertas ilimitadas, personalização da marca e enquetes que permanecem disponíveis indefinidamente. É isso que mantém o plano gratuito gratuito e sem anúncios para todo mundo.
+O Kinpal ganha dinheiro com o [Kinpal Pro](https://kinpal.com/pricing), que adiciona recursos que você gostaria de ter se usasse o produto profissionalmente, como enquetes abertas ilimitadas, personalização da marca e enquetes que permanecem disponíveis indefinidamente. É isso que mantém o plano gratuito gratuito e sem anúncios para todo mundo.
 
-Se quiser uma comparação recurso por recurso, veja [como o Rallly se compara ao Doodle](https://rallly.co/best-doodle-alternative).
+Se quiser uma comparação recurso por recurso, veja [como o Kinpal se compara ao Doodle](https://kinpal.com/best-doodle-alternative).
 
 ## Perguntas frequentes
 
@@ -154,10 +154,10 @@ No momento, não. O Doodle pausou seus aplicativos para iOS e Android em junho d
 
 ### Existe uma alternativa gratuita ao Doodle?
 
-Sim. O [Rallly](https://rallly.co) é uma enquete de agendamento gratuita, de código aberto e sem anúncios. Você pode criar quantas enquetes quiser, com até 3 abertas ao mesmo tempo, e os participantes votam sem precisar de uma conta.
+Sim. O [Kinpal](https://kinpal.com) é uma enquete de agendamento gratuita, de código aberto e sem anúncios. Você pode criar quantas enquetes quiser, com até 3 abertas ao mesmo tempo, e os participantes votam sem precisar de uma conta.
 
 ## Em resumo
 
 O Doodle ainda é gratuito, mas apenas para uma enquete com 10 opções e com anúncios. Se isso atende às suas necessidades, é uma boa opção. Se não atende, você não precisa pagar apenas para encontrar um horário que funcione.
 
-[Crie uma enquete](https://app.rallly.co/new) agora mesmo. Leva cerca de um minuto, e ninguém precisa criar uma conta.
+[Crie uma enquete](https://app.kinpal.com/new) agora mesmo. Leva cerca de um minuto, e ninguém precisa criar uma conta.

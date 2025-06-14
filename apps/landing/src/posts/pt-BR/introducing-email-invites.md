@@ -15,8 +15,8 @@ Agora você pode convidar pessoas por e-mail diretamente pela página da enquete
 
 Todas as pessoas que você convidar aparecerão no diálogo com o status atual. Enviado significa que o e-mail foi enviado. Aberto significa que a pessoa clicou no link. Respondido significa que ela enviou sua disponibilidade. Assim, você vê rapidamente quem ainda precisa de um lembrete.
 
-O link de convite continua disponível e gratuito. Os convites por e-mail fazem parte do Rallly Pro. Portanto, se você já tem uma assinatura Pro ou faz parte de um Espaço Pro, esse recurso já está disponível nas suas enquetes. Você precisa estar conectado à sua conta para enviar convites, pois eles e as respostas recebidas ficam vinculados à sua conta, e não ao navegador que você estiver usando.
+O link de convite continua disponível e gratuito. Os convites por e-mail fazem parte do Kinpal Pro. Portanto, se você já tem uma assinatura Pro ou faz parte de um Espaço Pro, esse recurso já está disponível nas suas enquetes. Você precisa estar conectado à sua conta para enviar convites, pois eles e as respostas recebidas ficam vinculados à sua conta, e não ao navegador que você estiver usando.
 
-Este é o primeiro passo para tornar o Rallly melhor na parte do agendamento que acontece depois que você cria a enquete. Os lembretes para quem ainda não respondeu são o próximo passo.
+Este é o primeiro passo para tornar o Kinpal melhor na parte do agendamento que acontece depois que você cria a enquete. Os lembretes para quem ainda não respondeu são o próximo passo.
 
-Como sempre, se você tiver algum comentário ou encontrar qualquer problema, vou adorar ouvir você pelo e-mail [feedback@rallly.co](mailto:feedback@rallly.co).
+Como sempre, se você tiver algum comentário ou encontrar qualquer problema, vou adorar ouvir você pelo e-mail [feedback@kinpal.com](mailto:feedback@kinpal.com).

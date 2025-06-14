@@ -7,7 +7,7 @@ excerpt: >-
   arbeta tillsammans eller var för sig.
 ---
 
-Med områden kan ett team dela på en och samma Rallly-prenumeration. Hittills har de fungerat på ett sätt: alla medlemmar kunde se och hantera alla andras förfrågningar och evenemang. Det fungerar bra för ett litet team som planerar tillsammans, men jag fick allt oftare höra från större team att det blev ett hinder. De vill ge alla tillgång utan att teammedlemmarna trampar varandra på tårna.
+Med områden kan ett team dela på en och samma Kinpal-prenumeration. Hittills har de fungerat på ett sätt: alla medlemmar kunde se och hantera alla andras förfrågningar och evenemang. Det fungerar bra för ett litet team som planerar tillsammans, men jag fick allt oftare höra från större team att det blev ett hinder. De vill ge alla tillgång utan att teammedlemmarna trampar varandra på tårna.
 
 Därför har områden nu en inställning för teamsamarbete.
 
@@ -25,12 +25,12 @@ Inställningen delar upp områden i två varianter:
 
 Ett litet team som planerar tillsammans låter samarbetet vara aktiverat. En assistent kan hantera en förfrågan som en kollega har skapat, och ingen behöver skicka länkar fram och tillbaka.
 
-En organisation som vill införa Rallly för en större grupp inaktiverar samarbetet. Alla får Pro-funktioner under en och samma prenumeration, varje persons planering förblir privat och när en ny medlem läggs till blir ingen av deras befintliga förfrågningar synliga för andra.
+En organisation som vill införa Kinpal för en större grupp inaktiverar samarbetet. Alla får Pro-funktioner under en och samma prenumeration, varje persons planering förblir privat och när en ny medlem läggs till blir ingen av deras befintliga förfrågningar synliga för andra.
 
 Oavsett vilket påverkar detta bara vad medlemmarna i ditt område kan se. Inbjudningslänkar och deltagarsidor fungerar exakt likadant i båda lägena, så personerna du planerar med märker ingen skillnad.
 
-Du kan läsa mer om hur det fungerar i [dokumentationen om samarbete](https://support.rallly.co/spaces/collaboration).
+Du kan läsa mer om hur det fungerar i [dokumentationen om samarbete](https://support.kinpal.com/spaces/collaboration).
 
 ## Vad händer härnäst?
 
-Det här är ett första steg mot att få Rallly att fungera bättre för större organisationer. Om du funderar på att införa Rallly i ditt team och saknar något, vill jag gärna höra från dig. Mejla mig på [support@rallly.co](mailto:support@rallly.co).
+Det här är ett första steg mot att få Kinpal att fungera bättre för större organisationer. Om du funderar på att införa Kinpal i ditt team och saknar något, vill jag gärna höra från dig. Mejla mig på [support@kinpal.com](mailto:support@kinpal.com).

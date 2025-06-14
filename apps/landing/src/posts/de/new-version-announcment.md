@@ -1,14 +1,14 @@
 ---
-title: Rallly 2.0 ist da
+title: Kinpal 2.0 ist da
 date: '2022-04-08'
 category: Company
 tags:
   - announcement
 draft: false
-excerpt: Ein Blick auf das erste große Update von Rallly.
+excerpt: Ein Blick auf das erste große Update von Kinpal.
 ---
 
-Falls du dich fragst, warum heute alles anders aussieht: Ich habe gerade ein großes Update veröffentlicht. Dieses Update ist schon [seit einiger Zeit](https://twitter.com/imlukevella/status/1288066459248349184) geplant, aber seit Anfang dieses Jahres habe ich beschlossen, mehr Zeit in Rallly zu investieren. Dadurch konnte ich diesen Meilenstein erreichen – und hoffentlich folgen in Zukunft noch viele weitere. Also …
+Falls du dich fragst, warum heute alles anders aussieht: Ich habe gerade ein großes Update veröffentlicht. Dieses Update ist schon [seit einiger Zeit](https://twitter.com/imlukevella/status/1288066459248349184) geplant, aber seit Anfang dieses Jahres habe ich beschlossen, mehr Zeit in Kinpal zu investieren. Dadurch konnte ich diesen Meilenstein erreichen – und hoffentlich folgen in Zukunft noch viele weitere. Also …
 
 ## Was passiert mit Umfragen, die mit der alten Version erstellt wurden?
 
@@ -16,7 +16,7 @@ Umfragen, die mit der alten Version erstellt wurden, können weiterhin über die
 Die Umfrage wird automatisch vom alten Format in das neue Format umgewandelt.
 Ich plane, die alte Datenbank in etwa zwei Monaten zu deaktivieren. Bis dahin sind alle Umfragen, die mit der alten Version erstellt wurden, weiterhin verfügbar. Hoffentlich bleibt damit genug Zeit, um alle aktiven Umfragen zu übertragen.
 
-Falls du Probleme beim Aufrufen deiner Umfrage hast, melde dich bitte über den Chat auf der Website oder sende eine E-Mail an [support@rallly.co](mailto:support@rallly.co).
+Falls du Probleme beim Aufrufen deiner Umfrage hast, melde dich bitte über den Chat auf der Website oder sende eine E-Mail an [support@kinpal.com](mailto:support@kinpal.com).
 
 ## Was ist neu?
 
@@ -37,7 +37,7 @@ Bisher waren Umfragen über einen einzigen Link zugänglich. Jeder, der diesen L
 
 ### Kompakte Ansicht für Mobilgeräte
 
-Rallly war schon immer mobilfreundlich, aber jetzt gibt es eine besser optimierte Ansicht für kleinere Bildschirme.
+Kinpal war schon immer mobilfreundlich, aber jetzt gibt es eine besser optimierte Ansicht für kleinere Bildschirme.
 
 ![Demo für Mobilgeräte](/static/images/mobile-demo.gif)
 
@@ -55,7 +55,7 @@ Es gibt einige Gründe, warum ich mich entschieden habe, diese Funktion wegzulas
 
 1. **Zuverlässigkeit**&mdash;Leider ist die Zustellbarkeit unserer E-Mails in letzter Zeit zurückgegangen, weil bestimmte E-Mail-Anbieter E-Mails unseres Dienstleisters drosseln. Das ist nicht ungewöhnlich, da wir gemeinsam genutzte IP-Adressen verwenden. Ich denke, es ist besser, diese Funktion erst wieder anzubieten, wenn sie zuverlässiger funktioniert. Daher werde ich prüfen, den Anbieter zu wechseln und möglicherweise eine eigene IP-Adresse zu verwenden, um die Zustellbarkeit zu verbessern.
 
-2. **Kosten**&mdash;Der Versand dieser E-Mails ist nicht kostenlos, und die Nutzerbasis von Rallly ist inzwischen so stark gewachsen, dass die Kosten für diese E-Mails einen erheblichen Teil der gesamten Betriebskosten ausmachen. Wenn wir weniger E-Mails versenden, könnten wir diese Kosten besser auf ein nachhaltigeres Niveau senken.
+2. **Kosten**&mdash;Der Versand dieser E-Mails ist nicht kostenlos, und die Nutzerbasis von Kinpal ist inzwischen so stark gewachsen, dass die Kosten für diese E-Mails einen erheblichen Teil der gesamten Betriebskosten ausmachen. Wenn wir weniger E-Mails versenden, könnten wir diese Kosten besser auf ein nachhaltigeres Niveau senken.
 
 Das direkte Teilen von Links mit deinen Teilnehmern hat außerdem einige Vorteile. Du kannst:
 

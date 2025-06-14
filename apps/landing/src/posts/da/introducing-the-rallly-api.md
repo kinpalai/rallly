@@ -1,15 +1,15 @@
 ---
-title: Introduktion til Rallly API'et
+title: Introduktion til Kinpal API'et
 date: '2026-09-15'
 category: Product
 excerpt: >-
   Opret afstemninger, læs resultater, og luk dem fra dine egne værktøjer. API'et
-  er nu tilgængeligt for Pro-rum på Rallly Cloud.
+  er nu tilgængeligt for Pro-rum på Kinpal Cloud.
 ---
 
-Rallly har haft et lille API bag en funktionskontakt i et stykke tid. En håndfuld personer har brugt det til at oprette afstemninger fra deres egne systemer, og deres feedback har været med til at forme det, der lanceres i dag. Det er nu åbent for alle Pro-rum på Rallly Cloud.
+Kinpal har haft et lille API bag en funktionskontakt i et stykke tid. En håndfuld personer har brugt det til at oprette afstemninger fra deres egne systemer, og deres feedback har været med til at forme det, der lanceres i dag. Det er nu åbent for alle Pro-rum på Kinpal Cloud.
 
-![En kodeeditor, der viser en fetch-anmodning, som opretter en datoafstemning med tre muligheder via Rallly API'et](/static/images/rallly-api/create-poll-editor.svg)
+![En kodeeditor, der viser en fetch-anmodning, som opretter en datoafstemning med tre muligheder via Kinpal API'et](/static/images/rallly-api/create-poll-editor.svg)
 
 ## Hvad det kan
 
@@ -28,8 +28,8 @@ Alle anmodninger er knyttet til ét rum. API-nøglen identificerer rummet, så a
 Ejeren af rummet opretter en nøgle under **Indstillinger → API-nøgler**. Anmodninger sender den med som et bearer-token:
 
 ```sh
-curl https://api.rallly.co/v1/polls \
-  -H "Authorization: Bearer $RALLLY_API_KEY" \
+curl https://api.kinpal.com/v1/polls \
+  -H "Authorization: Bearer $KINPAL_API_KEY" \
   -H "Content-Type: application/json" \
   -d '{
     "title": "Team offsite",
@@ -44,8 +44,8 @@ curl https://api.rallly.co/v1/polls \
 
 Svaret indeholder en `inviteUrl`, som du kan dele med deltagerne, og en `adminUrl` til arrangøren. Hvert rum kan foretage 60 anmodninger i minuttet.
 
-[API-referencen](https://support.rallly.co/api-reference/introduction) indeholder alle endpoints med eksempler på anmodninger og svar, og OpenAPI-dokumentet er tilgængeligt, hvis du hellere vil generere en klient.
+[API-referencen](https://support.kinpal.com/api-reference/introduction) indeholder alle endpoints med eksempler på anmodninger og svar, og OpenAPI-dokumentet er tilgængeligt, hvis du hellere vil generere en klient.
 
 ## Hvad kommer der nu
 
-Det fungerer at hente resultater løbende, men det er ikke sådan, de fleste integrationer ønsker at køre. Der er planlagt webhooks for afstemningshændelser, så dit system får besked, når der kommer et nyt svar, eller når en afstemning bliver lukket. Der er endnu ingen dato for det. Hvis du bygger noget med API'et, vil jeg gerne høre, hvad du bygger, og hvad der står i vejen, på [feedback@rallly.co](mailto:feedback@rallly.co).
+Det fungerer at hente resultater løbende, men det er ikke sådan, de fleste integrationer ønsker at køre. Der er planlagt webhooks for afstemningshændelser, så dit system får besked, når der kommer et nyt svar, eller når en afstemning bliver lukket. Der er endnu ingen dato for det. Hvis du bygger noget med API'et, vil jeg gerne høre, hvad du bygger, og hvad der står i vejen, på [feedback@kinpal.com](mailto:feedback@kinpal.com).

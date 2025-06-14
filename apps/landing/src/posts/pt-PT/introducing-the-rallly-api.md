@@ -1,15 +1,15 @@
 ---
-title: Apresentamos a API do Rallly
+title: Apresentamos a API do Kinpal
 date: '2026-09-15'
 category: Product
 excerpt: >-
   Crie sondagens, consulte resultados e feche-as a partir das suas próprias
-  ferramentas. A API está agora disponível para Espaços Pro no Rallly Cloud.
+  ferramentas. A API está agora disponível para Espaços Pro no Kinpal Cloud.
 ---
 
-O Rallly tem uma API pequena por trás de uma funcionalidade experimental há algum tempo. Algumas pessoas têm-na usado para criar sondagens a partir dos seus próprios sistemas, e os comentários dessas pessoas ajudaram a definir o que disponibilizamos hoje. Está agora aberta a todos os Espaços Pro no Rallly Cloud.
+O Kinpal tem uma API pequena por trás de uma funcionalidade experimental há algum tempo. Algumas pessoas têm-na usado para criar sondagens a partir dos seus próprios sistemas, e os comentários dessas pessoas ajudaram a definir o que disponibilizamos hoje. Está agora aberta a todos os Espaços Pro no Kinpal Cloud.
 
-![Um editor de código a mostrar um pedido fetch que cria uma sondagem de datas com três opções através da API do Rallly](/static/images/rallly-api/create-poll-editor.svg)
+![Um editor de código a mostrar um pedido fetch que cria uma sondagem de datas com três opções através da API do Kinpal](/static/images/rallly-api/create-poll-editor.svg)
 
 ## O que faz
 
@@ -28,8 +28,8 @@ Cada pedido está associado a um único Espaço. A chave da API identifica o Esp
 O proprietário do Espaço cria uma chave em **Definições → Chaves da API**. Os pedidos incluem-na como token bearer:
 
 ```sh
-curl https://api.rallly.co/v1/polls \
-  -H "Authorization: Bearer $RALLLY_API_KEY" \
+curl https://api.kinpal.com/v1/polls \
+  -H "Authorization: Bearer $KINPAL_API_KEY" \
   -H "Content-Type: application/json" \
   -d '{
     "title": "Team offsite",
@@ -44,8 +44,8 @@ curl https://api.rallly.co/v1/polls \
 
 A resposta inclui um `inviteUrl` para partilhar com os participantes e um `adminUrl` para o organizador. Cada Espaço pode fazer 60 pedidos por minuto.
 
-A [referência da API](https://support.rallly.co/api-reference/introduction) inclui todos os endpoints, com exemplos de pedidos e respostas, e o documento OpenAPI está disponível caso prefira gerar um cliente.
+A [referência da API](https://support.kinpal.com/api-reference/introduction) inclui todos os endpoints, com exemplos de pedidos e respostas, e o documento OpenAPI está disponível caso prefira gerar um cliente.
 
 ## O que se segue
 
-Consultar os resultados periodicamente funciona, mas não é assim que a maioria das integrações quer funcionar. Está prevista a utilização de webhooks para eventos de sondagens, para que o seu sistema seja informado quando surgir uma nova resposta ou quando uma sondagem for fechada. Ainda não há uma data definida para isso. Se criar algo com a API, gostava de saber o que está a criar e o que lhe está a dificultar o trabalho, através de [feedback@rallly.co](mailto:feedback@rallly.co).
+Consultar os resultados periodicamente funciona, mas não é assim que a maioria das integrações quer funcionar. Está prevista a utilização de webhooks para eventos de sondagens, para que o seu sistema seja informado quando surgir uma nova resposta ou quando uma sondagem for fechada. Ainda não há uma data definida para isso. Se criar algo com a API, gostava de saber o que está a criar e o que lhe está a dificultar o trabalho, através de [feedback@kinpal.com](mailto:feedback@kinpal.com).

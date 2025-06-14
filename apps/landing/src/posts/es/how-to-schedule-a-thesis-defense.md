@@ -39,23 +39,23 @@ Reparte las opciones entre distintos días en lugar de enumerar todas las horas 
 
 ## Cómo configurar la encuesta
 
-Te sirve cualquier encuesta de planificación. Estos pasos utilizan [Rallly](/scheduling-for/thesis-defense), que es gratis y no pide a los miembros del tribunal que creen una cuenta.
+Te sirve cualquier encuesta de planificación. Estos pasos utilizan [Kinpal](/scheduling-for/thesis-defense), que es gratis y no pide a los miembros del tribunal que creen una cuenta.
 
-1. Inicia sesión en Rallly y ve a [Crear una encuesta](https://app.rallly.co/new). Con una cuenta gratuita es suficiente, aunque necesitarás una para finalizar la fecha.
+1. Inicia sesión en Kinpal y ve a [Crear una encuesta](https://app.kinpal.com/new). Con una cuenta gratuita es suficiente, aunque necesitarás una para finalizar la fecha.
 2. Añade un título como «Defensa del doctorado, Biología, abril». Cualquiera que tenga el enlace puede ver el título y la descripción, así que no incluyas títulos de tesis sujetos a embargo.
-3. Haz clic en **Añadir ubicación** o en **Añadir videollamada** para que Rallly cree un enlace de Google Meet, Zoom, Microsoft Teams o Webex cuando finalices la encuesta. Primero tendrás que conectar ese servicio en **Configuración**.
-4. Haz clic en **Añadir descripción** e indica cuánto dura el evento y la fecha límite para responder. Rallly no aplica esta fecha, así que tendrás que encargarte de hacer el seguimiento.
+3. Haz clic en **Añadir ubicación** o en **Añadir videollamada** para que Kinpal cree un enlace de Google Meet, Zoom, Microsoft Teams o Webex cuando finalices la encuesta. Primero tendrás que conectar ese servicio en **Configuración**.
+4. Haz clic en **Añadir descripción** e indica cuánto dura el evento y la fecha límite para responder. Kinpal no aplica esta fecha, así que tendrás que encargarte de hacer el seguimiento.
 5. Define la **Duración** y selecciona las opciones en el calendario.
 6. Deja activada la opción **Solicitar correo electrónico**, para que todo el mundo pueda recibir la invitación de calendario, y mantén activadas las opciones de **Votación**: sí, si es necesario y no.
 7. Haz clic en **Crear encuesta**.
 
-![El formulario de una nueva encuesta en Rallly, con un título, una duración de dos horas y tres fechas seleccionadas](/static/images/thesis-defense/create-poll.png)
+![El formulario de una nueva encuesta en Kinpal, con un título, una duración de dos horas y tres fechas seleccionadas](/static/images/thesis-defense/create-poll.png)
 
 ### Si tienes un examinador externo
 
 Un examinador externo suele ser la persona más difícil de coordinar. No aparece en el calendario de tu universidad y puede encontrarse en una zona horaria distinta.
 
-Rallly muestra a cada persona las opciones en su propia zona horaria, así que nadie tiene que hacer conversiones. Incluye algunas opciones que queden dentro del horario laboral del examinador externo y presta atención a las semanas en las que cambia la hora, ya que los países cambian de fecha. El examinador puede responder desde el enlace sin tener una cuenta.
+Kinpal muestra a cada persona las opciones en su propia zona horaria, así que nadie tiene que hacer conversiones. Incluye algunas opciones que queden dentro del horario laboral del examinador externo y presta atención a las semanas en las que cambia la hora, ya que los países cambian de fecha. El examinador puede responder desde el enlace sin tener una cuenta.
 
 ## Comparte la encuesta y haz seguimiento
 
@@ -69,7 +69,7 @@ Dales una semana para responder y contacta con quienes no hayan contestado despu
 
 ## Finaliza la fecha
 
-Haz clic en **Finalizar** y Rallly mostrará primero las opciones con más apoyos. Elige la fecha y selecciona a quién quieres avisar. Todas las personas que selecciones recibirán un correo electrónico con una invitación de calendario, incluido el enlace de la videollamada si has añadido uno. Reserva la sala ese mismo día.
+Haz clic en **Finalizar** y Kinpal mostrará primero las opciones con más apoyos. Elige la fecha y selecciona a quién quieres avisar. Todas las personas que selecciones recibirán un correo electrónico con una invitación de calendario, incluido el enlace de la videollamada si has añadido uno. Reserva la sala ese mismo día.
 
 ![El cuadro de diálogo Finalizar, que muestra cada opción según el número de personas que pueden asistir](/static/images/thesis-defense/finalize.png)
 
@@ -92,8 +92,8 @@ Cuatro personas responden en tres días y ella escribe por correo electrónico a
 <PostFaq>
   <FaqItem question="¿Con cuánta antelación hay que programar la defensa de una tesis?">Envía la encuesta al menos cuatro semanas antes de la primera fecha posible y con más antelación si el tribunal es grande. Los plazos de aviso de tu programa pueden exigir aún más tiempo.</FaqItem>
   <FaqItem question="¿Cuántas fechas hay que ofrecer?">Entre 5 y 10, repartidas entre distintos días. Puedes añadir más después si ninguna funciona.</FaqItem>
-  <FaqItem question="¿Qué pasa si un miembro del tribunal no responde?">Contacta con esa persona directamente después de tres días. Si utilizas invitaciones por correo electrónico, incluidas en Rallly Pro, puedes ver quién ha abierto la encuesta y quién ha respondido.</FaqItem>
-  <FaqItem question="¿Necesitan los miembros del tribunal una cuenta de Rallly?">No. Abren el enlace, introducen su nombre y correo electrónico y eligen los horarios que les vienen bien.</FaqItem>
+  <FaqItem question="¿Qué pasa si un miembro del tribunal no responde?">Contacta con esa persona directamente después de tres días. Si utilizas invitaciones por correo electrónico, incluidas en Kinpal Pro, puedes ver quién ha abierto la encuesta y quién ha respondido.</FaqItem>
+  <FaqItem question="¿Necesitan los miembros del tribunal una cuenta de Kinpal?">No. Abren el enlace, introducen su nombre y correo electrónico y eligen los horarios que les vienen bien.</FaqItem>
   <FaqItem question="¿Puede un coordinador programar la defensa de un estudiante?">Sí. Crea la encuesta tú mismo e incluye al candidato entre las personas que deben responder. Las respuestas te llegarán a ti y tú fijarás la fecha definitiva.</FaqItem>
-  <FaqItem question="¿Es gratis Rallly para esto?">Sí. Crear encuestas, recopilar respuestas y finalizar son acciones gratuitas. Una cuenta gratuita puede tener tres encuestas abiertas a la vez, y Rallly Pro elimina ese límite.</FaqItem>
+  <FaqItem question="¿Es gratis Kinpal para esto?">Sí. Crear encuestas, recopilar respuestas y finalizar son acciones gratuitas. Una cuenta gratuita puede tener tres encuestas abiertas a la vez, y Kinpal Pro elimina ese límite.</FaqItem>
 </PostFaq>

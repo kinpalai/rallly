@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 96 96">
+<style type="text/css">
+  .st0{fill:#4F46E5;}
+  .st0:hover{filter:brightness(1.2);}
+</style>
+<g>
+  <path class="st0" d="M48,48l48,-48l0,96l-48,-48Z"/>
+  <path class="st0" d="M72,-12l-48,48l0,-96l48,48Z"/>
+  <path class="st0" d="M72,108l-48,48l0,-96l48,48Z"/>
+</g>
+</svg>

@@ -1,14 +1,14 @@
 ---
-title: O futuro do Rallly
+title: O futuro do Kinpal
 date: '2023-06-18'
 category: Company
 excerpt: >-
-  O Rallly sempre teve como objetivo simplificar a marcação de reuniões em
+  O Kinpal sempre teve como objetivo simplificar a marcação de reuniões em
   grupo, mas quero fazê-lo evoluir para algo mais do que uma simples plataforma
   de sondagens.
 ---
 
-O Rallly sempre teve como objetivo simplificar a marcação de reuniões em grupo, mas quero fazê-lo evoluir para algo mais do que uma simples plataforma de sondagens. Quero criar um fluxo de trabalho único, flexível e familiar que ajude os utilizadores a encontrar a data perfeita para o seu evento.
+O Kinpal sempre teve como objetivo simplificar a marcação de reuniões em grupo, mas quero fazê-lo evoluir para algo mais do que uma simples plataforma de sondagens. Quero criar um fluxo de trabalho único, flexível e familiar que ajude os utilizadores a encontrar a data perfeita para o seu evento.
 
 ## O fluxo de trabalho
 
@@ -28,7 +28,7 @@ Ao marcar um evento, pode ser extremamente útil ter uma ideia geral da disponib
 
 ### Sondagens
 
-As sondagens estão no centro daquilo que o Rallly faz e integram-se perfeitamente neste novo fluxo de trabalho. Depois de recolherem a disponibilidade geral, os organizadores poderão reduzir as opções a algumas datas e permitir que os participantes votem nas suas preferidas.
+As sondagens estão no centro daquilo que o Kinpal faz e integram-se perfeitamente neste novo fluxo de trabalho. Depois de recolherem a disponibilidade geral, os organizadores poderão reduzir as opções a algumas datas e permitir que os participantes votem nas suas preferidas.
 
 ![Polls](/static/images/the-future-of-rallly/poll.svg)
 
@@ -44,4 +44,4 @@ Os componentes acima seguirão esta ordem: Grelha de disponibilidade -> Sondagem
 
 ## Conclusão
 
-Estou muito entusiasmado por começar a trabalhar neste fluxo de trabalho melhorado para o Rallly. Como sempre, o seu feedback é muito importante para mim. Diga-me se acha que este fluxo de trabalho pode ser útil ou se tem sugestões para o melhorar. Estou ansioso por continuar a transformar o Rallly numa ferramenta que torna a marcação de reuniões fácil e eficiente para todos.
+Estou muito entusiasmado por começar a trabalhar neste fluxo de trabalho melhorado para o Kinpal. Como sempre, o seu feedback é muito importante para mim. Diga-me se acha que este fluxo de trabalho pode ser útil ou se tem sugestões para o melhorar. Estou ansioso por continuar a transformar o Kinpal numa ferramenta que torna a marcação de reuniões fácil e eficiente para todos.

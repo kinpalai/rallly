@@ -3,15 +3,15 @@ title: Videomöteslänkar som skapas när du slutför
 date: '2026-10-14'
 category: Product
 excerpt: >-
-  Anslut Google Meet, Zoom, Microsoft Teams eller Webex så lägger Rallly till
+  Anslut Google Meet, Zoom, Microsoft Teams eller Webex så lägger Kinpal till
   möteslänken i inbjudan när du väljer en tid.
 ---
 
-Rallly kan nu skapa möteslänken åt dig. Anslut Google Meet, Zoom, Microsoft Teams eller Webex, lägg till ett videomöte i din förfrågan och när du slutför skapar Rallly mötet för den valda tiden och lägger in anslutningslänken i evenemanget, kalenderinbjudan och bekräftelsemeddelandena.
+Kinpal kan nu skapa möteslänken åt dig. Anslut Google Meet, Zoom, Microsoft Teams eller Webex, lägg till ett videomöte i din förfrågan och när du slutför skapar Kinpal mötet för den valda tiden och lägger in anslutningslänken i evenemanget, kalenderinbjudan och bekräftelsemeddelandena.
 
 Du behöver inte längre skapa ett möte manuellt när omröstningen är klar och klistra in länken i ett uppföljningsmeddelande.
 
-![Menyn Lägg till videomöte i förfrågeformuläret, med anslutna och tillgängliga leverantörer](https://support.rallly.co/images/integrations/zoom/video-call-menu.png)
+![Menyn Lägg till videomöte i förfrågeformuläret, med anslutna och tillgängliga leverantörer](https://support.kinpal.com/images/integrations/zoom/video-call-menu.png)
 
 ## Så fungerar det
 
@@ -34,11 +34,11 @@ Om du hellre vill använda något annat kan du fortfarande lägga till valfritt 
 
 Varje integration har en guide som beskriver krav, behörigheter och hur du kopplar från:
 
-- [Google Meet](https://support.rallly.co/integrations/google-meet)
-- [Zoom](https://support.rallly.co/integrations/zoom)
-- [Microsoft Teams](https://support.rallly.co/integrations/microsoft-teams)
-- [Webex](https://support.rallly.co/integrations/webex)
+- [Google Meet](https://support.kinpal.com/integrations/google-meet)
+- [Zoom](https://support.kinpal.com/integrations/zoom)
+- [Microsoft Teams](https://support.kinpal.com/integrations/microsoft-teams)
+- [Webex](https://support.kinpal.com/integrations/webex)
 
-Om du stöter på problem eller det finns en leverantör som du gärna vill se härnäst kan du höra av dig till [feedback@rallly.co](mailto:feedback@rallly.co).
+Om du stöter på problem eller det finns en leverantör som du gärna vill se härnäst kan du höra av dig till [feedback@kinpal.com](mailto:feedback@kinpal.com).
 
 Lycka till med schemaläggningen :) 

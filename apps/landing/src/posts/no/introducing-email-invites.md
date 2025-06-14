@@ -15,8 +15,8 @@ Nå kan du invitere personer på e-post fra avstemningssiden. Åpne Del-dialogen
 
 Alle du inviterer, vises i dialogen med gjeldende status. Sendt betyr at e-posten er sendt. Åpnet betyr at personen har klikket på lenken. Svart betyr at personen har sendt inn tilgjengeligheten sin. Du kan raskt se hvem som fortsatt trenger en påminnelse.
 
-Invitasjonslenken er fortsatt tilgjengelig og fortsatt gratis. E-postinvitasjoner er en del av Rallly Pro, så hvis du allerede har et Pro-abonnement eller tilhører et Pro-område, er funksjonen tilgjengelig i avstemningene dine nå. Du må være logget inn for å sende invitasjoner, siden både invitasjonene og svarene de fører til, er knyttet til kontoen din og ikke til nettleseren du tilfeldigvis bruker.
+Invitasjonslenken er fortsatt tilgjengelig og fortsatt gratis. E-postinvitasjoner er en del av Kinpal Pro, så hvis du allerede har et Pro-abonnement eller tilhører et Pro-område, er funksjonen tilgjengelig i avstemningene dine nå. Du må være logget inn for å sende invitasjoner, siden både invitasjonene og svarene de fører til, er knyttet til kontoen din og ikke til nettleseren du tilfeldigvis bruker.
 
-Dette er første steg mot å gjøre Rallly bedre på den delen av planleggingen som skjer etter at du har opprettet avstemningen. Påminnelser til personer som ikke har svart, er neste steg.
+Dette er første steg mot å gjøre Kinpal bedre på den delen av planleggingen som skjer etter at du har opprettet avstemningen. Påminnelser til personer som ikke har svart, er neste steg.
 
-Som alltid vil jeg gjerne høre fra deg på [feedback@rallly.co](mailto:feedback@rallly.co) hvis du har tilbakemeldinger eller støter på noe.
+Som alltid vil jeg gjerne høre fra deg på [feedback@kinpal.com](mailto:feedback@kinpal.com) hvis du har tilbakemeldinger eller støter på noe.

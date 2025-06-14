@@ -8,7 +8,7 @@ const g = globalThis as Record<string, unknown>;
 
 const script = (src: string) => ({ getAttribute: () => src });
 const chunk = (src: string, ...ids: number[]) => [
-  script(`https://static.rallly.co/_next/static/immutable/chunks/${src}`),
+  script(`https://static.kinpal.com/_next/static/immutable/chunks/${src}`),
   ...ids,
   () => {},
 ];

@@ -39,23 +39,23 @@ Sijoita vaihtoehdot eri päiville sen sijaan, että listaisit kaikki tunnit muut
 
 ## Kyselyn luominen
 
-Mikä tahansa ajan sopimiseen tarkoitettu Kysely käy. Näissä ohjeissa käytetään [Ralllya](/scheduling-for/thesis-defense), joka on ilmainen eikä edellytä arviointilautakunnan jäseniä luomaan tilejä.
+Mikä tahansa ajan sopimiseen tarkoitettu Kysely käy. Näissä ohjeissa käytetään [Kinpala](/scheduling-for/thesis-defense), joka on ilmainen eikä edellytä arviointilautakunnan jäseniä luomaan tilejä.
 
-1. Kirjaudu Ralllyyn ja siirry kohtaan [Luo Kysely](https://app.rallly.co/new). Ilmainen tili riittää, ja tarvitset tilin päivämäärän sulkemiseen.
+1. Kirjaudu Kinpalyn ja siirry kohtaan [Luo Kysely](https://app.kinpal.com/new). Ilmainen tili riittää, ja tarvitset tilin päivämäärän sulkemiseen.
 2. Lisää otsikko, kuten "Biologian väitöstilaisuus, huhtikuu". Kaikki linkin saaneet näkevät otsikon ja kuvauksen, joten älä lisää mukaan salassa pidettävän väitöskirjan nimeä.
-3. Napsauta **Lisää sijainti** tai napsauta **Lisää videopuhelu**, jolloin Rallly luo Google Meet-, Zoom-, Microsoft Teams- tai Webex-linkin, kun suljet Kyselyn. Sinun on ensin yhdistettävä kyseinen palvelu kohdassa **Asetukset**.
-4. Napsauta **Lisää kuvaus** ja kerro tapahtuman kesto sekä päivämäärä, johon mennessä vastaukset on annettava. Rallly ei valvo tätä päivämäärää, joten sinun on itse huolehdittava muistuttamisesta.
+3. Napsauta **Lisää sijainti** tai napsauta **Lisää videopuhelu**, jolloin Kinpal luo Google Meet-, Zoom-, Microsoft Teams- tai Webex-linkin, kun suljet Kyselyn. Sinun on ensin yhdistettävä kyseinen palvelu kohdassa **Asetukset**.
+4. Napsauta **Lisää kuvaus** ja kerro tapahtuman kesto sekä päivämäärä, johon mennessä vastaukset on annettava. Kinpal ei valvo tätä päivämäärää, joten sinun on itse huolehdittava muistuttamisesta.
 5. Aseta **Kesto** ja valitse vaihtoehdot kalenterista.
 6. Pidä **Edellytä sähköpostia** käytössä, jotta kaikki voivat vastaanottaa kalenterikutsun, ja pidä myös äänestysvaihtoehdot **Kyllä**, **Tarvittaessa** ja **Ei** käytössä.
 7. Napsauta **Luo Kysely**.
 
-![Ralllyn uusi Kysely-lomake, jossa on otsikko, kahden tunnin kesto ja kolme valittua päivämäärää](/static/images/thesis-defense/create-poll.png)
+![Kinpaln uusi Kysely-lomake, jossa on otsikko, kahden tunnin kesto ja kolme valittua päivämäärää](/static/images/thesis-defense/create-poll.png)
 
 ### Jos sinulla on ulkopuolinen vastaväittäjä
 
 Ulkopuolinen vastaväittäjä on usein vaikein henkilö sovittaa aikatauluun. Hän ei näy yliopistosi kalenterissa ja saattaa olla usean aikavyöhykkeen päässä.
 
-Rallly näyttää jokaiselle vaihtoehdot hänen omalla aikavyöhykkeellään, joten kenenkään ei tarvitse muuntaa aikoja. Sisällytä muutama vaihtoehto, jotka osuvat ulkopuolisen vastaväittäjän työpäivään, ja ole tarkkana viikkoina, jolloin kellot siirtyvät, sillä eri maissa siirrytään kesä- ja talviaikaan eri päivinä. Hän voi vastata linkin kautta ilman tiliä.
+Kinpal näyttää jokaiselle vaihtoehdot hänen omalla aikavyöhykkeellään, joten kenenkään ei tarvitse muuntaa aikoja. Sisällytä muutama vaihtoehto, jotka osuvat ulkopuolisen vastaväittäjän työpäivään, ja ole tarkkana viikkoina, jolloin kellot siirtyvät, sillä eri maissa siirrytään kesä- ja talviaikaan eri päivinä. Hän voi vastata linkin kautta ilman tiliä.
 
 ## Jaa Kysely ja seuraa vastauksia
 
@@ -69,7 +69,7 @@ Anna ihmisille viikko aikaa vastata ja ota yhteyttä jokaiseen, joka ei ole vast
 
 ## Päivämäärän sulkeminen
 
-Napsauta **Sulje**, jolloin Rallly näyttää vaihtoehdot parhaassa järjestyksessä eniten kannatusta saaneesta alkaen. Valitse päivämäärä ja ne henkilöt, joille haluat ilmoittaa. Jokainen valitsemasi henkilö saa sähköpostitse kalenterikutsun, joka sisältää myös videopuhelulinkin, jos lisäsit sellaisen. Varaa tila samana päivänä.
+Napsauta **Sulje**, jolloin Kinpal näyttää vaihtoehdot parhaassa järjestyksessä eniten kannatusta saaneesta alkaen. Valitse päivämäärä ja ne henkilöt, joille haluat ilmoittaa. Jokainen valitsemasi henkilö saa sähköpostitse kalenterikutsun, joka sisältää myös videopuhelulinkin, jos lisäsit sellaisen. Varaa tila samana päivänä.
 
 ![Sulje-valintaikkuna, jossa jokainen vaihtoehto on listattu osallistujien lukumäärän mukaan](/static/images/thesis-defense/finalize.png)
 
@@ -92,8 +92,8 @@ Neljä henkilöä vastaa kolmen päivän kuluessa, ja hän lähettää sähköpo
 <PostFaq>
   <FaqItem question="Kuinka paljon etukäteen väitöstilaisuus kannattaa järjestää?">Lähetä Kysely vähintään neljä viikkoa ennen aikaisinta mahdollista päivämäärää ja aloita aiemmin, jos arviointilautakunta on suuri. Ohjelmasi ilmoitusajat voivat edellyttää vielä pidempää aikaa.</FaqItem>
   <FaqItem question="Kuinka monta päivämäärää kannattaa tarjota?">Tarjoa 5–10 päivämäärää eri päiville jaettuna. Voit lisätä vaihtoehtoja myöhemmin, jos mikään niistä ei sovi.</FaqItem>
-  <FaqItem question="Mitä jos arviointilautakunnan jäsen ei vastaa?">Ota häneen suoraan yhteyttä kolmen päivän jälkeen. Jos käytät sähköpostikutsuja, jotka kuuluvat Rallly Prohon, näet, kuka on avannut Kyselyn ja kuka on vastannut.</FaqItem>
-  <FaqItem question="Tarvitsevatko arviointilautakunnan jäsenet Rallly-tilin?">Eivät. He avaavat linkin, syöttävät nimensä ja sähköpostiosoitteensa ja valitsevat heille sopivat ajat.</FaqItem>
+  <FaqItem question="Mitä jos arviointilautakunnan jäsen ei vastaa?">Ota häneen suoraan yhteyttä kolmen päivän jälkeen. Jos käytät sähköpostikutsuja, jotka kuuluvat Kinpal Prohon, näet, kuka on avannut Kyselyn ja kuka on vastannut.</FaqItem>
+  <FaqItem question="Tarvitsevatko arviointilautakunnan jäsenet Kinpal-tilin?">Eivät. He avaavat linkin, syöttävät nimensä ja sähköpostiosoitteensa ja valitsevat heille sopivat ajat.</FaqItem>
   <FaqItem question="Voiko koordinaattori järjestää väitöstilaisuuden opiskelijalle?">Kyllä. Luo Kysely itse ja lisää väittelijä yhdeksi vastaajista. Vastaukset tulevat sinulle, ja sinä päätät lopullisen päivämäärän.</FaqItem>
-  <FaqItem question="Onko Rallly tähän tarkoitukseen ilmainen?">Kyllä. Kyselyjen luominen, vastausten kerääminen ja sulkeminen ovat ilmaisia. Ilmaisella tilillä voi olla avoinna kolme Kyselyä kerrallaan, ja Rallly Pro poistaa tämän rajoituksen.</FaqItem>
+  <FaqItem question="Onko Kinpal tähän tarkoitukseen ilmainen?">Kyllä. Kyselyjen luominen, vastausten kerääminen ja sulkeminen ovat ilmaisia. Ilmaisella tilillä voi olla avoinna kolme Kyselyä kerrallaan, ja Kinpal Pro poistaa tämän rajoituksen.</FaqItem>
 </PostFaq>

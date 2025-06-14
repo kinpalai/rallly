@@ -2,18 +2,18 @@
 title: White-labeling voor zelfgehoste installaties
 date: '2026-01-15'
 category: Self-hosting
-excerpt: 'Pas je Rallly-installatie aan met je eigen huisstijl, kleuren en logo''s.'
+excerpt: 'Pas je Kinpal-installatie aan met je eigen huisstijl, kleuren en logo''s.'
 ---
 
-Ik ben blij te kunnen aankondigen dat white-labeling nu beschikbaar is voor zelfgehoste Rallly-installaties.
+Ik ben blij te kunnen aankondigen dat white-labeling nu beschikbaar is voor zelfgehoste Kinpal-installaties.
 
-![Voorbeeld van white-labeling](https://support.rallly.co/images/self-hosting/whitelabel-splash.webp)
+![Voorbeeld van white-labeling](https://support.kinpal.com/images/self-hosting/whitelabel-splash.webp)
 
-Deze functie is ontwikkeld naar aanleiding van een verzoek van een zakelijke klant die zijn Rallly-implementatie naadloos wilde integreren met de bestaande huisstijl. De functie is nu als optionele add-on beschikbaar voor alle houders van een Enterprise-licentie.
+Deze functie is ontwikkeld naar aanleiding van een verzoek van een zakelijke klant die zijn Kinpal-implementatie naadloos wilde integreren met de bestaande huisstijl. De functie is nu als optionele add-on beschikbaar voor alle houders van een Enterprise-licentie.
 
-Als je dit hebt gevolgd, herinner je je misschien dat ik onlangs [ondersteuning voor de donkere modus](/blog/introducing-dark-mode) heb toegevoegd en vermeldde dat er themingmogelijkheden aankwamen. White-labeling is het resultaat van dat werk. Je kunt nu de naam van je installatie, de primaire kleuren (voor zowel de lichte als de donkere modus) en de logo's aanpassen en de vermelding van Rallly volledig verwijderen.
+Als je dit hebt gevolgd, herinner je je misschien dat ik onlangs [ondersteuning voor de donkere modus](/blog/introducing-dark-mode) heb toegevoegd en vermeldde dat er themingmogelijkheden aankwamen. White-labeling is het resultaat van dat werk. Je kunt nu de naam van je installatie, de primaire kleuren (voor zowel de lichte als de donkere modus) en de logo's aanpassen en de vermelding van Kinpal volledig verwijderen.
 
-Bekijk de [documentatie over white-labeling](https://support.rallly.co/self-hosting/white-labeling) voor technische details en configuratieopties.
+Bekijk de [documentatie over white-labeling](https://support.kinpal.com/self-hosting/white-labeling) voor technische details en configuratieopties.
 
 ## Waarom een Enterprise-add-on?
 

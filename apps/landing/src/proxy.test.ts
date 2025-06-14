@@ -4,7 +4,7 @@ import { MARKDOWN_CONTENT_TYPE } from "@/lib/markdown-negotiation";
 import { proxy } from "./proxy";
 
 function request(path: string, accept: string) {
-  return new NextRequest(new URL(path, "https://rallly.co"), {
+  return new NextRequest(new URL(path, "https://kinpal.com"), {
     headers: { accept },
   });
 }
@@ -29,7 +29,7 @@ describe("proxy markdown negotiation", () => {
   ])("rewrites %s to the Markdown homepage", async (path) => {
     const response = await proxy(request(path, "text/markdown"));
     expect(response.headers.get("x-middleware-rewrite")).toBe(
-      "https://rallly.co/index.md",
+      "https://kinpal.com/index.md",
     );
     expect(response.headers.get("vary")).toBe("Accept");
   });
@@ -39,7 +39,7 @@ describe("proxy markdown negotiation", () => {
     const timeout = vi.spyOn(AbortSignal, "timeout");
     const response = await proxy(request("/nope", "text/markdown"));
     const [url, init] = fetch.mock.calls[0] ?? [];
-    expect(String(url)).toBe("https://rallly.co/nope");
+    expect(String(url)).toBe("https://kinpal.com/nope");
     expect(init).toMatchObject({
       method: "HEAD",
       headers: { accept: "text/html" },
@@ -57,7 +57,7 @@ describe("proxy markdown negotiation", () => {
     stubProbe(async () => new Response(null, { status: 200 }));
     const response = await proxy(request("/pricing", "text/markdown"));
     expect(response.headers.get("x-middleware-rewrite")).toBe(
-      "https://rallly.co/en/pricing",
+      "https://kinpal.com/en/pricing",
     );
   });
 
@@ -68,13 +68,13 @@ describe("proxy markdown negotiation", () => {
     const response = await proxy(request("/pricing", "text/markdown"));
     expect(response.status).toBe(200);
     expect(response.headers.get("x-middleware-rewrite")).toBe(
-      "https://rallly.co/en/pricing",
+      "https://kinpal.com/en/pricing",
     );
   });
 
   it("adds Accept to Vary on locale redirects", async () => {
     const response = await proxy(
-      new NextRequest(new URL("/", "https://rallly.co"), {
+      new NextRequest(new URL("/", "https://kinpal.com"), {
         headers: { accept: "text/html", "accept-language": "de" },
       }),
     );
@@ -89,7 +89,7 @@ describe("proxy markdown negotiation", () => {
     );
     expect(fetch).not.toHaveBeenCalled();
     expect(response.headers.get("x-middleware-rewrite")).toBe(
-      "https://rallly.co/en/nope",
+      "https://kinpal.com/en/nope",
     );
   });
 });

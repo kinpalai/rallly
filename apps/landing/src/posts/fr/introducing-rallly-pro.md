@@ -1,5 +1,5 @@
 ---
-title: 'Bientôt disponible : Rallly Pro'
+title: 'Bientôt disponible : Kinpal Pro'
 date: '2023-06-19'
 category: Product
 excerpt: >-
@@ -7,11 +7,11 @@ excerpt: >-
   disponible.
 ---
 
-![Rallly Pro](/static/images/introducing-rallly-pro/pro-splash.svg)
+![Kinpal Pro](/static/images/introducing-rallly-pro/pro-splash.svg)
 
-Je suis ravi d’annoncer une mise à jour importante qui sera bientôt disponible : Rallly Pro. Il s’agit d’une nouvelle formule payante qui débloquera de nouvelles fonctionnalités pour les abonnés et contribuera à financer une nouvelle série de développements que vous allez certainement apprécier.
+Je suis ravi d’annoncer une mise à jour importante qui sera bientôt disponible : Kinpal Pro. Il s’agit d’une nouvelle formule payante qui débloquera de nouvelles fonctionnalités pour les abonnés et contribuera à financer une nouvelle série de développements que vous allez certainement apprécier.
 
-Pour commencer, les utilisateurs de Rallly Pro bénéficieront des avantages suivants :
+Pour commencer, les utilisateurs de Kinpal Pro bénéficieront des avantages suivants :
 
 ## 1. Finaliser les sondages et envoyer des invitations de calendrier
 
@@ -21,15 +21,15 @@ Les utilisateurs Pro pourront sélectionner une date définitive pour le sondage
 
 ## 2. Assistance prioritaire
 
-En tant qu’utilisateur de Rallly Pro, vous bénéficierez d’une assistance prioritaire et d’un accès exclusif à un chat en direct intégré au site.
+En tant qu’utilisateur de Kinpal Pro, vous bénéficierez d’une assistance prioritaire et d’un accès exclusif à un chat en direct intégré au site.
 
 ## 3. Voter pour les prochains développements
 
-Je lancerai des enquêtes auprès des utilisateurs de Rallly Pro pour savoir quelles fonctionnalités vous aimeriez voir apparaître, et vos votes auront un impact direct sur celles qui seront développées en priorité.
+Je lancerai des enquêtes auprès des utilisateurs de Kinpal Pro pour savoir quelles fonctionnalités vous aimeriez voir apparaître, et vos votes auront un impact direct sur celles qui seront développées en priorité.
 
 ## 4. Durée de conservation prolongée des sondages
 
-Les utilisateurs de Rallly Pro pourront conserver leurs sondages indéfiniment et n’auront plus à craindre de perdre leurs données.
+Les utilisateurs de Kinpal Pro pourront conserver leurs sondages indéfiniment et n’auront plus à craindre de perdre leurs données.
 
 ## 5. Fonctionnalités à venir
 
@@ -39,10 +39,10 @@ Vous pouvez vous attendre à voir bientôt apparaître d’autres fonctionnalit�
 - Envoyer des rappels automatiques
 - Masquer les noms des participants
 
-J’ai également publié un article présentant [l’avenir de Rallly](/blog/the-future-of-rallly), qui consiste à ajouter d’autres solutions autour de la fonctionnalité de sondage, très appréciée. Avec votre aide, nous pouvons transformer cette vision en réalité.
+J’ai également publié un article présentant [l’avenir de Kinpal](/blog/the-future-of-rallly), qui consiste à ajouter d’autres solutions autour de la fonctionnalité de sondage, très appréciée. Avec votre aide, nous pouvons transformer cette vision en réalité.
 
 ---
 
-Merci pour votre soutien. Si vous souhaitez être informé de la disponibilité de Rallly Pro, vous pouvez vous inscrire ci-dessous.
+Merci pour votre soutien. Si vous souhaitez être informé de la disponibilité de Kinpal Pro, vous pouvez vous inscrire ci-dessous.
 
 Bon planning :) 

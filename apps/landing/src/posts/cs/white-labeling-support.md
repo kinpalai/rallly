@@ -2,18 +2,18 @@
 title: Přizpůsobení značky pro instance s vlastním hostingem
 date: '2026-01-15'
 category: Self-hosting
-excerpt: 'Přizpůsobte si svou instanci Rallly pomocí vlastního brandingu, barev a log.'
+excerpt: 'Přizpůsobte si svou instanci Kinpal pomocí vlastního brandingu, barev a log.'
 ---
 
-S potěšením oznamuji, že pro instance Rallly s vlastním hostingem je nyní k dispozici přizpůsobení značky.
+S potěšením oznamuji, že pro instance Kinpal s vlastním hostingem je nyní k dispozici přizpůsobení značky.
 
-![Příklad přizpůsobení značky](https://support.rallly.co/images/self-hosting/whitelabel-splash.webp)
+![Příklad přizpůsobení značky](https://support.kinpal.com/images/self-hosting/whitelabel-splash.webp)
 
-Tato funkce vznikla na základě požadavku podnikového klienta, který potřeboval svou instalaci Rallly bez problémů začlenit do své stávající značky. Nyní je k dispozici všem držitelům licencí Enterprise jako volitelný doplněk.
+Tato funkce vznikla na základě požadavku podnikového klienta, který potřeboval svou instalaci Kinpal bez problémů začlenit do své stávající značky. Nyní je k dispozici všem držitelům licencí Enterprise jako volitelný doplněk.
 
-Pokud náš vývoj sledujete, možná si vzpomínáte, že jsem nedávno přidal [podporu tmavého režimu](/blog/introducing-dark-mode) a zmínil, že možnosti motivů jsou na cestě. Přizpůsobení značky je výsledkem této práce. Nyní si můžete přizpůsobit název své instance, primární barvy pro světlý i tmavý režim, loga a také zcela odstranit uvedení Rallly.
+Pokud náš vývoj sledujete, možná si vzpomínáte, že jsem nedávno přidal [podporu tmavého režimu](/blog/introducing-dark-mode) a zmínil, že možnosti motivů jsou na cestě. Přizpůsobení značky je výsledkem této práce. Nyní si můžete přizpůsobit název své instance, primární barvy pro světlý i tmavý režim, loga a také zcela odstranit uvedení Kinpal.
 
-Technické podrobnosti a možnosti konfigurace najdete v [dokumentaci k přizpůsobení značky](https://support.rallly.co/self-hosting/white-labeling).
+Technické podrobnosti a možnosti konfigurace najdete v [dokumentaci k přizpůsobení značky](https://support.kinpal.com/self-hosting/white-labeling).
 
 ## Proč doplněk Enterprise?
 

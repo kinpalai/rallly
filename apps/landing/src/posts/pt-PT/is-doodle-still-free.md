@@ -100,12 +100,12 @@ Deixa de funcionar se precisar de mais do que uma sondagem, como uma reunião de
 
 ## Se só precisa de uma sondagem de horários
 
-É essa a lacuna que o [Rallly](https://rallly.co) preenche. Faz uma coisa: sugere alguns horários, partilha uma ligação e todos votam no que lhes dá jeito. Eis como os planos gratuitos se comparam:
+É essa a lacuna que o [Kinpal](https://kinpal.com) preenche. Faz uma coisa: sugere alguns horários, partilha uma ligação e todos votam no que lhes dá jeito. Eis como os planos gratuitos se comparam:
 
 <div className="overflow-x-auto">
 <table>
 <thead>
-<tr><th></th><th>Doodle Free</th><th>Rallly Free</th></tr>
+<tr><th></th><th>Doodle Free</th><th>Kinpal Free</th></tr>
 </thead>
 <tbody>
 <tr><td>Sondagens de grupo</td><td>1</td><td>Ilimitadas, até 3 abertas em simultâneo</td></tr>
@@ -116,15 +116,15 @@ Deixa de funcionar se precisar de mais do que uma sondagem, como uma reunião de
 </table>
 </div>
 
-No Rallly, os participantes votam apenas com a ligação e nunca precisam de uma conta. Todos veem as opções no seu próprio fuso horário, e finalizar a data e notificar todos é gratuito.
+No Kinpal, os participantes votam apenas com a ligação e nunca precisam de uma conta. Todos veem as opções no seu próprio fuso horário, e finalizar a data e notificar todos é gratuito.
 
-Para sermos igualmente transparentes sobre os nossos limites: no plano gratuito do Rallly, pode criar tantas sondagens quantas quiser, mas até 3 podem estar abertas e a recolher votos em simultâneo. Finalize ou feche uma e poderá abrir outra. Sem criar uma conta, pode ter 1 sondagem aberta de cada vez, e aplica-se o mesmo princípio: finalize-a ou feche-a para abrir outra. As sondagens gratuitas são eliminadas quando todas as suas datas têm pelo menos 30 dias e ninguém as editou, votou ou comentou nos últimos 30 dias.
+Para sermos igualmente transparentes sobre os nossos limites: no plano gratuito do Kinpal, pode criar tantas sondagens quantas quiser, mas até 3 podem estar abertas e a recolher votos em simultâneo. Finalize ou feche uma e poderá abrir outra. Sem criar uma conta, pode ter 1 sondagem aberta de cada vez, e aplica-se o mesmo princípio: finalize-a ou feche-a para abrir outra. As sondagens gratuitas são eliminadas quando todas as suas datas têm pelo menos 30 dias e ninguém as editou, votou ou comentou nos últimos 30 dias.
 
-O Rallly também é [código aberto](https://github.com/lukevella/rallly), por isso pode verificar exatamente como funciona e até alojá-lo no seu próprio servidor.
+O Kinpal também é [código aberto](https://github.com/lukevella/rallly), por isso pode verificar exatamente como funciona e até alojá-lo no seu próprio servidor.
 
-O Rallly ganha dinheiro com o [Rallly Pro](https://rallly.co/pricing), que adiciona funcionalidades úteis para quem o utiliza profissionalmente, como sondagens abertas ilimitadas, personalização da marca e sondagens que permanecem disponíveis indefinidamente. É isso que mantém o plano gratuito gratuito e sem anúncios para todas as outras pessoas.
+O Kinpal ganha dinheiro com o [Kinpal Pro](https://kinpal.com/pricing), que adiciona funcionalidades úteis para quem o utiliza profissionalmente, como sondagens abertas ilimitadas, personalização da marca e sondagens que permanecem disponíveis indefinidamente. É isso que mantém o plano gratuito gratuito e sem anúncios para todas as outras pessoas.
 
-Se quiser uma comparação funcionalidade a funcionalidade, consulte [como o Rallly se compara ao Doodle](https://rallly.co/best-doodle-alternative).
+Se quiser uma comparação funcionalidade a funcionalidade, consulte [como o Kinpal se compara ao Doodle](https://kinpal.com/best-doodle-alternative).
 
 ## Perguntas frequentes
 
@@ -154,10 +154,10 @@ Neste momento, não. O Doodle suspendeu as suas aplicações para iOS e Android 
 
 ### Existe uma alternativa gratuita ao Doodle?
 
-Sim. O [Rallly](https://rallly.co) é uma sondagem de horários gratuita, de código aberto e sem anúncios. Pode criar tantas sondagens quantas quiser, com até 3 abertas em simultâneo, e os participantes votam sem uma conta.
+Sim. O [Kinpal](https://kinpal.com) é uma sondagem de horários gratuita, de código aberto e sem anúncios. Pode criar tantas sondagens quantas quiser, com até 3 abertas em simultâneo, e os participantes votam sem uma conta.
 
 ## Em resumo
 
 O Doodle continua a ser gratuito, mas apenas para uma sondagem com 10 opções e com anúncios. Se isso for suficiente para o que precisa, é uma boa opção. Se não for, não precisa de pagar apenas para encontrar um horário que funcione.
 
-[Crie uma sondagem](https://app.rallly.co/new) agora. Demora cerca de um minuto e ninguém precisa de criar uma conta.
+[Crie uma sondagem](https://app.kinpal.com/new) agora. Demora cerca de um minuto e ninguém precisa de criar uma conta.

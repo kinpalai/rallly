@@ -39,23 +39,23 @@ Fordel alternativene på ulike dager i stedet for å liste opp hver time på noe
 
 ## Slik setter du opp avstemningen
 
-Alle avstemninger for å finne et tidspunkt fungerer. Disse trinnene bruker [Rallly](/scheduling-for/thesis-defense), som er gratis og ikke ber komiteen om å opprette kontoer.
+Alle avstemninger for å finne et tidspunkt fungerer. Disse trinnene bruker [Kinpal](/scheduling-for/thesis-defense), som er gratis og ikke ber komiteen om å opprette kontoer.
 
-1. Logg inn på Rallly og gå til [Create a poll](https://app.rallly.co/new). En gratiskonto er nok, og du trenger en konto for å fullføre avstemningen og fastsette datoen.
+1. Logg inn på Kinpal og gå til [Create a poll](https://app.kinpal.com/new). En gratiskonto er nok, og du trenger en konto for å fullføre avstemningen og fastsette datoen.
 2. Legg til en tittel, for eksempel «Disputas i biologi, april». Alle som har lenken, kan se tittelen og beskrivelsen, så ikke ta med avhandlingstitler som er underlagt en sperrefrist.
-3. Klikk på **Add location**, eller klikk på **Add video call** for å la Rallly opprette en Google Meet-, Zoom-, Microsoft Teams- eller Webex-lenke når du fullfører avstemningen. Du må først koble til tjenesten under **Settings**.
-4. Klikk på **Add description**, og skriv hvor lenge arrangementet varer og hvilken dato folk må svare innen. Rallly håndhever ikke denne datoen, så du må selv følge opp.
+3. Klikk på **Add location**, eller klikk på **Add video call** for å la Kinpal opprette en Google Meet-, Zoom-, Microsoft Teams- eller Webex-lenke når du fullfører avstemningen. Du må først koble til tjenesten under **Settings**.
+4. Klikk på **Add description**, og skriv hvor lenge arrangementet varer og hvilken dato folk må svare innen. Kinpal håndhever ikke denne datoen, så du må selv følge opp.
 5. Angi **Duration**, og velg alternativene dine i kalenderen.
 6. La **Require email** være aktivert, slik at alle kan motta kalenderinvitasjonen, og behold **Vote options** med svarene yes, if need be og no.
 7. Klikk på **Create poll**.
 
-![Det nye skjemaet for en avstemning i Rallly, med en tittel, en varighet på to timer og tre valgte datoer](/static/images/thesis-defense/create-poll.png)
+![Det nye skjemaet for en avstemning i Kinpal, med en tittel, en varighet på to timer og tre valgte datoer](/static/images/thesis-defense/create-poll.png)
 
 ### Hvis du har en ekstern opponent
 
 En ekstern opponent er ofte den vanskeligste personen å finne et tidspunkt for. Personen vises ikke i universitetets kalender, og kan være i en tidssone flere timer unna.
 
-Rallly viser hvert alternativ i den enkeltes egen tidssone, så ingen trenger å regne om tidspunktene. Ta med noen alternativer som faller innenfor den eksterne opponentens arbeidstid, og vær forsiktig rundt ukene når klokkene stilles, siden land endrer til sommertid og vintertid på ulike datoer. Personen kan svare via lenken uten å ha en konto.
+Kinpal viser hvert alternativ i den enkeltes egen tidssone, så ingen trenger å regne om tidspunktene. Ta med noen alternativer som faller innenfor den eksterne opponentens arbeidstid, og vær forsiktig rundt ukene når klokkene stilles, siden land endrer til sommertid og vintertid på ulike datoer. Personen kan svare via lenken uten å ha en konto.
 
 ## Del avstemningen og følg opp
 
@@ -69,7 +69,7 @@ Gi folk en uke til å svare, og kontakt alle som ikke har svart etter tre dager.
 
 ## Fastsett datoen
 
-Klikk på **Finalize**, så viser Rallly alternativene med det som har best støtte, øverst. Velg datoen og hvem som skal varsles. Alle du velger, får en e-post med en kalenderinvitasjon, inkludert lenken til videosamtalen hvis du la til en. Bestill rommet samme dag.
+Klikk på **Finalize**, så viser Kinpal alternativene med det som har best støtte, øverst. Velg datoen og hvem som skal varsles. Alle du velger, får en e-post med en kalenderinvitasjon, inkludert lenken til videosamtalen hvis du la til en. Bestill rommet samme dag.
 
 ![Dialogboksen for Finalize, med hvert alternativ og hvor mange som kan delta](/static/images/thesis-defense/finalize.png)
 
@@ -92,8 +92,8 @@ Fire personer svarer i løpet av tre dager, og hun sender en e-post til den femt
 <PostFaq>
   <FaqItem question="Hvor lenge i forveien bør du planlegge en disputas?">Send avstemningen minst fire uker før den tidligste mulige datoen, og tidligere hvis komiteen er stor. Fristene for studieprogrammet kan kreve mer tid.</FaqItem>
   <FaqItem question="Hvor mange datoer bør du tilby?">Mellom 5 og 10, fordelt på ulike dager. Du kan legge til flere senere hvis ingen av dem passer.</FaqItem>
-  <FaqItem question="Hva gjør du hvis et komitémedlem ikke svarer?">Kontakt personen direkte etter tre dager. Hvis du bruker e-postinvitasjoner, som er en del av Rallly Pro, kan du se hvem som har åpnet avstemningen, og hvem som har svart.</FaqItem>
-  <FaqItem question="Trenger komitémedlemmer en Rallly-konto?">Nei. De åpner lenken, skriver inn navn og e-postadresse og velger tidspunktene som passer.</FaqItem>
+  <FaqItem question="Hva gjør du hvis et komitémedlem ikke svarer?">Kontakt personen direkte etter tre dager. Hvis du bruker e-postinvitasjoner, som er en del av Kinpal Pro, kan du se hvem som har åpnet avstemningen, og hvem som har svart.</FaqItem>
+  <FaqItem question="Trenger komitémedlemmer en Kinpal-konto?">Nei. De åpner lenken, skriver inn navn og e-postadresse og velger tidspunktene som passer.</FaqItem>
   <FaqItem question="Kan en koordinator planlegge en disputas for en student?">Ja. Opprett avstemningen selv, og ta med kandidaten som en av personene som skal svare. Svarene kommer tilbake til deg, og du fastsetter den endelige datoen.</FaqItem>
-  <FaqItem question="Er Rallly gratis til dette?">Ja. Det er gratis å opprette avstemninger, samle inn svar og fullføre dem. En gratiskonto kan ha tre åpne avstemninger om gangen, og Rallly Pro fjerner denne begrensningen.</FaqItem>
+  <FaqItem question="Er Kinpal gratis til dette?">Ja. Det er gratis å opprette avstemninger, samle inn svar og fullføre dem. En gratiskonto kan ha tre åpne avstemninger om gangen, og Kinpal Pro fjerner denne begrensningen.</FaqItem>
 </PostFaq>

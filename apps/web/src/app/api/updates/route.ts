@@ -51,7 +51,7 @@ async function fetchReleaseChannels(): Promise<ReleaseChannels | null> {
         {
           headers: {
             Accept: "application/vnd.github+json",
-            "User-Agent": "Rallly",
+            "User-Agent": "Kinpal",
           },
           signal,
         },
@@ -93,7 +93,7 @@ async function fetchSecurityAdvisories(): Promise<SecurityAdvisory[] | null> {
       const res = await fetch(url, {
         headers: {
           Accept: "application/vnd.github+json",
-          "User-Agent": "Rallly",
+          "User-Agent": "Kinpal",
         },
         signal,
       });

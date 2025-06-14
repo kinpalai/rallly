@@ -100,12 +100,12 @@ Ez egy teljesen érthető üzleti döntés, és ha a céged egész nap ügyfélt
 
 ## Ha csak egy időpont-egyeztető szavazásra van szükséged
 
-Ezt az űrt tölti be a [Rallly](https://rallly.co). Egy dolgot csinál: javasolsz néhány időpontot, megosztasz egy linket, és mindenki megszavazza, melyik megfelelő. Így hasonlíthatók össze az ingyenes csomagok:
+Ezt az űrt tölti be a [Kinpal](https://kinpal.com). Egy dolgot csinál: javasolsz néhány időpontot, megosztasz egy linket, és mindenki megszavazza, melyik megfelelő. Így hasonlíthatók össze az ingyenes csomagok:
 
 <div className="overflow-x-auto">
 <table>
 <thead>
-<tr><th></th><th>Doodle Free</th><th>Rallly Free</th></tr>
+<tr><th></th><th>Doodle Free</th><th>Kinpal Free</th></tr>
 </thead>
 <tbody>
 <tr><td>Csoportos szavazások</td><td>1</td><td>Korlátlan, egyszerre legfeljebb 3 lehet nyitva</td></tr>
@@ -116,15 +116,15 @@ Ezt az űrt tölti be a [Rallly](https://rallly.co). Egy dolgot csinál: javasol
 </table>
 </div>
 
-A Ralllyban a résztvevők egyszerűen a link segítségével szavazhatnak, és nincs szükségük fiókra. Mindenki a saját időzónájában látja a lehetőségeket, a dátum véglegesítése és az értesítés küldése pedig ingyenes.
+A Kinpalban a résztvevők egyszerűen a link segítségével szavazhatnak, és nincs szükségük fiókra. Mindenki a saját időzónájában látja a lehetőségeket, a dátum véglegesítése és az értesítés küldése pedig ingyenes.
 
-A korlátainkról is szeretnénk ugyanilyen átláthatóan beszélni: a Rallly ingyenes csomagjában annyi szavazást hozhatsz létre, amennyit szeretnél, de egyszerre legfeljebb 3 lehet nyitva és gyűjthet szavazatokat. Véglegesíts vagy zárj le egyet, és megnyithatsz egy újat. Regisztráció nélkül egyszerre 1 nyitott szavazásod lehet, és ugyanez érvényes: az újabb megnyitásához véglegesítsd vagy zárd le az előzőt. Az ingyenes szavazások törlődnek, miután minden dátumuk legalább 30 napja elmúlt, és az elmúlt 30 napban senki nem szerkesztette, szavazott benne vagy írt hozzászólást.
+A korlátainkról is szeretnénk ugyanilyen átláthatóan beszélni: a Kinpal ingyenes csomagjában annyi szavazást hozhatsz létre, amennyit szeretnél, de egyszerre legfeljebb 3 lehet nyitva és gyűjthet szavazatokat. Véglegesíts vagy zárj le egyet, és megnyithatsz egy újat. Regisztráció nélkül egyszerre 1 nyitott szavazásod lehet, és ugyanez érvényes: az újabb megnyitásához véglegesítsd vagy zárd le az előzőt. Az ingyenes szavazások törlődnek, miután minden dátumuk legalább 30 napja elmúlt, és az elmúlt 30 napban senki nem szerkesztette, szavazott benne vagy írt hozzászólást.
 
-A Rallly emellett [nyílt forráskódú](https://github.com/lukevella/rallly), így pontosan megvizsgálhatod, hogyan működik, sőt akár a saját szervereden is futtathatod.
+A Kinpal emellett [nyílt forráskódú](https://github.com/lukevella/rallly), így pontosan megvizsgálhatod, hogyan működik, sőt akár a saját szervereden is futtathatod.
 
-A Rallly a [Rallly Pro](https://rallly.co/pricing) szolgáltatásból szerez bevételt. Ez olyan funkciókat ad, amelyekre akkor lehet szükséged, ha professzionálisan használod, például korlátlan számú nyitott szavazást, egyéni arculatot és korlátlan ideig elérhető szavazásokat. Ez teszi lehetővé, hogy az ingyenes csomag mindenki számára hirdetések nélkül maradjon ingyenes.
+A Kinpal a [Kinpal Pro](https://kinpal.com/pricing) szolgáltatásból szerez bevételt. Ez olyan funkciókat ad, amelyekre akkor lehet szükséged, ha professzionálisan használod, például korlátlan számú nyitott szavazást, egyéni arculatot és korlátlan ideig elérhető szavazásokat. Ez teszi lehetővé, hogy az ingyenes csomag mindenki számára hirdetések nélkül maradjon ingyenes.
 
-Ha funkciónkénti összehasonlítást szeretnél, lásd, [hogyan viszonyul a Rallly a Doodle-hoz](https://rallly.co/best-doodle-alternative).
+Ha funkciónkénti összehasonlítást szeretnél, lásd, [hogyan viszonyul a Kinpal a Doodle-hoz](https://kinpal.com/best-doodle-alternative).
 
 ## Gyakran ismételt kérdések
 
@@ -154,10 +154,10 @@ Jelenleg nincs. A Doodle 2025 júniusában szüneteltette az iOS- és Android-al
 
 ### Van ingyenes alternatívája a Doodle-nek?
 
-Igen. A [Rallly](https://rallly.co) egy ingyenes, nyílt forráskódú, hirdetésmentes időpont-egyeztető szavazás. Annyi szavazást hozhatsz létre, amennyit szeretnél, egyszerre legfeljebb 3 lehet nyitva, a résztvevők pedig fiók nélkül szavazhatnak.
+Igen. A [Kinpal](https://kinpal.com) egy ingyenes, nyílt forráskódú, hirdetésmentes időpont-egyeztető szavazás. Annyi szavazást hozhatsz létre, amennyit szeretnél, egyszerre legfeljebb 3 lehet nyitva, a résztvevők pedig fiók nélkül szavazhatnak.
 
 ## Összefoglalva
 
 A Doodle továbbra is ingyenes, de csak egy, 10 lehetőséget tartalmazó, hirdetésekkel kiegészített szavazás erejéig. Ha ez megfelel az igényeidnek, jó választás lehet. Ha nem, nem kell fizetned csak azért, hogy megtalálj egy mindenki számára megfelelő időpontot.
 
-[Hozz létre egy szavazást](https://app.rallly.co/new) most. Körülbelül egy percet vesz igénybe, és senkinek nem kell regisztrálnia.
+[Hozz létre egy szavazást](https://app.kinpal.com/new) most. Körülbelül egy percet vesz igénybe, és senkinek nem kell regisztrálnia.

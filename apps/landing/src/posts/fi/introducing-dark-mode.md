@@ -7,12 +7,12 @@ excerpt: >-
   ajanvarausten suunnitteluun.
 ---
 
-Rallly tukee nyt uutta tummaa teemaa, joten voit hallita paremmin sovelluksen ulkoasua ja tunnelmaa.
+Kinpal tukee nyt uutta tummaa teemaa, joten voit hallita paremmin sovelluksen ulkoasua ja tunnelmaa.
 
-![Ralllyn tumma tila](https://d39ixtfgglw55o.cloudfront.net/images/dark_mode_slide.webp)
+![Kinpaln tumma tila](https://d39ixtfgglw55o.cloudfront.net/images/dark_mode_slide.webp)
 
-Oletusarvoisesti Rallly noudattaa järjestelmäsi asetuksia. Jos laitteesi on asetettu käyttämään tummaa tilaa, Rallly vaihtaa automaattisesti vastaavaan teemaan. Voit myös vaihtaa vaalean ja tumman teeman välillä manuaalisesti tilisi asetuksissa.
+Oletusarvoisesti Kinpal noudattaa järjestelmäsi asetuksia. Jos laitteesi on asetettu käyttämään tummaa tilaa, Kinpal vaihtaa automaattisesti vastaavaan teemaan. Voit myös vaihtaa vaalean ja tumman teeman välillä manuaalisesti tilisi asetuksissa.
 
-Tämä päivitys on osa laajempaa pyrkimystä tehdä Ralllysta paremmin mukautettava. Saatat huomata sovelluksen ulkoasussa hienovaraisia muutoksia. Rakennan teemojen mukautusominaisuuksia, joiden avulla voit muokata värejä ja brändi-ilmettä yrityksesi visuaalisen ilmeen mukaisiksi. Kerron siitä lisää pian.
+Tämä päivitys on osa laajempaa pyrkimystä tehdä Kinpalsta paremmin mukautettava. Saatat huomata sovelluksen ulkoasussa hienovaraisia muutoksia. Rakennan teemojen mukautusominaisuuksia, joiden avulla voit muokata värejä ja brändi-ilmettä yrityksesi visuaalisen ilmeen mukaisiksi. Kerron siitä lisää pian.
 
-Kuulisin mielelläni, mitä mieltä olet. Lähetä palautetta osoitteeseen [feedback@rallly.co](mailto:feedback@rallly.co).
+Kuulisin mielelläni, mitä mieltä olet. Lähetä palautetta osoitteeseen [feedback@kinpal.com](mailto:feedback@kinpal.com).

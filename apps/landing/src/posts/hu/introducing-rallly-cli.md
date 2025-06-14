@@ -1,28 +1,28 @@
 ---
-title: Bemutatjuk a Rallly CLI-t
+title: Bemutatjuk a Kinpal CLI-t
 date: '2026-04-29'
 category: Self-hosting
 excerpt: >-
-  Új CLI a saját üzemeltetésű Rallly-példányok telepítéséhez, konfigurálásához
+  Új CLI a saját üzemeltetésű Kinpal-példányok telepítéséhez, konfigurálásához
   és kezeléséhez, beépített HTTPS-támogatással és azonnal használható
   képfeltöltéssel.
 ---
 
-A Rallly saját üzemeltetése korábban abból állt, hogy le kellett másolni egy példa `docker-compose.yml` fájlt, kézzel módosítani, kiválasztani egy saját reverse proxyt, és beállítani egy S3-tárolót, ha azt szeretted volna, hogy a képfeltöltés működjön. Működőképes megoldás volt, de minden telepítés egy kicsit másképp nézett ki, és a támogatási e-mailekben rendszeresen felmerült a kérdés: „vajon ezt a részt jól állítottam be?”
+A Kinpal saját üzemeltetése korábban abból állt, hogy le kellett másolni egy példa `docker-compose.yml` fájlt, kézzel módosítani, kiválasztani egy saját reverse proxyt, és beállítani egy S3-tárolót, ha azt szeretted volna, hogy a képfeltöltés működjön. Működőképes megoldás volt, de minden telepítés egy kicsit másképp nézett ki, és a támogatási e-mailekben rendszeresen felmerült a kérdés: „vajon ezt a részt jól állítottam be?”
 
 Ezért készítettünk egy teljes értékű CLI-t, amely elvégzi helyetted a telepítést, a konfigurálást és a mindennapi műveleteket.
 
 ## Telepítés egyetlen paranccsal
 
 ```sh
-curl -fsSL https://get.rallly.co | bash
+curl -fsSL https://get.kinpal.com | bash
 ```
 
 A telepítő ellenőrzi a környezetedet, végigvezet a konfiguráción (domain, támogatási e-mail-cím, SMTP), létrehozza helyetted a titkos kulcsokat, majd elindít mindent. Semmit sem kell kézzel szerkesztened.
 
 Egy működő példány most a következőket tartalmazza:
 
-- magát a **Rallly**-t
+- magát a **Kinpal**-t
 - **PostgreSQL** adatbázist
 - **Traefik** reverse proxyt automatikus Let's Encrypt-tanúsítványokkal
 - **Garage** S3-kompatibilis objektumtárolót, így az avatarok és képek feltöltése azonnal működik
@@ -49,12 +49,12 @@ Emellett azzal, hogy nagyobb kontrollt szereztünk a stack felett, a jövőben �
 
 ## Már saját magad üzemelteted?
 
-Ha már egy kézzel szerkesztett `docker-compose.yml` vagy `config.env` fájlból futtatod a Rallly-t, egy lépésről lépésre követhető [migrálási útmutató](https://support.rallly.co/self-hosting/migration) végigvezet a 4.10-re történő frissítésen és a CLI-re való átálláson adatvesztés nélkül. A legfontosabb, amit át kell hoznod, a munkamenetek titkosítására szolgáló `SECRET_PASSWORD`.
+Ha már egy kézzel szerkesztett `docker-compose.yml` vagy `config.env` fájlból futtatod a Kinpal-t, egy lépésről lépésre követhető [migrálási útmutató](https://support.kinpal.com/self-hosting/migration) végigvezet a 4.10-re történő frissítésen és a CLI-re való átálláson adatvesztés nélkül. A legfontosabb, amit át kell hoznod, a munkamenetek titkosítására szolgáló `SECRET_PASSWORD`.
 
 ## Hol érdemes kezdeni?
 
-- **Új telepítés**: [Telepítési útmutató](https://support.rallly.co/self-hosting/installation/docker)
-- **Mindennapi műveletek**: [Kezelési útmutató](https://support.rallly.co/self-hosting/management)
-- **Régebbi beállításról érkezel**: [Migrálási útmutató](https://support.rallly.co/self-hosting/migration)
+- **Új telepítés**: [Telepítési útmutató](https://support.kinpal.com/self-hosting/installation/docker)
+- **Mindennapi műveletek**: [Kezelési útmutató](https://support.kinpal.com/self-hosting/management)
+- **Régebbi beállításról érkezel**: [Migrálási útmutató](https://support.kinpal.com/self-hosting/migration)
 
-Ezzel a kiadással az volt a célunk, hogy a saját üzemeltetés inkább egy termék használatára, ne pedig egy recept követésére emlékeztessen. Ha útközben bármilyen problémába ütközöl, vagy ötleteid vannak arról, mi következzen, örömmel hallanánk rólad a [feedback@rallly.co](mailto:feedback@rallly.co) címen.
+Ezzel a kiadással az volt a célunk, hogy a saját üzemeltetés inkább egy termék használatára, ne pedig egy recept követésére emlékeztessen. Ha útközben bármilyen problémába ütközöl, vagy ötleteid vannak arról, mi következzen, örömmel hallanánk rólad a [feedback@kinpal.com](mailto:feedback@kinpal.com) címen.

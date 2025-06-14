@@ -39,23 +39,23 @@ Distribuisci le opzioni su giorni diversi invece di elencare ogni ora di pochi g
 
 ## Come configurare il sondaggio
 
-Va bene qualsiasi sondaggio di programmazione. Questi passaggi usano [Rallly](/scheduling-for/thesis-defense), che è gratuito e non chiede alla commissione di creare account.
+Va bene qualsiasi sondaggio di programmazione. Questi passaggi usano [Kinpal](/scheduling-for/thesis-defense), che è gratuito e non chiede alla commissione di creare account.
 
-1. Accedi a Rallly e vai su [Crea un sondaggio](https://app.rallly.co/new). È sufficiente un account gratuito, ma te ne servirà uno per concludere il sondaggio.
+1. Accedi a Kinpal e vai su [Crea un sondaggio](https://app.kinpal.com/new). È sufficiente un account gratuito, ma te ne servirà uno per concludere il sondaggio.
 2. Aggiungi un titolo come "Discussione di dottorato, Biologia, aprile". Chiunque abbia il link può vedere il titolo e la descrizione, quindi non includere titoli di tesi soggetti a embargo.
-3. Fai clic su **Aggiungi luogo** oppure su **Aggiungi videochiamata** per fare in modo che Rallly crei un link Google Meet, Zoom, Microsoft Teams o Webex quando concludi il sondaggio. Prima dovrai collegare il servizio in **Impostazioni**.
-4. Fai clic su **Aggiungi descrizione** e indica la durata dell'evento e la data entro cui rispondere. Rallly non impone questa data, quindi dovrai occuparti tu di eventuali solleciti.
+3. Fai clic su **Aggiungi luogo** oppure su **Aggiungi videochiamata** per fare in modo che Kinpal crei un link Google Meet, Zoom, Microsoft Teams o Webex quando concludi il sondaggio. Prima dovrai collegare il servizio in **Impostazioni**.
+4. Fai clic su **Aggiungi descrizione** e indica la durata dell'evento e la data entro cui rispondere. Kinpal non impone questa data, quindi dovrai occuparti tu di eventuali solleciti.
 5. Imposta la **Durata** e seleziona le opzioni nel calendario.
 6. Lascia attiva l'opzione **Richiedi email**, così tutti potranno ricevere l'invito del calendario, e mantieni attive le **Opzioni di voto** Sì, Se necessario e No.
 7. Fai clic su **Crea sondaggio**.
 
-![Il nuovo modulo del sondaggio in Rallly con un titolo, una durata di due ore e tre date selezionate](/static/images/thesis-defense/create-poll.png)
+![Il nuovo modulo del sondaggio in Kinpal con un titolo, una durata di due ore e tre date selezionate](/static/images/thesis-defense/create-poll.png)
 
 ### Se hai un esaminatore esterno
 
 Un esaminatore esterno è spesso la persona più difficile da includere nella programmazione. Non compare nel calendario della tua università e potrebbe trovarsi a diversi fusi orari di distanza.
 
-Rallly mostra a ogni persona le opzioni nel proprio fuso orario, quindi nessuno deve fare conversioni. Includi alcune opzioni che rientrino nell'orario di lavoro dell'esaminatore esterno e fai attenzione alle settimane in cui cambia l'ora legale, perché i Paesi cambiano data in giorni diversi. L'esaminatore può rispondere dal link senza un account.
+Kinpal mostra a ogni persona le opzioni nel proprio fuso orario, quindi nessuno deve fare conversioni. Includi alcune opzioni che rientrino nell'orario di lavoro dell'esaminatore esterno e fai attenzione alle settimane in cui cambia l'ora legale, perché i Paesi cambiano data in giorni diversi. L'esaminatore può rispondere dal link senza un account.
 
 ## Condividere il sondaggio e inviare solleciti
 
@@ -69,7 +69,7 @@ Concedi alle persone una settimana per rispondere e contatta chi non ha ancora r
 
 ## Concludere il sondaggio e stabilire la data
 
-Fai clic su **Concludi**: Rallly elenca le opzioni mettendo per prima quella con il maggior supporto. Scegli la data e seleziona chi vuoi avvisare. Tutti quelli che selezioni riceveranno un'email con un invito del calendario, incluso il link alla videochiamata, se ne hai aggiunto uno. Prenota la sala lo stesso giorno.
+Fai clic su **Concludi**: Kinpal elenca le opzioni mettendo per prima quella con il maggior supporto. Scegli la data e seleziona chi vuoi avvisare. Tutti quelli che selezioni riceveranno un'email con un invito del calendario, incluso il link alla videochiamata, se ne hai aggiunto uno. Prenota la sala lo stesso giorno.
 
 ![La finestra di dialogo Concludi, con ogni opzione elencata in base al numero di persone che possono partecipare](/static/images/thesis-defense/finalize.png)
 
@@ -92,8 +92,8 @@ Quattro persone rispondono entro tre giorni e la coordinatrice scrive alla quint
 <PostFaq>
   <FaqItem question="Con quanto anticipo devo programmare una discussione di tesi?">Invia il sondaggio almeno quattro settimane prima della prima data possibile, e prima ancora se la commissione è numerosa. I periodi di preavviso previsti dal tuo corso di studi potrebbero richiedere più tempo.</FaqItem>
   <FaqItem question="Quante date devo proporre?">Da 5 a 10, distribuite su giorni diversi. Puoi aggiungerne altre in seguito se nessuna è disponibile.</FaqItem>
-  <FaqItem question="Cosa succede se un membro della commissione non risponde?">Contattalo direttamente dopo tre giorni. Se usi gli inviti via email, inclusi in Rallly Pro, puoi vedere chi ha aperto il sondaggio e chi ha risposto.</FaqItem>
-  <FaqItem question="I membri della commissione hanno bisogno di un account Rallly?">No. Aprono il link, inseriscono il proprio nome e indirizzo email e scelgono gli orari disponibili.</FaqItem>
+  <FaqItem question="Cosa succede se un membro della commissione non risponde?">Contattalo direttamente dopo tre giorni. Se usi gli inviti via email, inclusi in Kinpal Pro, puoi vedere chi ha aperto il sondaggio e chi ha risposto.</FaqItem>
+  <FaqItem question="I membri della commissione hanno bisogno di un account Kinpal?">No. Aprono il link, inseriscono il proprio nome e indirizzo email e scelgono gli orari disponibili.</FaqItem>
   <FaqItem question="Un coordinatore può programmare una discussione per uno studente?">Sì. Crea tu il sondaggio e includi il candidato tra le persone che devono rispondere. Le risposte arriveranno a te e sarai tu a stabilire la data finale.</FaqItem>
-  <FaqItem question="Rallly è gratuito per questo scopo?">Sì. Creare sondaggi, raccogliere risposte e concluderli è gratuito. Un account gratuito può avere tre sondaggi aperti contemporaneamente, mentre Rallly Pro rimuove questo limite.</FaqItem>
+  <FaqItem question="Kinpal è gratuito per questo scopo?">Sì. Creare sondaggi, raccogliere risposte e concluderli è gratuito. Un account gratuito può avere tre sondaggi aperti contemporaneamente, mentre Kinpal Pro rimuove questo limite.</FaqItem>
 </PostFaq>

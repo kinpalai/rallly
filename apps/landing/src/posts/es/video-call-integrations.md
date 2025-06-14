@@ -3,15 +3,15 @@ title: 'Enlaces de videollamada, creados al finalizar'
 date: '2026-10-14'
 category: Product
 excerpt: >-
-  Conecta Google Meet, Zoom, Microsoft Teams o Webex y Rallly añadirá el enlace
+  Conecta Google Meet, Zoom, Microsoft Teams o Webex y Kinpal añadirá el enlace
   de la reunión a la invitación cuando elijas una hora.
 ---
 
-Rallly ahora puede crear el enlace de la reunión por ti. Conecta Google Meet, Zoom, Microsoft Teams o Webex, añade una videollamada a tu encuesta y, cuando la finalices, Rallly creará la reunión para la hora elegida e incluirá el enlace para unirse en el evento, la invitación del calendario y los correos de confirmación.
+Kinpal ahora puede crear el enlace de la reunión por ti. Conecta Google Meet, Zoom, Microsoft Teams o Webex, añade una videollamada a tu encuesta y, cuando la finalices, Kinpal creará la reunión para la hora elegida e incluirá el enlace para unirse en el evento, la invitación del calendario y los correos de confirmación.
 
 Ya no tendrás que crear una reunión manualmente cuando se hayan recibido las respuestas y pegar el enlace en un correo de seguimiento.
 
-![El menú Añadir videollamada del formulario de la encuesta, con los proveedores conectados y disponibles](https://support.rallly.co/images/integrations/zoom/video-call-menu.png)
+![El menú Añadir videollamada del formulario de la encuesta, con los proveedores conectados y disponibles](https://support.kinpal.com/images/integrations/zoom/video-call-menu.png)
 
 ## Cómo funciona
 
@@ -34,11 +34,11 @@ Si prefieres utilizar otro servicio, puedes seguir añadiendo cualquier videolla
 
 Cada integración tiene una guía con los requisitos, los permisos y las instrucciones para desconectarla:
 
-- [Google Meet](https://support.rallly.co/integrations/google-meet)
-- [Zoom](https://support.rallly.co/integrations/zoom)
-- [Microsoft Teams](https://support.rallly.co/integrations/microsoft-teams)
-- [Webex](https://support.rallly.co/integrations/webex)
+- [Google Meet](https://support.kinpal.com/integrations/google-meet)
+- [Zoom](https://support.kinpal.com/integrations/zoom)
+- [Microsoft Teams](https://support.kinpal.com/integrations/microsoft-teams)
+- [Webex](https://support.kinpal.com/integrations/webex)
 
-Si tienes algún problema o hay algún proveedor que te gustaría que añadiéramos próximamente, escríbeme a [feedback@rallly.co](mailto:feedback@rallly.co).
+Si tienes algún problema o hay algún proveedor que te gustaría que añadiéramos próximamente, escríbeme a [feedback@kinpal.com](mailto:feedback@kinpal.com).
 
 ¡Disfruta organizando tus reuniones! :)

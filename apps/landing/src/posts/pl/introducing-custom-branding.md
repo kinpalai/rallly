@@ -5,7 +5,7 @@ category: Product
 excerpt: Od teraz możesz wyświetlać uczestnikom swoje logo i kolory marki.
 ---
 
-Jedną z rzeczy, które słyszę od zespołów korzystających z Rallly, jest to, że strona zaproszenia wydawała się oderwana od ich marki. To właśnie na tę stronę trafiają Twoi goście, gdy wysyłasz im ankietę. Kiedy wysyłasz klientowi lub nowemu pracownikowi link do umówienia spotkania, ogólny wygląd interfejsu może popsuć wrażenie, które budujesz we wszystkich innych miejscach. To samo dotyczy wiadomości e-mail z potwierdzeniem, które uczestnicy otrzymują po oddaniu głosu.
+Jedną z rzeczy, które słyszę od zespołów korzystających z Kinpal, jest to, że strona zaproszenia wydawała się oderwana od ich marki. To właśnie na tę stronę trafiają Twoi goście, gdy wysyłasz im ankietę. Kiedy wysyłasz klientowi lub nowemu pracownikowi link do umówienia spotkania, ogólny wygląd interfejsu może popsuć wrażenie, które budujesz we wszystkich innych miejscach. To samo dotyczy wiadomości e-mail z potwierdzeniem, które uczestnicy otrzymują po oddaniu głosu.
 
 ![Ankieta z oznakowaniem marki](https://d39ixtfgglw55o.cloudfront.net/images/branded-poll.webp)
 
@@ -19,7 +19,7 @@ To niewielka zmiana wizualna, ale robi dużą różnicę, gdy osoba po drugiej s
 
 ## Jak to skonfigurować
 
-1. Przejdź do [Ustawień przestrzeni](https://app.rallly.co/settings/general)
+1. Przejdź do [Ustawień przestrzeni](https://app.kinpal.com/settings/general)
 2. Prześlij swoje logo i wybierz kolor główny
 3. Włącz opcję **Włącz własne oznakowanie marki**
 
@@ -27,4 +27,4 @@ To niewielka zmiana wizualna, ale robi dużą różnicę, gdy osoba po drugiej s
 
 Wszystkie Twoje publicznie dostępne strony będą automatycznie korzystać z oznakowania Twojej marki.
 
-Jak zawsze, jeśli masz uwagi lub napotkasz jakiś problem, napisz do mnie na adres [feedback@rallly.co](mailto:feedback@rallly.co).
+Jak zawsze, jeśli masz uwagi lub napotkasz jakiś problem, napisz do mnie na adres [feedback@kinpal.com](mailto:feedback@kinpal.com).

@@ -4,15 +4,15 @@ date: '2025-12-12'
 category: Security
 excerpt: >-
   Atualizações de segurança importantes que corrigem vulnerabilidades nos React
-  Server Components, incluindo a React2Shell. Quem aloja o Rallly por conta
+  Server Components, incluindo a React2Shell. Quem aloja o Kinpal por conta
   própria deve atualizar imediatamente.
 ---
 
-**Este anúncio só é relevante para instalações do Rallly alojadas por conta própria.** Se utiliza o serviço alojado da Rallly em [rallly.co](https://rallly.co), não precisa de fazer nada. Os servidores foram corrigidos poucas horas depois de os CVE terem sido anunciados e não ocorreu nenhuma falha de segurança nesse período.
+**Este anúncio só é relevante para instalações do Kinpal alojadas por conta própria.** Se utiliza o serviço alojado da Kinpal em [kinpal.com](https://kinpal.com), não precisa de fazer nada. Os servidores foram corrigidos poucas horas depois de os CVE terem sido anunciados e não ocorreu nenhuma falha de segurança nesse período.
 
 ---
 
-Foi descoberta uma vulnerabilidade de segurança crítica nos React Server Components que afeta o Rallly. Em instalações sem as correções, esta vulnerabilidade pode permitir que um atacante execute código remotamente no seu servidor. Se a sua instância estiver acessível a partir da Internet e não estiver a executar a versão mais recente, **o seu servidor corre um risco significativo**.
+Foi descoberta uma vulnerabilidade de segurança crítica nos React Server Components que afeta o Kinpal. Em instalações sem as correções, esta vulnerabilidade pode permitir que um atacante execute código remotamente no seu servidor. Se a sua instância estiver acessível a partir da Internet e não estiver a executar a versão mais recente, **o seu servidor corre um risco significativo**.
 
 Esta vulnerabilidade, [CVE-2025-55182](https://www.cve.org/CVERecord?id=CVE-2025-55182) (também conhecida como [React2Shell](https://react2shell.com/)), afeta muitas aplicações criadas com o React 19. Já foram divulgados casos reais de falhas de segurança em que os atacantes instalaram software malicioso em servidores comprometidos.
 
@@ -30,9 +30,9 @@ A equipa do React descobriu posteriormente que a correção para o CVE-2025-5518
 
 ## Ação necessária
 
-Se aloja o Rallly por conta própria, siga imediatamente estes passos:
+Se aloja o Kinpal por conta própria, siga imediatamente estes passos:
 
-- **Atualize** o Rallly para a versão mais recente (v4.5.11 ou posterior) para ficar protegido contra os quatro CVE. Consulte as [notas da versão](https://github.com/lukevella/rallly/releases/tag/v4.5.11) para obter mais detalhes.
+- **Atualize** o Kinpal para a versão mais recente (v4.5.11 ou posterior) para ficar protegido contra os quatro CVE. Consulte as [notas da versão](https://github.com/lukevella/rallly/releases/tag/v4.5.11) para obter mais detalhes.
 - Se estiver na v4.5.10, tem de atualizar para a v4.5.11, uma vez que a correção anterior estava incompleta.
 - Se estiver na v4.5.8 (que oferecia proteção completa contra a React2Shell), tem de atualizar para a v4.5.11 para ficar protegido contra todas as vulnerabilidades.
 - Se estiver na v4.5.7, deve atualizar para a v4.5.11, uma vez que a v4.5.7 pode não ter oferecido proteção completa contra a React2Shell.
@@ -40,7 +40,7 @@ Se aloja o Rallly por conta própria, siga imediatamente estes passos:
 - **Reinicie** todos os serviços e, se utilizar o Docker, reconstrua ou descarregue a imagem mais recente.
 - **Se não puder atualizar de imediato**, restrinja temporariamente o acesso (VPN/proxy de autenticação) até aplicar as correções.
 
-Depois de atualizar, confirme que a sua instância indica a versão mais recente do Rallly e reveja os registos para verificar se existem avisos. Para consultar a versão, visite: `<your‑rallly‑instance>/api/status`.
+Depois de atualizar, confirme que a sua instância indica a versão mais recente do Kinpal e reveja os registos para verificar se existem avisos. Para consultar a versão, visite: `<your‑rallly‑instance>/api/status`.
 
 ## Informações adicionais
 

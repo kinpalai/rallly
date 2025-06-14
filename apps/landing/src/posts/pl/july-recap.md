@@ -6,9 +6,9 @@ excerpt: Podsumowanie zmian oraz informacje o nadchodzących zmianach cen.
 ---
 
 Ale ten czas leci!
-Minął już ponad miesiąc od [premiery Rallly Pro](/blog/rallly-pro-launch).
+Minął już ponad miesiąc od [premiery Kinpal Pro](/blog/rallly-pro-launch).
 Z całego serca dziękuję każdej osobie, która wykupiła subskrypcję – Wasze wsparcie wiele dla mnie znaczy.
-Świadomość, że to, co stworzyłem, ma wartość, ogromnie podnosi mnie na duchu i motywuje do jeszcze odważniejszego rozwijania Rallly!
+Świadomość, że to, co stworzyłem, ma wartość, ogromnie podnosi mnie na duchu i motywuje do jeszcze odważniejszego rozwijania Kinpal!
 
 ## Co nowego?
 
@@ -23,21 +23,21 @@ Możesz zachować prywatność danych uczestników, ukrywając ich listę, albo 
 
 **Odświeżony widok tabeli** – Widok tabeli został gruntownie przebudowany, aby był bardziej czytelny. Jest w nim znacznie mniej powtórzeń i bałaganu, dzięki czemu łatwiej pracować z długimi listami opcji.
 
-## Skorzystaj z Rallly Pro w cenie premierowej
+## Skorzystaj z Kinpal Pro w cenie premierowej
 
-Jeśli jeszcze nie dołączyłeś, nadal możesz skorzystać z ceny premierowej Rallly Pro.
+Jeśli jeszcze nie dołączyłeś, nadal możesz skorzystać z ceny premierowej Kinpal Pro.
 **Jako osoba, która dołączyła na początku, nie odczujesz skutków przyszłych podwyżek cen**, więc gdy dodamy kolejne funkcje, nadal będziesz korzystać ze znacznie niższej stawki.
 
-Gotowy na Pro? Możesz przejść na wyższy plan na [stronie rozliczeń](https://app.rallly.co/settings/billing).
+Gotowy na Pro? Możesz przejść na wyższy plan na [stronie rozliczeń](https://app.kinpal.com/settings/billing).
 
 ### Aktualizacja cen
 
 Obecna cena jest około 3–4 razy niższa niż u konkurencji oferującej podobne rozwiązania.
-Moim celem jest ostateczne ustalenie ceny Rallly Pro na poziomie zbliżonym do podobnych produktów, ale będę podnosić ją etapami w miarę udostępniania kolejnych funkcji. W następnym etapie cena wyniesie **7 USD/miesiąc** lub **42 USD/rok**.
+Moim celem jest ostateczne ustalenie ceny Kinpal Pro na poziomie zbliżonym do podobnych produktów, ale będę podnosić ją etapami w miarę udostępniania kolejnych funkcji. W następnym etapie cena wyniesie **7 USD/miesiąc** lub **42 USD/rok**.
 Nowe ceny zaczną obowiązywać **1 września 2023 roku** (do tego czasu możesz zablokować obecną stawkę).
 
 ## Dziękuję
 
-Dziękuję wszystkim subskrybentom i sponsorom, dzięki którym mogę kontynuować pracę nad Rallly.
+Dziękuję wszystkim subskrybentom i sponsorom, dzięki którym mogę kontynuować pracę nad Kinpal.
 
 Pozdrawiam!

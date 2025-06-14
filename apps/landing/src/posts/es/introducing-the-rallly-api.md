@@ -1,15 +1,15 @@
 ---
-title: Presentamos la API de Rallly
+title: Presentamos la API de Kinpal
 date: '2026-09-15'
 category: Product
 excerpt: >-
   Crea encuestas, consulta sus resultados y ciérralas desde tus propias
-  herramientas. La API ya está disponible para los Espacios Pro de Rallly Cloud.
+  herramientas. La API ya está disponible para los Espacios Pro de Kinpal Cloud.
 ---
 
-Rallly ha tenido una API pequeña oculta tras una función experimental durante un tiempo. Algunas personas la han estado usando para crear encuestas desde sus propios sistemas, y sus comentarios han ayudado a dar forma a lo que presentamos hoy. Ahora está disponible para todos los Espacios Pro de Rallly Cloud.
+Kinpal ha tenido una API pequeña oculta tras una función experimental durante un tiempo. Algunas personas la han estado usando para crear encuestas desde sus propios sistemas, y sus comentarios han ayudado a dar forma a lo que presentamos hoy. Ahora está disponible para todos los Espacios Pro de Kinpal Cloud.
 
-![Un editor de código que muestra una solicitud fetch que crea una encuesta de fechas con tres opciones mediante la API de Rallly](/static/images/rallly-api/create-poll-editor.svg)
+![Un editor de código que muestra una solicitud fetch que crea una encuesta de fechas con tres opciones mediante la API de Kinpal](/static/images/rallly-api/create-poll-editor.svg)
 
 ## Qué hace
 
@@ -28,8 +28,8 @@ Cada solicitud está vinculada a un solo Espacio. La clave de API identifica el 
 El propietario del Espacio crea una clave en **Ajustes → Claves de API**. Las solicitudes la incluyen como token de tipo bearer:
 
 ```sh
-curl https://api.rallly.co/v1/polls \
-  -H "Authorization: Bearer $RALLLY_API_KEY" \
+curl https://api.kinpal.com/v1/polls \
+  -H "Authorization: Bearer $KINPAL_API_KEY" \
   -H "Content-Type: application/json" \
   -d '{
     "title": "Team offsite",
@@ -44,8 +44,8 @@ curl https://api.rallly.co/v1/polls \
 
 La respuesta incluye una `inviteUrl` para compartir con los participantes y una `adminUrl` para el Organizador. Cada Espacio puede hacer 60 solicitudes por minuto.
 
-La [referencia de la API](https://support.rallly.co/api-reference/introduction) incluye todos los endpoints con ejemplos de solicitudes y respuestas. También está disponible el documento OpenAPI, por si prefieres generar un cliente.
+La [referencia de la API](https://support.kinpal.com/api-reference/introduction) incluye todos los endpoints con ejemplos de solicitudes y respuestas. También está disponible el documento OpenAPI, por si prefieres generar un cliente.
 
 ## Lo que viene después
 
-Consultar periódicamente los resultados funciona, pero no es la forma en que la mayoría de las integraciones quieren funcionar. Está previsto añadir webhooks para los eventos de las encuestas, de modo que tu sistema reciba información sobre una nueva Respuesta o una encuesta cerrada en cuanto ocurra. Todavía no hay una fecha para ello. Si creas algo con la API, me gustaría saber qué estás desarrollando y qué dificultades encuentras. Puedes escribirme a [feedback@rallly.co](mailto:feedback@rallly.co).
+Consultar periódicamente los resultados funciona, pero no es la forma en que la mayoría de las integraciones quieren funcionar. Está previsto añadir webhooks para los eventos de las encuestas, de modo que tu sistema reciba información sobre una nueva Respuesta o una encuesta cerrada en cuanto ocurra. Todavía no hay una fecha para ello. Si creas algo con la API, me gustaría saber qué estás desarrollando y qué dificultades encuentras. Puedes escribirme a [feedback@kinpal.com](mailto:feedback@kinpal.com).

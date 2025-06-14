@@ -7,7 +7,7 @@ excerpt: >-
   of zelfstandig werken.
 ---
 
-Met Ruimtes kan een team één Rallly-abonnement delen. Tot nu toe werkten ze op één manier: elk lid kon de Polls en Evenementen van alle anderen bekijken en beheren. Dat werkt goed voor een klein team dat samen afspraken plant, maar ik hoorde steeds vaker van grotere teams dat dit in de weg staat. Ze willen iedereen toegang geven zonder elkaar voor de voeten te lopen.
+Met Ruimtes kan een team één Kinpal-abonnement delen. Tot nu toe werkten ze op één manier: elk lid kon de Polls en Evenementen van alle anderen bekijken en beheren. Dat werkt goed voor een klein team dat samen afspraken plant, maar ik hoorde steeds vaker van grotere teams dat dit in de weg staat. Ze willen iedereen toegang geven zonder elkaar voor de voeten te lopen.
 
 Daarom hebben Ruimtes nu een instelling voor teamsamenwerking.
 
@@ -25,12 +25,12 @@ De instelling deelt Ruimtes op in twee vormen:
 
 Een klein team dat samen afspraken plant, houdt samenwerking ingeschakeld. Een assistent kan een Poll beheren die door een collega is aangemaakt, en niemand hoeft links naar elkaar door te sturen.
 
-Een organisatie die Rallly onder een grotere groep wil invoeren, schakelt samenwerking uit. Iedereen krijgt Pro-functies onder één abonnement, de planning van elke persoon blijft privé en het toevoegen van een nieuw lid maakt bestaande Polls van anderen niet zichtbaar.
+Een organisatie die Kinpal onder een grotere groep wil invoeren, schakelt samenwerking uit. Iedereen krijgt Pro-functies onder één abonnement, de planning van elke persoon blijft privé en het toevoegen van een nieuw lid maakt bestaande Polls van anderen niet zichtbaar.
 
 In beide gevallen heeft dit alleen invloed op wat leden van je Ruimte kunnen zien. Uitnodigingslinks en pagina's voor deelnemers werken in beide modi precies hetzelfde. De mensen met wie je afspraken plant, merken dus geen verschil.
 
-Lees meer over hoe dit werkt in de [documentatie over samenwerking](https://support.rallly.co/spaces/collaboration).
+Lees meer over hoe dit werkt in de [documentatie over samenwerking](https://support.kinpal.com/spaces/collaboration).
 
 ## Wat komt hierna
 
-Dit is een eerste stap om Rallly beter te laten werken voor grotere organisaties. Als je erover denkt om Rallly in je team in te voeren en je iets mist, hoor ik dat graag. Stuur me een e-mail via [support@rallly.co](mailto:support@rallly.co).
+Dit is een eerste stap om Kinpal beter te laten werken voor grotere organisaties. Als je erover denkt om Kinpal in je team in te voeren en je iets mist, hoor ik dat graag. Stuur me een e-mail via [support@kinpal.com](mailto:support@kinpal.com).

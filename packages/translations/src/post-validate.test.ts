@@ -17,7 +17,7 @@ excerpt: How to plan.
 - one
 - two
 
-Visit [pricing](https://rallly.co/pricing) now.
+Visit [pricing](https://kinpal.com/pricing) now.
 
 ![alt text](/images/a.png)
 
@@ -44,7 +44,7 @@ excerpt: Wie man plant.
 - eins
 - zwei
 
-Besuche [Preise](https://rallly.co/pricing) jetzt.
+Besuche [Preise](https://kinpal.com/pricing) jetzt.
 
 ![Alt-Text](/images/a.png)
 
@@ -67,8 +67,8 @@ describe("validatePost", () => {
 
   it("rejects a changed link URL", () =>
     expect(
-      v(swap("https://rallly.co/pricing", "https://rallly.co/x")).join(),
-    ).toContain("https://rallly.co/pricing"));
+      v(swap("https://kinpal.com/pricing", "https://kinpal.com/x")).join(),
+    ).toContain("https://kinpal.com/pricing"));
 
   it("rejects a missing heading", () =>
     expect(v(swap("## Eine Überschrift\n", "")).join()).toContain(

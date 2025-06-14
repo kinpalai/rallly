@@ -1,27 +1,27 @@
 ---
-title: Esittelyssä Rallly CLI
+title: Esittelyssä Kinpal CLI
 date: '2026-04-29'
 category: Self-hosting
 excerpt: >-
-  Uusi CLI itse ylläpidettyjen Rallly-instanssien asentamiseen, määrittämiseen
+  Uusi CLI itse ylläpidettyjen Kinpal-instanssien asentamiseen, määrittämiseen
   ja hallintaan – HTTPS ja kuvien lataukset toimivat heti ilman lisämäärityksiä.
 ---
 
-Ralllyn itse ylläpitäminen edellytti aiemmin esimerkin `docker-compose.yml` kopioimista, sen muokkaamista käsin, oman käänteisvälityspalvelimen valitsemista ja S3-säilön määrittämistä, jos kuvien latausten haluttiin toimivan. Se oli mahdollista, mutta jokainen asennus oli hieman erilainen, ja tukiviesteissä toistui kysymys: ”määritinkö tuon kohdan oikein?”
+Kinpaln itse ylläpitäminen edellytti aiemmin esimerkin `docker-compose.yml` kopioimista, sen muokkaamista käsin, oman käänteisvälityspalvelimen valitsemista ja S3-säilön määrittämistä, jos kuvien latausten haluttiin toimivan. Se oli mahdollista, mutta jokainen asennus oli hieman erilainen, ja tukiviesteissä toistui kysymys: ”määritinkö tuon kohdan oikein?”
 
 Siksi rakensimme kunnollisen CLI:n, joka hoitaa puolestasi asennuksen, määrittämisen ja päivittäisen hallinnan.
 
 ## Asenna yhdellä komennolla
 
 ```sh
-curl -fsSL https://get.rallly.co | bash
+curl -fsSL https://get.kinpal.com | bash
 ```
 
 Asennusohjelma tarkistaa ympäristösi, opastaa määritysten tekemisessä (verkkotunnus, tukisähköposti, SMTP), luo salaisuudet puolestasi ja käynnistää kaiken. Mitään ei tarvitse muokata käsin.
 
 Toimiva instanssi sisältää nyt:
 
-- itse **Ralllyn**
+- itse **Kinpaln**
 - **PostgreSQL**-tietokannan
 - **Traefikin** käänteisvälityspalvelimena sekä automaattiset Let's Encrypt -varmenteet
 - **Garagen** S3-yhteensopivana objektitallennuksena, joten avatarien ja kuvien lataukset toimivat heti
@@ -46,14 +46,14 @@ Erityisesti päivitykset hoituvat nyt yhdellä komennolla. `./rallly.sh update` 
 
 Kun meillä on enemmän hallintaa kokonaisuudesta, voimme tulevaisuudessa lisätä esimerkiksi uusia palveluita ilman, että asennusprosessi monimutkaistuu tai käyttäjien täytyy muokata compose-tiedostojaan.
 
-## Käytätkö Ralllya jo itse ylläpidettynä?
+## Käytätkö Kinpala jo itse ylläpidettynä?
 
-Jos ajat Ralllya jo käsin muokatusta `docker-compose.yml`- tai `config.env`-tiedostosta, vaiheittainen [siirtymisopas](https://support.rallly.co/self-hosting/migration) opastaa päivittämään version 4.10:een ja siirtymään CLI:n käyttöön tietoja menettämättä. Tärkeintä on siirtää mukana `SECRET_PASSWORD`, joka salaa istunnot.
+Jos ajat Kinpala jo käsin muokatusta `docker-compose.yml`- tai `config.env`-tiedostosta, vaiheittainen [siirtymisopas](https://support.kinpal.com/self-hosting/migration) opastaa päivittämään version 4.10:een ja siirtymään CLI:n käyttöön tietoja menettämättä. Tärkeintä on siirtää mukana `SECRET_PASSWORD`, joka salaa istunnot.
 
 ## Näin pääset alkuun
 
-- **Uusi asennus**: [Asennusopas](https://support.rallly.co/self-hosting/installation/docker)
-- **Päivittäinen hallinta**: [Hallintaopas](https://support.rallly.co/self-hosting/management)
-- **Siirtyminen vanhemmasta asennuksesta**: [Siirtymisopas](https://support.rallly.co/self-hosting/migration)
+- **Uusi asennus**: [Asennusopas](https://support.kinpal.com/self-hosting/installation/docker)
+- **Päivittäinen hallinta**: [Hallintaopas](https://support.kinpal.com/self-hosting/management)
+- **Siirtyminen vanhemmasta asennuksesta**: [Siirtymisopas](https://support.kinpal.com/self-hosting/migration)
 
-Tämän julkaisun tavoitteena oli tehdä Ralllyn itse ylläpitämisestä tuotteen kaltaista reseptin sijaan. Jos kohtaat matkan varrella ongelmia tai sinulla on ideoita siitä, mitä pitäisi tehdä seuraavaksi, kuulisin niistä mielelläni osoitteessa [feedback@rallly.co](mailto:feedback@rallly.co).
+Tämän julkaisun tavoitteena oli tehdä Kinpaln itse ylläpitämisestä tuotteen kaltaista reseptin sijaan. Jos kohtaat matkan varrella ongelmia tai sinulla on ideoita siitä, mitä pitäisi tehdä seuraavaksi, kuulisin niistä mielelläni osoitteessa [feedback@kinpal.com](mailto:feedback@kinpal.com).

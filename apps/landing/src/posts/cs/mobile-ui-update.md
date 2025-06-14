@@ -5,7 +5,7 @@ category: Product
 excerpt: Aktualizace zaměřená na lepší použitelnost aplikace na mobilních zařízeních.
 ---
 
-Věděli jste, že více než polovina všech uživatelů Rallly používá mobilní zařízení?
+Věděli jste, že více než polovina všech uživatelů Kinpal používá mobilní zařízení?
 
 ![Data o zařízeních](/static/images/device-data.png)
 

@@ -9,7 +9,7 @@ excerpt: >-
 
 Jeg er glad for at kunne introducere **Rum** – Rallys nye funktion til teamsamarbejde, der ændrer måden, organisationer håndterer planlægning og fakturering på. I stedet for at jonglere med flere individuelle Pro-abonnementer samler Rum hele dit team i ét samlet arbejdsområde.
 
-![Rallly Spaces](https://d39ixtfgglw55o.cloudfront.net/images/spaces.webp)
+![Kinpal Spaces](https://d39ixtfgglw55o.cloudfront.net/images/spaces.webp)
 
 ## Hvad er Rum?
 
@@ -44,10 +44,10 @@ Uanset om du er en startup, der koordinerer standupmøder, et marketingbureau, d
 
 Er du klar til at effektivisere dit teams planlægning? Det tager kun få klik at oprette dit første Rum, og eksisterende Pro-brugere kan nemt skifte til den nye teambaserede faktureringsmodel.
 
-Rum er et udtryk for mit ønske om at gøre Rallly til den bedste planlægningsløsning for teams i alle størrelser. Med din støtte vil jeg fortsætte med at udvikle funktioner, der gør koordinering ubesværet.
+Rum er et udtryk for mit ønske om at gøre Kinpal til den bedste planlægningsløsning for teams i alle størrelser. Med din støtte vil jeg fortsætte med at udvikle funktioner, der gør koordinering ubesværet.
 
 ---
 
-Har du spørgsmål om Rum? Jeg vil meget gerne høre din [feedback](mailto:feedback@rallly.co) og hjælpe dig med at komme i gang!
+Har du spørgsmål om Rum? Jeg vil meget gerne høre din [feedback](mailto:feedback@kinpal.com) og hjælpe dig med at komme i gang!
 
 God planlægning!

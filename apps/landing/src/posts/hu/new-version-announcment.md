@@ -1,16 +1,16 @@
 ---
-title: Bemutatkozik a Rallly 2.0
+title: Bemutatkozik a Kinpal 2.0
 date: '2022-04-08'
 category: Company
 tags:
   - announcement
 draft: false
-excerpt: Íme a Rallly első nagyobb frissítésének bemutatója.
+excerpt: Íme a Kinpal első nagyobb frissítésének bemutatója.
 ---
 
 Ha azon tűnődsz, miért néz ki ma minden másképp, annak az az oka, hogy
 épp most adtam ki egy nagyobb frissítést. Ezt a frissítést már [egy ideje](https://twitter.com/imlukevella/status/1288066459248349184)
-tervezem, de idén úgy döntöttem, hogy több időt fordítok a Ralllyra. Ennek köszönhetően
+tervezem, de idén úgy döntöttem, hogy több időt fordítok a Kinpalra. Ennek köszönhetően
 elértük ezt a mérföldkövet, és remélhetőleg a jövőben még többet is. Nos…
 
 ## Mi történik a régi verzióval létrehozott szavazásokkal?
@@ -21,7 +21,7 @@ A tervek szerint körülbelül két hónap múlva letiltom a régi adatbázist, 
 létrehozott szavazások továbbra is elérhetők lesznek. Remélhetőleg ez elegendő időt biztosít
 az aktív szavazások átvitelére.
 
-Ha problémád adódik a szavazás elérésével, írj nekünk a webhelyen elérhető chaten keresztül, vagy küldj e-mailt a [support@rallly.co](mailto:support@rallly.co) címre.
+Ha problémád adódik a szavazás elérésével, írj nekünk a webhelyen elérhető chaten keresztül, vagy küldj e-mailt a [support@kinpal.com](mailto:support@kinpal.com) címre.
 
 ## Mi újdonság?
 
@@ -45,7 +45,7 @@ elkerülheted, hogy a résztvevők módosítani tudják a szavazás részleteit.
 
 ### Kompakt nézet mobileszközökhöz
 
-A Rallly mindig is mobilbarát volt, de most még jobban optimalizált nézetet kínál a kisebb képernyőkhöz.
+A Kinpal mindig is mobilbarát volt, de most még jobban optimalizált nézetet kínál a kisebb képernyőkhöz.
 
 ![Mobilnézet bemutatója](/static/images/mobile-demo.gif)
 
@@ -69,7 +69,7 @@ Több oka is van annak, hogy ezt a funkciót kihagytam:
    biztosítani, ezért megvizsgálom a szolgáltatóváltás lehetőségét, és azt is, hogy egy dedikált IP-cím használata segíthet-e
    a kézbesíthetőség javításában.
 
-2. **Költség**&mdash;Ezeknek az e-maileknek a kiküldése nem ingyenes, és a Rallly felhasználói bázisa mára akkora lett, hogy
+2. **Költség**&mdash;Ezeknek az e-maileknek a kiküldése nem ingyenes, és a Kinpal felhasználói bázisa mára akkora lett, hogy
    az e-mailek költségei a teljes üzemeltetési költség jelentős részét teszik ki. A kiküldött e-mailek számának
    csökkentése segítene fenntarthatóbb szintre mérsékelni ezeket a költségeket.
 

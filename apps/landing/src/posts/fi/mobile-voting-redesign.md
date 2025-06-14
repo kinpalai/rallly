@@ -7,7 +7,7 @@ excerpt: >-
   yhdellä silmäyksellä.
 ---
 
-Useimmat Ralllyn kyselyyn vastaavat tekevät sen puhelimella, usein muutaman minuutin kuluessa kutsulinkin saamisesta. Se hetki on tuotteen ydin, joten kun kuulemme sen aiheuttavan hämmennystä, kuuntelemme.
+Useimmat Kinpaln kyselyyn vastaavat tekevät sen puhelimella, usein muutaman minuutin kuluessa kutsulinkin saamisesta. Se hetki on tuotteen ydin, joten kun kuulemme sen aiheuttavan hämmennystä, kuuntelemme.
 
 Ja kuulimme sitä. Jotkut teistä kertoivat, ettei vanha vastausnäkymä ollut riittävän selkeä. Jokaisen ajan vieressä oleva pieni ”?”-painike oli helppo ohittaa, ja jotkut osallistujat painoivat Jatka-painiketta odottaen voivansa valita ajat seuraavalla sivulla. Sen sijaan he huomasivat vastanneensa vahingossa ”ei” kaikkiin vaihtoehtoihin.
 
@@ -33,4 +33,4 @@ Uudet säätimet täyttävät Applen suosittelemat kosketuskohteiden koot, ja po
 
 Mikään nykyisissä kyselyissäsi tai vastauksissasi ei ole muuttunut. Tämä on yksinkertaisesti parempi tapa tehdä sama asia.
 
-Kuten aina, jos jokin tuntuu oudolta tai sinulla on idea, jolla vastaamisesta voisi tehdä vielä sujuvampaa, [kerro meille](mailto:support@rallly.co). Tämä päivitys sai alkunsa kaltaisiesi käyttäjien palautteesta.
+Kuten aina, jos jokin tuntuu oudolta tai sinulla on idea, jolla vastaamisesta voisi tehdä vielä sujuvampaa, [kerro meille](mailto:support@kinpal.com). Tämä päivitys sai alkunsa kaltaisiesi käyttäjien palautteesta.

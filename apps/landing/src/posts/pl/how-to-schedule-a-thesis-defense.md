@@ -39,23 +39,23 @@ Rozłóż opcje na różne dni, zamiast podawać każdą godzinę w ciągu kilku
 
 ## Jak utworzyć ankietę
 
-Możesz użyć dowolnej ankiety do ustalania terminu. Poniższe kroki dotyczą serwisu [Rallly](/scheduling-for/thesis-defense), który jest bezpłatny i nie wymaga od członków komisji zakładania kont.
+Możesz użyć dowolnej ankiety do ustalania terminu. Poniższe kroki dotyczą serwisu [Kinpal](/scheduling-for/thesis-defense), który jest bezpłatny i nie wymaga od członków komisji zakładania kont.
 
-1. Zaloguj się do Rallly i przejdź do strony [Utwórz ankietę](https://app.rallly.co/new). Wystarczy bezpłatne konto, ale będzie Ci potrzebne do zatwierdzenia terminu.
+1. Zaloguj się do Kinpal i przejdź do strony [Utwórz ankietę](https://app.kinpal.com/new). Wystarczy bezpłatne konto, ale będzie Ci potrzebne do zatwierdzenia terminu.
 2. Dodaj tytuł, na przykład „Obrona doktoratu, biologia, kwiecień”. Każdy, kto ma link, może zobaczyć tytuł i opis, dlatego nie podawaj tytułów prac objętych embargiem.
-3. Kliknij **Dodaj lokalizację** albo kliknij **Dodaj wideorozmowę**, aby Rallly utworzyło link do Google Meet, Zoom, Microsoft Teams lub Webex po zatwierdzeniu terminu. Najpierw musisz połączyć tę usługę w sekcji **Ustawienia**.
-4. Kliknij **Dodaj opis** i napisz, jak długo potrwa wydarzenie oraz do kiedy należy udzielić odpowiedzi. Rallly nie wymusza tej daty, więc musisz samodzielnie dopilnować odpowiedzi.
+3. Kliknij **Dodaj lokalizację** albo kliknij **Dodaj wideorozmowę**, aby Kinpal utworzyło link do Google Meet, Zoom, Microsoft Teams lub Webex po zatwierdzeniu terminu. Najpierw musisz połączyć tę usługę w sekcji **Ustawienia**.
+4. Kliknij **Dodaj opis** i napisz, jak długo potrwa wydarzenie oraz do kiedy należy udzielić odpowiedzi. Kinpal nie wymusza tej daty, więc musisz samodzielnie dopilnować odpowiedzi.
 5. Ustaw **Czas trwania** i wybierz opcje w kalendarzu.
 6. Pozostaw włączoną opcję **Wymagaj adresu e-mail**, aby każdy mógł otrzymać zaproszenie do kalendarza, i pozostaw włączone **Opcje głosowania**: tak, w razie potrzeby i nie.
 7. Kliknij **Utwórz ankietę**.
 
-![Nowy formularz ankiety w Rallly z tytułem, czasem trwania wynoszącym dwie godziny i trzema wybranymi terminami](/static/images/thesis-defense/create-poll.png)
+![Nowy formularz ankiety w Kinpal z tytułem, czasem trwania wynoszącym dwie godziny i trzema wybranymi terminami](/static/images/thesis-defense/create-poll.png)
 
 ### Jeśli masz recenzenta zewnętrznego
 
 Recenzent zewnętrzny często jest najtrudniejszą osobą do uwzględnienia przy ustalaniu terminu. Nie ma go w kalendarzu Twojej uczelni, a do tego może znajdować się w innej strefie czasowej.
 
-Rallly wyświetla każdej osobie opcje w jej własnej strefie czasowej, więc nikt nie musi niczego przeliczać. Uwzględnij kilka opcji przypadających w godzinach pracy recenzenta zewnętrznego i zachowaj ostrożność w tygodniach, w których zmienia się czas, ponieważ poszczególne kraje robią to w różne dni. Recenzent może odpowiedzieć za pomocą linku, bez zakładania konta.
+Kinpal wyświetla każdej osobie opcje w jej własnej strefie czasowej, więc nikt nie musi niczego przeliczać. Uwzględnij kilka opcji przypadających w godzinach pracy recenzenta zewnętrznego i zachowaj ostrożność w tygodniach, w których zmienia się czas, ponieważ poszczególne kraje robią to w różne dni. Recenzent może odpowiedzieć za pomocą linku, bez zakładania konta.
 
 ## Udostępnij ankietę i przypomnij się
 
@@ -69,7 +69,7 @@ Daj wszystkim tydzień na odpowiedź, a po trzech dniach skontaktuj się z osoba
 
 ## Zatwierdź termin
 
-Kliknij **Zatwierdź**, a Rallly wyświetli opcje, zaczynając od tej, którą może wybrać najwięcej osób. Wybierz termin i zaznacz osoby, które chcesz powiadomić. Każda wybrana osoba otrzyma wiadomość e-mail z zaproszeniem do kalendarza, w tym z linkiem do wideorozmowy, jeśli został dodany. Zarezerwuj salę tego samego dnia.
+Kliknij **Zatwierdź**, a Kinpal wyświetli opcje, zaczynając od tej, którą może wybrać najwięcej osób. Wybierz termin i zaznacz osoby, które chcesz powiadomić. Każda wybrana osoba otrzyma wiadomość e-mail z zaproszeniem do kalendarza, w tym z linkiem do wideorozmowy, jeśli został dodany. Zarezerwuj salę tego samego dnia.
 
 ![Okno dialogowe zatwierdzania z listą opcji uporządkowanych według liczby osób, które mogą uczestniczyć](/static/images/thesis-defense/finalize.png)
 
@@ -92,8 +92,8 @@ W ciągu trzech dni odpowiadają cztery osoby, więc koordynator wysyła wiadomo
 <PostFaq>
   <FaqItem question="Z jakim wyprzedzeniem należy zaplanować obronę pracy doktorskiej?">Wyślij ankietę co najmniej cztery tygodnie przed najwcześniejszym możliwym terminem, a w przypadku dużej komisji — jeszcze wcześniej. Okresy uprzedzenia wymagane przez program mogą oznaczać, że potrzebujesz więcej czasu.</FaqItem>
   <FaqItem question="Ile terminów należy zaproponować?">Od 5 do 10, rozłożonych na różne dni. Jeśli żaden nie będzie pasował, możesz później dodać kolejne.</FaqItem>
-  <FaqItem question="Co zrobić, jeśli członek komisji nie odpowiada?">Skontaktuj się z nim bezpośrednio po trzech dniach. Jeśli korzystasz z zaproszeń e-mailowych, które są częścią Rallly Pro, możesz sprawdzić, kto otworzył ankietę i kto odpowiedział.</FaqItem>
-  <FaqItem question="Czy członkowie komisji potrzebują konta Rallly?">Nie. Otwierają link, wpisują swoje imię i nazwisko oraz adres e-mail, a następnie wybierają pasujące im terminy.</FaqItem>
+  <FaqItem question="Co zrobić, jeśli członek komisji nie odpowiada?">Skontaktuj się z nim bezpośrednio po trzech dniach. Jeśli korzystasz z zaproszeń e-mailowych, które są częścią Kinpal Pro, możesz sprawdzić, kto otworzył ankietę i kto odpowiedział.</FaqItem>
+  <FaqItem question="Czy członkowie komisji potrzebują konta Kinpal?">Nie. Otwierają link, wpisują swoje imię i nazwisko oraz adres e-mail, a następnie wybierają pasujące im terminy.</FaqItem>
   <FaqItem question="Czy koordynator może zaplanować obronę za doktoranta?">Tak. Utwórz ankietę samodzielnie i uwzględnij doktoranta jako jedną z osób udzielających odpowiedzi. Odpowiedzi trafią do Ciebie, a Ty ustalisz ostateczny termin.</FaqItem>
-  <FaqItem question="Czy Rallly jest bezpłatne w takim zastosowaniu?">Tak. Tworzenie ankiet, zbieranie odpowiedzi i zatwierdzanie terminów są bezpłatne. Na bezpłatnym koncie mogą być jednocześnie otwarte trzy ankiety, a Rallly Pro usuwa ten limit.</FaqItem>
+  <FaqItem question="Czy Kinpal jest bezpłatne w takim zastosowaniu?">Tak. Tworzenie ankiet, zbieranie odpowiedzi i zatwierdzanie terminów są bezpłatne. Na bezpłatnym koncie mogą być jednocześnie otwarte trzy ankiety, a Kinpal Pro usuwa ten limit.</FaqItem>
 </PostFaq>

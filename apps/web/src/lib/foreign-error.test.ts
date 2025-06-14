@@ -51,7 +51,7 @@ describe("isForeignError", () => {
     for (const frame of [
       ours,
       { filename: "app:///assets/_next/static/chunks/0a1b2c3d.js" },
-      { filename: "https://static.rallly.co/_next/static/chunks/0a.js" },
+      { filename: "https://static.kinpal.com/_next/static/chunks/0a.js" },
     ]) {
       expect(isForeignError(eventWith([inline, frame]))).toBe(false);
       expect(isForeignError(eventWith([inline], [injected, frame]))).toBe(

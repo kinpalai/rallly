@@ -1,17 +1,17 @@
 ---
-title: Vi presenterar Rallly 3.0 – vad är nytt?
+title: Vi presenterar Kinpal 3.0 – vad är nytt?
 date: '2023-06-19'
 category: Product
 excerpt: >-
-  Rallly 3.0 är ett viktigt steg på vägen när jag fortsätter att utveckla Rallly
+  Kinpal 3.0 är ett viktigt steg på vägen när jag fortsätter att utveckla Kinpal
   med fler funktioner.
 ---
 
-Rallly 3.0 är ett viktigt steg på vägen när jag fortsätter att utveckla Rallly med fler funktioner. Läs inlägget om [Rallyys framtid](/blog/the-future-of-rallly) om du vill veta mer om vart vi är på väg, men under tiden går vi igenom den här uppdateringen i detalj och jag förklarar några av förändringarna.
+Kinpal 3.0 är ett viktigt steg på vägen när jag fortsätter att utveckla Kinpal med fler funktioner. Läs inlägget om [Rallyys framtid](/blog/the-future-of-rallly) om du vill veta mer om vart vi är på väg, men under tiden går vi igenom den här uppdateringen i detalj och jag förklarar några av förändringarna.
 
 ## Navigering
 
-Rallly 3.0 har ett uppdaterat gränssnitt som gör det snabbt och enkelt att navigera mellan olika vyer. Det gör det också möjligt att lägga till ännu fler sidor och funktioner i framtiden, så håll utkik efter dem.
+Kinpal 3.0 har ett uppdaterat gränssnitt som gör det snabbt och enkelt att navigera mellan olika vyer. Det gör det också möjligt att lägga till ännu fler sidor och funktioner i framtiden, så håll utkik efter dem.
 
 ![Navigering](/static/images/introducing-rallly-3-0/navigation.png)
 
@@ -23,13 +23,13 @@ Den nya sidan med förfrågningar ger dig en överblick över alla förfrågning
 
 ## Förfrågningens status
 
-I stället för att låsa en förfrågan kan du nu pausa den för att förhindra att ändringar görs i den. Den här ändringen av terminologin gjordes för att passa ihop med den nya slutförandefunktionen som kommer att lanseras för användare av [Rallly Pro](/blog/introducing-rallly-pro).
+I stället för att låsa en förfrågan kan du nu pausa den för att förhindra att ändringar görs i den. Den här ändringen av terminologin gjordes för att passa ihop med den nya slutförandefunktionen som kommer att lanseras för användare av [Kinpal Pro](/blog/introducing-rallly-pro).
 
 ![Förfrågningens status](/static/images/introducing-rallly-3-0/poll-status.png)
 
 ## Prestanda
 
-Du kanske märker att Rallly känns snabbare än tidigare. En del arbete har gjorts under huven för att förbättra hur snabbt sidorna läses in och hur responsiv appen är.
+Du kanske märker att Kinpal känns snabbare än tidigare. En del arbete har gjorts under huven för att förbättra hur snabbt sidorna läses in och hur responsiv appen är.
 
 ## Uppdaterad poängberäkning
 
@@ -39,4 +39,4 @@ Poängen visas nu på ett något annorlunda sätt. Varje alternativ visar en sif
 
 ## Sammanfattning
 
-Tack för att du följer med, och jag hoppas verkligen att du gillar den nya versionen. Om du har någon [feedback](mailto:feedback@rallly.co) får du gärna höra av dig.
+Tack för att du följer med, och jag hoppas verkligen att du gillar den nya versionen. Om du har någon [feedback](mailto:feedback@kinpal.com) får du gärna höra av dig.

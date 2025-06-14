@@ -7,7 +7,7 @@ excerpt: >-
   verbessert.
 ---
 
-Wusstest du, dass mehr als die Hälfte aller Rallly-Nutzer Mobilgeräte verwenden?
+Wusstest du, dass mehr als die Hälfte aller Kinpal-Nutzer Mobilgeräte verwenden?
 
 ![Gerätedaten](/static/images/device-data.png)
 

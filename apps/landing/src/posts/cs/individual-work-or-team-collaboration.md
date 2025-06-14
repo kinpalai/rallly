@@ -7,7 +7,7 @@ excerpt: >-
   pracovat společně, nebo samostatně.
 ---
 
-Prostory umožňují týmu sdílet jedno předplatné Rallly. Dosud fungovaly jen jedním způsobem: každý člen mohl zobrazovat a spravovat ankety a události všech ostatních. To dobře funguje v malém týmu, který plánuje společně, ale od větších týmů jsem opakovaně slýchal, že jim to práci komplikuje. Chtějí dát přístup všem, aniž by si lidé navzájem zasahovali do práce.
+Prostory umožňují týmu sdílet jedno předplatné Kinpal. Dosud fungovaly jen jedním způsobem: každý člen mohl zobrazovat a spravovat ankety a události všech ostatních. To dobře funguje v malém týmu, který plánuje společně, ale od větších týmů jsem opakovaně slýchal, že jim to práci komplikuje. Chtějí dát přístup všem, aniž by si lidé navzájem zasahovali do práce.
 
 Prostory proto nyní mají nastavení spolupráce týmu.
 
@@ -25,12 +25,12 @@ Toto nastavení rozděluje prostory do dvou typů:
 
 Malý tým, který plánuje společně, ponechá spolupráci zapnutou. Asistent může spravovat anketu vytvořenou kolegou a nikdo si nemusí posílat odkazy mezi sebou.
 
-Organizace, která chce Rallly zpřístupnit větší skupině, spolupráci vypne. Všichni získají funkce Pro v rámci jednoho předplatného, plánování každého zůstane jeho vlastní a přidání nového člena nezpřístupní nikomu jeho stávající ankety.
+Organizace, která chce Kinpal zpřístupnit větší skupině, spolupráci vypne. Všichni získají funkce Pro v rámci jednoho předplatného, plánování každého zůstane jeho vlastní a přidání nového člena nezpřístupní nikomu jeho stávající ankety.
 
 V obou případech se to týká pouze toho, co mohou zobrazit členové vašeho prostoru. Pozvánkové odkazy a stránky pro účastníky fungují v obou režimech úplně stejně, takže lidé, se kterými plánujete schůzky, nepoznají žádný rozdíl.
 
-Více informací o tom, jak spolupráce funguje, najdete v [dokumentaci ke spolupráci](https://support.rallly.co/spaces/collaboration).
+Více informací o tom, jak spolupráce funguje, najdete v [dokumentaci ke spolupráci](https://support.kinpal.com/spaces/collaboration).
 
 ## Co bude dál
 
-Je to první krok k tomu, aby Rallly lépe fungovalo i pro větší organizace. Pokud uvažujete o zavedení Rallly ve svém týmu a něco vám chybí, rád si o tom poslechnu. Napište mi na [support@rallly.co](mailto:support@rallly.co).
+Je to první krok k tomu, aby Kinpal lépe fungovalo i pro větší organizace. Pokud uvažujete o zavedení Kinpal ve svém týmu a něco vám chybí, rád si o tom poslechnu. Napište mi na [support@kinpal.com](mailto:support@kinpal.com).

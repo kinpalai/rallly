@@ -39,23 +39,23 @@ Répartissez vos options sur différents jours plutôt que de proposer chaque he
 
 ## Comment créer le sondage
 
-N'importe quel sondage de planification convient. Ces étapes utilisent [Rallly](/scheduling-for/thesis-defense), qui est gratuit et ne demande pas aux membres de votre jury de créer un compte.
+N'importe quel sondage de planification convient. Ces étapes utilisent [Kinpal](/scheduling-for/thesis-defense), qui est gratuit et ne demande pas aux membres de votre jury de créer un compte.
 
-1. Connectez-vous à Rallly et ouvrez [Créer un sondage](https://app.rallly.co/new). Un compte gratuit suffit, mais vous en aurez besoin pour finaliser la date.
+1. Connectez-vous à Kinpal et ouvrez [Créer un sondage](https://app.kinpal.com/new). Un compte gratuit suffit, mais vous en aurez besoin pour finaliser la date.
 2. Ajoutez un titre tel que « Soutenance de doctorat, biologie, avril ». Toute personne disposant du lien peut voir le titre et la description : n'y indiquez donc pas le titre d'une thèse soumise à embargo.
-3. Cliquez sur **Ajouter un lieu**, ou sur **Ajouter un appel vidéo** pour que Rallly crée un lien Google Meet, Zoom, Microsoft Teams ou Webex au moment où vous finaliserez le sondage. Vous devrez d'abord connecter ce service dans **Paramètres**.
-4. Cliquez sur **Ajouter une description** et indiquez la durée de l'événement ainsi que la date limite de réponse. Rallly n'impose pas cette date : c'est donc à vous de faire les relances nécessaires.
+3. Cliquez sur **Ajouter un lieu**, ou sur **Ajouter un appel vidéo** pour que Kinpal crée un lien Google Meet, Zoom, Microsoft Teams ou Webex au moment où vous finaliserez le sondage. Vous devrez d'abord connecter ce service dans **Paramètres**.
+4. Cliquez sur **Ajouter une description** et indiquez la durée de l'événement ainsi que la date limite de réponse. Kinpal n'impose pas cette date : c'est donc à vous de faire les relances nécessaires.
 5. Définissez la **Durée** et sélectionnez vos options dans le calendrier.
 6. Laissez **Demander l'adresse e-mail** activé afin que tout le monde puisse recevoir l'invitation de calendrier, et gardez les options de **Vote** Oui, En cas de besoin et Non.
 7. Cliquez sur **Créer le sondage**.
 
-![Le formulaire de création d'un nouveau sondage dans Rallly, avec un titre, une durée de deux heures et trois dates sélectionnées](/static/images/thesis-defense/create-poll.png)
+![Le formulaire de création d'un nouveau sondage dans Kinpal, avec un titre, une durée de deux heures et trois dates sélectionnées](/static/images/thesis-defense/create-poll.png)
 
 ### Si vous avez un examinateur externe
 
 Un examinateur externe est souvent la personne la plus difficile à intégrer au planning. Il n'apparaît pas dans l'agenda de votre université et peut se trouver dans un autre fuseau horaire, parfois très éloigné.
 
-Rallly affiche les options à chaque personne dans son propre fuseau horaire : personne n'a donc besoin de faire de conversion. Incluez quelques options qui se situent pendant les heures de travail de l'examinateur externe et soyez attentif aux semaines où l'heure change, car les pays ne changent pas tous de date. Il peut répondre depuis le lien sans avoir de compte.
+Kinpal affiche les options à chaque personne dans son propre fuseau horaire : personne n'a donc besoin de faire de conversion. Incluez quelques options qui se situent pendant les heures de travail de l'examinateur externe et soyez attentif aux semaines où l'heure change, car les pays ne changent pas tous de date. Il peut répondre depuis le lien sans avoir de compte.
 
 ## Partager le sondage et faire les relances
 
@@ -69,7 +69,7 @@ Laissez une semaine aux personnes pour répondre et contactez celles qui n'ont p
 
 ## Finaliser la date
 
-Cliquez sur **Finaliser** : Rallly affiche vos options en commençant par celle qui recueille le plus de réponses favorables. Choisissez la date et sélectionnez les personnes à prévenir. Chaque personne sélectionnée reçoit un e-mail avec une invitation de calendrier, y compris le lien de l'appel vidéo si vous en avez ajouté un. Réservez la salle le même jour.
+Cliquez sur **Finaliser** : Kinpal affiche vos options en commençant par celle qui recueille le plus de réponses favorables. Choisissez la date et sélectionnez les personnes à prévenir. Chaque personne sélectionnée reçoit un e-mail avec une invitation de calendrier, y compris le lien de l'appel vidéo si vous en avez ajouté un. Réservez la salle le même jour.
 
 ![La boîte de dialogue Finaliser présentant chaque option selon le nombre de personnes disponibles](/static/images/thesis-defense/finalize.png)
 
@@ -92,8 +92,8 @@ Quatre personnes répondent dans les trois jours et il envoie un e-mail à la ci
 <PostFaq>
   <FaqItem question="Combien de temps à l'avance faut-il planifier une soutenance de thèse ?">Envoyez votre sondage au moins quatre semaines avant la première date possible, et plus tôt si le jury est nombreux. Les délais de préavis de votre formation peuvent nécessiter davantage de temps.</FaqItem>
   <FaqItem question="Combien de dates faut-il proposer ?">Entre 5 et 10, réparties sur différents jours. Vous pourrez en ajouter d'autres plus tard si aucune ne convient.</FaqItem>
-  <FaqItem question="Que faire si un membre du jury ne répond pas ?">Contactez-le directement au bout de trois jours. Si vous utilisez les invitations par e-mail, incluses dans Rallly Pro, vous pouvez voir qui a ouvert le sondage et qui a répondu.</FaqItem>
-  <FaqItem question="Les membres du jury ont-ils besoin d'un compte Rallly ?">Non. Ils ouvrent le lien, indiquent leur nom et leur adresse e-mail, puis choisissent les créneaux qui leur conviennent.</FaqItem>
+  <FaqItem question="Que faire si un membre du jury ne répond pas ?">Contactez-le directement au bout de trois jours. Si vous utilisez les invitations par e-mail, incluses dans Kinpal Pro, vous pouvez voir qui a ouvert le sondage et qui a répondu.</FaqItem>
+  <FaqItem question="Les membres du jury ont-ils besoin d'un compte Kinpal ?">Non. Ils ouvrent le lien, indiquent leur nom et leur adresse e-mail, puis choisissent les créneaux qui leur conviennent.</FaqItem>
   <FaqItem question="Un coordinateur peut-il planifier la soutenance pour un étudiant ?">Oui. Créez vous-même le sondage et incluez le candidat parmi les personnes qui répondent. Les réponses vous sont envoyées et vous fixez la date finale.</FaqItem>
-  <FaqItem question="Rallly est-il gratuit pour cela ?">Oui. La création de sondages, la collecte des réponses et la finalisation sont gratuites. Un compte gratuit peut avoir trois sondages ouverts à la fois, et Rallly Pro supprime cette limite.</FaqItem>
+  <FaqItem question="Kinpal est-il gratuit pour cela ?">Oui. La création de sondages, la collecte des réponses et la finalisation sont gratuites. Un compte gratuit peut avoir trois sondages ouverts à la fois, et Kinpal Pro supprime cette limite.</FaqItem>
 </PostFaq>

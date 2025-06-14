@@ -100,12 +100,12 @@ Je to legitimní obchodní rozhodnutí a pokud vaše společnost celý den plán
 
 ## Pokud potřebujete jen plánovací anketu
 
-Právě tuto mezeru vyplňuje [Rallly](https://rallly.co). Umí jednu věc: navrhnete několik termínů, sdílíte odkaz a všichni hlasují o tom, co jim vyhovuje. Takhle si stojí bezplatné tarify:
+Právě tuto mezeru vyplňuje [Kinpal](https://kinpal.com). Umí jednu věc: navrhnete několik termínů, sdílíte odkaz a všichni hlasují o tom, co jim vyhovuje. Takhle si stojí bezplatné tarify:
 
 <div className="overflow-x-auto">
 <table>
 <thead>
-<tr><th></th><th>Doodle Free</th><th>Rallly Free</th></tr>
+<tr><th></th><th>Doodle Free</th><th>Kinpal Free</th></tr>
 </thead>
 <tbody>
 <tr><td>Skupinové ankety</td><td>1</td><td>Neomezeně, najednou mohou být otevřené až 3</td></tr>
@@ -116,15 +116,15 @@ Právě tuto mezeru vyplňuje [Rallly](https://rallly.co). Umí jednu věc: navr
 </table>
 </div>
 
-V Rallly účastníci hlasují pouze pomocí odkazu a nikdy nepotřebují účet. Každý vidí možnosti ve svém vlastním časovém pásmu a dokončení ankety i informování všech účastníků je zdarma.
+V Kinpal účastníci hlasují pouze pomocí odkazu a nikdy nepotřebují účet. Každý vidí možnosti ve svém vlastním časovém pásmu a dokončení ankety i informování všech účastníků je zdarma.
 
-Abychom byli stejně transparentní ohledně vlastních omezení: v bezplatném tarifu Rallly můžete vytvořit libovolný počet anket, ale najednou mohou být otevřené a sbírat hlasy nejvýše 3. Jednu dokončete nebo zavřete a můžete otevřít další. Bez registrace můžete mít najednou 1 otevřenou anketu a platí totéž: dokončete ji nebo zavřete, abyste mohli otevřít další. Bezplatné ankety se smažou, jakmile jsou všechna jejich data nejméně 30 dní v minulosti a nikdo je za posledních 30 dní neupravil, nehlasoval v nich ani nepřidal komentář.
+Abychom byli stejně transparentní ohledně vlastních omezení: v bezplatném tarifu Kinpal můžete vytvořit libovolný počet anket, ale najednou mohou být otevřené a sbírat hlasy nejvýše 3. Jednu dokončete nebo zavřete a můžete otevřít další. Bez registrace můžete mít najednou 1 otevřenou anketu a platí totéž: dokončete ji nebo zavřete, abyste mohli otevřít další. Bezplatné ankety se smažou, jakmile jsou všechna jejich data nejméně 30 dní v minulosti a nikdo je za posledních 30 dní neupravil, nehlasoval v nich ani nepřidal komentář.
 
-Rallly je také [open source](https://github.com/lukevella/rallly), takže si můžete přesně prohlédnout, jak funguje, a dokonce ho provozovat na vlastním serveru.
+Kinpal je také [open source](https://github.com/lukevella/rallly), takže si můžete přesně prohlédnout, jak funguje, a dokonce ho provozovat na vlastním serveru.
 
-Rallly vydělává prostřednictvím [Rallly Pro](https://rallly.co/pricing), které přidává funkce užitečné při profesionálním používání, například neomezený počet otevřených anket, vlastní značku a ankety, které zůstávají dostupné neomezeně dlouho. Díky tomu může bezplatný tarif zůstat zdarma a bez reklam pro všechny ostatní.
+Kinpal vydělává prostřednictvím [Kinpal Pro](https://kinpal.com/pricing), které přidává funkce užitečné při profesionálním používání, například neomezený počet otevřených anket, vlastní značku a ankety, které zůstávají dostupné neomezeně dlouho. Díky tomu může bezplatný tarif zůstat zdarma a bez reklam pro všechny ostatní.
 
-Pokud chcete porovnání jednotlivých funkcí, podívejte se na [porovnání Rallly a Doodle](https://rallly.co/best-doodle-alternative).
+Pokud chcete porovnání jednotlivých funkcí, podívejte se na [porovnání Kinpal a Doodle](https://kinpal.com/best-doodle-alternative).
 
 ## Často kladené otázky
 
@@ -154,10 +154,10 @@ Momentálně ne. Doodle v červnu 2025 pozastavilo své aplikace pro iOS a Andro
 
 ### Existuje bezplatná alternativa k Doodle?
 
-Ano. [Rallly](https://rallly.co) je bezplatná open source plánovací anketa bez reklam. Můžete vytvořit libovolný počet anket, najednou mohou být otevřené až 3, a účastníci hlasují bez účtu.
+Ano. [Kinpal](https://kinpal.com) je bezplatná open source plánovací anketa bez reklam. Můžete vytvořit libovolný počet anket, najednou mohou být otevřené až 3, a účastníci hlasují bez účtu.
 
 ## Shrnutí
 
 Doodle je stále zdarma, ale pouze pro jednu anketu s 10 možnostmi a s reklamami. Pokud vám to stačí, je to dobrá volba. Pokud ne, nemusíte platit jen za to, abyste našli termín, který všem vyhovuje.
 
-[Vytvořte anketu](https://app.rallly.co/new) hned teď. Zabere to asi minutu a nikdo se nemusí k ničemu registrovat.
+[Vytvořte anketu](https://app.kinpal.com/new) hned teď. Zabere to asi minutu a nikdo se nemusí k ničemu registrovat.

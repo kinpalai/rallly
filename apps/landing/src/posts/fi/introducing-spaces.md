@@ -5,9 +5,9 @@ category: Product
 excerpt: 'Keskitetty laskutus, jäsenten hallinta ja saumaton yhteistyö yhdessä paikassa.'
 ---
 
-On ilo esitellä **Tila** – Ralllyn uusi tiimityöskentelyominaisuus, joka muuttaa tapaa, jolla organisaatiot hallitsevat aikataulutusta ja laskutusta. Useiden erillisten Pro-tilausten sijaan Tila kokoaa koko tiimisi yhteen yhteiseen työtilaan.
+On ilo esitellä **Tila** – Kinpaln uusi tiimityöskentelyominaisuus, joka muuttaa tapaa, jolla organisaatiot hallitsevat aikataulutusta ja laskutusta. Useiden erillisten Pro-tilausten sijaan Tila kokoaa koko tiimisi yhteen yhteiseen työtilaan.
 
-![Rallly Spaces](https://d39ixtfgglw55o.cloudfront.net/images/spaces.webp)
+![Kinpal Spaces](https://d39ixtfgglw55o.cloudfront.net/images/spaces.webp)
 
 ## Mikä Tila on?
 
@@ -42,10 +42,10 @@ Olitpa sitten päivittäisiä tiimikokouksia koordinoiva startup, asiakaspuhelui
 
 Haluatko sujuvoittaa tiimisi aikataulutusta? Ensimmäisen Tilasi luominen vie vain muutaman klikkauksen, ja nykyiset Pro-käyttäjät voivat siirtyä helposti uuteen tiimipohjaiseen laskutusmalliin.
 
-Tilat ovat osoitus sitoutumisestani siihen, että Ralllysta tulee kaikenkokoisten tiimien paras aikataulutusratkaisu. Tuellasi jatkan sellaisten ominaisuuksien rakentamista, jotka tekevät koordinoinnista vaivatonta.
+Tilat ovat osoitus sitoutumisestani siihen, että Kinpalsta tulee kaikenkokoisten tiimien paras aikataulutusratkaisu. Tuellasi jatkan sellaisten ominaisuuksien rakentamista, jotka tekevät koordinoinnista vaivatonta.
 
 ---
 
-Onko sinulla kysyttävää Tiloista? Kuulisin mielelläni [palautettasi](mailto:feedback@rallly.co) ja autan sinua pääsemään alkuun!
+Onko sinulla kysyttävää Tiloista? Kuulisin mielelläni [palautettasi](mailto:feedback@kinpal.com) ja autan sinua pääsemään alkuun!
 
 Mukavia aikataulutuksia!

@@ -5,7 +5,7 @@ category: Product
 excerpt: 現在，您可以向參與者展示您的標誌和品牌色彩。
 ---
 
-使用 Rallly 的團隊常告訴我，邀請頁面與自己的品牌風格不太一致。這就是您傳送投票給訪客後，他們會看到的頁面。當您要傳送排程連結給客戶或新進員工時，一個通用的介面可能會削弱您在其他地方用心打造的體驗。參與者投票後收到的確認電子郵件也是如此。
+使用 Kinpal 的團隊常告訴我，邀請頁面與自己的品牌風格不太一致。這就是您傳送投票給訪客後，他們會看到的頁面。當您要傳送排程連結給客戶或新進員工時，一個通用的介面可能會削弱您在其他地方用心打造的體驗。參與者投票後收到的確認電子郵件也是如此。
 
 ![品牌化排程投票](https://d39ixtfgglw55o.cloudfront.net/images/branded-poll.webp)
 
@@ -19,7 +19,7 @@ excerpt: 現在，您可以向參與者展示您的標誌和品牌色彩。
 
 ## 如何設定
 
-1. 前往[空間設定](https://app.rallly.co/settings/general)
+1. 前往[空間設定](https://app.kinpal.com/settings/general)
 2. 上傳您的標誌並選擇主要色彩
 3. 開啟**啟用自訂品牌**
 
@@ -27,4 +27,4 @@ excerpt: 現在，您可以向參與者展示您的標誌和品牌色彩。
 
 所有公開頁面都會自動使用您的品牌設定。
 
-一如往常，如果您有任何意見或遇到任何問題，歡迎透過 [feedback@rallly.co](mailto:feedback@rallly.co) 與我聯絡。
+一如往常，如果您有任何意見或遇到任何問題，歡迎透過 [feedback@kinpal.com](mailto:feedback@kinpal.com) 與我聯絡。

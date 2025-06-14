@@ -7,9 +7,9 @@ excerpt: >-
   jednym miejscu.
 ---
 
-Z radością przedstawiam **Przestrzenie** — nową funkcję współpracy zespołowej w Rallly, która zmienia sposób, w jaki organizacje zarządzają harmonogramami i rozliczeniami. Zamiast zajmować się wieloma indywidualnymi subskrypcjami Pro, dzięki Przestrzeniom możesz zebrać cały zespół w jednym wspólnym obszarze roboczym.
+Z radością przedstawiam **Przestrzenie** — nową funkcję współpracy zespołowej w Kinpal, która zmienia sposób, w jaki organizacje zarządzają harmonogramami i rozliczeniami. Zamiast zajmować się wieloma indywidualnymi subskrypcjami Pro, dzięki Przestrzeniom możesz zebrać cały zespół w jednym wspólnym obszarze roboczym.
 
-![Rallly Spaces](https://d39ixtfgglw55o.cloudfront.net/images/spaces.webp)
+![Kinpal Spaces](https://d39ixtfgglw55o.cloudfront.net/images/spaces.webp)
 
 ## Czym są Przestrzenie?
 
@@ -44,10 +44,10 @@ Niezależnie od tego, czy jesteś w startupie koordynującym codzienne spotkania
 
 Chcesz usprawnić planowanie spotkań w swoim zespole? Utworzenie pierwszej Przestrzeni zajmuje tylko kilka kliknięć, a obecni użytkownicy Pro mogą łatwo przejść na nowy model rozliczeń zespołowych.
 
-Przestrzenie są wyrazem mojego zaangażowania w tworzenie z Rallly najlepszego rozwiązania do planowania spotkań dla zespołów każdej wielkości. Dzięki Waszemu wsparciu będę nadal rozwijać funkcje, które ułatwiają koordynację.
+Przestrzenie są wyrazem mojego zaangażowania w tworzenie z Kinpal najlepszego rozwiązania do planowania spotkań dla zespołów każdej wielkości. Dzięki Waszemu wsparciu będę nadal rozwijać funkcje, które ułatwiają koordynację.
 
 ---
 
-Masz pytania dotyczące Przestrzeni? Chętnie poznam Twoją [opinię](mailto:feedback@rallly.co) i pomogę Ci rozpocząć pracę!
+Masz pytania dotyczące Przestrzeni? Chętnie poznam Twoją [opinię](mailto:feedback@kinpal.com) i pomogę Ci rozpocząć pracę!
 
 Życzę udanego planowania spotkań!

@@ -7,7 +7,7 @@ excerpt: >-
   se farli lavorare insieme o in modo indipendente.
 ---
 
-Gli Spazi permettono a un team di condividere un unico abbonamento Rallly. Finora funzionavano in un solo modo: ogni membro poteva vedere e gestire i Sondaggi e gli Eventi di tutti gli altri. Questa soluzione funziona bene per un team piccolo che organizza gli appuntamenti insieme, ma continuavo a sentire dai team più grandi che diventava un ostacolo. Volevano dare a tutti l’accesso senza che le attività delle persone si sovrapponessero.
+Gli Spazi permettono a un team di condividere un unico abbonamento Kinpal. Finora funzionavano in un solo modo: ogni membro poteva vedere e gestire i Sondaggi e gli Eventi di tutti gli altri. Questa soluzione funziona bene per un team piccolo che organizza gli appuntamenti insieme, ma continuavo a sentire dai team più grandi che diventava un ostacolo. Volevano dare a tutti l’accesso senza che le attività delle persone si sovrapponessero.
 
 Per questo, ora gli Spazi hanno un’impostazione per la collaborazione del team.
 
@@ -25,12 +25,12 @@ Questa impostazione dà origine a due tipi di Spazio:
 
 Un team piccolo che organizza gli appuntamenti insieme mantiene attivata la collaborazione. Un assistente può gestire un Sondaggio creato da un collega e nessuno deve inoltrare link da una persona all’altra.
 
-Un’organizzazione che vuole introdurre Rallly in un gruppo più numeroso disattiva la collaborazione. Tutti ottengono le funzionalità Pro con un unico abbonamento, gli appuntamenti organizzati da ciascuno restano separati e l’aggiunta di un nuovo membro non espone i Sondaggi già esistenti di nessuno.
+Un’organizzazione che vuole introdurre Kinpal in un gruppo più numeroso disattiva la collaborazione. Tutti ottengono le funzionalità Pro con un unico abbonamento, gli appuntamenti organizzati da ciascuno restano separati e l’aggiunta di un nuovo membro non espone i Sondaggi già esistenti di nessuno.
 
 In entrambi i casi, questa impostazione riguarda solo ciò che i membri del tuo Spazio possono vedere. I link di invito e le pagine dei partecipanti funzionano esattamente allo stesso modo in entrambe le modalità, quindi le persone con cui organizzi gli appuntamenti non noteranno alcuna differenza.
 
-Puoi leggere maggiori informazioni sul funzionamento nella [documentazione sulla collaborazione](https://support.rallly.co/spaces/collaboration).
+Puoi leggere maggiori informazioni sul funzionamento nella [documentazione sulla collaborazione](https://support.kinpal.com/spaces/collaboration).
 
 ## Cosa succederà
 
-Questo è un primo passo per rendere Rallly più adatto alle organizzazioni più grandi. Se stai pensando di introdurre Rallly nel tuo team e senti che manca qualcosa, mi farebbe piacere saperlo. Scrivimi all’indirizzo [support@rallly.co](mailto:support@rallly.co).
+Questo è un primo passo per rendere Kinpal più adatto alle organizzazioni più grandi. Se stai pensando di introdurre Kinpal nel tuo team e senti che manca qualcosa, mi farebbe piacere saperlo. Scrivimi all’indirizzo [support@kinpal.com](mailto:support@kinpal.com).

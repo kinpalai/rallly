@@ -7,7 +7,7 @@ excerpt: >-
   devem trabalhar em conjunto ou de forma independente.
 ---
 
-Os espaços permitem que uma equipa partilhe uma única subscrição do Rallly. Até agora, funcionavam de uma só forma: todos os membros podiam ver e gerir as sondagens e os eventos uns dos outros. Isto funciona bem para uma equipa pequena que organiza reuniões em conjunto, mas continuava a ouvir de equipas maiores que isso acabava por dificultar o trabalho. Querem dar acesso a todos sem que as pessoas interfiram no trabalho umas das outras.
+Os espaços permitem que uma equipa partilhe uma única subscrição do Kinpal. Até agora, funcionavam de uma só forma: todos os membros podiam ver e gerir as sondagens e os eventos uns dos outros. Isto funciona bem para uma equipa pequena que organiza reuniões em conjunto, mas continuava a ouvir de equipas maiores que isso acabava por dificultar o trabalho. Querem dar acesso a todos sem que as pessoas interfiram no trabalho umas das outras.
 
 Por isso, os espaços têm agora uma definição de colaboração em equipa.
 
@@ -25,12 +25,12 @@ A definição divide os espaços em dois tipos:
 
 Uma equipa pequena que organiza reuniões em conjunto mantém a colaboração ativada. Um assistente pode gerir uma sondagem criada por um colega, e ninguém precisa de andar a reencaminhar ligações.
 
-Uma organização que queira disponibilizar o Rallly a um grupo maior desativa a colaboração. Todos têm acesso às funcionalidades Pro através de uma única subscrição, cada pessoa mantém a sua própria organização de reuniões e adicionar um novo membro não expõe as sondagens existentes de ninguém.
+Uma organização que queira disponibilizar o Kinpal a um grupo maior desativa a colaboração. Todos têm acesso às funcionalidades Pro através de uma única subscrição, cada pessoa mantém a sua própria organização de reuniões e adicionar um novo membro não expõe as sondagens existentes de ninguém.
 
 Em qualquer dos casos, isto só afeta aquilo que os membros do seu espaço podem ver. As ligações para convidar e as páginas dos participantes funcionam exatamente da mesma forma nos dois modos, por isso as pessoas com quem organiza reuniões não notarão qualquer diferença.
 
-Pode ler mais sobre o funcionamento desta opção na [documentação sobre colaboração](https://support.rallly.co/spaces/collaboration).
+Pode ler mais sobre o funcionamento desta opção na [documentação sobre colaboração](https://support.kinpal.com/spaces/collaboration).
 
 ## O que vem a seguir
 
-Este é um primeiro passo para tornar o Rallly mais adequado a organizações maiores. Se está a pensar disponibilizar o Rallly à sua equipa e sente que falta alguma coisa, gostava de saber a sua opinião. Envie-me um e-mail para [support@rallly.co](mailto:support@rallly.co).
+Este é um primeiro passo para tornar o Kinpal mais adequado a organizações maiores. Se está a pensar disponibilizar o Kinpal à sua equipa e sente que falta alguma coisa, gostava de saber a sua opinião. Envie-me um e-mail para [support@kinpal.com](mailto:support@kinpal.com).

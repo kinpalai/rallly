@@ -7,7 +7,7 @@ excerpt: >-
   együtt vagy egymástól függetlenül dolgozzanak.
 ---
 
-A munkaterekkel egy csapat egyetlen Rallly-előfizetést használhat közösen. Eddig a munkaterek mindig ugyanúgy működtek: minden tag láthatta és kezelhette mindenki más szavazásait és eseményeit. Ez jól működik egy kisebb, közösen időpontot egyeztető csapatnál, de egyre több nagyobb csapattól hallottam, hogy ez akadályozza őket. Szeretnének mindenkinek hozzáférést adni anélkül, hogy egymás munkájába beleavatkoznának.
+A munkaterekkel egy csapat egyetlen Kinpal-előfizetést használhat közösen. Eddig a munkaterek mindig ugyanúgy működtek: minden tag láthatta és kezelhette mindenki más szavazásait és eseményeit. Ez jól működik egy kisebb, közösen időpontot egyeztető csapatnál, de egyre több nagyobb csapattól hallottam, hogy ez akadályozza őket. Szeretnének mindenkinek hozzáférést adni anélkül, hogy egymás munkájába beleavatkoznának.
 
 Ezért mostantól a munkaterekben beállítható a csapatmunka.
 
@@ -25,12 +25,12 @@ A beállítás kétféle működésre osztja a munkatereket:
 
 Egy kisebb, közösen időpontot egyeztető csapat bekapcsolva hagyja a csapatmunkát. Egy asszisztens kezelheti a kollégája által létrehozott szavazást, és senkinek sem kell egymás között linkeket továbbítania.
 
-Egy szervezet, amely nagyobb csoportban szeretné bevezetni a Ralllyt, kikapcsolja a csapatmunkát. Mindenki egyetlen előfizetés keretében kapja meg a Pro funkciókat, mindenki a saját időpont-egyeztetéseit kezeli, és egy új tag hozzáadásakor senki meglévő szavazásai nem válnak láthatóvá.
+Egy szervezet, amely nagyobb csoportban szeretné bevezetni a Kinpalt, kikapcsolja a csapatmunkát. Mindenki egyetlen előfizetés keretében kapja meg a Pro funkciókat, mindenki a saját időpont-egyeztetéseit kezeli, és egy új tag hozzáadásakor senki meglévő szavazásai nem válnak láthatóvá.
 
 Bármelyik módot választjátok, ez csak azt befolyásolja, hogy a munkatér tagjai mit láthatnak. A meghívólinkek és a résztvevői oldalak mindkét módban pontosan ugyanúgy működnek, így azok, akikkel időpontot egyeztettek, semmilyen különbséget nem vesznek észre.
 
-A működésről többet is megtudhatsz a [csapatmunkáról szóló dokumentációban](https://support.rallly.co/spaces/collaboration).
+A működésről többet is megtudhatsz a [csapatmunkáról szóló dokumentációban](https://support.kinpal.com/spaces/collaboration).
 
 ## Mi jön ezután?
 
-Ez az első lépés afelé, hogy a Rallly jobban működjön a nagyobb szervezetek számára is. Ha azon gondolkodsz, hogy bevezeted a Ralllyt a csapatodnál, és hiányzik valami, szívesen meghallgatom a véleményedet. Írj e-mailt a [support@rallly.co](mailto:support@rallly.co) címre.
+Ez az első lépés afelé, hogy a Kinpal jobban működjön a nagyobb szervezetek számára is. Ha azon gondolkodsz, hogy bevezeted a Kinpalt a csapatodnál, és hiányzik valami, szívesen meghallgatom a véleményedet. Írj e-mailt a [support@kinpal.com](mailto:support@kinpal.com) címre.

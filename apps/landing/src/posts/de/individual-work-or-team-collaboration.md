@@ -7,7 +7,7 @@ excerpt: >-
   ob sie zusammen oder unabhängig arbeiten.
 ---
 
-Mit Gruppen kann ein Team ein gemeinsames Rallly-Abonnement nutzen. Bisher funktionierten sie nur auf eine Weise: Jedes Mitglied konnte die Umfragen und Veranstaltungen aller anderen sehen und verwalten. Das funktioniert gut für ein kleines Team, das seine Termine gemeinsam plant. Von größeren Teams habe ich jedoch immer wieder gehört, dass dies im Weg steht. Sie möchten allen Zugriff geben, ohne dass sich die Mitglieder gegenseitig in die Quere kommen.
+Mit Gruppen kann ein Team ein gemeinsames Kinpal-Abonnement nutzen. Bisher funktionierten sie nur auf eine Weise: Jedes Mitglied konnte die Umfragen und Veranstaltungen aller anderen sehen und verwalten. Das funktioniert gut für ein kleines Team, das seine Termine gemeinsam plant. Von größeren Teams habe ich jedoch immer wieder gehört, dass dies im Weg steht. Sie möchten allen Zugriff geben, ohne dass sich die Mitglieder gegenseitig in die Quere kommen.
 
 Deshalb gibt es für Gruppen jetzt eine Einstellung für die Teamarbeit.
 
@@ -25,12 +25,12 @@ Die Einstellung teilt Gruppen in zwei Varianten auf:
 
 Ein kleines Team, das seine Termine gemeinsam plant, lässt die Zusammenarbeit aktiviert. Ein Assistent kann eine Umfrage verwalten, die ein Kollege erstellt hat, und niemand muss Links weiterleiten.
 
-Eine Organisation, die Rallly für eine größere Gruppe einführen möchte, deaktiviert die Zusammenarbeit. Alle erhalten Pro-Funktionen über ein gemeinsames Abonnement, die Terminplanung jeder Person bleibt privat, und durch das Hinzufügen eines neuen Mitglieds werden keine bestehenden Umfragen offengelegt.
+Eine Organisation, die Kinpal für eine größere Gruppe einführen möchte, deaktiviert die Zusammenarbeit. Alle erhalten Pro-Funktionen über ein gemeinsames Abonnement, die Terminplanung jeder Person bleibt privat, und durch das Hinzufügen eines neuen Mitglieds werden keine bestehenden Umfragen offengelegt.
 
 In beiden Fällen wirkt sich dies nur darauf aus, was die Mitglieder deiner Gruppe sehen können. Einladungslinks und Teilnehmerseiten funktionieren in beiden Modi genau gleich. Die Personen, mit denen du Termine planst, werden keinen Unterschied bemerken.
 
-Mehr darüber, wie das funktioniert, erfährst du in der [Dokumentation zur Zusammenarbeit](https://support.rallly.co/spaces/collaboration).
+Mehr darüber, wie das funktioniert, erfährst du in der [Dokumentation zur Zusammenarbeit](https://support.kinpal.com/spaces/collaboration).
 
 ## Wie es weitergeht
 
-Das ist ein erster Schritt, damit Rallly besser für größere Organisationen funktioniert. Wenn du darüber nachdenkst, Rallly in deinem Team einzuführen, und dir dabei etwas fehlt, würde ich gerne davon hören. Schreib mir eine E-Mail an [support@rallly.co](mailto:support@rallly.co).
+Das ist ein erster Schritt, damit Kinpal besser für größere Organisationen funktioniert. Wenn du darüber nachdenkst, Kinpal in deinem Team einzuführen, und dir dabei etwas fehlt, würde ich gerne davon hören. Schreib mir eine E-Mail an [support@kinpal.com](mailto:support@kinpal.com).

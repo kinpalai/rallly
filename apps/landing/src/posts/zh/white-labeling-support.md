@@ -2,18 +2,18 @@
 title: 自托管实例的白标功能
 date: '2026-01-15'
 category: Self-hosting
-excerpt: 使用你自己的品牌、颜色和标志自定义 Rallly 实例。
+excerpt: 使用你自己的品牌、颜色和标志自定义 Kinpal 实例。
 ---
 
-很高兴宣布，自托管 Rallly 实例现已支持白标功能。
+很高兴宣布，自托管 Kinpal 实例现已支持白标功能。
 
-![白标功能示例](https://support.rallly.co/images/self-hosting/whitelabel-splash.webp)
+![白标功能示例](https://support.kinpal.com/images/self-hosting/whitelabel-splash.webp)
 
-这项功能是应一位企业客户的需求开发的。该客户希望自己的 Rallly 部署能够与现有品牌无缝融合。现在，所有 Enterprise 许可证持有者都可以选择购买这项附加功能。
+这项功能是应一位企业客户的需求开发的。该客户希望自己的 Kinpal 部署能够与现有品牌无缝融合。现在，所有 Enterprise 许可证持有者都可以选择购买这项附加功能。
 
-如果你一直在关注我们的更新，可能还记得我最近加入了[暗色模式支持](/blog/introducing-dark-mode)，并提到主题定制功能即将推出。白标功能正是这项工作的成果。现在，你可以自定义实例名称、主要颜色（分别用于浅色和暗色模式）、标志，还可以完全移除 Rallly 的品牌署名。
+如果你一直在关注我们的更新，可能还记得我最近加入了[暗色模式支持](/blog/introducing-dark-mode)，并提到主题定制功能即将推出。白标功能正是这项工作的成果。现在，你可以自定义实例名称、主要颜色（分别用于浅色和暗色模式）、标志，还可以完全移除 Kinpal 的品牌署名。
 
-如需了解技术细节和配置选项，请查看[白标功能文档](https://support.rallly.co/self-hosting/white-labeling)。
+如需了解技术细节和配置选项，请查看[白标功能文档](https://support.kinpal.com/self-hosting/white-labeling)。
 
 ## 为什么是 Enterprise 附加功能？
 

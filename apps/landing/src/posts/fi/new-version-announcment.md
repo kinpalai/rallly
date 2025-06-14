@@ -1,16 +1,16 @@
 ---
-title: Rallly 2.0 on täällä
+title: Kinpal 2.0 on täällä
 date: '2022-04-08'
 category: Company
 tags:
   - announcement
 draft: false
-excerpt: Katsaus Ralllyn ensimmäiseen suureen päivitykseen.
+excerpt: Katsaus Kinpaln ensimmäiseen suureen päivitykseen.
 ---
 
 Jos ihmettelet, miksi kaikki näyttää tänään erilaiselta, se johtuu siitä, että
 julkaisin juuri suuren päivityksen. Tätä päivitystä on suunniteltu [jo jonkin aikaa](https://twitter.com/imlukevella/status/1288066459248349184),
-mutta tämän vuoden alusta päätin käyttää enemmän aikaani Ralllyn kehittämiseen. Sen ansiosta
+mutta tämän vuoden alusta päätin käyttää enemmän aikaani Kinpaln kehittämiseen. Sen ansiosta
 olemme saavuttaneet tämän virstanpylvään, ja toivottavasti edessä on lisää vastaavia tulevaisuudessa. Siispä…
 
 ## Mitä vanhalla versiolla luoduille kyselyille tapahtuu?
@@ -21,7 +21,7 @@ Aion poistaa vanhan tietokannan käytöstä noin kahden kuukauden kuluttua, jote
 vanhalla versiolla luodut kyselyt ovat edelleen käytettävissä. Toivottavasti tämä antaa
 riittävästi aikaa kaikkien aktiivisten kyselyiden siirtämiseen.
 
-Jos kyselysi käyttämisessä ilmenee ongelmia, ota yhteyttä sivuston chatissa tai lähetä sähköpostia osoitteeseen [support@rallly.co](mailto:support@rallly.co).
+Jos kyselysi käyttämisessä ilmenee ongelmia, ota yhteyttä sivuston chatissa tai lähetä sähköpostia osoitteeseen [support@kinpal.com](mailto:support@kinpal.com).
 
 ## Mitä uutta?
 
@@ -45,7 +45,7 @@ osallistujalinkin, osallistujat eivät voi muuttaa kyselyn tietoja.
 
 ### Tiivis näkymä mobiililaitteille
 
-Rallly on aina toiminut hyvin mobiililaitteilla, mutta nyt siinä on entistä paremmin pienille näytöille optimoitu näkymä.
+Kinpal on aina toiminut hyvin mobiililaitteilla, mutta nyt siinä on entistä paremmin pienille näytöille optimoitu näkymä.
 
 ![Mobiilin esittely](/static/images/mobile-demo.gif)
 
@@ -69,7 +69,7 @@ Päätin jättää tämän ominaisuuden pois muutamasta syystä:
    joten aion selvittää palveluntarjoajan vaihtamista ja mahdollisesti oman IP-osoitteen käyttöä
    toimitusvarmuuden parantamiseksi.
 
-2. **Kustannukset**&mdash;Näiden sähköpostien lähettäminen ei ole ilmaista, ja Ralllyn käyttäjämäärä on kasvanut siihen pisteeseen, että
+2. **Kustannukset**&mdash;Näiden sähköpostien lähettäminen ei ole ilmaista, ja Kinpaln käyttäjämäärä on kasvanut siihen pisteeseen, että
    sähköpostien kustannukset muodostavat merkittävän osan kaikista käyttökustannuksista. Lähetettävien sähköpostien määrän
    vähentäminen auttaisi pitämään kustannukset kestävällä tasolla.
 

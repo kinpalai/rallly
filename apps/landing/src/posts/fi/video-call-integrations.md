@@ -3,15 +3,15 @@ title: Videopuhelulinkit luodaan kyselyn sulkemisen yhteydessä
 date: '2026-10-14'
 category: Product
 excerpt: >-
-  Yhdistä Google Meet, Zoom, Microsoft Teams tai Webex, ja Rallly lisää
+  Yhdistä Google Meet, Zoom, Microsoft Teams tai Webex, ja Kinpal lisää
   kokouslinkin kutsuun, kun valitset ajankohdan.
 ---
 
-Rallly voi nyt luoda videopuhelun linkin puolestasi. Yhdistä Google Meet, Zoom, Microsoft Teams tai Webex, lisää videopuhelu kyselyysi, ja kun suljet kyselyn, Rallly luo kokouksen valitulle ajankohdalle ja lisää liittymislinkin tapahtumaan, kalenterikutsuun ja vahvistussähköposteihin.
+Kinpal voi nyt luoda videopuhelun linkin puolestasi. Yhdistä Google Meet, Zoom, Microsoft Teams tai Webex, lisää videopuhelu kyselyysi, ja kun suljet kyselyn, Kinpal luo kokouksen valitulle ajankohdalle ja lisää liittymislinkin tapahtumaan, kalenterikutsuun ja vahvistussähköposteihin.
 
 Kun äänet on annettu, sinun ei enää tarvitse luoda kokousta käsin ja liittää linkkiä jälkikäteen lähetettävään sähköpostiin.
 
-![Kyselylomakkeen Lisää videopuhelu -valikko, jossa näkyvät yhdistetyt ja käytettävissä olevat palveluntarjoajat](https://support.rallly.co/images/integrations/zoom/video-call-menu.png)
+![Kyselylomakkeen Lisää videopuhelu -valikko, jossa näkyvät yhdistetyt ja käytettävissä olevat palveluntarjoajat](https://support.kinpal.com/images/integrations/zoom/video-call-menu.png)
 
 ## Näin se toimii
 
@@ -34,11 +34,11 @@ Jos haluat käyttää jotain muuta palvelua, voit edelleen lisätä minkä tahan
 
 Jokaiselle integraatiolle on oma ohjeensa, jossa kerrotaan vaatimuksista, käyttöoikeuksista ja yhteyden katkaisemisesta:
 
-- [Google Meet](https://support.rallly.co/integrations/google-meet)
-- [Zoom](https://support.rallly.co/integrations/zoom)
-- [Microsoft Teams](https://support.rallly.co/integrations/microsoft-teams)
-- [Webex](https://support.rallly.co/integrations/webex)
+- [Google Meet](https://support.kinpal.com/integrations/google-meet)
+- [Zoom](https://support.kinpal.com/integrations/zoom)
+- [Microsoft Teams](https://support.kinpal.com/integrations/microsoft-teams)
+- [Webex](https://support.kinpal.com/integrations/webex)
 
-Jos kohtaat ongelmia tai haluaisit nähdä seuraavaksi jonkin muun palveluntarjoajan, kerro siitä osoitteeseen [feedback@rallly.co](mailto:feedback@rallly.co).
+Jos kohtaat ongelmia tai haluaisit nähdä seuraavaksi jonkin muun palveluntarjoajan, kerro siitä osoitteeseen [feedback@kinpal.com](mailto:feedback@kinpal.com).
 
 Mukavia ajanvarauksia! :)

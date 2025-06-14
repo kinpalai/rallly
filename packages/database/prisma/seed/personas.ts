@@ -1,4 +1,4 @@
-// Target user personas, one space each under dev@rallly.co so switching
+// Target user personas, one space each under dev@kinpal.com so switching
 // spaces switches persona. The casual social organizer, the largest free
 // segment, is the existing "Personal" space in data.ts.
 

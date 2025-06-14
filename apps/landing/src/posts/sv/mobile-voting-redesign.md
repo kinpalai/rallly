@@ -7,7 +7,7 @@ excerpt: >-
   passar dig.
 ---
 
-De flesta som svarar på en Rallly-förfrågan gör det från mobilen, ofta inom några minuter efter att de fått inbjudningslänken. Det är produktens viktigaste ögonblick, så när vi får höra att det skapar förvirring lyssnar vi.
+De flesta som svarar på en Kinpal-förfrågan gör det från mobilen, ofta inom några minuter efter att de fått inbjudningslänken. Det är produktens viktigaste ögonblick, så när vi får höra att det skapar förvirring lyssnar vi.
 
 Och det fick vi höra. Några av er berättade att det gamla gränssnittet för svar inte var tillräckligt tydligt. Den lilla knappen med ”?” bredvid varje tid var lätt att missa, och några deltagare tryckte på Fortsätt i tron att de skulle välja tider på nästa sida. I stället upptäckte de att de av misstag hade svarat ”nej” på allt.
 
@@ -33,4 +33,4 @@ De nya kontrollerna uppfyller Apples rekommenderade storlekar för tryckytor, oc
 
 Inget har ändrats i dina befintliga förfrågningar eller svar. Det här är helt enkelt ett bättre sätt att göra samma sak.
 
-Som alltid får du gärna [höra av dig](mailto:support@rallly.co) om något känns fel eller om du har en idé om hur svaren kan bli ännu smidigare. Den här uppdateringen började med feedback från användare som du.
+Som alltid får du gärna [höra av dig](mailto:support@kinpal.com) om något känns fel eller om du har en idé om hur svaren kan bli ännu smidigare. Den här uppdateringen började med feedback från användare som du.

@@ -8,7 +8,7 @@
   "branding": "Markenauftritt",
   "cancelSubscription": "Wie kann ich mein Abo kündigen?",
   "cancelSubscriptionAnswer": "Du kannst dein Abonnement jederzeit kündigen, indem du zu deinen <a>Abrechnungseinstellungen</a> gehst. Nach der Kündigung hast du weiterhin Zugriff auf deinen kostenpflichtigen Plan bis zum Ende deines Abrechnungszeitraums. Danach wirst du auf einen kostenlosen Plan zurückgestuft.",
-  "canUseFree": "Kann ich Rallly kostenlos nutzen?",
+  "canUseFree": "Kann ich Kinpal kostenlos nutzen?",
   "canUseFreeAnswer3": "Ja. Der kostenlose Tarif ist keine Testphase. Sie können so viele Umfragen erstellen, wie Sie möchten, so viele Teilnehmende einladen, wie Sie möchten, und ihn so lange nutzen, wie Sie möchten, ohne zu zahlen oder eine Karte zu hinterlegen. Kostenpflichtige Tarife bieten zusätzliche Funktionen wie das unbegrenzte Aufbewahren von Umfragen und individuelles Branding, aber Sie werden nie zur Kasse gebeten, um die Grundfunktionen weiter zu nutzen.",
   "canUseFreeAnswerOpenPollLimit": "Ja. Der kostenlose Plan ist keine Testphase. Du kannst beliebig viele Umfragen erstellen, bis zu {count} gleichzeitig offen haben, beliebig viele Teilnehmer einladen und den Dienst so lange nutzen, wie du willst – ohne zu bezahlen oder eine Karte hinzuzufügen. Kostenpflichtige Pläne bieten zusätzliche Funktionen wie unbegrenzte offene Umfragen, dauerhafte Aufbewahrung von Umfragen und individuelles Branding. Für die Grundfunktionen wirst du jedoch nie zur Zahlung aufgefordert.",
   "compareFeature": "Funktion",
@@ -62,8 +62,8 @@
   "pricingSubtitle": "Wechsle auf einen kostenpflichtigen Plan, um Zugriff auf Premiumfeatures zu erhalten",
   "pricingTitle": "Preise",
   "recommended": "Empfohlen",
-  "removeAttribution": "\"Powered by Rallly\"-Hinweis entfernen",
-  "removeAttributionBenefitDescription": "\"Powered by Rallly\" vor deinen Teilnehmern ausblenden",
+  "removeAttribution": "\"Powered by Kinpal\"-Hinweis entfernen",
+  "removeAttributionBenefitDescription": "\"Powered by Kinpal\" vor deinen Teilnehmern ausblenden",
   "teamCollaboration": "Zusammenarbeit im Team",
   "teamCollaborationDescription": "Laden Sie Ihr Team ein, Umfragen gemeinsam zu verwalten",
   "thirtyDayPollRetention": "30-tägige Aufbewahrung von Umfragen",
@@ -73,6 +73,6 @@
   "whenPollInactive": "Wann wird eine Umfrage inaktiv?",
   "whenPollInactiveAnswer": "Umfragen werden inaktiv, wenn alle Datumsoptionen mehr als 30 Tage zurückliegen und 30 Tage lang keine Aktivität stattgefunden hat. Zur Aktivität zählen neue Stimmen, Kommentare oder Änderungen an der Umfrage. Inaktive Umfragen werden automatisch gelöscht, wenn du kein kostenpflichtiges Abonnement hast.",
   "whyUpgrade": "Warum sollte ich upgraden?",
-  "whyUpgradeAnswer2": "Ein Upgrade auf einen kostenpflichtigen Plan lohnt sich, wenn du Rallly häufig nutzt oder beruflich einsetzt. Der aktuelle Preis ist ein spezieller Frühbucher-Tarif, der in Zukunft steigen wird. Wenn du jetzt ein Upgrade machst, erhältst du frühzeitigen Zugang zu neuen, hochwertigen Planungstools und sicherst dir den aktuellen Preis – zukünftige Preiserhöhungen betreffen dich dann nicht.",
+  "whyUpgradeAnswer2": "Ein Upgrade auf einen kostenpflichtigen Plan lohnt sich, wenn du Kinpal häufig nutzt oder beruflich einsetzt. Der aktuelle Preis ist ein spezieller Frühbucher-Tarif, der in Zukunft steigen wird. Wenn du jetzt ein Upgrade machst, erhältst du frühzeitigen Zugang zu neuen, hochwertigen Planungstools und sicherst dir den aktuellen Preis – zukünftige Preiserhöhungen betreffen dich dann nicht.",
   "yearlySaveUpTo": "Spare bis zu {percent}%"
 }

@@ -1,5 +1,5 @@
 ---
-title: 'Próximamente: Rallly Pro'
+title: 'Próximamente: Kinpal Pro'
 date: '2023-06-19'
 category: Product
 excerpt: >-
@@ -7,11 +7,11 @@ excerpt: >-
   disponible próximamente.
 ---
 
-![Rallly Pro](/static/images/introducing-rallly-pro/pro-splash.svg)
+![Kinpal Pro](/static/images/introducing-rallly-pro/pro-splash.svg)
 
-Me hace mucha ilusión anunciar una importante actualización que estará disponible próximamente: Rallly Pro. Se trata de un nuevo plan de pago que ofrecerá nuevas funciones a los suscriptores y ayudará a financiar una nueva etapa de desarrollo de funciones que estoy seguro de que os encantará.
+Me hace mucha ilusión anunciar una importante actualización que estará disponible próximamente: Kinpal Pro. Se trata de un nuevo plan de pago que ofrecerá nuevas funciones a los suscriptores y ayudará a financiar una nueva etapa de desarrollo de funciones que estoy seguro de que os encantará.
 
-Para empezar, los usuarios de Rallly Pro disfrutarán de las siguientes ventajas:
+Para empezar, los usuarios de Kinpal Pro disfrutarán de las siguientes ventajas:
 
 ## 1. Finalizar encuestas y enviar invitaciones de calendario
 
@@ -21,15 +21,15 @@ Los usuarios de Pro podrán seleccionar una fecha final para la encuesta y envia
 
 ## 2. Asistencia prioritaria
 
-Como usuario de Rallly Pro, recibirás asistencia prioritaria y acceso exclusivo a un chat en directo dentro de la aplicación.
+Como usuario de Kinpal Pro, recibirás asistencia prioritaria y acceso exclusivo a un chat en directo dentro de la aplicación.
 
 ## 3. Votar sobre el desarrollo de funciones
 
-Lanzaré encuestas para los usuarios de Rallly Pro con el fin de saber qué funciones os gustaría ver, y vuestros votos influirán directamente en qué se desarrolla primero.
+Lanzaré encuestas para los usuarios de Kinpal Pro con el fin de saber qué funciones os gustaría ver, y vuestros votos influirán directamente en qué se desarrolla primero.
 
 ## 4. Mayor duración de las encuestas
 
-Los usuarios de Rallly Pro podrán conservar sus encuestas indefinidamente y no tendrán que preocuparse por perder sus datos.
+Los usuarios de Kinpal Pro podrán conservar sus encuestas indefinidamente y no tendrán que preocuparse por perder sus datos.
 
 ## 5. Próximas funciones
 
@@ -39,10 +39,10 @@ Pronto añadiremos más funciones, como las siguientes:
 - Enviar recordatorios automáticos
 - Ocultar los nombres de los participantes
 
-También he publicado un artículo en el que explico [el futuro de Rallly](/blog/the-future-of-rallly), que incluye añadir más soluciones basadas en la función de encuestas que tanto os gusta. Con vuestra ayuda podemos hacer realidad esta visión.
+También he publicado un artículo en el que explico [el futuro de Kinpal](/blog/the-future-of-rallly), que incluye añadir más soluciones basadas en la función de encuestas que tanto os gusta. Con vuestra ayuda podemos hacer realidad esta visión.
 
 ---
 
-Gracias por vuestro apoyo. Si queréis recibir un aviso cuando Rallly Pro esté disponible, podéis suscribiros a continuación.
+Gracias por vuestro apoyo. Si queréis recibir un aviso cuando Kinpal Pro esté disponible, podéis suscribiros a continuación.
 
 ¡Feliz organización! :)

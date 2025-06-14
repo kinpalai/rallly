@@ -7,9 +7,9 @@ excerpt: >-
   lugar.
 ---
 
-Me complace presentar los **Espacios**, la nueva función de colaboración en equipo de Rallly que transforma la forma en que las organizaciones gestionan la programación y la facturación. En lugar de tener que gestionar varias suscripciones individuales a Pro, los Espacios reúnen a todo tu equipo en un único espacio de trabajo.
+Me complace presentar los **Espacios**, la nueva función de colaboración en equipo de Kinpal que transforma la forma en que las organizaciones gestionan la programación y la facturación. En lugar de tener que gestionar varias suscripciones individuales a Pro, los Espacios reúnen a todo tu equipo en un único espacio de trabajo.
 
-![Rallly Spaces](https://d39ixtfgglw55o.cloudfront.net/images/spaces.webp)
+![Kinpal Spaces](https://d39ixtfgglw55o.cloudfront.net/images/spaces.webp)
 
 ## ¿Qué son los Espacios?
 
@@ -44,10 +44,10 @@ Tanto si eres una startup que coordina reuniones diarias, una agencia de marketi
 
 ¿Quieres simplificar la planificación de reuniones de tu equipo? Crear tu primer Espacio solo requiere unos pocos clics, y los usuarios actuales de Pro pueden pasar fácilmente al nuevo modelo de facturación basado en equipos.
 
-Los Espacios representan mi compromiso de convertir Rallly en la mejor solución de planificación de reuniones para equipos de cualquier tamaño. Con tu apoyo, seguiré creando funciones que hagan que coordinarse sea muy sencillo.
+Los Espacios representan mi compromiso de convertir Kinpal en la mejor solución de planificación de reuniones para equipos de cualquier tamaño. Con tu apoyo, seguiré creando funciones que hagan que coordinarse sea muy sencillo.
 
 ---
 
-¿Tienes preguntas sobre los Espacios? Me encantará conocer tus [comentarios](mailto:feedback@rallly.co) y ayudarte a configurarlo.
+¿Tienes preguntas sobre los Espacios? Me encantará conocer tus [comentarios](mailto:feedback@kinpal.com) y ayudarte a configurarlo.
 
 ¡Disfruta organizando tus reuniones!

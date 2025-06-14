@@ -140,7 +140,7 @@ export function WebhookActions({
             <DialogDescription>
               <Trans
                 i18nKey="deleteWebhookConfirmation"
-                defaults="Are you sure you want to delete {url}? Rallly will stop sending events to it immediately."
+                defaults="Are you sure you want to delete {url}? Kinpal will stop sending events to it immediately."
                 values={{ url: webhookUrl }}
               />
             </DialogDescription>

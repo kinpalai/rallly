@@ -159,7 +159,7 @@ export function AccessibleBallot({
   ballot: Ballot;
   /** The space and title, in place of the title on its own. */
   lockup: React.ReactNode;
-  /** An invitation to make a poll, where the page still credits Rallly. */
+  /** An invitation to make a poll, where the page still credits Kinpal. */
   showCreatePollPrompt: boolean;
   /** A signed-in viewer's own details, which a new response starts with. */
   defaultName?: string;

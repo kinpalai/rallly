@@ -7,7 +7,7 @@ excerpt: >-
   czy mają pracować razem, czy niezależnie.
 ---
 
-Przestrzenie pozwalają zespołowi korzystać ze wspólnej subskrypcji Rallly. Do tej pory działały w jeden sposób: każdy członek mógł wyświetlać i zarządzać ankietami oraz wydarzeniami wszystkich pozostałych osób. To dobrze sprawdza się w małym zespole, który wspólnie planuje spotkania, ale większe zespoły często mówiły mi, że takie rozwiązanie im przeszkadza. Chcą zapewnić wszystkim dostęp, nie wchodząc sobie przy tym w drogę.
+Przestrzenie pozwalają zespołowi korzystać ze wspólnej subskrypcji Kinpal. Do tej pory działały w jeden sposób: każdy członek mógł wyświetlać i zarządzać ankietami oraz wydarzeniami wszystkich pozostałych osób. To dobrze sprawdza się w małym zespole, który wspólnie planuje spotkania, ale większe zespoły często mówiły mi, że takie rozwiązanie im przeszkadza. Chcą zapewnić wszystkim dostęp, nie wchodząc sobie przy tym w drogę.
 
 Dlatego w przestrzeniach dostępne jest teraz ustawienie współpracy zespołowej.
 
@@ -25,12 +25,12 @@ To ustawienie dzieli przestrzenie na dwa rodzaje:
 
 Mały zespół, który wspólnie organizuje spotkania, pozostawia współpracę włączoną. Asystent może zarządzać ankietą utworzoną przez współpracownika, a nikt nie musi przekazywać sobie linków.
 
-Organizacja, która chce wdrożyć Rallly w większej grupie, wyłącza współpracę. Każdy otrzymuje funkcje Pro w ramach jednej subskrypcji, planowanie spotkań każdej osoby pozostaje prywatne, a dodanie nowego członka nie udostępnia mu istniejących ankiet innych osób.
+Organizacja, która chce wdrożyć Kinpal w większej grupie, wyłącza współpracę. Każdy otrzymuje funkcje Pro w ramach jednej subskrypcji, planowanie spotkań każdej osoby pozostaje prywatne, a dodanie nowego członka nie udostępnia mu istniejących ankiet innych osób.
 
 W obu przypadkach dotyczy to wyłącznie tego, co mogą wyświetlać członkowie Twojej przestrzeni. Linki z zaproszeniami i strony uczestników działają dokładnie tak samo w obu trybach, więc osoby, z którymi organizujesz spotkania, nie zauważą żadnej różnicy.
 
-Więcej informacji o działaniu tej funkcji znajdziesz w [dokumentacji współpracy](https://support.rallly.co/spaces/collaboration).
+Więcej informacji o działaniu tej funkcji znajdziesz w [dokumentacji współpracy](https://support.kinpal.com/spaces/collaboration).
 
 ## Co dalej
 
-To pierwszy krok w kierunku lepszego dostosowania Rallly do potrzeb większych organizacji. Jeśli rozważasz wdrożenie Rallly w swoim zespole i czegoś Ci brakuje, chętnie o tym usłyszę. Napisz do mnie na adres [support@rallly.co](mailto:support@rallly.co).
+To pierwszy krok w kierunku lepszego dostosowania Kinpal do potrzeb większych organizacji. Jeśli rozważasz wdrożenie Kinpal w swoim zespole i czegoś Ci brakuje, chętnie o tym usłyszę. Napisz do mnie na adres [support@kinpal.com](mailto:support@kinpal.com).

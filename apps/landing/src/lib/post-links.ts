@@ -1,6 +1,6 @@
 import { defaultLocale } from "@rallly/languages";
 
-const siteOrigin = "https://rallly.co";
+const siteOrigin = "https://kinpal.com";
 const unlocalizedPrefixes = ["/static/", "/api/"];
 const postPathPattern = /^\/blog\/([^/?#]+)/;
 

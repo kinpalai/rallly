@@ -5,7 +5,7 @@ category: Product
 excerpt: 這次更新著重改善應用程式在行動裝置上的使用體驗。
 ---
 
-你知道嗎？超過一半的 Rallly 使用者都在行動裝置上使用 Rallly。
+你知道嗎？超過一半的 Kinpal 使用者都在行動裝置上使用 Kinpal。
 
 ![裝置資料](/static/images/device-data.png)
 

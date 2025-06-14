@@ -5,7 +5,7 @@ import {
   assetLoadReportScript,
 } from "./asset-load-report";
 
-const ASSET_HOST = "https://static.rallly.co";
+const ASSET_HOST = "https://static.kinpal.com";
 const g = globalThis as Record<string, unknown>;
 
 // Runs the exact string the layout inlines.

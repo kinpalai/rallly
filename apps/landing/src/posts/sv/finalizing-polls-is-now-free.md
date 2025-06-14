@@ -7,7 +7,7 @@ excerpt: >-
   oavsett abonnemang. Här berättar jag vad som ändras och varför.
 ---
 
-När jag lanserade [Rallly Pro](/blog/introducing-rallly-pro) var möjligheten att slutföra en förfrågan den stora nyheten. Välj ett datum, skicka kalenderinbjudningar och var klar. Nu är det gratis för alla.
+När jag lanserade [Kinpal Pro](/blog/introducing-rallly-pro) var möjligheten att slutföra en förfrågan den stora nyheten. Välj ett datum, skicka kalenderinbjudningar och var klar. Nu är det gratis för alla.
 
 ## Slutför på alla abonnemang
 
@@ -25,9 +25,9 @@ Alla du väljer får ett e-postmeddelande med en kalenderinbjudan. Om du lade ti
 
 ## Därför gör jag den här ändringen
 
-Jag har ägnat mycket tid i år åt att fundera på hur en rättvis prismodell för Rallly skulle kunna se ut. Jag vill att Rallly ska fortsätta vara genuint användbart gratis, eftersom det är så de flesta hittar tjänsten och så den sprids. Någon organiserar en middag, deras vänner röstar och några av dem börjar sedan använda tjänsten för sina egna planer. Men Rallly måste också vara hållbart, så att jag kan fortsätta arbeta med det och lansera förbättringar.
+Jag har ägnat mycket tid i år åt att fundera på hur en rättvis prismodell för Kinpal skulle kunna se ut. Jag vill att Kinpal ska fortsätta vara genuint användbart gratis, eftersom det är så de flesta hittar tjänsten och så den sprids. Någon organiserar en middag, deras vänner röstar och några av dem börjar sedan använda tjänsten för sina egna planer. Men Kinpal måste också vara hållbart, så att jag kan fortsätta arbeta med det och lansera förbättringar.
 
-Det har aldrig känts rätt att ta betalt för att slutföra en förfrågan. Det är steget som förvandlar en förfrågan till ett faktiskt evenemang, och utan det slutade gratisabonnemanget precis innan det kunde göra sitt jobb. De som får ut mest av Rallly är de som använder tjänsten för att planera mycket, ofta som en del av sitt arbete, så där vill jag hellre dra gränsen.
+Det har aldrig känts rätt att ta betalt för att slutföra en förfrågan. Det är steget som förvandlar en förfrågan till ett faktiskt evenemang, och utan det slutade gratisabonnemanget precis innan det kunde göra sitt jobb. De som får ut mest av Kinpal är de som använder tjänsten för att planera mycket, ofta som en del av sitt arbete, så där vill jag hellre dra gränsen.
 
 ## Gränser för öppna förfrågningar
 
@@ -35,13 +35,13 @@ Från och med nu är skillnaden mellan abonnemangen hur många förfrågningar d
 
 Du kan fortfarande skapa hur många förfrågningar du vill, och det finns ingen gräns för antalet deltagare eller alternativ. En förfrågan slutar räknas så snart du slutför eller stänger den, och förfrågningar stängs automatiskt när datumen har passerat. Om du organiserar en enstaka teamträff eller sammankomst kommer du förmodligen aldrig att märka det.
 
-Om du har flera förfrågningar igång samtidigt tar Pro bort gränsen och ger dig allt annat som Pro erbjuder, till exempel e-postinbjudningar och anpassad profilering. Alla abonnemang går direkt tillbaka till att bygga vidare på Rallly.
+Om du har flera förfrågningar igång samtidigt tar Pro bort gränsen och ger dig allt annat som Pro erbjuder, till exempel e-postinbjudningar och anpassad profilering. Alla abonnemang går direkt tillbaka till att bygga vidare på Kinpal.
 
 ## Vad händer härnäst?
 
-Det här är en del av ett större arbete för att göra Rallly bättre för alla, oavsett om du betalar eller inte. Det långsiktiga målet är ett gratisabonnemang där du kan prova allt Rallly har att erbjuda, med Pro när du planerar i en omfattning där det känns motiverat.
+Det här är en del av ett större arbete för att göra Kinpal bättre för alla, oavsett om du betalar eller inte. Det långsiktiga målet är ett gratisabonnemang där du kan prova allt Kinpal har att erbjuda, med Pro när du planerar i en omfattning där det känns motiverat.
 
-Jag kommer att följa noga hur de här ändringarna tas emot och justera dem om något inte fungerar. Om gränsen ställer till det för dig, eller om du har tankar om hur prissättningen borde fungera, vill jag gärna höra från dig på [feedback@rallly.co](mailto:feedback@rallly.co).
+Jag kommer att följa noga hur de här ändringarna tas emot och justera dem om något inte fungerar. Om gränsen ställer till det för dig, eller om du har tankar om hur prissättningen borde fungera, vill jag gärna höra från dig på [feedback@kinpal.com](mailto:feedback@kinpal.com).
 
 Tack för ditt fortsatta stöd.
 

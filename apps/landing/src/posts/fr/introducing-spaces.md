@@ -7,9 +7,9 @@ excerpt: >-
   endroit.
 ---
 
-Je suis ravi de vous présenter les **Espaces**, la nouvelle fonctionnalité de collaboration en équipe de Rallly qui transforme la façon dont les organisations gèrent leurs rendez-vous et leur facturation. Au lieu de jongler avec plusieurs abonnements Pro individuels, les Espaces réunissent toute votre équipe dans un espace de travail unifié.
+Je suis ravi de vous présenter les **Espaces**, la nouvelle fonctionnalité de collaboration en équipe de Kinpal qui transforme la façon dont les organisations gèrent leurs rendez-vous et leur facturation. Au lieu de jongler avec plusieurs abonnements Pro individuels, les Espaces réunissent toute votre équipe dans un espace de travail unifié.
 
-![Rallly Spaces](https://d39ixtfgglw55o.cloudfront.net/images/spaces.webp)
+![Kinpal Spaces](https://d39ixtfgglw55o.cloudfront.net/images/spaces.webp)
 
 ## Que sont les Espaces
 
@@ -44,10 +44,10 @@ Que vous soyez une start-up qui coordonne des réunions quotidiennes, une agence
 
 Prêt à simplifier la planification de votre équipe ? Créer votre premier Espace ne prend que quelques clics, et les utilisateurs Pro actuels peuvent facilement passer au nouveau modèle de facturation basé sur l'équipe.
 
-Les Espaces témoignent de mon engagement à faire de Rallly la meilleure solution de planification pour les équipes de toutes tailles. Avec votre soutien, je continuerai à développer des fonctionnalités qui facilitent la coordination.
+Les Espaces témoignent de mon engagement à faire de Kinpal la meilleure solution de planification pour les équipes de toutes tailles. Avec votre soutien, je continuerai à développer des fonctionnalités qui facilitent la coordination.
 
 ---
 
-Vous avez des questions sur les Espaces ? Je serais ravi de connaître vos [commentaires](mailto:feedback@rallly.co) et de vous aider à les configurer !
+Vous avez des questions sur les Espaces ? Je serais ravi de connaître vos [commentaires](mailto:feedback@kinpal.com) et de vous aider à les configurer !
 
 Bonne planification !

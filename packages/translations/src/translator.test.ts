@@ -3,7 +3,7 @@ import type { Glossary } from "./prompt.ts";
 import type { Complete } from "./translator.ts";
 import { defaultModel, serviceTier, translateItems } from "./translator.ts";
 
-const glossary: Glossary = { doNotTranslate: ["Rallly"], terms: [] };
+const glossary: Glossary = { doNotTranslate: ["Kinpal"], terms: [] };
 const model = "test/model";
 
 type Response = Awaited<ReturnType<Complete>>;
@@ -190,7 +190,7 @@ describe("translateItems", () => {
       complete,
       model,
       locale,
-      glossary: { doNotTranslate: ["Rallly", "Pro"], terms: [] },
+      glossary: { doNotTranslate: ["Kinpal", "Pro"], terms: [] },
       reference: {},
       items,
     });

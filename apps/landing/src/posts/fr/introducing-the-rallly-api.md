@@ -1,15 +1,15 @@
 ---
-title: Présentation de l’API Rallly
+title: Présentation de l’API Kinpal
 date: '2026-09-15'
 category: Product
 excerpt: >-
   Créez des sondages, consultez leurs résultats et fermez-les depuis vos propres
-  outils. L’API est désormais disponible pour les Espaces Pro sur Rallly Cloud.
+  outils. L’API est désormais disponible pour les Espaces Pro sur Kinpal Cloud.
 ---
 
-Rallly propose une petite API derrière une fonctionnalité masquée depuis quelque temps. Quelques personnes l’utilisent pour créer des sondages depuis leurs propres systèmes, et leurs retours ont contribué à façonner la version disponible aujourd’hui. Elle est désormais ouverte à tous les Espaces Pro sur Rallly Cloud.
+Kinpal propose une petite API derrière une fonctionnalité masquée depuis quelque temps. Quelques personnes l’utilisent pour créer des sondages depuis leurs propres systèmes, et leurs retours ont contribué à façonner la version disponible aujourd’hui. Elle est désormais ouverte à tous les Espaces Pro sur Kinpal Cloud.
 
-![Un éditeur de code affichant une requête fetch qui crée un sondage de dates avec trois options via l’API Rallly](/static/images/rallly-api/create-poll-editor.svg)
+![Un éditeur de code affichant une requête fetch qui crée un sondage de dates avec trois options via l’API Kinpal](/static/images/rallly-api/create-poll-editor.svg)
 
 ## Ce qu’elle permet de faire
 
@@ -28,8 +28,8 @@ Chaque requête est associée à un seul Espace. La clé API identifie l’Espac
 Le propriétaire de l’Espace crée une clé dans **Paramètres → Clés API**. Les requêtes l’envoient sous forme de jeton bearer :
 
 ```sh
-curl https://api.rallly.co/v1/polls \
-  -H "Authorization: Bearer $RALLLY_API_KEY" \
+curl https://api.kinpal.com/v1/polls \
+  -H "Authorization: Bearer $KINPAL_API_KEY" \
   -H "Content-Type: application/json" \
   -d '{
     "title": "Team offsite",
@@ -44,8 +44,8 @@ curl https://api.rallly.co/v1/polls \
 
 La réponse contient une `inviteUrl` à partager avec les participants et une `adminUrl` destinée à l’Organisateur. Chaque Espace peut effectuer 60 requêtes par minute.
 
-La [documentation de référence de l’API](https://support.rallly.co/api-reference/introduction) répertorie chaque endpoint avec des exemples de requêtes et de réponses. Le document OpenAPI est également disponible si vous préférez générer un client.
+La [documentation de référence de l’API](https://support.kinpal.com/api-reference/introduction) répertorie chaque endpoint avec des exemples de requêtes et de réponses. Le document OpenAPI est également disponible si vous préférez générer un client.
 
 ## La suite
 
-Interroger régulièrement les résultats fonctionne, mais ce n’est pas la manière dont la plupart des intégrations souhaitent fonctionner. Des webhooks pour les événements liés aux sondages sont prévus afin que votre système soit informé dès qu’une nouvelle réponse est reçue ou qu’un sondage est fermé. Aucune date n’a encore été fixée. Si vous développez quelque chose avec l’API, j’aimerais savoir ce que vous construisez et ce qui vous bloque, à l’adresse [feedback@rallly.co](mailto:feedback@rallly.co).
+Interroger régulièrement les résultats fonctionne, mais ce n’est pas la manière dont la plupart des intégrations souhaitent fonctionner. Des webhooks pour les événements liés aux sondages sont prévus afin que votre système soit informé dès qu’une nouvelle réponse est reçue ou qu’un sondage est fermé. Aucune date n’a encore été fixée. Si vous développez quelque chose avec l’API, j’aimerais savoir ce que vous construisez et ce qui vous bloque, à l’adresse [feedback@kinpal.com](mailto:feedback@kinpal.com).

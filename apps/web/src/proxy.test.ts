@@ -3,7 +3,7 @@ import { afterEach, beforeEach, describe, expect, it, vi } from "vitest";
 import { proxy } from "./proxy";
 
 const request = (method: string, path: string) =>
-  new NextRequest(new URL(path, "https://app.rallly.co"), { method });
+  new NextRequest(new URL(path, "https://app.kinpal.com"), { method });
 
 describe("proxy", () => {
   it.each([
@@ -33,10 +33,10 @@ describe("proxy", () => {
 
 describe("proxy on the API host", () => {
   const apiRequest = (path: string) =>
-    new NextRequest(new URL(path, "https://api.rallly.co"));
+    new NextRequest(new URL(path, "https://api.kinpal.com"));
 
   beforeEach(() => {
-    vi.stubEnv("API_BASE_URL", "https://api.rallly.co");
+    vi.stubEnv("API_BASE_URL", "https://api.kinpal.com");
   });
 
   afterEach(() => {
@@ -47,8 +47,8 @@ describe("proxy on the API host", () => {
     const res = await proxy(apiRequest("/"));
     expect(res.status).toBe(200);
     expect(await res.json()).toEqual({
-      baseUrl: "https://api.rallly.co/v1",
-      docs: "https://support.rallly.co/api-reference/introduction",
+      baseUrl: "https://api.kinpal.com/v1",
+      docs: "https://support.kinpal.com/api-reference/introduction",
     });
   });
 

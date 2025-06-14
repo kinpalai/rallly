@@ -12,18 +12,18 @@ Uusissa kyselyissä osallistujia pyydetään nyt kirjoittamaan sähköpostiosoit
 
 ## Miksi
 
-Kun [suljet kyselyn](/blog/finalizing-polls-is-now-free), Rallly lähettää kalenterikutsun kaikille sähköpostiosoitteensa jättäneille. Tähän asti sähköpostiosoitteen antaminen oli vapaaehtoista, paitsi jos käytössä oli Pro ja olit ottanut **Vaadi sähköpostiosoite** -asetuksen käyttöön ennen kyselyn jakamista. Useimmat eivät tehneet niin, joten kyselyihin jäi usein muutamia osallistujia, joille ei voitu ilmoittaa asiasta. Kun tämä huomattiin, oli yleensä liian myöhäistä kysyä sähköpostiosoitetta.
+Kun [suljet kyselyn](/blog/finalizing-polls-is-now-free), Kinpal lähettää kalenterikutsun kaikille sähköpostiosoitteensa jättäneille. Tähän asti sähköpostiosoitteen antaminen oli vapaaehtoista, paitsi jos käytössä oli Pro ja olit ottanut **Vaadi sähköpostiosoite** -asetuksen käyttöön ennen kyselyn jakamista. Useimmat eivät tehneet niin, joten kyselyihin jäi usein muutamia osallistujia, joille ei voitu ilmoittaa asiasta. Kun tämä huomattiin, oli yleensä liian myöhäistä kysyä sähköpostiosoitetta.
 
 Osallistujatkin kärsivät tästä. Ilman sähköpostiosoitetta ei ole linkkiä, jonka kautta voisi palata kyselyyn. Vastauksen muuttaminen tarkoittaa tällöin alkuperäisen laitteen ja selaimen etsimistä tai järjestäjältä pyytämistä, että hän tekee muutoksen heidän puolestaan.
 
 ## Mitä muuttuu
 
-- **Vaadi sähköpostiosoite** on oletuksena käytössä uusissa Ralllyssä luomissasi kyselyissä kaikilla paketeilla. API:n kautta luoduissa kyselyissä säilyy nykyinen oletusasetus.
+- **Vaadi sähköpostiosoite** on oletuksena käytössä uusissa Kinpalssä luomissasi kyselyissä kaikilla paketeilla. API:n kautta luoduissa kyselyissä säilyy nykyinen oletusasetus.
 - Osallistujat voivat napsauttaa sähköpostikentän vieressä olevaa **Miksi?**-linkkiä nähdäkseen, mitä hyötyä sähköpostiosoitteen antamisesta on.
 - Olemassa olevien kyselyiden nykyinen asetus säilyy.
 
 Jos haluat, että ihmiset voivat vastata pelkällä nimellään, esimerkiksi ryhmäkeskustelussa tehtävässä nopeassa kyselyssä, poista **Vaadi sähköpostiosoite** käytöstä kohdassa **Asetukset**, kun luot kyselyn tai muokkaat sitä.
 
-Jos sinulla on palautetta, kuulisin siitä mielelläni osoitteessa [feedback@rallly.co](mailto:feedback@rallly.co).
+Jos sinulla on palautetta, kuulisin siitä mielelläni osoitteessa [feedback@kinpal.com](mailto:feedback@kinpal.com).
 
 Mukavia ajankohtien sopimisia :)

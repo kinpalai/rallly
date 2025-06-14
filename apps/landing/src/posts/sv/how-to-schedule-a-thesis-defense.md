@@ -39,23 +39,23 @@ Sprid ut alternativen över olika dagar i stället för att ange varje timme und
 
 ## Så skapar du förfrågan
 
-Vilken förfrågan som helst för schemaläggning fungerar. De här stegen använder [Rallly](/scheduling-for/thesis-defense), som är gratis och inte kräver att kommittén skapar konton.
+Vilken förfrågan som helst för schemaläggning fungerar. De här stegen använder [Kinpal](/scheduling-for/thesis-defense), som är gratis och inte kräver att kommittén skapar konton.
 
-1. Logga in på Rallly och gå till [Create a poll](https://app.rallly.co/new). Ett gratiskonto räcker, och du behöver ett konto för att slutföra datumet.
+1. Logga in på Kinpal och gå till [Create a poll](https://app.kinpal.com/new). Ett gratiskonto räcker, och du behöver ett konto för att slutföra datumet.
 2. Lägg till en titel, till exempel "Doktorsdisputation, biologi, april". Alla som har länken kan se titeln och beskrivningen, så ta inte med avhandlingstitlar som omfattas av embargo.
-3. Klicka på **Add location** eller på **Add video call** om du vill att Rallly ska skapa en Google Meet-, Zoom-, Microsoft Teams- eller Webex-länk när du slutför förfrågan. Du måste först ansluta tjänsten under **Settings**.
-4. Klicka på **Add description** och skriv hur länge evenemanget pågår och vilket datum deltagarna senast ska svara. Rallly tillämpar inte detta datum, så du behöver själv följa upp.
+3. Klicka på **Add location** eller på **Add video call** om du vill att Kinpal ska skapa en Google Meet-, Zoom-, Microsoft Teams- eller Webex-länk när du slutför förfrågan. Du måste först ansluta tjänsten under **Settings**.
+4. Klicka på **Add description** och skriv hur länge evenemanget pågår och vilket datum deltagarna senast ska svara. Kinpal tillämpar inte detta datum, så du behöver själv följa upp.
 5. Ställ in **Duration** och välj dina alternativ i kalendern.
 6. Låt **Require email** vara aktiverat så att alla kan få kalenderinbjudan, och behåll **Vote options** med alternativen ja, om det behövs och nej.
 7. Klicka på **Create poll**.
 
-![Det nya formuläret för en förfrågan i Rallly med en titel, två timmars längd och tre valda datum](/static/images/thesis-defense/create-poll.png)
+![Det nya formuläret för en förfrågan i Kinpal med en titel, två timmars längd och tre valda datum](/static/images/thesis-defense/create-poll.png)
 
 ### Om du har en extern opponent
 
 En extern opponent är ofta den svåraste personen att schemalägga. Hen finns inte i universitetets kalender och kan befinna sig flera tidszoner bort.
 
-Rallly visar alternativen för varje person i hens egen tidszon, så ingen behöver räkna om tider. Ta med några alternativ som infaller under den externa opponentens arbetsdag och var försiktig under veckorna när klockorna ställs om, eftersom länder ändrar tiden på olika datum. Opponenten kan svara via länken utan ett konto.
+Kinpal visar alternativen för varje person i hens egen tidszon, så ingen behöver räkna om tider. Ta med några alternativ som infaller under den externa opponentens arbetsdag och var försiktig under veckorna när klockorna ställs om, eftersom länder ändrar tiden på olika datum. Opponenten kan svara via länken utan ett konto.
 
 ## Dela förfrågan och följ upp
 
@@ -69,7 +69,7 @@ Ge deltagarna en vecka att svara och kontakta alla som inte har svarat efter tre
 
 ## Slutför datumet
 
-Klicka på **Finalize** så listar Rallly dina alternativ med det som har bäst stöd först. Välj datum och vilka som ska meddelas. Alla du väljer får ett e-postmeddelande med en kalenderinbjudan, inklusive länken till videosamtalet om du har lagt till en sådan. Boka rummet samma dag.
+Klicka på **Finalize** så listar Kinpal dina alternativ med det som har bäst stöd först. Välj datum och vilka som ska meddelas. Alla du väljer får ett e-postmeddelande med en kalenderinbjudan, inklusive länken till videosamtalet om du har lagt till en sådan. Boka rummet samma dag.
 
 ![Dialogrutan Finalize med varje alternativ och hur många personer som kan delta](/static/images/thesis-defense/finalize.png)
 
@@ -92,8 +92,8 @@ Fyra personer svarar inom tre dagar och hon skickar ett e-postmeddelande till de
 <PostFaq>
   <FaqItem question="Hur långt i förväg bör du schemalägga en disputation?">Skicka förfrågan minst fyra veckor före det tidigaste möjliga datumet och ännu tidigare om kommittén är stor. Programmets varseltider kan kräva mer tid.</FaqItem>
   <FaqItem question="Hur många datum bör du erbjuda?">Mellan 5 och 10, utspridda över olika dagar. Du kan lägga till fler senare om inget av dem fungerar.</FaqItem>
-  <FaqItem question="Vad gör jag om en kommittémedlem inte svarar?">Kontakta personen direkt efter tre dagar. Om du använder e-postinbjudningar, som ingår i Rallly Pro, kan du se vem som har öppnat förfrågan och vem som har svarat.</FaqItem>
-  <FaqItem question="Behöver kommittémedlemmarna ett Rallly-konto?">Nej. De öppnar länken, anger sitt namn och sin e-postadress och väljer de tider som fungerar.</FaqItem>
+  <FaqItem question="Vad gör jag om en kommittémedlem inte svarar?">Kontakta personen direkt efter tre dagar. Om du använder e-postinbjudningar, som ingår i Kinpal Pro, kan du se vem som har öppnat förfrågan och vem som har svarat.</FaqItem>
+  <FaqItem question="Behöver kommittémedlemmarna ett Kinpal-konto?">Nej. De öppnar länken, anger sitt namn och sin e-postadress och väljer de tider som fungerar.</FaqItem>
   <FaqItem question="Kan en samordnare schemalägga en disputation åt en student?">Ja. Skapa förfrågan själv och ta med doktoranden bland personerna som ska svara. Svaren kommer till dig och du fastställer det slutliga datumet.</FaqItem>
-  <FaqItem question="Är Rallly gratis för detta?">Ja. Det är gratis att skapa förfrågningar, samla in svar och slutföra dem. Ett gratiskonto kan ha tre öppna förfrågningar åt gången, och Rallly Pro tar bort den begränsningen.</FaqItem>
+  <FaqItem question="Är Kinpal gratis för detta?">Ja. Det är gratis att skapa förfrågningar, samla in svar och slutföra dem. Ett gratiskonto kan ha tre öppna förfrågningar åt gången, och Kinpal Pro tar bort den begränsningen.</FaqItem>
 </PostFaq>

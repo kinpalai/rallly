@@ -7,7 +7,7 @@ excerpt: >-
   disponibilidad sea evidente de un vistazo.
 ---
 
-La mayoría de las personas que responden a una encuesta de Rallly lo hacen desde el móvil, a menudo pocos minutos después de recibir el enlace de invitación. Ese momento es el centro del producto, así que cuando nos dicen que algo genera confusión, les escuchamos.
+La mayoría de las personas que responden a una encuesta de Kinpal lo hacen desde el móvil, a menudo pocos minutos después de recibir el enlace de invitación. Ese momento es el centro del producto, así que cuando nos dicen que algo genera confusión, les escuchamos.
 
 Y sí, nos lo dijisteis. Algunas personas nos contaron que la antigua interfaz de votación no era lo bastante clara. El pequeño botón «?» junto a cada hora era fácil de pasar por alto, y algunos participantes pulsaban Continuar esperando elegir sus horas en la página siguiente, solo para descubrir que habían respondido accidentalmente «No» a todo.
 
@@ -33,4 +33,4 @@ Los nuevos controles cumplen los tamaños recomendados por Apple para las zonas 
 
 Nada ha cambiado en tus encuestas ni respuestas existentes. Es simplemente una forma mejor de hacer lo mismo.
 
-Como siempre, si algo no te convence o tienes alguna idea para que votar sea aún más sencillo, [dínoslo](mailto:support@rallly.co). Esta actualización empezó con los comentarios de personas usuarias como tú.
+Como siempre, si algo no te convence o tienes alguna idea para que votar sea aún más sencillo, [dínoslo](mailto:support@kinpal.com). Esta actualización empezó con los comentarios de personas usuarias como tú.

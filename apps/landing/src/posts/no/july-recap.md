@@ -8,7 +8,7 @@ excerpt: >-
 ---
 
 Wow, som tiden flyr!
-Det er over en måned siden [lanseringen av Rallly Pro](/blog/rallly-pro-launch).
+Det er over en måned siden [lanseringen av Kinpal Pro](/blog/rallly-pro-launch).
 En hjertelig takk til hver og én av dere som har abonnert – støtten deres betyr mye.
 Det å vite at det jeg har bygget, har verdi, gir meg et stort motivasjonsløft og inspirerer meg til å flytte grensene enda lenger!
 
@@ -25,21 +25,21 @@ Du kan holde deltakernes detaljer private ved å skjule deltakerlisten, eller un
 
 **Oppdatert tabellvisning** – Tabellvisningen har blitt grundig oppdatert for å gjøre den mer lettlest. Det er langt mindre gjentakelse og rot, noe som gjør det enklere å jobbe med lange lister over alternativer.
 
-## Skaff deg Rallly Pro til lanseringspris
+## Skaff deg Kinpal Pro til lanseringspris
 
-Hvis du ikke har blitt med ennå, kan du fortsatt få Rallly Pro til lanseringsprisen.
+Hvis du ikke har blitt med ennå, kan du fortsatt få Kinpal Pro til lanseringsprisen.
 **Som tidlig bruker blir du ikke påvirket av fremtidige prisøkninger**, så du vil få betydelig lavere priser når flere funksjoner blir lagt til.
 
-Klar for Pro? Du kan oppgradere fra [faktureringssiden](https://app.rallly.co/settings/billing).
+Klar for Pro? Du kan oppgradere fra [faktureringssiden](https://app.kinpal.com/settings/billing).
 
 ### Prisoppdateringer
 
 Dagens pris er omtrent tre til fire ganger lavere enn hos konkurrentene i samme marked.
-Målet mitt er etter hvert å prise Rallly Pro på linje med lignende produkter, men jeg kommer til å justere prisen trinnvis etter hvert som flere funksjoner lanseres. Neste trinn blir **$7/måned** eller **$42/år**.
+Målet mitt er etter hvert å prise Kinpal Pro på linje med lignende produkter, men jeg kommer til å justere prisen trinnvis etter hvert som flere funksjoner lanseres. Neste trinn blir **$7/måned** eller **$42/år**.
 De oppdaterte prisene trer i kraft **1. september 2023** (så du har frem til da på å sikre deg dagens pris).
 
 ## Takk
 
-Til alle abonnentene og støttespillerne som gjør det mulig for meg å fortsette arbeidet med Rallly.
+Til alle abonnentene og støttespillerne som gjør det mulig for meg å fortsette arbeidet med Kinpal.
 
 Hilsen!

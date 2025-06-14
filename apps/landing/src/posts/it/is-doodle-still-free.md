@@ -100,12 +100,12 @@ Smette di funzionare se ti serve più di un sondaggio, ad esempio per una riunio
 
 ## Se ti serve solo un sondaggio per trovare un orario
 
-È qui che entra in gioco [Rallly](https://rallly.co). Fa una cosa sola: proponi alcuni orari, condividi un link e tutti votano quelli che vanno bene. Ecco il confronto tra i piani gratuiti:
+È qui che entra in gioco [Kinpal](https://kinpal.com). Fa una cosa sola: proponi alcuni orari, condividi un link e tutti votano quelli che vanno bene. Ecco il confronto tra i piani gratuiti:
 
 <div className="overflow-x-auto">
 <table>
 <thead>
-<tr><th></th><th>Doodle Free</th><th>Rallly Free</th></tr>
+<tr><th></th><th>Doodle Free</th><th>Kinpal Free</th></tr>
 </thead>
 <tbody>
 <tr><td>Sondaggi di gruppo</td><td>1</td><td>Illimitati, fino a 3 aperti contemporaneamente</td></tr>
@@ -116,15 +116,15 @@ Smette di funzionare se ti serve più di un sondaggio, ad esempio per una riunio
 </table>
 </div>
 
-Su Rallly, i partecipanti votano usando solo il link e non hanno mai bisogno di un account. Tutti vedono le opzioni nel proprio fuso orario, e concludere il sondaggio e avvisare tutti è gratuito.
+Su Kinpal, i partecipanti votano usando solo il link e non hanno mai bisogno di un account. Tutti vedono le opzioni nel proprio fuso orario, e concludere il sondaggio e avvisare tutti è gratuito.
 
-Per essere altrettanto trasparenti sui nostri limiti: con il piano gratuito di Rallly puoi creare tutti i sondaggi che vuoi, ma al massimo 3 possono essere aperti e raccogliere voti contemporaneamente. Concludine o chiudine uno e potrai aprirne un altro. Senza registrarti, puoi avere 1 sondaggio aperto alla volta e vale la stessa regola: concludilo o chiudilo per aprirne un altro. I sondaggi gratuiti vengono eliminati quando tutte le loro date risalgono ad almeno 30 giorni fa e nessuno li ha modificati, ha votato o ha lasciato commenti negli ultimi 30 giorni.
+Per essere altrettanto trasparenti sui nostri limiti: con il piano gratuito di Kinpal puoi creare tutti i sondaggi che vuoi, ma al massimo 3 possono essere aperti e raccogliere voti contemporaneamente. Concludine o chiudine uno e potrai aprirne un altro. Senza registrarti, puoi avere 1 sondaggio aperto alla volta e vale la stessa regola: concludilo o chiudilo per aprirne un altro. I sondaggi gratuiti vengono eliminati quando tutte le loro date risalgono ad almeno 30 giorni fa e nessuno li ha modificati, ha votato o ha lasciato commenti negli ultimi 30 giorni.
 
-Rallly è anche [open source](https://github.com/lukevella/rallly), quindi puoi controllare esattamente come funziona e persino ospitarlo sul tuo server.
+Kinpal è anche [open source](https://github.com/lukevella/rallly), quindi puoi controllare esattamente come funziona e persino ospitarlo sul tuo server.
 
-Rallly guadagna grazie a [Rallly Pro](https://rallly.co/pricing), che aggiunge funzioni utili se lo usi professionalmente, come sondaggi aperti illimitati, branding personalizzato e sondaggi che rimangono disponibili a tempo indeterminato. È questo che permette di mantenere gratuito il piano gratuito, senza annunci, per tutti gli altri.
+Kinpal guadagna grazie a [Kinpal Pro](https://kinpal.com/pricing), che aggiunge funzioni utili se lo usi professionalmente, come sondaggi aperti illimitati, branding personalizzato e sondaggi che rimangono disponibili a tempo indeterminato. È questo che permette di mantenere gratuito il piano gratuito, senza annunci, per tutti gli altri.
 
-Se vuoi un confronto funzione per funzione, consulta [il confronto tra Rallly e Doodle](https://rallly.co/best-doodle-alternative).
+Se vuoi un confronto funzione per funzione, consulta [il confronto tra Kinpal e Doodle](https://kinpal.com/best-doodle-alternative).
 
 ## Domande frequenti
 
@@ -154,10 +154,10 @@ Al momento no. Doodle ha sospeso le sue app per iOS e Android a giugno 2025 ment
 
 ### Esiste un'alternativa gratuita a Doodle?
 
-Sì. [Rallly](https://rallly.co) è un sondaggio open source gratuito per trovare un orario, senza annunci. Puoi creare tutti i sondaggi che vuoi, con un massimo di 3 aperti contemporaneamente, e i partecipanti votano senza un account.
+Sì. [Kinpal](https://kinpal.com) è un sondaggio open source gratuito per trovare un orario, senza annunci. Puoi creare tutti i sondaggi che vuoi, con un massimo di 3 aperti contemporaneamente, e i partecipanti votano senza un account.
 
 ## In sintesi
 
 Doodle è ancora gratuito, ma solo per un sondaggio con 10 opzioni e con gli annunci. Se è tutto ciò di cui hai bisogno, è una scelta valida. Se non lo è, non devi pagare solo per trovare un orario adatto a tutti.
 
-[Crea un sondaggio](https://app.rallly.co/new) subito. Ci vuole circa un minuto e nessuno deve registrarsi.
+[Crea un sondaggio](https://app.kinpal.com/new) subito. Ci vuole circa un minuto e nessuno deve registrarsi.

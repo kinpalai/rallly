@@ -3,19 +3,19 @@ title: Saját márkázás saját üzemeltetésű példányokhoz
 date: '2026-01-15'
 category: Self-hosting
 excerpt: >-
-  Szabd személyre Rallly-példányodat saját márkád arculatával, színeivel és
+  Szabd személyre Kinpal-példányodat saját márkád arculatával, színeivel és
   logóival.
 ---
 
-Örömmel jelentem be, hogy mostantól elérhető a saját márkázás a saját üzemeltetésű Rallly-példányokhoz.
+Örömmel jelentem be, hogy mostantól elérhető a saját márkázás a saját üzemeltetésű Kinpal-példányokhoz.
 
-![Példa saját márkázásra](https://support.rallly.co/images/self-hosting/whitelabel-splash.webp)
+![Példa saját márkázásra](https://support.kinpal.com/images/self-hosting/whitelabel-splash.webp)
 
-Ezt a funkciót egy vállalati ügyfél kérésére készítettük el, akinek arra volt szüksége, hogy Rallly-telepítése zökkenőmentesen illeszkedjen meglévő márkaarculatához. Mostantól opcionális kiegészítőként minden Enterprise-licenccel rendelkező ügyfél számára elérhető.
+Ezt a funkciót egy vállalati ügyfél kérésére készítettük el, akinek arra volt szüksége, hogy Kinpal-telepítése zökkenőmentesen illeszkedjen meglévő márkaarculatához. Mostantól opcionális kiegészítőként minden Enterprise-licenccel rendelkező ügyfél számára elérhető.
 
-Ha követted a fejlesztéseket, talán emlékszel rá, hogy nemrég hozzáadtam a [sötét mód támogatását](/blog/introducing-dark-mode), és megemlítettem, hogy hamarosan érkeznek a témázási lehetőségek. A saját márkázás ennek a munkának az eredménye. Mostantól személyre szabhatod a példányod nevét, elsődleges színeit (világos és sötét módban egyaránt), logóit, és teljesen eltávolíthatod a Rallly megjelölését.
+Ha követted a fejlesztéseket, talán emlékszel rá, hogy nemrég hozzáadtam a [sötét mód támogatását](/blog/introducing-dark-mode), és megemlítettem, hogy hamarosan érkeznek a témázási lehetőségek. A saját márkázás ennek a munkának az eredménye. Mostantól személyre szabhatod a példányod nevét, elsődleges színeit (világos és sötét módban egyaránt), logóit, és teljesen eltávolíthatod a Kinpal megjelölését.
 
-A technikai részletekért és a konfigurációs lehetőségekért tekintsd meg a [saját márkázás dokumentációját](https://support.rallly.co/self-hosting/white-labeling).
+A technikai részletekért és a konfigurációs lehetőségekért tekintsd meg a [saját márkázás dokumentációját](https://support.kinpal.com/self-hosting/white-labeling).
 
 ## Miért vállalati kiegészítő?
 

@@ -2,18 +2,18 @@
 title: White labeling til selvhostede instanser
 date: '2026-01-15'
 category: Self-hosting
-excerpt: 'Tilpas din Rallly-instans med dit eget brand, dine egne farver og logoer.'
+excerpt: 'Tilpas din Kinpal-instans med dit eget brand, dine egne farver og logoer.'
 ---
 
-Jeg er glad for at kunne annoncere, at white labeling nu er tilgængeligt for selvhostede Rallly-instanser.
+Jeg er glad for at kunne annoncere, at white labeling nu er tilgængeligt for selvhostede Kinpal-instanser.
 
-![Eksempel på white labeling](https://support.rallly.co/images/self-hosting/whitelabel-splash.webp)
+![Eksempel på white labeling](https://support.kinpal.com/images/self-hosting/whitelabel-splash.webp)
 
-Denne funktion blev udviklet som svar på en forespørgsel fra en erhvervskunde, der havde brug for, at deres Rallly-installation kunne integreres problemfrit med deres eksisterende brand. Den er nu tilgængelig som en valgfri tilføjelse for alle indehavere af en Enterprise-licens.
+Denne funktion blev udviklet som svar på en forespørgsel fra en erhvervskunde, der havde brug for, at deres Kinpal-installation kunne integreres problemfrit med deres eksisterende brand. Den er nu tilgængelig som en valgfri tilføjelse for alle indehavere af en Enterprise-licens.
 
-Hvis du har fulgt med, husker du måske, at jeg for nylig tilføjede [understøttelse af mørk tilstand](/blog/introducing-dark-mode) og nævnte, at temamuligheder var på vej. White labeling er resultatet af det arbejde. Du kan nu tilpasse din instans' navn, primærfarver for både lys og mørk tilstand, logoer og fjerne Rallly-krediteringen helt.
+Hvis du har fulgt med, husker du måske, at jeg for nylig tilføjede [understøttelse af mørk tilstand](/blog/introducing-dark-mode) og nævnte, at temamuligheder var på vej. White labeling er resultatet af det arbejde. Du kan nu tilpasse din instans' navn, primærfarver for både lys og mørk tilstand, logoer og fjerne Kinpal-krediteringen helt.
 
-Du kan finde tekniske detaljer og konfigurationsmuligheder i [dokumentationen om white labeling](https://support.rallly.co/self-hosting/white-labeling).
+Du kan finde tekniske detaljer og konfigurationsmuligheder i [dokumentationen om white labeling](https://support.kinpal.com/self-hosting/white-labeling).
 
 ## Hvorfor en Enterprise-tilføjelse?
 

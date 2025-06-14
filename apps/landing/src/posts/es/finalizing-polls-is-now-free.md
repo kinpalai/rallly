@@ -7,7 +7,7 @@ excerpt: >-
   todo el mundo con cualquier plan. Esto es lo que cambia y por qué.
 ---
 
-Cuando lancé [Rallly Pro](/blog/introducing-rallly-pro), finalizar una encuesta era la función estrella. Elige una fecha, envía las invitaciones de calendario y listo. Ahora es gratis para todo el mundo.
+Cuando lancé [Kinpal Pro](/blog/introducing-rallly-pro), finalizar una encuesta era la función estrella. Elige una fecha, envía las invitaciones de calendario y listo. Ahora es gratis para todo el mundo.
 
 ## Finaliza con cualquier plan
 
@@ -25,9 +25,9 @@ Todas las personas que selecciones recibirán un correo electrónico con una inv
 
 ## Por qué hago este cambio
 
-Este año he dedicado mucho tiempo a pensar en cómo sería un modelo de precios justo para Rallly. Quiero que Rallly siga siendo realmente útil de forma gratuita, porque así es como la mayoría de la gente lo descubre y como se extiende. Alguien organiza una cena, sus amigos votan y algunos de ellos empiezan a usarlo para sus propios planes. Pero también necesito que Rallly sea sostenible para poder seguir trabajando en él y ofreciendo mejoras.
+Este año he dedicado mucho tiempo a pensar en cómo sería un modelo de precios justo para Kinpal. Quiero que Kinpal siga siendo realmente útil de forma gratuita, porque así es como la mayoría de la gente lo descubre y como se extiende. Alguien organiza una cena, sus amigos votan y algunos de ellos empiezan a usarlo para sus propios planes. Pero también necesito que Kinpal sea sostenible para poder seguir trabajando en él y ofreciendo mejoras.
 
-Nunca me ha parecido bien cobrar por finalizar. Es el paso que convierte una encuesta en un evento real y, sin él, el plan gratuito se quedaba a las puertas de cumplir su función. Las personas que más partido sacan a Rallly son las que lo usan para organizar muchas cosas, a menudo como parte de su trabajo, así que ahí es donde prefiero poner el límite.
+Nunca me ha parecido bien cobrar por finalizar. Es el paso que convierte una encuesta en un evento real y, sin él, el plan gratuito se quedaba a las puertas de cumplir su función. Las personas que más partido sacan a Kinpal son las que lo usan para organizar muchas cosas, a menudo como parte de su trabajo, así que ahí es donde prefiero poner el límite.
 
 ## Límites de encuestas abiertas
 
@@ -35,13 +35,13 @@ A partir de ahora, lo que diferencia a los planes es cuántas encuestas puedes t
 
 Puedes seguir creando tantas encuestas como quieras y no hay límite de participantes ni de opciones. Una encuesta deja de contar en cuanto la finalizas o la cierras, y se cierra automáticamente cuando ya han pasado sus fechas. Si organizas alguna reunión de equipo o quedada de vez en cuando, probablemente ni lo notarás.
 
-Si tienes varias encuestas activas a la vez, Pro elimina el límite y te ofrece todo lo demás que incluye Pro, como invitaciones por correo electrónico y personalización de marca. Todas las suscripciones se destinan directamente a seguir desarrollando Rallly.
+Si tienes varias encuestas activas a la vez, Pro elimina el límite y te ofrece todo lo demás que incluye Pro, como invitaciones por correo electrónico y personalización de marca. Todas las suscripciones se destinan directamente a seguir desarrollando Kinpal.
 
 ## Qué viene después
 
-Esto forma parte de un esfuerzo mayor para mejorar Rallly para todo el mundo, pagues o no. El objetivo a largo plazo es ofrecer un plan gratuito en el que puedas probar todo lo que Rallly tiene para ofrecer, y que Pro esté ahí cuando organices reuniones con una frecuencia que haga que merezca la pena.
+Esto forma parte de un esfuerzo mayor para mejorar Kinpal para todo el mundo, pagues o no. El objetivo a largo plazo es ofrecer un plan gratuito en el que puedas probar todo lo que Kinpal tiene para ofrecer, y que Pro esté ahí cuando organices reuniones con una frecuencia que haga que merezca la pena.
 
-Seguiré muy de cerca cómo funcionan estos cambios y los ajustaré si algo no funciona. Si el límite te supone un problema o tienes alguna opinión sobre cómo deberían funcionar los precios, me encantará saber de ti en [feedback@rallly.co](mailto:feedback@rallly.co).
+Seguiré muy de cerca cómo funcionan estos cambios y los ajustaré si algo no funciona. Si el límite te supone un problema o tienes alguna opinión sobre cómo deberían funcionar los precios, me encantará saber de ti en [feedback@kinpal.com](mailto:feedback@kinpal.com).
 
 Gracias por tu apoyo continuo.
 
