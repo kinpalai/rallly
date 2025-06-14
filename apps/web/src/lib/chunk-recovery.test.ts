@@ -37,9 +37,9 @@ describe("summarizeStaticAssets", () => {
       summarizeStaticAssets([
         {
           ...entry,
-          name: "https://static.rallly.co/_next/static/immutable/chunks/2j4m7ciojig3r.js",
+          name: "https://static.kinpal.com/_next/static/immutable/chunks/2j4m7ciojig3r.js",
         },
-        { ...entry, name: "https://b.rallly.co/decide" },
+        { ...entry, name: "https://b.kinpal.com/decide" },
       ]),
     ).toEqual([
       {
@@ -60,12 +60,12 @@ describe("summarizeStaticAssets", () => {
 describe("staticAssetUrls", () => {
   it("keeps each Next static asset once", () => {
     const chunk =
-      "https://static.rallly.co/_next/static/immutable/chunks/2dixsi-13gzup.js";
+      "https://static.kinpal.com/_next/static/immutable/chunks/2dixsi-13gzup.js";
     expect(
       staticAssetUrls([
         { name: chunk },
         { name: chunk },
-        { name: "https://b.rallly.co/decide" },
+        { name: "https://b.kinpal.com/decide" },
       ]),
     ).toEqual([chunk]);
   });
@@ -75,7 +75,7 @@ describe("reloadOnceForChunkError", () => {
   const reload = vi.fn();
   const fetch = vi.fn();
   const chunk =
-    "https://static.rallly.co/_next/static/immutable/chunks/2dixsi-13gzup.js";
+    "https://static.kinpal.com/_next/static/immutable/chunks/2dixsi-13gzup.js";
 
   beforeEach(() => {
     vi.useFakeTimers();

@@ -8,7 +8,7 @@
   "branding": "Marchio",
   "cancelSubscription": "Come annullo il mio abbonamento?",
   "cancelSubscriptionAnswer": "È possibile annullare l'abbonamento in qualsiasi momento accedendo alle <a>impostazioni di fatturazione</a>. Una volta annullato l'abbonamento, si avrà ancora accesso al piano a pagamento fino alla fine del periodo di fatturazione. Dopodiché, sarete declassati a un piano gratuito.",
-  "canUseFree": "Posso usare Rallly gratuitamente?",
+  "canUseFree": "Posso usare Kinpal gratuitamente?",
   "canUseFreeAnswer3": "Sì. Il piano gratuito non è una prova. Puoi creare tutti i sondaggi che vuoi, invitare tutti i partecipanti che vuoi e usarlo per tutto il tempo che vuoi, senza pagare né inserire una carta. I piani a pagamento aggiungono funzionalità extra come la conservazione illimitata dei sondaggi e la personalizzazione del marchio, ma non ti verrà mai chiesto di pagare per continuare a usare le funzioni di base.",
   "canUseFreeAnswerOpenPollLimit": "Sì. Il piano gratuito non è una prova. Puoi creare tutti i sondaggi che vuoi, con fino a {count} aperti contemporaneamente, invitare tutti i partecipanti che vuoi e usarlo per tutto il tempo che desideri senza pagare né inserire una carta. I piani a pagamento aggiungono funzionalità extra come sondaggi aperti illimitati, conservazione indefinita dei sondaggi e personalizzazione del marchio, ma non ti verrà mai chiesto di pagare per continuare a usare le funzioni di base.",
   "compareFeature": "Funzionalità",
@@ -61,7 +61,7 @@
   "pricingTitle": "Prezzi",
   "recommended": "Consigliato",
   "removeAttribution": "Rimuovi attribuzione",
-  "removeAttributionBenefitDescription": "Nascondi \"Powered by Rallly\" ai tuoi partecipanti",
+  "removeAttributionBenefitDescription": "Nascondi \"Powered by Kinpal\" ai tuoi partecipanti",
   "teamCollaboration": "Collaborazione del team",
   "teamCollaborationDescription": "Invita il tuo team a gestire i sondaggi insieme",
   "thirtyDayPollRetention": "Conservazione dei sondaggi per 30 giorni",
@@ -70,6 +70,6 @@
   "webhooksDescription": "Notifica i tuoi sistemi quando i sondaggi e le risposte cambiano. <a>Leggi la documentazione sui webhook</a>",
   "whenPollInactive": "Quando un sondaggio diventa inattivo?",
   "whyUpgrade": "Perché dovrei aggiornare?",
-  "whyUpgradeAnswer2": "L'aggiornamento a un piano a pagamento ha senso se si utilizza Rallly spesso o per lavoro. Il piano di abbonamento attuale è un piano speciale per i primi utilizzatori e aumenterà in futuro. Aggiornando il piano ora, otterrai accesso anticipato a nuovi strumenti di programmazione di alta qualità appena verranno rilasciati, e bloccherai il prezzo del piano di abbonamento in modo che non subisca eventuali aumenti futuri.",
+  "whyUpgradeAnswer2": "L'aggiornamento a un piano a pagamento ha senso se si utilizza Kinpal spesso o per lavoro. Il piano di abbonamento attuale è un piano speciale per i primi utilizzatori e aumenterà in futuro. Aggiornando il piano ora, otterrai accesso anticipato a nuovi strumenti di programmazione di alta qualità appena verranno rilasciati, e bloccherai il prezzo del piano di abbonamento in modo che non subisca eventuali aumenti futuri.",
   "yearlySavePercent": "Risparmia il {percent}%"
 }

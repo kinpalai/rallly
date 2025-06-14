@@ -361,10 +361,10 @@ describe("createZoomUrlValidationResponse", () => {
 });
 
 describe("isEmailAllowlisted", () => {
-  const allowlist = "reviewer@zoom.example, Team@Rallly.co";
+  const allowlist = "reviewer@zoom.example, Team@Kinpal.co";
 
   it("matches a listed address regardless of case and spacing", () => {
-    expect(isEmailAllowlisted({ email: "team@rallly.co", allowlist })).toBe(
+    expect(isEmailAllowlisted({ email: "team@kinpal.com", allowlist })).toBe(
       true,
     );
     expect(

@@ -8,7 +8,7 @@
   "branding": "Brändäys",
   "cancelSubscription": "Miten perun tilaukseni?",
   "cancelSubscriptionAnswer": "Voit perua tilauksesi milloin vain <a>laskutusasetuksistasi</a>. Kun perut tilauksesi, maksullinen sopimuksesi säilyy laskutuskauden loppuun asti. Tämän jälkeen siirryt ilmaiseen sopimukseen.",
-  "canUseFree": "Voinko käyttää Ralllya ilmaiseksi?",
+  "canUseFree": "Voinko käyttää Kinpala ilmaiseksi?",
   "canUseFreeAnswer3": "Kyllä. Ilmainen tilaus ei ole kokeiluversio. Voit luoda niin monta kyselyä kuin haluat, kutsua niin monta osallistujaa kuin haluat ja käyttää sitä niin kauan kuin haluat maksamatta tai lisäämättä korttia. Maksulliset tilaukset tuovat lisäominaisuuksia, kuten kyselyiden säilyttämisen rajattomasti ja oman ilmeen, mutta sinulta ei koskaan pyydetä maksua perustoimintojen käytön jatkamisesta.",
   "canUseFreeAnswerOpenPollLimit": "Kyllä. Ilmainen tilaus ei ole kokeilu. Voit luoda niin monta kyselyä kuin haluat, jopa {count} voi olla avoinna samanaikaisesti, kutsua niin monta osallistujaa kuin haluat ja käyttää palvelua niin kauan kuin haluat ilman maksua tai kortin lisäämistä. Maksulliset tilaukset tuovat lisäominaisuuksia, kuten rajattoman määrän avoimia kyselyjä, kyselyjen säilyttämisen toistaiseksi ja oman ilmeen, mutta perustoimintojen käytöstä ei koskaan vaadita maksua.",
   "compareFeature": "Ominaisuus",
@@ -61,7 +61,7 @@
   "pricingTitle": "Hinnasto",
   "recommended": "Suositeltu",
   "removeAttribution": "Poista tekijämerkintä",
-  "removeAttributionBenefitDescription": "Piilota \"Powered by Rallly\" osallistujiltasi",
+  "removeAttributionBenefitDescription": "Piilota \"Powered by Kinpal\" osallistujiltasi",
   "teamCollaboration": "Tiimiyhteistyö",
   "teamCollaborationDescription": "Kutsu tiimisi hallinnoimaan kyselyitä yhdessä",
   "thirtyDayPollRetention": "Kyselyjen 30 päivän säilytys",
@@ -70,6 +70,6 @@
   "webhooksDescription": "Ilmoita omille järjestelmillesi, kun kyselyt tai vastaukset muuttuvat. <a>Lue webhook-dokumentaatio</a>",
   "whenPollInactive": "Milloin kyselystä tulee toimeton?",
   "whyUpgrade": "Miksi minun kannattaa vaihtaa maksulliseen sopimukseen?",
-  "whyUpgradeAnswer2": "Maksulliseen sopimukseen vaihtaminen on järkevää, jos käytät Ralllyä usein tai työn yhteydessä. Tällä hetkellä tilausmaksu on erityinen varhaisille tilaajille ja se nousee tulevaisuudessa. Kun vaihdat sopimuksesi nyt, saat varhaisen pääsyn uusiin, laadukkaisiin aikataulutyökaluihin heti kun ne julkaistaan ja lukitset tilausmaksusi, jolloin tulevat hinnankorotukset eivät kosketa sinua.",
+  "whyUpgradeAnswer2": "Maksulliseen sopimukseen vaihtaminen on järkevää, jos käytät Kinpalä usein tai työn yhteydessä. Tällä hetkellä tilausmaksu on erityinen varhaisille tilaajille ja se nousee tulevaisuudessa. Kun vaihdat sopimuksesi nyt, saat varhaisen pääsyn uusiin, laadukkaisiin aikataulutyökaluihin heti kun ne julkaistaan ja lukitset tilausmaksusi, jolloin tulevat hinnankorotukset eivät kosketa sinua.",
   "yearlySavePercent": "Säästä {percent} %"
 }

@@ -196,7 +196,7 @@ const { handler } = OAuthIntegration<Integration>({
           !env.MICROSOFT_CLIENT_SECRET ||
           // The rollout allowlist limits who connects. Approving the app for
           // an organization connects no one, and the administrator doing it
-          // is rarely on the list or signed in to Rallly.
+          // is rarely on the list or signed in to Kinpal.
           (flow === "connect" && !(await isAllowedForSession("teams")))
         ) {
           return null;

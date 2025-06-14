@@ -103,7 +103,7 @@ export function teamsMeetingToConferencing(
   };
 }
 
-// The meeting Rallly creates and deletes to check an account at connect time.
+// The meeting Kinpal creates and deletes to check an account at connect time.
 export const teamsMeetingProbeResponseSchema = z.object({
   id: z.string().min(1),
 });

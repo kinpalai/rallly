@@ -8,7 +8,7 @@
   "branding": "Varumärke",
   "cancelSubscription": "Hur avbryter jag min prenumeration?",
   "cancelSubscriptionAnswer": "Du kan när som helst avbryta din prenumeration genom att gå till dina <a>faktureringsinställningar</a>. När du avslutar din prenumeration har du fortfarande tillgång till din betalda plan fram till slutet av din faktureringsperiod. Efter det kommer du att nedgraderas till en gratis plan.",
-  "canUseFree": "Kan jag använda Rallly gratis?",
+  "canUseFree": "Kan jag använda Kinpal gratis?",
   "canUseFreeAnswer3": "Ja. Det kostnadsfria abonnemanget är ingen provperiod. Du kan skapa hur många omröstningar du vill, bjuda in hur många deltagare du vill och använda det så länge du vill, utan att betala eller lägga till ett kort. Betalda abonnemang lägger till extra funktioner som att spara omröstningar på obestämd tid och egen grafisk profil, men du kommer aldrig att ombes betala för att fortsätta använda grunderna.",
   "canUseFreeAnswerOpenPollLimit": "Ja. Det kostnadsfria abonnemanget är ingen provperiod. Du kan skapa hur många förfrågningar du vill, ha upp till {count} öppna samtidigt, bjuda in så många deltagare du vill och använda tjänsten så länge du vill utan att betala eller ange ett kort. Betalda abonnemang lägger till funktioner som obegränsat antal öppna förfrågningar, att spara förfrågningar på obestämd tid och egen grafisk profil, men du kommer aldrig att bli ombedd att betala för att fortsätta använda grundfunktionerna.",
   "compareFeature": "Funktion",
@@ -61,7 +61,7 @@
   "pricingTitle": "Priser",
   "recommended": "Rekommenderat",
   "removeAttribution": "Ta bort kreditering",
-  "removeAttributionBenefitDescription": "Dölj \"Powered by Rallly\" för dina deltagare",
+  "removeAttributionBenefitDescription": "Dölj \"Powered by Kinpal\" för dina deltagare",
   "teamCollaboration": "Teamarbete",
   "teamCollaborationDescription": "Bjud in ditt team att hantera omröstningar tillsammans",
   "thirtyDayPollRetention": "30 dagars lagring av förfrågningar",
@@ -70,6 +70,6 @@
   "webhooksDescription": "Meddela dina egna system när förfrågningar och svar ändras. <a>Läs webhookdokumentationen</a>",
   "whenPollInactive": "När blir en förfrågan inaktiv?",
   "whyUpgrade": "Varför ska jag uppgradera?",
-  "whyUpgradeAnswer2": "Att uppgradera till ett abonnemang är vettigt om du använder Rallly ofta eller använder det i arbetet. Den nuvarande abonnemangsavgiften är anpassad för tidiga användare och kommer att öka i framtiden. Genom att uppgradera nu får du tidig tillgång till nya, högkvalitativa schemaläggningsverktyg när de släpps och låser din abonnemanskostnad så att du inte påverkas av framtida prishöjningar.",
+  "whyUpgradeAnswer2": "Att uppgradera till ett abonnemang är vettigt om du använder Kinpal ofta eller använder det i arbetet. Den nuvarande abonnemangsavgiften är anpassad för tidiga användare och kommer att öka i framtiden. Genom att uppgradera nu får du tidig tillgång till nya, högkvalitativa schemaläggningsverktyg när de släpps och låser din abonnemanskostnad så att du inte påverkas av framtida prishöjningar.",
   "yearlySavePercent": "Spara {percent} %"
 }

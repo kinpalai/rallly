@@ -1,8 +1,8 @@
-# Rallly
+# Kinpal
 
-> Rallly is a group scheduling poll tool. The organizer proposes a few dates or times, shares a link, participants vote on when they can make it, and the organizer picks the final time and sends calendar invites. Participants never need an account. It is free to use, open source (AGPLv3) and can be self-hosted.
+> Kinpal is a group scheduling poll tool. The organizer proposes a few dates or times, shares a link, participants vote on when they can make it, and the organizer picks the final time and sends calendar invites. Participants never need an account. It is free to use, open source (AGPLv3) and can be self-hosted.
 
-Rallly is pronounced like "rally", spelled with three L's.
+Kinpal is pronounced like "rally", spelled with three L's.
 
 ## How it works
 
@@ -24,7 +24,7 @@ Rallly is pronounced like "rally", spelled with three L's.
 
 ## Pro plan
 
-Pro is $10 per seat per month, or $72 per seat per year (prices vary by currency; see https://rallly.co/pricing). Registered nonprofits get a discount. Pro adds:
+Pro is $10 per seat per month, or $72 per seat per year (prices vary by currency; see https://kinpal.com/pricing). Registered nonprofits get a discount. Pro adds:
 
 - Unlimited open polls, kept indefinitely
 - Email invites with per-person response tracking
@@ -32,33 +32,33 @@ Pro is $10 per seat per month, or $72 per seat per year (prices vary by currency
 - Require email, hide participant names, hide votes until someone has voted
 - Duplicate polls
 - Team collaboration in a shared space with seat-based billing
-- Custom branding and removing "Powered by Rallly"
+- Custom branding and removing "Powered by Kinpal"
 - REST API and webhooks
 
 ## Who uses it
 
-Rallly is mostly used by people who schedule meetings for groups that don't share a calendar: administrators and executive assistants scheduling committees and boards, schools and universities (including thesis defenses), nonprofits and volunteer groups, sports clubs, and legal teams. It is a group poll tool, not a one-on-one booking page.
+Kinpal is mostly used by people who schedule meetings for groups that don't share a calendar: administrators and executive assistants scheduling committees and boards, schools and universities (including thesis defenses), nonprofits and volunteer groups, sports clubs, and legal teams. It is a group poll tool, not a one-on-one booking page.
 
 ## Compared to alternatives
 
-- Doodle: Doodle's free plan is limited to one group poll and shows ads. Rallly's free plan has unlimited polls and no ads. https://rallly.co/best-doodle-alternative
-- When2meet: When2meet uses a drag-to-paint availability grid. Rallly uses tap-to-vote on a short list of proposed times, works well on phones, and notifies the organizer of new responses. https://rallly.co/when2meet-alternative
+- Doodle: Doodle's free plan is limited to one group poll and shows ads. Kinpal's free plan has unlimited polls and no ads. https://kinpal.com/best-doodle-alternative
+- When2meet: When2meet uses a drag-to-paint availability grid. Kinpal uses tap-to-vote on a short list of proposed times, works well on phones, and notifies the organizer of new responses. https://kinpal.com/when2meet-alternative
 
 ## Privacy and security
 
 - No ads, no advertising trackers, data is never sold
-- Service data is hosted in the United States; product analytics are processed in the European Union. A GDPR Article 28 Data Processing Agreement is published at https://rallly.co/dpa
-- Details: https://rallly.co/security
+- Service data is hosted in the United States; product analytics are processed in the European Union. A GDPR Article 28 Data Processing Agreement is published at https://kinpal.com/dpa
+- Details: https://kinpal.com/security
 
 ## Self-hosting
 
-Rallly is open source under AGPLv3 and runs with Docker. Self-hosted instances include the Pro features without a subscription; the license sets the number of seats, and white labeling is an Enterprise license add-on. Docs: https://support.rallly.co/self-hosting
+Kinpal is open source under AGPLv3 and runs with Docker. Self-hosted instances include the Pro features without a subscription; the license sets the number of seats, and white labeling is an Enterprise license add-on. Docs: https://support.kinpal.com/self-hosting
 
 ## Links
 
-- Website: https://rallly.co
-- Pricing: https://rallly.co/pricing
-- App: https://app.rallly.co
-- Docs and API reference: https://support.rallly.co
-- Blog: https://rallly.co/blog
+- Website: https://kinpal.com
+- Pricing: https://kinpal.com/pricing
+- App: https://app.kinpal.com
+- Docs and API reference: https://support.kinpal.com
+- Blog: https://kinpal.com/blog
 - Source: https://github.com/lukevella/rallly
