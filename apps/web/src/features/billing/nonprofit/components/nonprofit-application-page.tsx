@@ -144,7 +144,7 @@ function GrantedState({
         ) : (
           <Trans
             i18nKey="nonprofitGrantedHobby"
-            defaults="You get {percent}% off Rallly Pro when you upgrade."
+            defaults="You get {percent}% off Kinpal Pro when you upgrade."
             values={{ percent: NONPROFIT_DISCOUNT_PERCENT }}
           />
         )}
@@ -242,7 +242,7 @@ function ApplicationForm({
         <p className="text-pretty text-muted-foreground text-sm leading-relaxed">
           <Trans
             i18nKey="nonprofitApplyOffer"
-            defaults="Registered nonprofits get {percent}% off Rallly Pro."
+            defaults="Registered nonprofits get {percent}% off Kinpal Pro."
             values={{ percent: NONPROFIT_DISCOUNT_PERCENT }}
           />
         </p>

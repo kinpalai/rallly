@@ -27,10 +27,10 @@ const webhookPollSchema = (status: "open" | "closed" | "scheduled") =>
       timeZone: z.string().nullable().meta({ example: "Europe/London" }),
       adminUrl: z
         .string()
-        .meta({ example: "https://app.rallly.co/poll/Xk3pQ9vLm2Ab" }),
+        .meta({ example: "https://app.kinpal.com/poll/Xk3pQ9vLm2Ab" }),
       inviteUrl: z
         .string()
-        .meta({ example: "https://rallly.co/invite/Xk3pQ9vLm2Ab" }),
+        .meta({ example: "https://kinpal.com/invite/Xk3pQ9vLm2Ab" }),
     })
     .meta({ id: `WebhookPoll${status[0]?.toUpperCase()}${status.slice(1)}` });
 

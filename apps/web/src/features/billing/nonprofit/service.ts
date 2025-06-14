@@ -64,7 +64,7 @@ function getPinned(url: URL, pinned: ResolvedAddress) {
         timeout: FETCH_TIMEOUT_MS,
         headers: {
           accept: "text/html",
-          "user-agent": "Rallly nonprofit verifier (+https://rallly.co)",
+          "user-agent": "Kinpal nonprofit verifier (+https://kinpal.com)",
         },
         // net calls this with `all` when it wants every address; either way
         // it only ever gets the one we checked.

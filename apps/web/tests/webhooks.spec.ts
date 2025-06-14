@@ -176,9 +176,9 @@ test.describe("Webhook delivery", () => {
 
     expect(receiver.requests).toHaveLength(1);
     const [received] = receiver.requests;
-    expect(received?.headers["x-rallly-event"]).toBe("poll.closed");
+    expect(received?.headers["x-kinpal-event"]).toBe("poll.closed");
     expect(received?.headers["content-type"]).toBe("application/json");
-    const signature = received?.headers["x-rallly-signature"] as string;
+    const signature = received?.headers["x-kinpal-signature"] as string;
     expect(verifySignature(signature, received?.body ?? "")).toBe(true);
 
     const body = JSON.parse(received?.body ?? "{}");
@@ -206,7 +206,7 @@ test.describe("Webhook delivery", () => {
         },
       },
     });
-    expect(received?.headers["x-rallly-delivery"]).toBe(delivery.id);
+    expect(received?.headers["x-kinpal-delivery"]).toBe(delivery.id);
     expect(delivery.status).toBe("succeeded");
     expect(delivery.attempts).toBe(1);
     expect(delivery.lastResponseStatus).toBe(200);
