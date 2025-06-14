@@ -28,7 +28,7 @@ export function ConferencingEmptyState({ isAdmin }: { isAdmin: boolean }) {
         {isAdmin ? (
           <Trans
             i18nKey="conferencingEmptyStateAdminDescription"
-            defaults="Add the OAuth credentials of a video call provider to your configuration and restart Rallly."
+            defaults="Add the OAuth credentials of a video call provider to your configuration and restart Kinpal."
           />
         ) : (
           <Trans

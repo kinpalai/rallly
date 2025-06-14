@@ -1,12 +1,12 @@
 #!/usr/bin/env node
-// Merge guard for DPA section 6.3. Annex 2 on rallly.co/dpa renders from
+// Merge guard for DPA section 6.3. Annex 2 on kinpal.com/dpa renders from
 // SUBPROCESSORS_FILE, and 6.3 promises that a new or replacement
 // Sub-processor is listed at least 30 days before it first processes
 // Customer Data, with an email notice to every customer who asked for one.
 //
 // Subscribers are the Resend segment "Subprocessor notifications"
 // (97e2359e-7e1c-4f7f-95dc-48d35e271ad8). Requests arrive at
-// support@rallly.co with that subject; add the requester's address to the
+// support@kinpal.com with that subject; add the requester's address to the
 // segment. Notices go out as transactional email to each contact, never as a
 // broadcast: broadcasts carry an unsubscribe link, and honouring it would
 // silently break the contractual commitment.

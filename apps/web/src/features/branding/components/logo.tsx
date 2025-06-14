@@ -13,9 +13,11 @@ import { getInstanceBrandingConfig } from "@/features/branding/data";
 
 const sizes = {
   sm: {
+    width: 22,
     height: 22,
   },
   md: {
+    width: 32,
     height: 32,
   },
 };
@@ -77,6 +79,7 @@ export const Logo = async ({
         alt={env.APP_NAME}
         className="block h-full w-auto object-contain dark:hidden"
         style={{
+          width: sizes[size].width,
           height: sizes[size].height,
         }}
       />
@@ -86,6 +89,7 @@ export const Logo = async ({
         alt={env.APP_NAME}
         className="hidden h-full w-auto object-contain dark:block"
         style={{
+          width: sizes[size].width,
           height: sizes[size].height,
         }}
       />

@@ -13,14 +13,14 @@ dayjs.extend(timezone);
 /**
  * The six screenshots on the landing site's press kit page, written straight
  * into apps/landing/public/press/screenshots. Re-run after a UI change, then
- * rebuild rallly-press-kit.zip (see the README).
+ * rebuild kinpal-press-kit.zip (see the README).
  */
 
 const timeZone = "America/New_York";
 const pollId = "screenshot-press-kit";
 const organizer = {
   id: "screenshot-press-kit-user",
-  email: "press-kit@rallly.co",
+  email: "press-kit@kinpal.com",
   name: "Jessie Smith",
 };
 const spaceId = "screenshot-press-kit-space";

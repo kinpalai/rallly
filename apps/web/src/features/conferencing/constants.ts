@@ -18,7 +18,7 @@ export const enabledConferencingProviders: ConferencingProvider[] = (
 export const isConferencingEnabled = enabledConferencingProviders.length > 0;
 
 export const CONFERENCING_SETUP_DOCS_URL =
-  "https://support.rallly.co/self-hosting/conferencing";
+  "https://support.kinpal.com/self-hosting/conferencing";
 
 // Providers whose OAuth app is configured. Google Meet reuses the Google
 // OAuth app the calendars integration already needs, and Microsoft Teams the

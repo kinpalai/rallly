@@ -132,7 +132,7 @@ describe("buildUpdatesPayload", () => {
     expect(result.security).toBe(false);
     expect(result.newMajor).toEqual({
       version: "v4.15.1",
-      migrationGuideUrl: "https://support.rallly.co/self-hosting/migrate-to-v4",
+      migrationGuideUrl: "https://support.kinpal.com/self-hosting/migrate-to-v4",
       security: false,
       advisories: [],
     });

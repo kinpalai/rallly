@@ -44,7 +44,7 @@ export type UpdatesPayload = {
 // The fleet starts linking here the moment a new major's first release is
 // tagged — the guide must be published at this path before tagging.
 function getMigrationGuideUrl(major: number) {
-  return `https://support.rallly.co/self-hosting/migrate-to-v${major}`;
+  return `https://support.kinpal.com/self-hosting/migrate-to-v${major}`;
 }
 
 export function buildReleaseChannels(input: unknown): ReleaseChannels | null {
