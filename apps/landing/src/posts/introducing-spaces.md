@@ -45,6 +45,6 @@ Spaces represent my commitment to making Kinpal the best scheduling solution for
 
 ---
 
-Questions about Spaces? I'd love to hear your [feedback](mailto:feedback@rallly.co) and help you get set up!
+Questions about Spaces? I'd love to hear your [feedback](mailto:feedback@kinpal.com) and help you get set up!
 
 Happy scheduling!

@@ -157,7 +157,7 @@ export default async function LicensePage() {
                   </p>
                   <p className="mt-4 text-sm">
                     <a
-                      href="https://support.rallly.co/self-hosting/white-labeling"
+                      href="https://support.kinpal.com/self-hosting/white-labeling"
                       target="_blank"
                       rel="noreferrer"
                       className="text-link"

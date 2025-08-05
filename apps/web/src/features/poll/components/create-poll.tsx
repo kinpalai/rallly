@@ -128,7 +128,7 @@ export const CreatePoll: React.FunctionComponent = () => {
                   label: t("learnMore", { defaultValue: "Learn more" }),
                   onClick: () => {
                     window.open(
-                      "https://support.rallly.co/guide/content-moderation",
+                      "https://support.kinpal.com/guide/content-moderation",
                       "_blank",
                     );
                   },

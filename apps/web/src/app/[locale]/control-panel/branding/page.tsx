@@ -98,7 +98,7 @@ export default async function BrandingPage() {
               </p>
               <p>
                 <a
-                  href="https://support.rallly.co/self-hosting/white-labeling"
+                  href="https://support.kinpal.com/self-hosting/white-labeling"
                   target="_blank"
                   className="underline"
                   rel="noreferrer"

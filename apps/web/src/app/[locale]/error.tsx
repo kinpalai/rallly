@@ -111,7 +111,7 @@ export default function LocaleErrorBoundary({
         }
       />
       <ErrorPageLinkItem
-        href="https://support.rallly.co"
+        href="https://support.kinpal.com"
         icon={<LifeBuoyIcon className="size-4 text-muted-foreground" />}
         title={<Trans i18nKey="errorLinkSupport" defaults="Support" />}
         description={
@@ -122,7 +122,7 @@ export default function LocaleErrorBoundary({
         }
       />
       <ErrorPageLinkItem
-        href="https://github.com/lukevella/rallly"
+        href="https://github.com/opencompute/rallly"
         icon={<GithubIcon className="size-4 text-muted-foreground" />}
         title={<Trans i18nKey="errorLinkGithub" defaults="GitHub" />}
         description={

@@ -12,4 +12,4 @@ By default, Kinpal follows your system preferences so if your device is set to d
 
 This update is part of a larger effort to make Kinpal more customizable. You might notice some subtle changes to the app's appearance. I'm building theming capabilities that will let you customize colors and branding to match your company's visual identity. More on that soon.
 
-I'd love to hear what you think. Share your feedback at [feedback@rallly.co](mailto:feedback@rallly.co).
+I'd love to hear what you think. Share your feedback at [feedback@kinpal.com](mailto:feedback@kinpal.com).
