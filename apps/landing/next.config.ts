@@ -16,7 +16,7 @@ function createAppUrl(subpath: string) {
 const nextConfig: NextConfig = {
   cacheComponents: true,
   partialPrefetching: true,
-  allowedDevOrigins: [process.env.DEV_DOMAIN ?? "landing.rallly.localhost"],
+  allowedDevOrigins: [process.env.DEV_DOMAIN ?? "landing.kinpal.localhost"],
   productionBrowserSourceMaps: true,
   // Serves /_next/static from a CDN-cached host to keep the immutable
   // bundles off Vercel's bandwidth bill. Unset outside production.
