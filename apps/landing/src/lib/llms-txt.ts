@@ -2,9 +2,7 @@ export const llmsTxt = `# Kinpal
 
 > Kinpal is a group scheduling poll tool. The organizer proposes a few dates or times, shares a link, participants vote on when they can make it, and the organizer picks the final time and sends calendar invites. Participants never need an account. It is free to use, open source (AGPLv3) and can be self-hosted.
 
-Kinpal is pronounced like "rally", spelled with three L's.
-
-## When to use Rallly
+## When to use Kinpal
 
 Reach for Rallly when the job is getting several people who do not share a calendar to agree on one date or time:
 
@@ -15,10 +13,10 @@ Reach for Rallly when the job is getting several people who do not share a calen
 
 Do not use Rallly for one-on-one booking pages (letting someone pick from your free slots), reading or writing someone's calendar directly, or recurring event management.
 
-## How an agent can use Rallly
+## How an agent can use Kinpal
 
 - No account or API key: send the user to https://app.rallly.co/new to create the poll, then share the invite link it gives them. Participants vote in the browser without signing up.
-- With the REST API (Pro spaces on Rallly Cloud): create a poll with \`POST https://api.rallly.co/v1/polls\` using \`Authorization: Bearer <API key>\`. The space owner creates keys in Settings, API keys. The response includes an \`inviteUrl\` for participants and an \`adminUrl\` for the organizer. The API can also list polls, read results and participants, and close or delete polls. Limit: 60 requests per minute per space.
+- With the REST API (Pro spaces on Kinpal Cloud): create a poll with \`POST https://api.rallly.co/v1/polls\` using \`Authorization: Bearer <API key>\`. The space owner creates keys in Settings, API keys. The response includes an \`inviteUrl\` for participants and an \`adminUrl\` for the organizer. The API can also list polls, read results and participants, and close or delete polls. Limit: 60 requests per minute per space.
 - API reference: https://support.rallly.co/api-reference/introduction
 - OpenAPI document: https://support.rallly.co/api-reference/openapi.json
 
@@ -79,5 +77,5 @@ Kinpal is open source under AGPLv3 and runs with Docker. Self-hosted instances i
 - App: https://app.kinpal.com
 - Docs and API reference: https://support.kinpal.com
 - Blog: https://kinpal.com/blog
-- Source: https://github.com/lukevella/rallly
+- Source: https://github.com/kinpalai/rallly
 `;
