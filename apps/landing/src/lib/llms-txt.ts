@@ -2,8 +2,6 @@ export const llmsTxt = `# Kinpal
 
 > Kinpal is a group scheduling poll tool. The organizer proposes a few dates or times, shares a link, participants vote on when they can make it, and the organizer picks the final time and sends calendar invites. Participants never need an account. It is free to use, open source (AGPLv3) and can be self-hosted.
 
-Kinpal is pronounced like "rally", spelled with three L's.
-
 ## When to use Kinpal
 
 Reach for Kinpal when the job is getting several people who do not share a calendar to agree on one date or time:
@@ -79,5 +77,5 @@ Kinpal is open source under AGPLv3 and runs with Docker. Self-hosted instances i
 - App: https://app.kinpal.com
 - Docs and API reference: https://support.kinpal.com
 - Blog: https://kinpal.com/blog
-- Source: https://github.com/lukevella/rallly
+- Source: https://github.com/kinpalai/rallly
 `;
