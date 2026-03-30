@@ -15,7 +15,7 @@ function createAppUrl(subpath: string) {
 
 const nextConfig: NextConfig = {
   cacheComponents: true,
-  allowedDevOrigins: [process.env.DEV_DOMAIN ?? "landing.rallly.localhost"],
+  allowedDevOrigins: [process.env.DEV_DOMAIN ?? "landing.kinpal.localhost"],
   productionBrowserSourceMaps: true,
   transpilePackages: [
     "@rallly/ui",
