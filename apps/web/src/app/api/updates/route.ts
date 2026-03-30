@@ -10,7 +10,7 @@ import { createRatelimit } from "@/lib/rate-limit";
 const logger = createLogger("api/updates");
 
 const GITHUB_RELEASES_URL =
-  "https://api.github.com/repos/lukevella/rallly/releases/latest";
+  "https://api.github.com/repos/opencompute/rallly/releases/latest";
 
 const upstreamSchema = z.object({
   tag_name: z.string().min(1),
@@ -40,7 +40,7 @@ async function fetchLatestRelease(): Promise<UpdatesPayload | null> {
   const res = await fetch(GITHUB_RELEASES_URL, {
     headers: {
       Accept: "application/vnd.github+json",
-      "User-Agent": "Rallly",
+      "User-Agent": "Kinpal",
     },
   });
   if (!res.ok) return null;

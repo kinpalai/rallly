@@ -1,5 +1,5 @@
 services:
-  rallly_db:
+  kinpal_db:
     image: postgres:18-alpine
     restart: always
     ports:

@@ -1582,25 +1582,25 @@ export const scheduledEvents: ScheduledEventDef[] = [
     invites: [
       {
         inviteeName: "Sarah Chen",
-        inviteeEmail: "sarah@rallly.co",
+        inviteeEmail: "sarah@kinpal.com",
         inviteeId: "user-2",
         status: "accepted",
       },
       {
         inviteeName: "Michael Torres",
-        inviteeEmail: "michael@rallly.co",
+        inviteeEmail: "michael@kinpal.com",
         inviteeId: "user-3",
         status: "accepted",
       },
       {
         inviteeName: "Emily Nakamura",
-        inviteeEmail: "emily@rallly.co",
+        inviteeEmail: "emily@kinpal.com",
         inviteeId: "user-4",
         status: "accepted",
       },
       {
         inviteeName: "James Okonkwo",
-        inviteeEmail: "james@rallly.co",
+        inviteeEmail: "james@kinpal.com",
         inviteeId: "user-5",
         status: "pending",
       },
@@ -1621,14 +1621,14 @@ export const scheduledEvents: ScheduledEventDef[] = [
     invites: [
       {
         inviteeName: "Sarah Chen",
-        inviteeEmail: "sarah@rallly.co",
+        inviteeEmail: "sarah@kinpal.com",
         inviteeId: "user-2",
         inviteeTimeZone: "America/Los_Angeles",
         status: "accepted",
       },
       {
         inviteeName: "Michael Torres",
-        inviteeEmail: "michael@rallly.co",
+        inviteeEmail: "michael@kinpal.com",
         inviteeId: "user-3",
         inviteeTimeZone: "Europe/London",
         status: "accepted",

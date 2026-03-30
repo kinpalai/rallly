@@ -5,8 +5,8 @@
   "billingPeriodYearly": "Rocznie",
   "cancelSubscription": "Jak anulować subskrypcję?",
   "cancelSubscriptionAnswer": "Subskrypcję można anulować w dowolnym momencie, przechodząc do <a>ustawień rozliczeniowych</a>. Po anulowaniu subskrypcji nadal będziesz mieć dostęp do płatnego planu do końca okresu rozliczeniowego. Po tym czasie zostaniesz przeniesiony do planu bezpłatnego.",
-  "canUseFree": "Czy mogę używać Rallly za darmo?",
-  "canUseFreeAnswer2": "Tak, większość funkcji Rallly jest darmowych i wielu użytkowników nigdy nie będzie musiało za nic płacić. Istnieją jednak pewne funkcje, które są dostępne tylko dla płacących klientów. Funkcje te mają na celu pomóc w jak najlepszym wykorzystaniu Rallly.",
+  "canUseFree": "Czy mogę używać Kinpal za darmo?",
+  "canUseFreeAnswer2": "Tak, większość funkcji Kinpal jest darmowych i wielu użytkowników nigdy nie będzie musiało za nic płacić. Istnieją jednak pewne funkcje, które są dostępne tylko dla płacących klientów. Funkcje te mają na celu pomóc w jak najlepszym wykorzystaniu Kinpal.",
   "earlyAdopterDescription": "Jako wczesny użytkownik zablokujesz swoją cenę subskrypcji i nie będą miały na nią wpływu przyszłe podwyżki cen.",
   "faq": "Często zadawane pytania",
   "freeForever": "darmowy na zawsze",
@@ -27,6 +27,6 @@
   "whenPollInactive": "Kiedy ankieta staje się nieaktywna?",
   "whenPollInactiveAnswer": "Ankiety stają się nieaktywne, gdy wszystkie opcje dat znajdują się w przeszłości ORAZ nie było żadnej aktywności przez ponad 30 dni. Aktywność obejmuje nowe głosy, komentarze lub zmiany w ankiecie. Nieaktywne ankiety są automatycznie usuwane, jeśli nie masz płatnej subskrypcji.",
   "whyUpgrade": "Dlaczego warto ulepszyć?",
-  "whyUpgradeAnswer2": "Przejście do płatnego planu ma sens, jeśli często korzystasz z Rallly lub używasz go do pracy. Obecna cena subskrypcji jest specjalną ceną dla wczesnych użytkowników i wzrośnie w przyszłości. Ulepszając teraz, uzyskasz wczesny dostęp do nowych, wysokiej jakości narzędzi do planowania harmonogramów w miarę ich wydawania i zablokujesz swoją cenę subskrypcji, dzięki czemu nie wpłyną na ciebie przyszłe podwyżki cen.",
+  "whyUpgradeAnswer2": "Przejście do płatnego planu ma sens, jeśli często korzystasz z Kinpal lub używasz go do pracy. Obecna cena subskrypcji jest specjalną ceną dla wczesnych użytkowników i wzrośnie w przyszłości. Ulepszając teraz, uzyskasz wczesny dostęp do nowych, wysokiej jakości narzędzi do planowania harmonogramów w miarę ich wydawania i zablokujesz swoją cenę subskrypcji, dzięki czemu nie wpłyną na ciebie przyszłe podwyżki cen.",
   "yearlyBillingDescription": "rocznie"
 }

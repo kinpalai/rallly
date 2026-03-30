@@ -5,8 +5,8 @@
   "billingPeriodYearly": "Yearly",
   "cancelSubscription": "How do I cancel my subscription?",
   "cancelSubscriptionAnswer": "You can cancel your subscription at any time by going to your <a>billing settings</a>. Once you cancel your subscription, you will still have access to your paid plan until the end of your billing period. After that, you will be downgraded to a free plan.",
-  "canUseFree": "Can I use Rallly for free?",
-  "canUseFreeAnswer2": "Yes, most of Rallly's features are free and many users will never need to pay for anything. However, there are some features that are only available to paying customers. These features are designed to help you get the most out of Rallly.",
+  "canUseFree": "Can I use Kinpal for free?",
+  "canUseFreeAnswer2": "Yes, most of Kinpal's features are free and many users will never need to pay for anything. However, there are some features that are only available to paying customers. These features are designed to help you get the most out of Kinpal.",
   "earlyAdopterDescription": "As an early adopter, you'll lock in your subscription rate and won't be affected by future price increases.",
   "faq": "Frequently Asked Questions",
   "freeForever": "free forever",
@@ -27,6 +27,6 @@
   "whenPollInactive": "When does a poll become inactive?",
   "whenPollInactiveAnswer": "Polls become inactive when all date options are in the past AND there has been no activity for over 30 days. Activity includes new votes, comments, or changes to the poll. Inactive polls are automatically deleted if you do not have a paid subscription.",
   "whyUpgrade": "Why should I upgrade?",
-  "whyUpgradeAnswer2": "Upgrading to a paid plan makes sense if you use Rallly often or use it for work. The current subscription rate is a special early adopter rate and will increase in the future. By upgrading now, you will get early access to new, high-quality scheduling tools as they are released and lock in your subscription rate so you won't be affected by future price increases.",
+  "whyUpgradeAnswer2": "Upgrading to a paid plan makes sense if you use Kinpal often or use it for work. The current subscription rate is a special early adopter rate and will increase in the future. By upgrading now, you will get early access to new, high-quality scheduling tools as they are released and lock in your subscription rate so you won't be affected by future price increases.",
   "yearlyBillingDescription": "per year"
 }

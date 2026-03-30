@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="./assets/images/logo-color.svg" width="200px" alt="Rallly" />
+<img src="./assets/images/logo-color.svg" width="200px" alt="Kinpal" />
 
 ### Schedule group meetings, without the back-and-forth
 
 <p>
-  <a href="https://rallly.co"><strong>Website</strong></a> ·
-  <a href="https://support.rallly.co"><strong>Documentation</strong></a> ·
+  <a href="https://kinpal.com"><strong>Website</strong></a> ·
+  <a href="https://support.kinpal.com"><strong>Documentation</strong></a> ·
   <a href="https://discord.gg/uzg4ZcHbuM"><strong>Discord</strong></a>
 </p>
 
@@ -20,11 +20,11 @@
 
 <br />
 
-<img src="./assets/images/splash.png" alt="Rallly screenshot" />
+<img src="./assets/images/splash.png" alt="Kinpal screenshot" />
 
 <br />
 
-Rallly is an open-source scheduling tool that helps you find the best date and time to meet. Create a poll with a few options, share the link, and let your participants vote on when they're available. No more back-and-forth emails.
+Kinpal is an open-source scheduling tool that helps you find the best date and time to meet. Create a poll with a few options, share the link, and let your participants vote on when they're available. No more back-and-forth emails.
 
 ## ✨ Features
 
@@ -41,13 +41,13 @@ Rallly is an open-source scheduling tool that helps you find the best date and t
 
 The quickest way to get started is the hosted version. Create your first poll in seconds, no installation required.
 
-**[Try Rallly free →](https://rallly.co)**
+**[Try Kinpal free →](https://kinpal.com)**
 
 ## 🐳 Self-hosting
 
-Prefer to run your own instance? Rallly ships as a Docker image and can be self-hosted in minutes.
+Prefer to run your own instance? Kinpal ships as a Docker image and can be self-hosted in minutes.
 
-See the [self-hosting docs](https://support.rallly.co/self-hosting) for installation and [configuration options](https://support.rallly.co/self-hosting/configuration-options).
+See the [self-hosting docs](https://support.kinpal.com/self-hosting) for installation and [configuration options](https://support.kinpal.com/self-hosting/configuration-options).
 
 ## 🛠️ Built with
 
@@ -57,7 +57,7 @@ See the [self-hosting docs](https://support.rallly.co/self-hosting) for installa
 
 Contributions are welcome! Have a look at the [contributing guide](CONTRIBUTING.md) to get started with local development and find out how you can help.
 
-- 🌐 **Translators** — Help [translate Rallly](https://support.rallly.co/contribute/translations) into your language
+- 🌐 **Translators** — Help [translate Kinpal](https://support.kinpal.com/contribute/translations) into your language
 - 🔐 **Security** — Found a vulnerability? See our [security policy](SECURITY.md)
 - 🤝 **Community** — Please read our [Code of Conduct](CODE_OF_CONDUCT.md)
 

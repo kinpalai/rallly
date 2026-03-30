@@ -5,8 +5,8 @@
   "billingPeriodYearly": "Anualmente",
   "cancelSubscription": "Como faço para cancelar minha assinatura?",
   "cancelSubscriptionAnswer": "Você pode cancelar sua assinatura a qualquer momento indo para suas <a>configurações de cobrança</a>. Ao cancelar sua assinatura, você ainda terá acesso ao seu plano pago até o final do seu período de cobrança. Depois disso, você será rebaixado para um plano gratuito.",
-  "canUseFree": "Posso usar Rallly de graça?",
-  "canUseFreeAnswer2": "Sim, a maioria dos recursos do Rallly é gratuita e muitos usuários nunca precisarão pagar por nada. No entanto, existem alguns recursos disponíveis só para clientes pagantes. Esses recursos são projetados para ajudá-lo a tirar o máximo proveito do Rallly.",
+  "canUseFree": "Posso usar Kinpal de graça?",
+  "canUseFreeAnswer2": "Sim, a maioria dos recursos do Kinpal é gratuita e muitos usuários nunca precisarão pagar por nada. No entanto, existem alguns recursos disponíveis só para clientes pagantes. Esses recursos são projetados para ajudá-lo a tirar o máximo proveito do Kinpal.",
   "earlyAdopterDescription": "Como um utilizador antecipado, você bloqueará a taxa de assinatura e não será afetado por futuros aumentos de preços.",
   "faq": "Preguntas frequentes",
   "freeForever": "gratuito para sempre",
@@ -27,6 +27,6 @@
   "whenPollInactive": "Quando uma enquete fica inativa?",
   "whenPollInactiveAnswer": "As enquetes ficam inativas quando todas as opções de data estão no passado E não houve atividade por mais de 30 dias. Atividade inclui novos votos, comentários ou alterações na enquete. Enquetes inativas são automaticamente excluídas se você não tiver uma assinatura paga.",
   "whyUpgrade": "Por que devo fazer o upgrade?",
-  "whyUpgradeAnswer2": "Atualizar para um plano pago faz sentido se você usar o Rallly com frequência ou usá-lo para trabalhar. A atual taxa de assinatura é uma taxa especial de utilizador antecipado e aumentará no futuro. Ao atualizar agora, você terá acesso antecipado a novas ferramentas de agendamento de alta qualidade à medida que forem lançadas e bloqueadas na sua taxa de assinatura para que você não seja afetado por futuros aumentos de preços.",
+  "whyUpgradeAnswer2": "Atualizar para um plano pago faz sentido se você usar o Kinpal com frequência ou usá-lo para trabalhar. A atual taxa de assinatura é uma taxa especial de utilizador antecipado e aumentará no futuro. Ao atualizar agora, você terá acesso antecipado a novas ferramentas de agendamento de alta qualidade à medida que forem lançadas e bloqueadas na sua taxa de assinatura para que você não seja afetado por futuros aumentos de preços.",
   "yearlyBillingDescription": "por ano"
 }

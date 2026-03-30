@@ -6,8 +6,8 @@ import NewParticipantEmail from "./new-participant";
 const baseProps = {
   title: "Team Meeting",
   participantName: "Jane Doe",
-  pollUrl: "https://rallly.co/poll/abc",
-  disableNotificationsUrl: "https://rallly.co/settings",
+  pollUrl: "https://kinpal.com/poll/abc",
+  disableNotificationsUrl: "https://kinpal.com/settings",
   chrome: previewChrome,
 };
 

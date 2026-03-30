@@ -8,7 +8,7 @@ import { Trans } from "@/i18n/client";
 import { appVersion } from "@/lib/constants";
 import { trpc } from "@/trpc/client";
 
-const RELEASES_URL = "https://github.com/lukevella/rallly/releases";
+const RELEASES_URL = "https://github.com/opencompute/rallly/releases";
 
 export function VersionTile() {
   const { data, isFetching } = trpc.system.getUpdateStatus.useQuery(undefined, {

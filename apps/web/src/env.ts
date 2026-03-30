@@ -178,7 +178,7 @@ export const env = createEnv({
      */
     TURNSTILE_SECRET_KEY: z.string().optional(),
     /**
-     * Base URL of the Rallly cloud API (e.g. https://api.rallly.co).
+     * Base URL of the Kinpal cloud API (e.g. https://api.kinpal.com).
      * Set by the self-hosted Docker image so the instance can phone home for
      * update checks. Unset elsewhere — the features that depend on it no-op
      * when it's missing.
@@ -210,7 +210,7 @@ export const env = createEnv({
     NEXT_PUBLIC_CDN_BASE_URL: z.url().optional(),
     /**
      * Domain to attach to server-set cookies (auth session, locale).
-     * Set to a parent domain prefixed with a leading dot (e.g. `.rallly.co`)
+     * Set to a parent domain prefixed with a leading dot (e.g. `.kinpal.com`)
      * to make these cookies readable across subdomains. When unset, cookies
      * stay scoped to the apex host of the request.
      */
