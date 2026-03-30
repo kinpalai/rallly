@@ -61,4 +61,4 @@ Kinpal is open source under AGPLv3 and runs with Docker. Self-hosted instances i
 - App: https://app.kinpal.com
 - Docs and API reference: https://support.kinpal.com
 - Blog: https://kinpal.com/blog
-- Source: https://github.com/lukevella/rallly
+- Source: https://github.com/kinpalai/rallly
