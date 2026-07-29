@@ -59,9 +59,9 @@ describe("isHomePath", () => {
 
 describe("notFoundMarkdown", () => {
   it("explains the error and links to the site index", () => {
-    const body = notFoundMarkdown("https://rallly.co");
+    const body = notFoundMarkdown("https://kinpal.com");
     expect(body).toMatch(/^# Page not found/);
-    expect(body).toContain("(https://rallly.co/llms.txt)");
-    expect(body).toContain("(https://rallly.co/sitemap.xml)");
+    expect(body).toContain("(https://kinpal.com/llms.txt)");
+    expect(body).toContain("(https://kinpal.com/sitemap.xml)");
   });
 });

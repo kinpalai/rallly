@@ -8,7 +8,6 @@ import {
   Button,
   Container,
   Link,
-  Signature,
   Text,
 } from "../components/styled-components";
 import { createEmailI18n } from "../i18n";
@@ -108,7 +107,6 @@ async function ReviewRequestEmail({
               defaultValue: "Thanks,",
             })}
           </Text>
-          <Signature />
         </Container>
       </Body>
     </Html>

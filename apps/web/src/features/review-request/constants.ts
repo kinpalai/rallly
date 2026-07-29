@@ -7,8 +7,8 @@ export const isReviewRequestEnabled = !isSelfHosted;
 // The email is a personal note from the founder, so it comes from a person
 // who reads the replies rather than the no-reply address
 export const reviewRequestSender = {
-  name: "Luke from Rallly",
-  address: "luke@rallly.co",
+  name: "Kinpal",
+  address: "support@kinpal.com",
 };
 
 // Long enough that the email reads as a note rather than a receipt for the
