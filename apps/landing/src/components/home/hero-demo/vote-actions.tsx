@@ -1,5 +1,4 @@
 "use client";
-import { posthog } from "@rallly/posthog/client";
 import { CircleCheckIcon, XIcon } from "lucide-react";
 import * as m from "motion/react-m";
 import Link from "next/link";
@@ -27,7 +26,6 @@ export const VoteActions = () => {
         <button
           type="button"
           onClick={() => {
-            posthog?.capture("landing:hero_demo_continue_click");
             setSubmitted(true);
           }}
           className="flex-[2] cursor-pointer rounded-xl bg-indigo-500/90 py-2.5 text-center font-medium text-sm text-white shadow-sm backdrop-blur-md hover:bg-indigo-500"
@@ -47,7 +45,6 @@ export const VoteActions = () => {
               type="button"
               aria-label={t("heroDemoClose", { defaultValue: "Close" })}
               onClick={() => {
-                posthog?.capture("landing:hero_demo_close_click");
                 setSubmitted(false);
               }}
               className="absolute top-3 right-3 flex size-6 cursor-pointer items-center justify-center rounded-full text-gray-400 hover:bg-gray-100 hover:text-gray-600"
@@ -109,9 +106,6 @@ export const VoteActions = () => {
             >
               <Link
                 href={linkToApp("/new")}
-                onClick={() => {
-                  posthog?.capture("landing:hero_demo_modal_cta_click");
-                }}
                 className="font-medium text-indigo-600 text-xs hover:underline"
               >
                 <Trans

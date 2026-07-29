@@ -122,11 +122,7 @@ export const MobileMenu = ({
           >
             {loginLabel}
           </LinkBase>
-          <CtaButton
-            size="lg"
-            className="w-full"
-            captureEvent="landing:mobile_menu_cta_click"
-          >
+          <CtaButton size="lg" className="w-full">
             {ctaLabel}
           </CtaButton>
         </div>

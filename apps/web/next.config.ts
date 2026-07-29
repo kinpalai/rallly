@@ -103,7 +103,12 @@ const nextConfig: NextConfig = {
         permanent: false,
       },
       {
-        source: "/api/auth/callback/microsoft-entra-id",
+        source: "/api/auth/callback/github",
+        destination: "/api/better-auth/callback/github",
+        permanent: false,
+      },
+      {
+        source: "/api/auth/callback/microsoft",
         destination: "/api/better-auth/callback/microsoft",
         permanent: false,
       },

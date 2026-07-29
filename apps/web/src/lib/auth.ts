@@ -230,7 +230,7 @@ export const authLib = betterAuth({
             //tenantId: env.MICROSOFT_TENANT_ID,
             clientId: env.MICROSOFT_CLIENT_ID,
             clientSecret: env.MICROSOFT_CLIENT_SECRET,
-            redirectURI: absoluteUrl("/api/auth/callback/microsoft-entra-id"),
+            redirectURI: absoluteUrl("/api/auth/callback/microsoft"),
           }
         : undefined,
     github:
@@ -238,6 +238,7 @@ export const authLib = betterAuth({
         ? {
             clientId: env.GITHUB_CLIENT_ID,
             clientSecret: env.GITHUB_CLIENT_SECRET,
+            redirectURI: absoluteUrl("/api/auth/callback/github"),
           }
         : undefined,
   },

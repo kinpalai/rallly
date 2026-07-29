@@ -7,7 +7,7 @@
 <p>
   <a href="https://kinpal.com"><strong>Website</strong></a> ·
   <a href="https://support.kinpal.com"><strong>Documentation</strong></a> ·
-  <a href="https://discord.gg/uzg4ZcHbuM"><strong>Discord</strong></a>
+  <a href="https://discord.gg/ZRZKqJf3tY"><strong>Discord</strong></a>
 </p>
 
 [![Actions Status](https://github.com/lukevella/rallly/actions/workflows/ci.yml/badge.svg)](https://github.com/lukevella/rallly/actions)
