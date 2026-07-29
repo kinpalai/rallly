@@ -254,7 +254,7 @@
   "deleteUserHint": "Gib <b>{email}</b> ein, um diesen Benutzer zu löschen.",
   "deleteUserTitle": "Benutzer löschen",
   "deleteWebhook": "Webhook löschen",
-  "deleteWebhookConfirmation": "Bist du sicher, dass du {url} löschen möchtest? Rallly wird sofort aufhören, Ereignisse dorthin zu senden.",
+  "deleteWebhookConfirmation": "Bist du sicher, dass du {url} löschen möchtest? Kinpal wird sofort aufhören, Ereignisse dorthin zu senden.",
   "deletingOptionsWarning": "Du löschst Optionen, für die bereits Teilnehmer gestimmt haben. Ihre Stimmen werden ebenfalls gelöscht.",
   "describeYourEvent": "Beschreibe deine Veranstaltung",
   "description": "Beschreibung",

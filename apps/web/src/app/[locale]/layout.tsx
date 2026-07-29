@@ -1,5 +1,6 @@
 import "./globals.css";
 
+import { GoogleAnalytics } from "@next/third-parties/google";
 import { supportedLngs } from "@rallly/languages";
 import { Toaster } from "@rallly/ui/sonner";
 import { TooltipProvider } from "@rallly/ui/tooltip";
@@ -64,6 +65,7 @@ export default async function Root({
   }
 
   const { brandingConfig, instancePolicy, resources } = await loadData(locale);
+  const gaId = process.env.NEXT_PUBLIC_GA_ID;
 
   const brandingStyles = {
     "--primary-light": brandingConfig.primaryColor.light,
@@ -104,6 +106,7 @@ export default async function Root({
           </FeatureFlagsProvider>
         </ThemeProvider>
       </body>
+      {gaId && <GoogleAnalytics gaId={gaId} />}
     </html>
   );
 }

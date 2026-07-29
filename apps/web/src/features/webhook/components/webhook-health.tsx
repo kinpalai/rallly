@@ -137,7 +137,7 @@ export function WebhookHealth({
             <PopoverDescription>
               <Trans
                 i18nKey="webhookHealthRetryPolicy"
-                defaults="Rallly retries each event for up to {hours} hours and turns the endpoint off after {count} events in a row fail."
+                defaults="Kinpal retries each event for up to {hours} hours and turns the endpoint off after {count} events in a row fail."
                 values={{
                   hours: RETRY_WINDOW_HOURS,
                   count: MAX_CONSECUTIVE_FAILURES,
@@ -164,8 +164,8 @@ export function WebhookHealth({
             <PopoverHeader>
               <PopoverTitle>
                 <Trans
-                  i18nKey="webhookHealthTurnedOffByRallly"
-                  defaults="Turned off by Rallly"
+                  i18nKey="webhookHealthTurnedOffByKinpal"
+                  defaults="Turned off by Kinpal"
                 />
               </PopoverTitle>
               <PopoverDescription>

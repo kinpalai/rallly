@@ -19,7 +19,7 @@ This guide builds a workflow that receives a Kinpal event, checks that it really
   <Step title="Register the endpoint in Kinpal">
     In Kinpal, open **Settings → Webhooks**, choose **Add webhook**, paste the URL and pick the events you want. Copy the signing secret: it is shown once.
 
-    In n8n, store the secret where the workflow can read it without it appearing in the workflow JSON. A workflow **variable** or an environment variable both work; the code below reads `$vars.RALLLY_WEBHOOK_SECRET`.
+    In n8n, store the secret where the workflow can read it without it appearing in the workflow JSON. A workflow **variable** or an environment variable both work; the code below reads `$vars.KINPAL_WEBHOOK_SECRET`.
   </Step>
 
   <Step title="Verify the signature in a Code node">
@@ -43,7 +43,7 @@ This guide builds a workflow that receives a Kinpal event, checks that it really
       throw new Error("Signature is not a SHA-256 digest");
     }
 
-    const expected = createHmac("sha256", $vars.RALLLY_WEBHOOK_SECRET)
+    const expected = createHmac("sha256", $vars.KINPAL_WEBHOOK_SECRET)
       .update(`${parts.t}.`)
       .update(rawBody)
       .digest();
