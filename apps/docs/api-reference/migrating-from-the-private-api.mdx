@@ -3,7 +3,7 @@ title: "Migrating from the private API"
 description: "Move an integration from /api/private to /v1, endpoint by endpoint."
 ---
 
-`/v1` replaces the unversioned private API at `https://app.rallly.co/api/private`. The private API is frozen: it still answers, but it receives no new fields or endpoints, and everything new lands on `/v1` only.
+`/v1` replaces the unversioned private API at `https://app.kinpal.com/api/private`. The private API is frozen: it still answers, but it receives no new fields or endpoints, and everything new lands on `/v1` only.
 
 Your API keys, poll IDs, invite links and rate limits carry over unchanged. What changes is the base URL, the request and response shapes, and how errors look.
 
@@ -11,7 +11,7 @@ Your API keys, poll IDs, invite links and rate limits carry over unchanged. What
 
 | Area | Private API | v1 |
 | --- | --- | --- |
-| Base URL | `https://app.rallly.co/api/private` | `https://api.rallly.co/v1` |
+| Base URL | `https://app.kinpal.com/api/private` | `https://api.kinpal.com/v1` |
 | Authentication | `Authorization: Bearer <key>` | Unchanged |
 | Rate limits | 60 per minute, 5,000 per day, per space | Unchanged |
 | Create poll status | `200 OK` | `201 Created` |
@@ -35,7 +35,7 @@ Your API keys, poll IDs, invite links and rate limits carry over unchanged. What
 Replace the host and prefix. The poll paths under it are the same, with two exceptions: `PATCH /polls/{pollId}` is removed, and `/docs` has no v1 equivalent. Both are covered below.
 
 ```text
-https://app.rallly.co/api/private/polls   →   https://api.rallly.co/v1/polls
+https://app.kinpal.com/api/private/polls   →   https://api.kinpal.com/v1/polls
 ```
 
 ### Error envelope
@@ -119,8 +119,8 @@ Every endpoint that returns a poll (`POST /polls`, `GET /polls`, `GET /polls/{po
         "duration": 0
       }
     ],
-    "adminUrl": "https://app.rallly.co/poll/Xk3pQ9vLm2Ab",
-    "inviteUrl": "https://rallly.co/invite/Xk3pQ9vLm2Ab"
+    "adminUrl": "https://app.kinpal.com/poll/Xk3pQ9vLm2Ab",
+    "inviteUrl": "https://kinpal.com/invite/Xk3pQ9vLm2Ab"
   }
 }
 ```
@@ -152,8 +152,8 @@ Every endpoint that returns a poll (`POST /polls`, `GET /polls`, `GET /polls/{po
     "options": [
       { "id": "cm5h8x2k40000q9l4f7e2d3an", "date": "2027-03-01" }
     ],
-    "adminUrl": "https://app.rallly.co/poll/Xk3pQ9vLm2Ab",
-    "inviteUrl": "https://rallly.co/invite/Xk3pQ9vLm2Ab"
+    "adminUrl": "https://app.kinpal.com/poll/Xk3pQ9vLm2Ab",
+    "inviteUrl": "https://kinpal.com/invite/Xk3pQ9vLm2Ab"
   }
 }
 ```
@@ -429,7 +429,7 @@ The spec moves with the API. The Scalar page at `/api/private/docs` has no v1 eq
 
 ## Checklist
 
-1. Change the base URL to `https://api.rallly.co/v1`.
+1. Change the base URL to `https://api.kinpal.com/v1`.
 2. Accept `201` from `POST /polls`.
 3. Rewrite create requests: add `kind`, replace `dates` and `slots` with `options` and `generators`, rename `timezone` to `timeZone` and the generator's `startTime` and `endTime` to `from` and `to`, and remove `spaceId` and any other undocumented fields.
 4. Read `timeZone` instead of `timezone`, and `organizer` instead of `user`, in every poll response.

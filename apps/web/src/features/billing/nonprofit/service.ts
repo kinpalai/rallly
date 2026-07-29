@@ -50,7 +50,7 @@ export async function fetchWebsiteText(url: string) {
         signal: AbortSignal.timeout(FETCH_TIMEOUT_MS),
         headers: {
           accept: "text/html",
-          "user-agent": "Rallly nonprofit verifier (+https://rallly.co)",
+          "user-agent": "Kinpal nonprofit verifier (+https://kinpal.com)",
         },
       });
 
