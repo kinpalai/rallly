@@ -32,7 +32,7 @@ export const PostPreview = ({ title, date, excerpt, slug }: Props) => {
             {title}
           </Link>
         </h3>
-        <p className="mb-4 text-base text-gray-600 leading-relaxed">
+        <p className="mb-4 text-base text-gray-600 leading-relaxed dark:text-gray-400">
           {excerpt}
         </p>
       </div>

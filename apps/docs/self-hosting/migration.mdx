@@ -36,10 +36,10 @@ Your domain (previously in `NEXT_PUBLIC_BASE_URL`) becomes `DOMAIN` in the new s
 From your existing stack directory, with the old stack running:
 
 ```sh
-docker compose exec -T kinpal_db pg_dump -U postgres rallly | gzip > rallly-backup.sql.gz
+docker compose exec -T kinpal_db pg_dump -U postgres rallly | gzip > kinpal-backup.sql.gz
 ```
 
-Copy `rallly-backup.sql.gz` off the server (e.g. `scp` to your laptop). Do not skip this.
+Copy `kinpal-backup.sql.gz` off the server (e.g. `scp` to your laptop). Do not skip this.
 
 <Note>
   `kinpal_db` is the Postgres service name in the official legacy `docker-compose.yml`. If you renamed it or authored your own compose file, replace it with whatever yours is called (run `docker compose ps` to check).
@@ -108,7 +108,7 @@ docker compose exec -T db psql -U postgres -d postgres -c "DROP DATABASE IF EXIS
 docker compose exec -T db psql -U postgres -d postgres -c "CREATE DATABASE rallly;"
 
 # Restore — ON_ERROR_STOP=1 fails fast on the first error instead of continuing silently
-gunzip < /path/to/rallly-backup.sql.gz | docker compose exec -T db psql -v ON_ERROR_STOP=1 -U postgres rallly
+gunzip < /path/to/kinpal-backup.sql.gz | docker compose exec -T db psql -v ON_ERROR_STOP=1 -U postgres rallly
 ```
 
 Start the app so it picks up the restored schema:
@@ -133,7 +133,7 @@ Once you're satisfied the new stack is working:
 
 ```sh
 # Remove the old stack directory
-rm -rf /path/to/old/rallly-selfhosted
+rm -rf /path/to/old/kinpal-selfhosted
 
 # Remove orphaned Docker volumes from the old stack
 docker volume ls

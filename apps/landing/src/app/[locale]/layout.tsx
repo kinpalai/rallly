@@ -1,7 +1,8 @@
 import "./globals.css";
 
-import { GoogleAnalytics } from '@next/third-parties/google';
+import { GoogleAnalytics } from "@next/third-parties/google";
 import languages from "@rallly/languages";
+import { ThemeProvider } from "@rallly/ui/theme-provider";
 import { Analytics } from "@vercel/analytics/react";
 import { domAnimation, LazyMotion } from "motion/react";
 import type { Metadata, Viewport } from "next";
@@ -33,7 +34,11 @@ export default async function Root(props: {
   const ga = process.env.GA_MEASUREMENT_ID || "";
 
   return (
-    <html lang={i18n.resolvedLanguage} className={sans.className}>
+    <html
+      lang={i18n.resolvedLanguage}
+      className={sans.className}
+      suppressHydrationWarning={true}
+    >
       <body>
         <LazyMotion features={domAnimation}>
           <I18nProvider locale={i18n.resolvedLanguage} resources={translations}>

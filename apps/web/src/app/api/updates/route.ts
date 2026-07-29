@@ -10,7 +10,7 @@ import { createRatelimit } from "@/lib/rate-limit";
 const logger = createLogger("api/updates");
 
 const GITHUB_RELEASES_URL =
-  "https://api.github.com/repos/opencompute/rallly/releases/latest";
+  "https://api.github.com/repos/kinpalai/rallly/releases/latest";
 
 const upstreamSchema = z.object({
   tag_name: z.string().min(1),

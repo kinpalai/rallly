@@ -11,7 +11,7 @@ const PostHeader = ({ title, date }: Props) => {
       <h1 className="mb-2 font-bold text-2xl tracking-tighter sm:text-4xl">
         {title}
       </h1>
-      <div className="mb-2 text-gray-400 text-lg">
+      <div className="mb-2 text-gray-400 text-lg dark:text-gray-500">
         <DateFormatter dateString={date} />
       </div>
     </header>

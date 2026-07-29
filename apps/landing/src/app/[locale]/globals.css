@@ -4,7 +4,7 @@
 /* Any app specific overrides will go here */
 
 body {
-  @apply bg-gray-100;
+  @apply bg-gray-100 dark:bg-gray-950;
 }
 
 /* Blog post content styles */
@@ -27,7 +27,7 @@ body {
     @apply mb-6 leading-relaxed;
   }
   p:has(> img) {
-    @apply flex items-center justify-center overflow-hidden rounded-xl border bg-gray-50 p-2;
+    @apply flex items-center justify-center overflow-hidden rounded-xl border bg-gray-50 p-2 dark:bg-gray-900;
   }
   img {
     @apply mx-auto rounded-lg border;
@@ -52,10 +52,10 @@ body {
     @apply text-primary hover:underline;
   }
   blockquote {
-    @apply my-6 border-l-4 border-gray-300 pl-4 italic text-gray-700;
+    @apply my-6 border-l-4 border-gray-300 pl-4 italic text-gray-700 dark:border-gray-600 dark:text-gray-300;
   }
   pre {
-    @apply my-6 overflow-x-auto rounded-lg border bg-gray-50 p-4;
+    @apply my-6 overflow-x-auto rounded-lg border bg-gray-50 p-4 dark:bg-gray-900;
   }
   code {
     @apply rounded px-1 py-0.5;

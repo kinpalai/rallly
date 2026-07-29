@@ -65,17 +65,17 @@ export const Footer: React.FunctionComponent = () => {
         <div className="lg:w-1/4">
           <Image
             src="/logo-grayscale.svg"
-            width={120}
-            height={120}
-            className="!border-l !border-gray-400 border-l-1"
+            width={100}
+            height={100}
+            className="!mb-4 !border-l !border-gray-400 border-l-1"
             alt="Kinpal"
           />
-          <div className="mt-0.5 flex items-center space-x-5">
-            <span className="invisible size-3" aria-hidden="true" />
+          <div className="flex -translate-x-2 items-center space-x-4">
+            <span className="invisible size-1" aria-hidden="true" />
             <a
               target="_blank"
               href="https://x.com/kinpalai"
-              className="text-gray-500 text-sm hover:text-primary hover:no-underline"
+              className="text-gray-500 text-sm hover:text-primary hover:no-underline dark:text-gray-400"
               rel="noreferrer noopener"
             >
               <XIcon className="size-4" />
@@ -83,7 +83,7 @@ export const Footer: React.FunctionComponent = () => {
             <a
               target="_blank"
               href="https://discord.gg/ZRZKqJf3tY"
-              className="text-gray-500 text-sm hover:text-primary hover:no-underline"
+              className="text-gray-500 text-sm hover:text-primary hover:no-underline dark:text-gray-400"
               rel="noreferrer noopener"
             >
               <DiscordIcon className="size-4" />
@@ -91,7 +91,7 @@ export const Footer: React.FunctionComponent = () => {
             <a
               target="_blank"
               href="https://www.linkedin.com/company/kinpal"
-              className="text-gray-500 text-sm hover:text-primary hover:no-underline"
+              className="text-gray-500 text-sm hover:text-primary hover:no-underline dark:text-gray-400"
               rel="noreferrer noopener"
             >
               <LinkedinIcon className="size-4" />
@@ -105,7 +105,7 @@ export const Footer: React.FunctionComponent = () => {
           <ul className="grid gap-2 text-sm">
             <li>
               <LinkBase
-                className="inline-block font-normal text-gray-500 hover:text-gray-800 hover:no-underline"
+                className="inline-block font-normal text-gray-500 hover:text-foreground hover:no-underline dark:text-gray-400"
                 href="/pricing"
               >
                 <Trans i18nKey="pricing" defaults="Pricing" />
@@ -114,7 +114,7 @@ export const Footer: React.FunctionComponent = () => {
             <li>
               <LinkBase
                 href="/blog"
-                className="inline-block font-normal text-gray-500 hover:text-gray-800 hover:no-underline"
+                className="inline-block font-normal text-gray-500 hover:text-foreground hover:no-underline dark:text-gray-400"
               >
                 <Trans ns="common" i18nKey="blog" defaults="Blog" />
               </LinkBase>
@@ -122,7 +122,7 @@ export const Footer: React.FunctionComponent = () => {
             <li>
               <a
                 href="https://support.kinpal.com"
-                className="inline-block font-normal text-gray-500 hover:text-gray-800 hover:no-underline"
+                className="inline-block font-normal text-gray-500 hover:text-foreground hover:no-underline dark:text-gray-400"
               >
                 <Trans ns="common" i18nKey="support" defaults="Support" />
               </a>
@@ -136,7 +136,7 @@ export const Footer: React.FunctionComponent = () => {
           <ul className="grid gap-2 text-sm">
             <li>
               <LinkBase
-                className="inline-block font-normal text-gray-500 hover:text-gray-800 hover:no-underline"
+                className="inline-block font-normal text-gray-500 hover:text-foreground hover:no-underline dark:text-gray-400"
                 href="/best-doodle-alternative"
               >
                 <Trans
@@ -148,7 +148,7 @@ export const Footer: React.FunctionComponent = () => {
             </li>
             <li>
               <LinkBase
-                className="inline-block font-normal text-gray-500 hover:text-gray-800 hover:no-underline"
+                className="inline-block font-normal text-gray-500 hover:text-foreground hover:no-underline dark:text-gray-400"
                 href="/free-scheduling-poll"
               >
                 <Trans
@@ -160,7 +160,7 @@ export const Footer: React.FunctionComponent = () => {
             </li>
             <li>
               <LinkBase
-                className="inline-block font-normal text-gray-500 hover:text-gray-800 hover:no-underline"
+                className="inline-block font-normal text-gray-500 hover:text-foreground hover:no-underline dark:text-gray-400"
                 href="/availability-poll"
               >
                 <Trans
@@ -186,7 +186,7 @@ export const Footer: React.FunctionComponent = () => {
           <li>
             <Link
               href="/privacy-policy"
-              className="inline-block font-normal text-gray-500 hover:text-gray-800 hover:no-underline"
+              className="inline-block font-normal text-gray-500 hover:text-foreground hover:no-underline dark:text-gray-400"
             >
               <Trans ns="common" i18nKey="privacyPolicy" />
             </Link>
@@ -194,7 +194,7 @@ export const Footer: React.FunctionComponent = () => {
           <li>
             <Link
               href="/cookie-policy"
-              className="inline-block font-normal text-gray-500 hover:text-gray-800 hover:no-underline"
+              className="inline-block font-normal text-gray-500 hover:text-foreground hover:no-underline dark:text-gray-400"
             >
               <Trans ns="common" i18nKey="cookiePolicy" />
             </Link>
@@ -202,7 +202,7 @@ export const Footer: React.FunctionComponent = () => {
           <li>
             <Link
               href="/terms-of-use"
-              className="inline-block font-normal text-gray-500 hover:text-gray-800 hover:no-underline"
+              className="inline-block font-normal text-gray-500 hover:text-foreground hover:no-underline dark:text-gray-400"
             >
               <Trans ns="common" i18nKey="termsOfUse" />
             </Link>
