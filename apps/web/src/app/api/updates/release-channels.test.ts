@@ -5,7 +5,7 @@ import { buildSecurityAdvisories } from "./security-advisories";
 function release(tag: string, overrides: Record<string, unknown> = {}) {
   return {
     tag_name: tag,
-    html_url: `https://github.com/lukevella/rallly/releases/tag/${tag}`,
+    html_url: `https://github.com/kinpalai/rallly/releases/tag/${tag}`,
     published_at: "2026-01-01T00:00:00Z",
     draft: false,
     prerelease: false,
@@ -17,7 +17,7 @@ function advisories(...ranges: string[]) {
   return buildSecurityAdvisories(
     ranges.map((range, i) => ({
       ghsa_id: `GHSA-${i}`,
-      html_url: `https://github.com/lukevella/rallly/security/advisories/GHSA-${i}`,
+      html_url: `https://github.com/kinpalai/rallly/security/advisories/GHSA-${i}`,
       severity: "high",
       vulnerabilities: [{ vulnerable_version_range: range }],
     })),
@@ -107,7 +107,7 @@ describe("buildUpdatesPayload", () => {
     expect(result.advisories).toEqual([
       {
         ghsaId: "GHSA-0",
-        url: "https://github.com/lukevella/rallly/security/advisories/GHSA-0",
+        url: "https://github.com/kinpalai/rallly/security/advisories/GHSA-0",
         severity: "high",
       },
     ]);
@@ -132,7 +132,8 @@ describe("buildUpdatesPayload", () => {
     expect(result.security).toBe(false);
     expect(result.newMajor).toEqual({
       version: "v4.15.1",
-      migrationGuideUrl: "https://support.kinpal.com/self-hosting/migrate-to-v4",
+      migrationGuideUrl:
+        "https://support.kinpal.com/self-hosting/migrate-to-v4",
       security: false,
       advisories: [],
     });

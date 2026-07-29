@@ -98,10 +98,6 @@ async function PageContent({ params, searchParams }: PageProps) {
             label: t("voteFooterPrivacy", { defaultValue: "Privacy policy" }),
             href: "https://kinpal.com/privacy-policy",
           },
-          {
-            label: t("voteFooterCookies", { defaultValue: "Cookie policy" }),
-            href: "https://kinpal.com/cookie-policy",
-          },
         ];
 
   return (

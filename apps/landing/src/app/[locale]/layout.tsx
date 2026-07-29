@@ -1,14 +1,11 @@
 import "./globals.css";
 
-import { GoogleAnalytics } from '@next/third-parties/google';
+import { GoogleAnalytics } from "@next/third-parties/google";
 import languages from "@rallly/languages";
-import { PostHogInit } from "@rallly/posthog/client";
-import { cn } from "@rallly/ui";
-import { Analytics } from "@vercel/analytics/react";
+import { ThemeProvider } from "@rallly/ui/theme-provider";
 import { domAnimation, LazyMotion } from "motion/react";
 import type { Metadata, Viewport } from "next";
 import { cacheLife } from "next/cache";
-import { display } from "@/fonts/display";
 import { sans } from "@/fonts/sans";
 import { I18nProvider } from "@/i18n/client/i18n-provider";
 import { getTranslation } from "@/i18n/server";
@@ -35,31 +32,32 @@ export default async function Root(props: {
 
   const { i18n } = await getTranslation(locale);
   const translations = i18n.store.data;
-  const ga = process.env.GA_MEASUREMENT_ID || "";
+  const gaId = process.env.NEXT_PUBLIC_GA_ID;
 
   return (
-    // Horizontal overflow is clipped at the viewport, never on an ancestor of
-    // a sticky element: Safari repositions sticky elements under an overflow
-    // clip on the main thread, so they jitter while scrolling.
     <html
-      lang={locale}
-      className={cn(sans.className, display.variable, "overflow-x-clip")}
+      lang={i18n.resolvedLanguage}
+      className={sans.className}
+      suppressHydrationWarning={true}
     >
       <body>
-        <LazyMotion features={domAnimation}>
-          <I18nProvider locale={locale} resources={translations}>
-            <PostHogInit>{children}</PostHogInit>
-            <Analytics />
-          </I18nProvider>
-        </LazyMotion>
+        <ThemeProvider>
+          <LazyMotion features={domAnimation}>
+            <I18nProvider
+              locale={i18n.resolvedLanguage}
+              resources={translations}
+            >
+              {children}
+            </I18nProvider>
+          </LazyMotion>
+        </ThemeProvider>
       </body>
-      <GoogleAnalytics gaId={ga} />
+      {gaId && <GoogleAnalytics gaId={gaId} />}
     </html>
   );
 }
 
 export const metadata: Metadata = {
-  title: { template: "%s | Kinpal", default: "Kinpal" },
   metadataBase: process.env.NEXT_PUBLIC_BASE_URL
     ? new URL(process.env.NEXT_PUBLIC_BASE_URL)
     : undefined,

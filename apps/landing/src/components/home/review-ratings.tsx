@@ -14,7 +14,7 @@ const reviewSites = [
   },
   {
     name: "Trustpilot",
-    rating: 4.7,
+    rating: 4.8,
     url: "https://www.trustpilot.com/review/kinpal.com",
     logo: "/static/images/trustpilot-star.svg",
   },

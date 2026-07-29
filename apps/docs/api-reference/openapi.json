@@ -219,7 +219,7 @@
           },
           "inviteUrl": {
             "type": "string",
-            "example": "https://kinpal.com/invite/Xk3pQ9vLm2Ab"
+            "example": "https://app.kinpal.com/invite/Xk3pQ9vLm2Ab"
           }
         },
         "required": [
