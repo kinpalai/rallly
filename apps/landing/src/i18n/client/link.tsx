@@ -6,16 +6,9 @@ import { useParams } from "next/navigation";
 
 export const LinkBase = ({
   href,
-  children,
-  className,
-  prefetch,
-  "aria-current": ariaCurrent,
-}: {
+  ...props
+}: Omit<React.ComponentProps<typeof Link>, "href"> & {
   href: string;
-  children?: React.ReactNode;
-  className?: string;
-  prefetch?: boolean;
-  "aria-current"?: React.AriaAttributes["aria-current"];
 }) => {
   // The route segment, not i18next's resolved language: a locale without its
   // own resources (en-GB) resolves to en, which would point every link at
@@ -27,14 +20,5 @@ export const LinkBase = ({
       : `/${params.locale}`;
   const newHref = href.startsWith("/") ? `${locale}${href}` : href;
 
-  return (
-    <Link
-      className={className}
-      href={newHref}
-      prefetch={prefetch}
-      aria-current={ariaCurrent}
-    >
-      {children}
-    </Link>
-  );
+  return <Link href={newHref} {...props} />;
 };

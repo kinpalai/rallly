@@ -7,7 +7,7 @@ import path from "node:path";
 // the route module loads, so the import below is dynamic.
 process.env.API_BASE_URL = "https://api.kinpal.com";
 process.env.NEXT_PUBLIC_BASE_URL = "https://app.kinpal.com";
-process.env.NEXT_PUBLIC_SHORT_BASE_URL = "https://kinpal.com";
+process.env.NEXT_PUBLIC_SHORT_BASE_URL = "https://app.kinpal.com";
 process.env.SKIP_ENV_VALIDATION = "1";
 // The spec describes the cloud API, where billing exists and the poll quota
 // is enforced, whatever the invoking environment says.

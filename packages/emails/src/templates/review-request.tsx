@@ -88,11 +88,6 @@ async function ReviewRequestEmail({
               defaultValue: "Thanks,",
             })}
           </Text>
-          <Signature
-            title={t("signatureFounderTitle", {
-              defaultValue: "Founder of Kinpal",
-            })}
-          />
         </Container>
       </Body>
     </Html>

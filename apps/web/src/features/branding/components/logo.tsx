@@ -56,12 +56,14 @@ export const Logo = async ({
         <img
           src={logo.light}
           alt={env.APP_NAME}
+          fetchPriority="low"
           className="block max-h-full max-w-full object-contain dark:hidden"
         />
         {/* biome-ignore lint/performance/noImgElement: we don't need Image component here */}
         <img
           src={logo.dark}
           alt={env.APP_NAME}
+          fetchPriority="low"
           className="hidden max-h-full max-w-full object-contain dark:block"
         />
       </div>
@@ -77,6 +79,7 @@ export const Logo = async ({
       <img
         src={logo.light}
         alt={env.APP_NAME}
+        fetchPriority="low"
         className="block h-full w-auto object-contain dark:hidden"
         style={{
           width: sizes[size].width,
@@ -87,6 +90,7 @@ export const Logo = async ({
       <img
         src={logo.dark}
         alt={env.APP_NAME}
+        fetchPriority="low"
         className="hidden h-full w-auto object-contain dark:block"
         style={{
           width: sizes[size].width,
