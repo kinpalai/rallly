@@ -88,7 +88,6 @@ async function ReviewRequestEmail({
               defaultValue: "Thanks,",
             })}
           </Text>
-          <Signature />
         </Container>
       </Body>
     </Html>
