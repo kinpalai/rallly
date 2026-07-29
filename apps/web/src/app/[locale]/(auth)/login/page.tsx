@@ -1,6 +1,7 @@
 import { absoluteUrl } from "@rallly/utils/absolute-url";
 import type { Metadata } from "next";
 import { cookies } from "next/headers";
+import { redirect } from "next/navigation";
 import { Trans } from "react-i18next/TransWithoutContext";
 import { OIDCAutoSignIn } from "@/app/[locale]/(auth)/login/components/oidc-auto-sign-in";
 import { env } from "@/env";
@@ -12,7 +13,7 @@ import { getTranslation } from "@/i18n/server";
 import { authLib, getSessionState } from "@/lib/auth";
 import { LAST_LOGIN_METHOD_COOKIE_NAME } from "@/lib/auth-config";
 import { isFeatureEnabled } from "@/lib/feature-flags/server";
-import { AlreadyLoggedIn } from "../components/already-logged-in";
+import { validateRedirectUrl } from "@/lib/utils/redirect";
 import {
   AuthPageContainer,
   AuthPageContent,
@@ -46,16 +47,14 @@ export default async function LoginPage(props: {
 }) {
   const searchParams = await props.searchParams;
 
-  // No automatic redirect to / — an automated redirect here is one leg of
-  // the / ↔ /login redirect loop. The user must click through.
-  // On "error" the session is unknown, so we fall through to the login
-  // form rather than guess.
+  // On "error" the session is unknown, so fall through to the login form
+  // rather than redirecting based on an unreliable session state.
   const sessionState = await getSessionState();
   if (
     sessionState.status === "authenticated" &&
     !sessionState.session.user.isGuest
   ) {
-    return <AlreadyLoggedIn redirectTo={searchParams?.redirectTo} />;
+    redirect(validateRedirectUrl(searchParams?.redirectTo) ?? "/");
   }
 
   const { isRegistrationEnabled, lastLoginMethod, t, i18n } = await loadData();
@@ -68,7 +67,8 @@ export default async function LoginPage(props: {
     (plugin) => plugin.id === "generic-oauth",
   );
 
-  const hasSocialLogin = hasGoogleProvider || hasMicrosoftProvider || hasGithubProvider;
+  const hasSocialLogin =
+    hasGoogleProvider || hasMicrosoftProvider || hasGithubProvider;
 
   const hasAlternateLoginMethods = hasSocialLogin || hasOidc;
 

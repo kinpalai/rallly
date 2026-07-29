@@ -1,6 +1,6 @@
 import { isSelfHosted } from "@/lib/constants";
 
-// Review sites list the Rallly cloud product; self-hosted users are asked
+// Review sites list the Kinpal cloud product; self-hosted users are asked
 // through the README and the license email instead
 export const isReviewRequestEnabled = !isSelfHosted;
 
@@ -14,7 +14,7 @@ export const reviewRequestEmailDelayMs = 60 * 60_000;
 export const reviewSites = {
   trustpilot: {
     name: "Trustpilot",
-    url: "https://www.trustpilot.com/evaluate/rallly.co",
+    url: "https://www.trustpilot.com/evaluate/kinpal.com",
   },
   capterra: {
     name: "Capterra",

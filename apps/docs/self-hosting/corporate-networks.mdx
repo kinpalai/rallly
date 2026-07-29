@@ -15,7 +15,7 @@ Kinpal makes outbound requests to these hosts, all over HTTPS on port 443. If yo
 | Host | Purpose | When blocked |
 |:-----|:--------|:-------------|
 | `licensing.kinpal.com` | License activation and refresh | Activation fails with an error in the Control Panel |
-| `api.kinpal.com` | Hourly update check: sends the running version and an anonymous instance identifier, receives the latest release and any security advisories affecting your version | Fails silently. The version tile shows no status and you are not told about security updates, so watch the [releases page](https://github.com/lukevella/rallly/releases) instead |
+| `api.kinpal.com` | Hourly update check: sends the running version and an anonymous instance identifier, receives the latest release and any security advisories affecting your version | Fails silently. The version tile shows no status and you are not told about security updates, so watch the [releases page](https://github.com/kinpalai/rallly/releases) instead |
 
 Pulling images with `./rallly.sh update` reaches Docker Hub (`registry-1.docker.io` and `auth.docker.io`), which is governed by Docker's own proxy settings rather than the variables below.
 

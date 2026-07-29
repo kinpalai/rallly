@@ -46,7 +46,7 @@ export const DesktopDemo = ({
 
   return (
     <DemoWindow>
-      <BrowserChrome url="app.rallly.co/invite/k3Xb9qLm" />
+      <BrowserChrome url="app.kinpal.com/invite/k3Xb9qLm" />
       <div className="bg-gray-100 p-4 sm:p-6">
         {/* Pinned to the grid width (235px + 8 × 84px) so a long description
             wraps instead of stretching the card past the table. */}

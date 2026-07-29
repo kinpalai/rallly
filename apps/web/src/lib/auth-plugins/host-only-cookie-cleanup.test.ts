@@ -1,7 +1,7 @@
 import { describe, expect, it, vi } from "vitest";
 
 vi.mock("@/env", () => ({
-  env: { NEXT_PUBLIC_COOKIE_DOMAIN: ".rallly.test" },
+  env: { NEXT_PUBLIC_COOKIE_DOMAIN: ".kinpal.test" },
 }));
 
 import { hostOnlyCookieCleanup } from "./host-only-cookie-cleanup";
@@ -10,7 +10,7 @@ const SESSION_TOKEN = "__Secure-better-auth.session_token";
 const SESSION_DATA = "__Secure-better-auth.session_data";
 
 const cookieAttributes = {
-  domain: ".rallly.test",
+  domain: ".kinpal.test",
   path: "/",
   httpOnly: true,
   secure: true,
@@ -74,7 +74,7 @@ describe("hostOnlyCookieCleanup", () => {
   it("clears host-only cookies when a response sets a new session token", async () => {
     const cookies = await runHandler({
       path: "/sign-in/email-otp",
-      responseSetCookie: `${SESSION_TOKEN}=new.token; Max-Age=5184000; Domain=.rallly.test; Path=/; HttpOnly; Secure; SameSite=Lax`,
+      responseSetCookie: `${SESSION_TOKEN}=new.token; Max-Age=5184000; Domain=.kinpal.test; Path=/; HttpOnly; Secure; SameSite=Lax`,
     });
 
     expect(cookies).toHaveLength(2);

@@ -1,7 +1,7 @@
 import type { BusinessReviewSite, ReviewSite } from "./constants";
 import { consumerEmailDomains, reviewSites } from "./constants";
 
-// One finalized poll can be a fluke; a second one means Rallly worked for them
+// One finalized poll can be a fluke; a second one means Kinpal worked for them
 const minFinalizedPolls = 2;
 // Filters out solo tests: the poll worked for a group
 const minParticipants = 3;
