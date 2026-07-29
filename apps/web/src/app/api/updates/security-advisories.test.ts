@@ -12,7 +12,7 @@ function advisory(
   return {
     ghsa_id: "GHSA-xxxx-xxxx-xxxx",
     html_url:
-      "https://github.com/lukevella/rallly/security/advisories/GHSA-xxxx-xxxx-xxxx",
+      "https://github.com/kinpalai/rallly/security/advisories/GHSA-xxxx-xxxx-xxxx",
     severity: "high",
     published_at: "2026-08-25T00:00:00Z",
     vulnerabilities: ranges.map((vulnerable_version_range) => ({

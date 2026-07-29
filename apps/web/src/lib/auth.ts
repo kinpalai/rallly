@@ -268,7 +268,7 @@ export const authLib = betterAuth({
             //tenantId: env.MICROSOFT_TENANT_ID,
             clientId: env.MICROSOFT_CLIENT_ID,
             clientSecret: env.MICROSOFT_CLIENT_SECRET,
-            redirectURI: absoluteUrl("/api/auth/callback/microsoft-entra-id"),
+            redirectURI: absoluteUrl("/api/auth/callback/microsoft"),
             // better-auth only reads the verified email lists, which personal
             // Microsoft accounts do not carry; they are vouched for by
             // `xms_edov` instead.
@@ -302,6 +302,7 @@ export const authLib = betterAuth({
         ? {
             clientId: env.GITHUB_CLIENT_ID,
             clientSecret: env.GITHUB_CLIENT_SECRET,
+            redirectURI: absoluteUrl("/api/auth/callback/github"),
           }
         : undefined,
   },

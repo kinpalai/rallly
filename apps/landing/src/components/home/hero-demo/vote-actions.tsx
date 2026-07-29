@@ -1,21 +1,17 @@
 "use client";
-import { posthog } from "@rallly/posthog/client";
-import { SuccessCheck, SuccessCheckIcon } from "@rallly/ui/success-check";
-import { XIcon } from "lucide-react";
+import { CircleCheckIcon, XIcon } from "lucide-react";
 import * as m from "motion/react-m";
 import Link from "next/link";
 import * as React from "react";
 import { Trans } from "@/i18n/client/trans";
 import { useTranslation } from "@/i18n/client/use-translation";
 import { linkToApp } from "@/lib/linkToApp";
-import { useRefSlug } from "@/lib/use-ref-slug";
 
 // The action bar of the phone demo, plus the confirmation it opens. The
 // surrounding poll layout stays on the server. Must be a direct child of the
 // relative DemoScreen so the confirmation overlay covers the whole screen.
 export const VoteActions = () => {
   const { t } = useTranslation("home");
-  const ref = useRefSlug();
   const [submitted, setSubmitted] = React.useState(false);
 
   return (
@@ -30,7 +26,6 @@ export const VoteActions = () => {
         <button
           type="button"
           onClick={() => {
-            posthog?.capture("landing:hero_demo_continue_click");
             setSubmitted(true);
           }}
           className="flex-[2] cursor-pointer rounded-xl bg-indigo-500/90 py-2.5 text-center font-medium text-sm text-white shadow-sm backdrop-blur-md hover:bg-indigo-500"
@@ -50,16 +45,29 @@ export const VoteActions = () => {
               type="button"
               aria-label={t("heroDemoClose", { defaultValue: "Close" })}
               onClick={() => {
-                posthog?.capture("landing:hero_demo_close_click");
                 setSubmitted(false);
               }}
               className="absolute top-3 right-3 flex size-6 cursor-pointer items-center justify-center rounded-full text-gray-400 hover:bg-gray-100 hover:text-gray-600"
             >
               <XIcon className="size-4" />
             </button>
-            <SuccessCheck state="in" className="mb-3">
-              <SuccessCheckIcon className="size-9" />
-            </SuccessCheck>
+            <m.div
+              initial={{ scale: 0, opacity: 0 }}
+              animate={{ scale: 1, opacity: 1 }}
+              transition={{
+                type: "spring",
+                duration: 0.6,
+                bounce: 0.45,
+                delay: 0.1,
+              }}
+              className="relative mb-3 inline-block"
+            >
+              <div className="absolute top-0 right-0 bottom-2 -left-1.5 origin-bottom -rotate-12 scale-95 rounded-xl bg-white opacity-75 shadow-xs ring-1 ring-gray-200 ring-inset" />
+              <div className="absolute top-0 -right-1.5 bottom-2 left-0 origin-bottom rotate-12 scale-95 rounded-xl bg-white opacity-75 shadow-xs ring-1 ring-gray-200 ring-inset" />
+              <div className="relative inline-flex rounded-xl bg-white p-2.5 shadow-xs ring-1 ring-gray-200 ring-inset">
+                <CircleCheckIcon className="size-5 text-green-500" />
+              </div>
+            </m.div>
             <m.div
               initial={{ opacity: 0, y: 6 }}
               animate={{ opacity: 1, y: 0 }}
@@ -97,13 +105,7 @@ export const VoteActions = () => {
               className="mt-4"
             >
               <Link
-                href={linkToApp("/new", { ref, cta: "hero_demo_modal" })}
-                onClick={() => {
-                  posthog?.capture("landing:hero_demo_modal_cta_click", {
-                    cta: "hero_demo_modal",
-                    ref,
-                  });
-                }}
+                href={linkToApp("/new")}
                 className="font-medium text-indigo-600 text-xs hover:underline"
               >
                 <Trans
