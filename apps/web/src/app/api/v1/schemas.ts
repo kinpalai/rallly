@@ -494,7 +494,7 @@ const pollSchema = z
       .meta({ example: "https://app.kinpal.com/poll/Xk3pQ9vLm2Ab" }),
     inviteUrl: z
       .string()
-      .meta({ example: "https://kinpal.com/invite/Xk3pQ9vLm2Ab" }),
+      .meta({ example: "https://app.kinpal.com/invite/Xk3pQ9vLm2Ab" }),
   })
   .meta({ id: "Poll" });
 

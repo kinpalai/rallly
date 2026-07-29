@@ -14,12 +14,9 @@ export const NavLink = ({
     <LinkBase
       className={cn(
         buttonVariants({ variant: "ghost" }),
-        isActive
-          ? "bg-gray-200 text-foreground"
-          : "text-muted-foreground hover:text-foreground",
+        isActive ? "bg-landing-selected text-foreground" : "",
         className,
       )}
-      aria-current={isActive ? "page" : undefined}
       {...props}
     />
   );

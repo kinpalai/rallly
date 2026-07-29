@@ -9,7 +9,7 @@ import { Trans } from "@/i18n/client";
 /** Marks a feature the space unlocks by upgrading to Pro. */
 export const ProBadge = ({ className }: { className?: string }) => {
   const label = (
-    <Trans i18nKey="proBadgeUnlock" defaults="Unlock with Rallly Pro" />
+    <Trans i18nKey="proBadgeUnlock" defaults="Unlock with Kinpal Pro" />
   );
   return (
     <Tooltip>
