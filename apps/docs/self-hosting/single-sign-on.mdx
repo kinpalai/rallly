@@ -42,7 +42,7 @@ Follow the [Microsoft Entra ID quickstart](https://docs.microsoft.com/en-us/entr
 After creating the application, set the redirect URI to:
 
 ```
-https://<YOUR_DOMAIN>/api/auth/callback/microsoft-entra-id
+https://<YOUR_DOMAIN>/api/auth/callback/microsoft
 ```
 
 On a multi-tenant endpoint (`MICROSOFT_TENANT_ID` set to `common`, `organizations` or `consumers`) any tenant can assert any email address, so Kinpal needs Microsoft to confirm the address before it creates an account from it. Microsoft does not include that information unless the app registration asks for it, so a multi-tenant registration must emit the verified email claims: without them every new Microsoft sign-in fails with "Your email address is not verified". Work and school accounts are vouched for by `verified_primary_email` and `verified_secondary_email`; personal Microsoft accounts (Outlook, Hotmail, Live) are vouched for by `xms_edov`, which Microsoft only emits alongside the `email` claim. Add all four as optional claims on the ID token. In the app registration open **Token configuration**, choose **Add optional claim**, pick the **ID** token type and tick `email`, `verified_primary_email`, `verified_secondary_email` and `xms_edov`. If the registration lives in an Azure AD B2C tenant, that blade is hidden; open **Manifest** instead and add these entries to the `optionalClaims.idToken` array, keeping any claims already there:
