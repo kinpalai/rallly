@@ -9,7 +9,7 @@ excerpt: Uma análise da primeira grande atualização do Kinpal.
 ---
 
 Se está a perguntar-se por que razão tudo parece diferente hoje, é porque
-acabei de lançar uma grande atualização. Esta atualização está planeada há [algum tempo](https://twitter.com/imlukevella/status/1288066459248349184),
+acabei de lançar uma grande atualização. Esta atualização está planeada há [algum tempo](https://twitter.com/kinpalai/status/1288066459248349184),
 mas, desde o início deste ano, decidi dedicar mais tempo ao Kinpal, o que me permitiu
 alcançar este marco e, espero, muitos mais no futuro. Por isso…
 
@@ -81,4 +81,4 @@ Partilhar diretamente as ligações com os participantes também tem algumas van
 
 ## Isto é apenas o começo
 
-Há muitas funcionalidades novas a caminho, por isso, não deixe de [me seguir](https://twitter.com/imlukevella) ou seguir [@ralllyco](https://twitter.com/ralllyco) no Twitter para receber atualizações.
+Há muitas funcionalidades novas a caminho, por isso, não deixe de [me seguir](https://twitter.com/kinpalai) ou seguir [@ralllyco](https://twitter.com/ralllyco) no Twitter para receber atualizações.

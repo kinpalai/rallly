@@ -34,4 +34,4 @@ Tidligere måtte du trykke på den lille avkrysningsboksen til høyre for å end
 ## Avslutningsvis
 
 Forhåpentligvis vil du like denne oppdateringen og synes den er nyttig.
-Jeg jobber med ting basert på tilbakemeldingene jeg får, så hvorfor ikke sende en tweet til [@ralllyco](https://twitter.com/ralllyco) eller [@imlukevella](https://twitter.com/imlukevella) og fortelle meg hva du synes om denne oppdateringen, og hva du gjerne vil se neste gang?
+Jeg jobber med ting basert på tilbakemeldingene jeg får, så hvorfor ikke sende en tweet til [@ralllyco](https://twitter.com/ralllyco) eller [@kinpalai](https://twitter.com/kinpalai) og fortelle meg hva du synes om denne oppdateringen, og hva du gjerne vil se neste gang?

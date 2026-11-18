@@ -7,7 +7,7 @@ excerpt: >-
   tilauksilla. Tässä kerrotaan, mikä muuttuu ja miksi.
 ---
 
-Kun julkaisin [Kinpal Pron](/blog/introducing-rallly-pro), kyselyn sulkeminen oli sen tärkein ominaisuus. Valitse päivämäärä, lähetä kalenterikutsut ja homma on valmis. Nyt se on maksutonta kaikille.
+Kun julkaisin [Kinpal Pron](/blog/introducing-kinpal-pro), kyselyn sulkeminen oli sen tärkein ominaisuus. Valitse päivämäärä, lähetä kalenterikutsut ja homma on valmis. Nyt se on maksutonta kaikille.
 
 ## Sulje kysely kaikilla tilauksilla
 

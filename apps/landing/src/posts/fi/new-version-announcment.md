@@ -9,7 +9,7 @@ excerpt: Katsaus Kinpaln ensimmäiseen suureen päivitykseen.
 ---
 
 Jos ihmettelet, miksi kaikki näyttää tänään erilaiselta, se johtuu siitä, että
-julkaisin juuri suuren päivityksen. Tätä päivitystä on suunniteltu [jo jonkin aikaa](https://twitter.com/imlukevella/status/1288066459248349184),
+julkaisin juuri suuren päivityksen. Tätä päivitystä on suunniteltu [jo jonkin aikaa](https://twitter.com/kinpalai/status/1288066459248349184),
 mutta tämän vuoden alusta päätin käyttää enemmän aikaani Kinpaln kehittämiseen. Sen ansiosta
 olemme saavuttaneet tämän virstanpylvään, ja toivottavasti edessä on lisää vastaavia tulevaisuudessa. Siispä…
 
@@ -81,4 +81,4 @@ Linkkien jakamisesta suoraan osallistujille on myös muutamia etuja. Voit:
 
 ## Tämä on vasta alkua
 
-Uusia ominaisuuksia on tulossa paljon, joten muista [seurata minua](https://twitter.com/imlukevella) tai [@ralllyco](https://twitter.com/ralllyco) Twitterissä, niin pysyt ajan tasalla.
+Uusia ominaisuuksia on tulossa paljon, joten muista [seurata minua](https://twitter.com/kinpalai) tai [@ralllyco](https://twitter.com/ralllyco) Twitterissä, niin pysyt ajan tasalla.

@@ -7,7 +7,7 @@ excerpt: >-
   todos, em qualquer plano. Saiba o que mudou e porquê.
 ---
 
-Quando lancei o [Kinpal Pro](/blog/introducing-rallly-pro), finalizar uma sondagem era a principal novidade. Escolher uma data, enviar os convites de calendário e está feito. Agora, esta funcionalidade é grátis para todos.
+Quando lancei o [Kinpal Pro](/blog/introducing-kinpal-pro), finalizar uma sondagem era a principal novidade. Escolher uma data, enviar os convites de calendário e está feito. Agora, esta funcionalidade é grátis para todos.
 
 ## Finalizar em qualquer plano
 

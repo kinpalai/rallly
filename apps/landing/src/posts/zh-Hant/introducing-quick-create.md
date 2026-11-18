@@ -16,6 +16,6 @@ Kinpal 有別於其他排程工具的其中一項特色，就是你不需要註�
 
 為了讓每個人都有更好的使用體驗，我推出了**快速建立**。你可以在[登入頁面](https://app.kinpal.com/login)直接找到這項功能，無需註冊即可立即建立和管理群組投票。當你準備好進一步使用更多功能，例如存取進階功能或確保能長期存取投票時，只要輕鬆註冊即可，現有的所有投票也會自動加入你的帳戶。
 
-![快速建立](https://rallly-public.s3.us-east-1.amazonaws.com/images/quick-create.png)
+![快速建立](https://kinpal-public.s3.us-east-1.amazonaws.com/images/quick-create.png)
 
 這項變更讓我能專注於開發更多強大功能，同時讓新使用者一開始的體驗保持簡單易用。這是我們一連串改進的第一步，目標是讓 Kinpal 更容易使用，也更強大。敬請期待更多更新！

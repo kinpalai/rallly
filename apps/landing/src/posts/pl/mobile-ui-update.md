@@ -36,4 +36,4 @@ Wcześniej, aby zmienić swój głos, trzeba było dotknąć niewielkiego pola w
 ## Podsumowanie
 
 Mam nadzieję, że spodoba Ci się ta aktualizacja i okaże się przydatna.
-Pracuję nad aplikacją na podstawie otrzymywanych opinii, więc może napiszesz na Twitterze do [@ralllyco](https://twitter.com/ralllyco) lub [@imlukevella](https://twitter.com/imlukevella), aby dać mi znać, co sądzisz o tej aktualizacji i co chciałbyś zobaczyć w następnej kolejności?
+Pracuję nad aplikacją na podstawie otrzymywanych opinii, więc może napiszesz na Twitterze do [@ralllyco](https://twitter.com/ralllyco) lub [@kinpalai](https://twitter.com/kinpalai), aby dać mi znać, co sądzisz o tej aktualizacji i co chciałbyś zobaczyć w następnej kolejności?

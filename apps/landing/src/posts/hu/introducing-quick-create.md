@@ -18,6 +18,6 @@ A korábbi megoldás, amely teljes hozzáférést biztosított a platformhoz a b
 
 Annak érdekében, hogy mindenki számára jobb élményt biztosítsak, bevezettem a **Gyors létrehozást**. Ezt közvetlenül a [bejelentkezési oldalon](https://app.kinpal.com/login) találod, ahol regisztráció nélkül azonnal létrehozhatsz és kezelhetsz csoportos szavazásokat. Ha később többre lesz szükséged, például a haladó funkciók elérésére vagy a szavazásaidhoz való hosszú távú hozzáférés biztosítására, egyszerűen regisztrálhatsz, és minden meglévő szavazásod automatikusan hozzáadódik a fiókodhoz.
 
-![Gyors létrehozás](https://rallly-public.s3.us-east-1.amazonaws.com/images/quick-create.png)
+![Gyors létrehozás](https://kinpal-public.s3.us-east-1.amazonaws.com/images/quick-create.png)
 
 Ez a változtatás lehetővé teszi, hogy új, hatékony funkciók fejlesztésére összpontosítsak, miközben az első használat élménye egyszerű és könnyen hozzáférhető marad az új felhasználók számára. Ez az első lépés azon fejlesztések sorában, amelyekkel a Kinpal még felhasználóbarátabbá és hatékonyabbá válik. Hamarosan újabb frissítésekkel jelentkezünk!

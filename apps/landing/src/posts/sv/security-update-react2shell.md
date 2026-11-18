@@ -8,7 +8,7 @@ excerpt: >-
   omedelbart.
 ---
 
-**Det här meddelandet gäller endast Kinpal-installationer med egen drift.** Om du använder Rallyys hostade tjänst på [kinpal.com](https://kinpal.com) behöver du inte göra någonting. Servrarna säkerhetsuppdaterades inom några timmar efter att CVE:erna offentliggjordes, och inget intrång skedde under den tiden.
+**Det här meddelandet gäller endast Kinpal-installationer med egen drift.** Om du använder Kinpalys hostade tjänst på [kinpal.com](https://kinpal.com) behöver du inte göra någonting. Servrarna säkerhetsuppdaterades inom några timmar efter att CVE:erna offentliggjordes, och inget intrång skedde under den tiden.
 
 ---
 
@@ -32,7 +32,7 @@ React-teamet upptäckte senare att åtgärden för CVE-2025-55184 var ofullstän
 
 Om du kör Kinpal med egen drift ska du omedelbart vidta följande åtgärder:
 
-- **Uppdatera** Kinpal till den senaste versionen (v4.5.11 eller senare) för att skyddas mot alla fyra CVE:er. Mer information finns i [versionsinformationen](https://github.com/lukevella/rallly/releases/tag/v4.5.11).
+- **Uppdatera** Kinpal till den senaste versionen (v4.5.11 eller senare) för att skyddas mot alla fyra CVE:er. Mer information finns i [versionsinformationen](https://github.com/kinpalai/rallly/releases/tag/v4.5.11).
 - Om du använder v4.5.10 måste du uppdatera till v4.5.11 eftersom den tidigare åtgärden var ofullständig.
 - Om du använder v4.5.8 (som gav fullt skydd mot React2Shell) måste du uppdatera till v4.5.11 för att skyddas mot alla sårbarheter.
 - Om du använder v4.5.7 bör du uppdatera till v4.5.11 eftersom v4.5.7 kanske inte gav fullt skydd mot React2Shell.

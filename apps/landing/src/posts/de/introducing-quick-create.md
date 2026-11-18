@@ -18,6 +18,6 @@ Der bisherige Ansatz, nicht angemeldeten Nutzern vollständigen Zugriff auf die 
 
 Um für alle ein besseres Erlebnis zu schaffen, habe ich **Schnell erstellen** eingeführt. Du findest die Funktion direkt auf der [Anmeldeseite](https://app.kinpal.com/login), wo du sofort Umfragen für Gruppen erstellen und verwalten kannst, ohne dich registrieren zu müssen. Wenn du mehr machen möchtest, etwa auf erweiterte Funktionen zugreifen oder langfristig den Zugriff auf deine Umfragen sicherstellen willst, kannst du dich ganz einfach registrieren. Alle deine bestehenden Umfragen werden dann automatisch zu deinem Konto hinzugefügt.
 
-![Schnell erstellen](https://rallly-public.s3.us-east-1.amazonaws.com/images/quick-create.png)
+![Schnell erstellen](https://kinpal-public.s3.us-east-1.amazonaws.com/images/quick-create.png)
 
 Durch diese Änderung kann ich mich auf die Entwicklung neuer, leistungsfähiger Funktionen konzentrieren und gleichzeitig den Einstieg für neue Nutzer einfach und zugänglich halten. Das ist der erste Schritt einer Reihe von Verbesserungen, die Kinpal noch benutzerfreundlicher und leistungsfähiger machen sollen. Freue dich auf weitere Updates!

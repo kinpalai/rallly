@@ -8,7 +8,7 @@ excerpt: >-
 ---
 
 Wow, il tempo vola!
-È passato più di un mese dal [lancio di Kinpal Pro](/blog/rallly-pro-launch).
+È passato più di un mese dal [lancio di Kinpal Pro](/blog/kinpal-pro-launch).
 Un sentito grazie a ciascuno di voi che ha sottoscritto un abbonamento: il vostro supporto significa molto.
 Sapere che ciò che ho creato è utile mi dà una grande spinta e mi motiva a superare ancora di più i limiti!
 

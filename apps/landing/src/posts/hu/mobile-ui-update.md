@@ -36,4 +36,4 @@ Korábban a jobb oldalon található apró jelölőnégyzetet kellett megérinte
 ## Összefoglalás
 
 Remélem, örömmel használod majd ezt a frissítést, és hasznosnak találod.
-A kapott visszajelzések alapján dolgozom, úgyhogy miért ne írhatnál egy tweetet a [@ralllyco](https://twitter.com/ralllyco) vagy a [@imlukevella](https://twitter.com/imlukevella) címére, hogy elmondd, mit gondolsz erről a frissítésről, és mit látnál szívesen legközelebb?
+A kapott visszajelzések alapján dolgozom, úgyhogy miért ne írhatnál egy tweetet a [@ralllyco](https://twitter.com/ralllyco) vagy a [@kinpalai](https://twitter.com/kinpalai) címére, hogy elmondd, mit gondolsz erről a frissítésről, és mit látnál szívesen legközelebb?

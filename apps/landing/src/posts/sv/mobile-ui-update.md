@@ -36,4 +36,4 @@ Tidigare behövde du trycka på den lilla kryssrutan till höger för att ändra
 ## Sammanfattningsvis
 
 Förhoppningsvis kommer du att uppskatta den här uppdateringen och ha nytta av den.
-Jag utvecklar saker utifrån den feedback jag får, så varför inte skicka en tweet till [@ralllyco](https://twitter.com/ralllyco) eller [@imlukevella](https://twitter.com/imlukevella) och berätta vad du tycker om uppdateringen och vad du vill se härnäst?
+Jag utvecklar saker utifrån den feedback jag får, så varför inte skicka en tweet till [@ralllyco](https://twitter.com/ralllyco) eller [@kinpalai](https://twitter.com/kinpalai) och berätta vad du tycker om uppdateringen och vad du vill se härnäst?

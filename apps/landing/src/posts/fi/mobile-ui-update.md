@@ -34,4 +34,4 @@ Aiemmin vastauksen vaihtaminen edellytti pienen oikealla olevan valintaruudun na
 ## Lopuksi
 
 Toivottavasti pidät tästä päivityksestä ja koet sen hyödylliseksi.
-Kehitän palvelua saamani palautteen perusteella, joten lähetä viesti Twitterissä tilille [@ralllyco](https://twitter.com/ralllyco) tai [@imlukevella](https://twitter.com/imlukevella) ja kerro, mitä pidät tästä päivityksestä ja mitä haluaisit nähdä seuraavaksi.
+Kehitän palvelua saamani palautteen perusteella, joten lähetä viesti Twitterissä tilille [@ralllyco](https://twitter.com/ralllyco) tai [@kinpalai](https://twitter.com/kinpalai) ja kerro, mitä pidät tästä päivityksestä ja mitä haluaisit nähdä seuraavaksi.

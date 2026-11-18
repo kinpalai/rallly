@@ -10,7 +10,7 @@ excerpt: En titt på Kinpals första stora uppdatering.
 
 Om du undrar varför allt ser annorlunda ut i dag beror det på att jag
 just har släppt en stor uppdatering. Den här uppdateringen har planerats
-[en tid](https://twitter.com/imlukevella/status/1288066459248349184),
+[en tid](https://twitter.com/kinpalai/status/1288066459248349184),
 men sedan början av året har jag valt att lägga mer av min tid på Kinpal. Det har gjort det
 möjligt att nå den här milstolpen, och förhoppningsvis blir det fler framöver. Så …
 
@@ -83,4 +83,4 @@ Det finns också några fördelar med att dela länkar direkt med deltagarna. Du
 
 ## Det här är bara början
 
-Det kommer många nya funktioner, så se till att [följa mig](https://twitter.com/imlukevella) eller [@ralllyco](https://twitter.com/ralllyco) på Twitter för uppdateringar.
+Det kommer många nya funktioner, så se till att [följa mig](https://twitter.com/kinpalai) eller [@ralllyco](https://twitter.com/ralllyco) på Twitter för uppdateringar.

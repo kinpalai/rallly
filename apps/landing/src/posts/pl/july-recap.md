@@ -6,7 +6,7 @@ excerpt: Podsumowanie zmian oraz informacje o nadchodzących zmianach cen.
 ---
 
 Ale ten czas leci!
-Minął już ponad miesiąc od [premiery Kinpal Pro](/blog/rallly-pro-launch).
+Minął już ponad miesiąc od [premiery Kinpal Pro](/blog/kinpal-pro-launch).
 Z całego serca dziękuję każdej osobie, która wykupiła subskrypcję – Wasze wsparcie wiele dla mnie znaczy.
 Świadomość, że to, co stworzyłem, ma wartość, ogromnie podnosi mnie na duchu i motywuje do jeszcze odważniejszego rozwijania Kinpal!
 

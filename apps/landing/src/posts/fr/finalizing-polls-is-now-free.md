@@ -8,7 +8,7 @@ excerpt: >-
   et pourquoi.
 ---
 
-Quand j'ai lancé [Kinpal Pro](/blog/introducing-rallly-pro), la finalisation d'un sondage était sa fonctionnalité phare. Choisissez une date, envoyez les invitations de calendrier, et c'est fait. C'est désormais gratuit pour tout le monde.
+Quand j'ai lancé [Kinpal Pro](/blog/introducing-kinpal-pro), la finalisation d'un sondage était sa fonctionnalité phare. Choisissez une date, envoyez les invitations de calendrier, et c'est fait. C'est désormais gratuit pour tout le monde.
 
 ## Finaliser avec tous les forfaits
 

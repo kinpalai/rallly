@@ -18,6 +18,6 @@ Dotychczasowe podejście, które zapewniało niezalogowanym użytkownikom pełny
 
 Aby zapewnić wszystkim lepsze doświadczenia, wprowadziliśmy **Szybkie tworzenie**. Znajdziesz je bezpośrednio na [stronie logowania](https://app.kinpal.com/login), gdzie możesz natychmiast tworzyć ankiety grupowe i zarządzać nimi bez konieczności zakładania konta. Gdy zechcesz korzystać z większych możliwości, takich jak dostęp do zaawansowanych funkcji lub zapewnienie sobie długoterminowego dostępu do ankiet, możesz łatwo założyć konto, a wszystkie dotychczasowe ankiety zostaną automatycznie dodane do Twojego konta.
 
-![Szybkie tworzenie](https://rallly-public.s3.us-east-1.amazonaws.com/images/quick-create.png)
+![Szybkie tworzenie](https://kinpal-public.s3.us-east-1.amazonaws.com/images/quick-create.png)
 
 Ta zmiana pozwala mi skupić się na rozwijaniu nowych, zaawansowanych funkcji, a jednocześnie zachować prosty i łatwo dostępny początek dla nowych użytkowników. To pierwszy krok w serii ulepszeń, które sprawią, że Kinpal będzie jeszcze wygodniejsze i bardziej funkcjonalne. Wkrótce pojawią się kolejne aktualizacje!

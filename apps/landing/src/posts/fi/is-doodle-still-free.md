@@ -116,11 +116,11 @@ Tähän tarpeeseen [Kinpal](https://kinpal.com) vastaa. Se tekee yhden asian: eh
 </table>
 </div>
 
-Rallyssa osallistujat äänestävät pelkän linkin avulla eivätkä tarvitse tiliä. Kaikki näkevät vaihtoehdot omalla aikavyöhykkeellään, ja päivämäärän vahvistaminen sekä kaikille ilmoittaminen on ilmaista.
+Kinpalssa osallistujat äänestävät pelkän linkin avulla eivätkä tarvitse tiliä. Kaikki näkevät vaihtoehdot omalla aikavyöhykkeellään, ja päivämäärän vahvistaminen sekä kaikille ilmoittaminen on ilmaista.
 
 Kerrotaan avoimesti myös omista rajoituksistamme: Kinpaln ilmaisversiossa voit luoda niin monta kyselyä kuin haluat, mutta enintään kolme kyselyä voi olla samanaikaisesti avoinna ja kerätä ääniä. Sulje yksi kysely tai vahvista sen lopullinen aika, niin voit avata uuden. Ilman rekisteröitymistä voit pitää kerrallaan avoinna yhden kyselyn. Sama sääntö pätee tällöin: sulje kysely tai vahvista sen lopullinen aika, niin voit avata uuden. Ilmaiskyselyt poistetaan, kun kaikki niiden päivämäärät ovat vähintään 30 päivää vanhoja eikä kukaan ole muokannut, äänestänyt tai kommentoinut niitä viimeisten 30 päivän aikana.
 
-Kinpal on myös [avointa lähdekoodia](https://github.com/lukevella/rallly), joten voit tarkistaa täsmälleen, miten se toimii, ja jopa ylläpitää sitä omalla palvelimellasi.
+Kinpal on myös [avointa lähdekoodia](https://github.com/kinpalai/rallly), joten voit tarkistaa täsmälleen, miten se toimii, ja jopa ylläpitää sitä omalla palvelimellasi.
 
 Kinpal saa tulonsa [Kinpal Prosta](https://kinpal.com/pricing), joka lisää ammattikäytössä tarvittavia ominaisuuksia, kuten rajattomasti avoimia kyselyitä, mukautetun brändäyksen ja kyselyt, jotka säilyvät käytettävissä toistaiseksi. Näin ilmaisversio voi pysyä kaikille ilmaisena ja mainoksettomana.
 

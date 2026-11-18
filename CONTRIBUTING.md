@@ -24,7 +24,7 @@ The following instructions are for running the project locally for development.
 1. Clone the repository and switch to the project directory
 
    ```bash
-   git clone https://github.com/lukevella/rallly.git
+   git clone https://github.com/kinpalai/rallly.git
    cd rallly
    ```
 
@@ -103,7 +103,7 @@ To contribute translations, please check out our [guide for translators](https:/
 
 If you find this project useful and would like to contribute financially on an ongoing basis, please consider becoming a sponsor. Sponsors help us cover the costs of hosting, development, and maintenance, and enable us to continue working on the project.
 
-To become a sponsor, visit our [sponsor page](https://github.com/sponsors/lukevella) and select the sponsorship level that works for you.
+To become a sponsor, visit our [sponsor page](https://github.com/sponsors/kinpalai) and select the sponsorship level that works for you.
 
 Donations are also accepted through [PayPal](http://paypal.me/ralllyco).
 
@@ -117,8 +117,8 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 
 ## Contributor License Agreement 👩‍⚖️
 
-Before we can merge your first pull request, you need to sign our [Contributor License Agreement](https://cla-assistant.io/lukevella/rallly). The CLA assistant bot comments on your pull request with a link. You sign once with your GitHub account and it covers all your future contributions.
+Before we can merge your first pull request, you need to sign our [Contributor License Agreement](https://cla-assistant.io/kinpalai/rallly). The CLA assistant bot comments on your pull request with a link. You sign once with your GitHub account and it covers all your future contributions.
 
-By signing, you license your contribution under the same license as the project, currently [AGPL-3.0](LICENSE), and you grant the project maintainers the irrevocable right to relicense it, including under other open source or proprietary licenses. You keep the copyright in your work. Read the [full agreement](https://cla-assistant.io/lukevella/rallly) before you sign.
+By signing, you license your contribution under the same license as the project, currently [AGPL-3.0](LICENSE), and you grant the project maintainers the irrevocable right to relicense it, including under other open source or proprietary licenses. You keep the copyright in your work. Read the [full agreement](https://cla-assistant.io/kinpalai/rallly) before you sign.
 
 Thank you for your interest in contributing to this project!

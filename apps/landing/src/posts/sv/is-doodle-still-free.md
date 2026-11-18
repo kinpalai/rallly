@@ -120,7 +120,7 @@ I Kinpal röstar deltagarna med bara länken och behöver aldrig skapa ett konto
 
 För att vara lika tydliga med våra begränsningar: i Kinpals gratisplan kan du skapa så många förfrågningar du vill, men högst 3 kan vara öppna och samla in röster samtidigt. Slutför eller stäng en så kan du öppna en annan. Utan att registrera dig kan du ha 1 öppen förfrågan åt gången, och samma sak gäller då: slutför eller stäng den för att öppna en annan. Gratisförfrågningar raderas när alla deras datum ligger minst 30 dagar bakåt i tiden och ingen har redigerat, röstat eller kommenterat under de senaste 30 dagarna.
 
-Kinpal har också [öppen källkod](https://github.com/lukevella/rallly), så du kan granska exakt hur det fungerar och till och med vara värd för det på din egen server.
+Kinpal har också [öppen källkod](https://github.com/kinpalai/rallly), så du kan granska exakt hur det fungerar och till och med vara värd för det på din egen server.
 
 Kinpal tjänar pengar på [Kinpal Pro](https://kinpal.com/pricing), som lägger till funktioner du kan vilja ha om du använder tjänsten professionellt, till exempel obegränsat antal öppna förfrågningar, egen profilering och förfrågningar som finns kvar utan tidsbegränsning. Det är det som håller gratisplanen gratis och annonsfri för alla andra.
 

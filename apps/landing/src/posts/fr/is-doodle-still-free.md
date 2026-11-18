@@ -120,7 +120,7 @@ Sur Kinpal, les participants votent simplement avec le lien et n'ont jamais beso
 
 Pour être tout aussi transparents sur nos limites : avec le forfait gratuit de Kinpal, vous pouvez créer autant de sondages que vous le souhaitez, mais 3 au maximum peuvent être ouverts et recueillir des votes en même temps. Finalisez ou fermez-en un pour pouvoir en ouvrir un autre. Sans créer de compte, vous pouvez avoir 1 sondage ouvert à la fois, avec la même règle : finalisez-le ou fermez-le pour en ouvrir un autre. Les sondages gratuits sont supprimés dès que toutes leurs dates remontent à au moins 30 jours et que personne ne les a modifiés, n'y a voté ou n'y a publié de commentaire au cours des 30 derniers jours.
 
-Kinpal est également [open source](https://github.com/lukevella/rallly), ce qui vous permet d'examiner précisément son fonctionnement et même de l'héberger sur votre propre serveur.
+Kinpal est également [open source](https://github.com/kinpalai/rallly), ce qui vous permet d'examiner précisément son fonctionnement et même de l'héberger sur votre propre serveur.
 
 Kinpal gagne de l'argent grâce à [Kinpal Pro](https://kinpal.com/pricing), qui ajoute des fonctionnalités utiles pour un usage professionnel, comme un nombre illimité de sondages ouverts, une image de marque personnalisée et des sondages conservés indéfiniment. C'est ce qui permet de maintenir le forfait gratuit sans publicités pour tout le monde.
 

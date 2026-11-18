@@ -28,7 +28,7 @@ React 團隊後來發現，CVE-2025-55184 的修正並不完整，因此需要�
 
 如果您是自行託管 Kinpal，請立即採取以下步驟：
 
-- **更新** Kinpal 至最新版本（v4.5.11 或更新版本），以防護所有四個 CVE。如需詳細資訊，請參閱[版本資訊](https://github.com/lukevella/rallly/releases/tag/v4.5.11)。
+- **更新** Kinpal 至最新版本（v4.5.11 或更新版本），以防護所有四個 CVE。如需詳細資訊，請參閱[版本資訊](https://github.com/kinpalai/rallly/releases/tag/v4.5.11)。
 - 如果您使用的是 v4.5.10，必須更新至 v4.5.11，因為先前的修正並不完整。
 - 如果您使用的是 v4.5.8（已完整防護 React2Shell），必須更新至 v4.5.11，才能防護所有漏洞。
 - 如果您使用的是 v4.5.7，應更新至 v4.5.11，因為 v4.5.7 可能未完整防護 React2Shell。

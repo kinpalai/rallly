@@ -8,7 +8,7 @@ excerpt: >-
 ---
 
 Wow, wie die Zeit vergeht!
-Es ist schon über einen Monat her, seit [Kinpal Pro gestartet ist](/blog/rallly-pro-launch).
+Es ist schon über einen Monat her, seit [Kinpal Pro gestartet ist](/blog/kinpal-pro-launch).
 Ein herzliches Dankeschön an alle, die ein Abo abgeschlossen haben – eure Unterstützung bedeutet mir sehr viel.
 Zu wissen, dass meine Arbeit einen echten Mehrwert bietet, ist ein großer Motivationsschub und spornt mich an, die Grenzen noch weiter auszureizen!
 

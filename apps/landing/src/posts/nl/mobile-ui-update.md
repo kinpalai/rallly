@@ -36,4 +36,4 @@ Voorheen moest je het kleine selectievakje aan de rechterkant aanraken om een st
 ## Tot slot
 
 Hopelijk bevalt deze update je en vind je hem nuttig.
-Ik werk aan dingen op basis van de feedback die ik krijg, dus waarom stuur je geen tweet naar [@ralllyco](https://twitter.com/ralllyco) of [@imlukevella](https://twitter.com/imlukevella) om me te laten weten wat je van deze update vindt en wat je hierna graag zou willen zien?
+Ik werk aan dingen op basis van de feedback die ik krijg, dus waarom stuur je geen tweet naar [@ralllyco](https://twitter.com/ralllyco) of [@kinpalai](https://twitter.com/kinpalai) om me te laten weten wat je van deze update vindt en wat je hierna graag zou willen zien?

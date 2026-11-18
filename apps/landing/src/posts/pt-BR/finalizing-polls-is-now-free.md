@@ -7,7 +7,7 @@ excerpt: >-
   todos em qualquer plano. Veja o que mudou e por quê.
 ---
 
-Quando lancei o [Kinpal Pro](/blog/introducing-rallly-pro), finalizar uma enquete era o principal recurso. Escolha uma data, envie os convites de calendário e pronto. Agora isso é grátis para todos.
+Quando lancei o [Kinpal Pro](/blog/introducing-kinpal-pro), finalizar uma enquete era o principal recurso. Escolha uma data, envie os convites de calendário e pronto. Agora isso é grátis para todos.
 
 ## Finalize em qualquer plano
 

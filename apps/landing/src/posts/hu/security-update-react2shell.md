@@ -32,7 +32,7 @@ A React csapata később felfedezte, hogy a CVE-2025-55184 javítása nem volt t
 
 Ha a Kinpalt saját magad üzemelteted, azonnal végezd el a következő lépéseket:
 
-- **Frissítsd** a Kinpalt a legújabb verzióra (v4.5.11 vagy újabb), hogy mind a négy CVE-vel szemben védett legyél. A részletekért tekintsd meg a [kiadási megjegyzéseket](https://github.com/lukevella/rallly/releases/tag/v4.5.11).
+- **Frissítsd** a Kinpalt a legújabb verzióra (v4.5.11 vagy újabb), hogy mind a négy CVE-vel szemben védett legyél. A részletekért tekintsd meg a [kiadási megjegyzéseket](https://github.com/kinpalai/rallly/releases/tag/v4.5.11).
 - Ha a v4.5.10-es verziót használod, frissítened kell a v4.5.11-es verzióra, mert az előző javítás nem volt teljes.
 - Ha a v4.5.8-as verziót használod (amely teljes védelmet nyújtott a React2Shell ellen), frissítened kell a v4.5.11-es verzióra, hogy minden sérülékenységgel szemben védett legyél.
 - Ha a v4.5.7-es verziót használod, érdemes frissítened a v4.5.11-es verzióra, mivel a v4.5.7 lehet, hogy nem nyújtott teljes védelmet a React2Shell ellen.

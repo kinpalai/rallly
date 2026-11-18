@@ -36,4 +36,4 @@ Antes tenías que tocar la pequeña casilla de verificación de la derecha para 
 ## En conclusión
 
 Espero que disfrutes de esta actualización y que te resulte útil.
-Trabajo en función de los comentarios que recibo, así que ¿por qué no envías un tuit a [@ralllyco](https://twitter.com/ralllyco) o [@imlukevella](https://twitter.com/imlukevella) para contarme qué te parece esta actualización y qué te gustaría ver a continuación?
+Trabajo en función de los comentarios que recibo, así que ¿por qué no envías un tuit a [@ralllyco](https://twitter.com/ralllyco) o [@kinpalai](https://twitter.com/kinpalai) para contarme qué te parece esta actualización y qué te gustaría ver a continuación?

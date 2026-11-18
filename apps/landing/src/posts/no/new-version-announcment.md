@@ -8,7 +8,7 @@ draft: false
 excerpt: En titt på Kinpals første store oppdatering.
 ---
 
-Hvis du lurer på hvorfor alt ser annerledes ut i dag, er det fordi jeg nettopp har lansert en stor oppdatering. Denne oppdateringen har vært planlagt [en stund](https://twitter.com/imlukevella/status/1288066459248349184),
+Hvis du lurer på hvorfor alt ser annerledes ut i dag, er det fordi jeg nettopp har lansert en stor oppdatering. Denne oppdateringen har vært planlagt [en stund](https://twitter.com/kinpalai/status/1288066459248349184),
 men fra og med i år har jeg bestemt meg for å bruke mer av tiden min på Kinpal. Det har gjort det mulig å nå denne milepælen, og forhåpentligvis kommer det flere i fremtiden. Så …
 
 ## Hva skjer med avstemninger som ble opprettet med den gamle versjonen?
@@ -80,4 +80,4 @@ Det finnes også noen fordeler ved å dele lenker direkte med deltakerne dine. D
 
 ## Dette er bare begynnelsen
 
-Det kommer mange nye funksjoner, så sørg for å [følge meg](https://twitter.com/imlukevella) eller [@ralllyco](https://twitter.com/ralllyco) på Twitter for oppdateringer.
+Det kommer mange nye funksjoner, så sørg for å [følge meg](https://twitter.com/kinpalai) eller [@ralllyco](https://twitter.com/ralllyco) på Twitter for oppdateringer.

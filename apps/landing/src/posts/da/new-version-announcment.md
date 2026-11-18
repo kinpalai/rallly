@@ -9,7 +9,7 @@ excerpt: Et kig på Kinpals første større opdatering.
 ---
 
 Hvis du undrer dig over, hvorfor alting ser anderledes ud i dag, er det, fordi jeg
-netop har udgivet en større opdatering. Jeg har planlagt denne opdatering i [noget tid](https://twitter.com/imlukevella/status/1288066459248349184),
+netop har udgivet en større opdatering. Jeg har planlagt denne opdatering i [noget tid](https://twitter.com/kinpalai/status/1288066459248349184),
 men fra og med i år har jeg besluttet at bruge mere af min tid på Kinpal, hvilket har gjort det muligt
 at nå denne milepæl – og forhåbentlig flere i fremtiden. Så …
 
@@ -81,4 +81,4 @@ Der er også nogle fordele ved at dele links direkte med dine deltagere. Du kan:
 
 ## Dette er kun begyndelsen
 
-Der kommer masser af nye funktioner, så husk at [følge mig](https://twitter.com/imlukevella) eller [@ralllyco](https://twitter.com/ralllyco) på Twitter for at få opdateringer.
+Der kommer masser af nye funktioner, så husk at [følge mig](https://twitter.com/kinpalai) eller [@ralllyco](https://twitter.com/ralllyco) på Twitter for at få opdateringer.

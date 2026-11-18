@@ -18,6 +18,6 @@ A abordagem anterior, que dava acesso completo à plataforma para usuários que 
 
 Para criar uma experiência melhor para todos, introduzi o **Crie rápido**. Você encontra esse recurso diretamente na [página de login](https://app.kinpal.com/login), onde pode criar e gerenciar instantaneamente enquetes de grupo sem precisar criar uma conta. Quando quiser fazer mais, como acessar recursos avançados ou garantir acesso de longo prazo às suas enquetes, você poderá criar uma conta facilmente, e todas as suas enquetes existentes serão adicionadas automaticamente à sua conta.
 
-![Crie rápido](https://rallly-public.s3.us-east-1.amazonaws.com/images/quick-create.png)
+![Crie rápido](https://kinpal-public.s3.us-east-1.amazonaws.com/images/quick-create.png)
 
 Essa mudança me permite focar no desenvolvimento de novos recursos avançados, mantendo a experiência inicial simples e acessível para novos usuários. Esse é o primeiro passo de uma série de melhorias para tornar o Kinpal ainda mais fácil de usar e poderoso. Fique de olho nas próximas novidades!

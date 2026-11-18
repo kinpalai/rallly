@@ -34,4 +34,4 @@ Dříve bylo potřeba klepnout na malý checkbox vpravo, aby se změnil váš hl
 ## Závěrem
 
 Doufám, že se vám tato aktualizace bude líbit a že ji shledáte užitečnou.
-Na nových věcech pracuji podle zpětné vazby, kterou dostávám. Proč tedy nenapsat na Twitter účtu [@ralllyco](https://twitter.com/ralllyco) nebo [@imlukevella](https://twitter.com/imlukevella) a nedat mi vědět, jak se vám tato aktualizace líbí a co byste chtěli vidět příště?
+Na nových věcech pracuji podle zpětné vazby, kterou dostávám. Proč tedy nenapsat na Twitter účtu [@ralllyco](https://twitter.com/ralllyco) nebo [@kinpalai](https://twitter.com/kinpalai) a nedat mi vědět, jak se vám tato aktualizace líbí a co byste chtěli vidět příště?

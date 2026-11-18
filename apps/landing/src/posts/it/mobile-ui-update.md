@@ -36,4 +36,4 @@ In precedenza, per modificare un voto dovevi toccare la piccola casella di contr
 ## In conclusione
 
 Spero che questo aggiornamento ti piaccia e che tu lo trovi utile.
-Lavoro sulle funzionalità in base ai feedback che ricevo, quindi perché non mandare un tweet a [@ralllyco](https://twitter.com/ralllyco) o [@imlukevella](https://twitter.com/imlukevella) per farmi sapere cosa ne pensi di questo aggiornamento e cosa ti piacerebbe vedere prossimamente?
+Lavoro sulle funzionalità in base ai feedback che ricevo, quindi perché non mandare un tweet a [@ralllyco](https://twitter.com/ralllyco) o [@kinpalai](https://twitter.com/kinpalai) per farmi sapere cosa ne pensi di questo aggiornamento e cosa ti piacerebbe vedere prossimamente?

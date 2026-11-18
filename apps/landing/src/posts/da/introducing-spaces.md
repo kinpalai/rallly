@@ -7,7 +7,7 @@ excerpt: >-
   samlet ét sted.
 ---
 
-Jeg er glad for at kunne introducere **Rum** – Rallys nye funktion til teamsamarbejde, der ændrer måden, organisationer håndterer planlægning og fakturering på. I stedet for at jonglere med flere individuelle Pro-abonnementer samler Rum hele dit team i ét samlet arbejdsområde.
+Jeg er glad for at kunne introducere **Rum** – Kinpals nye funktion til teamsamarbejde, der ændrer måden, organisationer håndterer planlægning og fakturering på. I stedet for at jonglere med flere individuelle Pro-abonnementer samler Rum hele dit team i ét samlet arbejdsområde.
 
 ![Kinpal Spaces](https://d39ixtfgglw55o.cloudfront.net/images/spaces.webp)
 

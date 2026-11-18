@@ -36,4 +36,4 @@ Antes, era preciso tocar na pequena caixa de seleção à direita para alterar u
 ## Para concluir
 
 Espero que você goste desta atualização e a considere útil.
-Eu trabalho nas melhorias com base no feedback que recebo, então por que não enviar um tweet para [@ralllyco](https://twitter.com/ralllyco) ou [@imlukevella](https://twitter.com/imlukevella) e me contar o que achou desta atualização e o que gostaria de ver a seguir?
+Eu trabalho nas melhorias com base no feedback que recebo, então por que não enviar um tweet para [@ralllyco](https://twitter.com/ralllyco) ou [@kinpalai](https://twitter.com/kinpalai) e me contar o que achou desta atualização e o que gostaria de ver a seguir?

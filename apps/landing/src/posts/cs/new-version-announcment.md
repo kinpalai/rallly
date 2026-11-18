@@ -8,7 +8,7 @@ draft: false
 excerpt: Pohled na první velkou aktualizaci Kinpal.
 ---
 
-Pokud vás zajímá, proč dnes všechno vypadá jinak, je to proto, že jsem právě vydal velkou aktualizaci. Na této aktualizaci se pracuje [už nějakou dobu](https://twitter.com/imlukevella/status/1288066459248349184),
+Pokud vás zajímá, proč dnes všechno vypadá jinak, je to proto, že jsem právě vydal velkou aktualizaci. Na této aktualizaci se pracuje [už nějakou dobu](https://twitter.com/kinpalai/status/1288066459248349184),
 ale od začátku tohoto roku jsem se rozhodl věnovat Kinpal více času. Díky tomu se mi podařilo dosáhnout tohoto milníku a snad budou v budoucnu následovat i další. Takže…
 
 ## Co se stane s anketami vytvořenými ve staré verzi?
@@ -78,4 +78,4 @@ Přímé sdílení odkazů s účastníky má také několik výhod. Můžete:
 
 ## Tohle je teprve začátek
 
-Chystá se spousta nových funkcí, takže mě nezapomeňte [sledovat](https://twitter.com/imlukevella) nebo sledovat účet [@ralllyco](https://twitter.com/ralllyco) na Twitteru, kde najdete novinky.
+Chystá se spousta nových funkcí, takže mě nezapomeňte [sledovat](https://twitter.com/kinpalai) nebo sledovat účet [@ralllyco](https://twitter.com/ralllyco) na Twitteru, kde najdete novinky.

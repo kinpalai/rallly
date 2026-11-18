@@ -44,4 +44,4 @@ Edellä mainitut osat etenevät tässä järjestyksessä: Saatavuusruudukko -> K
 
 ## Lopuksi
 
-Olen todella innoissani päästessäni työskentelemään tämän Kinpaln uudistetun työnkulun parissa. Kuten aina, palautteesi on minulle erittäin arvokasta. Kerro, voisiko tästä työnkulusta olla mielestäsi hyötyä tai onko sinulla ehdotuksia sen parantamiseksi. Odotan innolla, että voimme yhdessä kehittää Rallysta työkalun, joka tekee aikataulujen suunnittelusta helppoa ja sujuvaa kaikille.
+Olen todella innoissani päästessäni työskentelemään tämän Kinpaln uudistetun työnkulun parissa. Kuten aina, palautteesi on minulle erittäin arvokasta. Kerro, voisiko tästä työnkulusta olla mielestäsi hyötyä tai onko sinulla ehdotuksia sen parantamiseksi. Odotan innolla, että voimme yhdessä kehittää Kinpalsta työkalun, joka tekee aikataulujen suunnittelusta helppoa ja sujuvaa kaikille.

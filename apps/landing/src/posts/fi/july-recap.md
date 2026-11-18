@@ -6,7 +6,7 @@ excerpt: Yhteenveto muuttuneista asioista ja tietoa tulevista hinnoittelumuutoks
 ---
 
 Vau, aika rientää!
-[Kinpal Pron julkaisusta](/blog/rallly-pro-launch) on kulunut jo yli kuukausi.
+[Kinpal Pron julkaisusta](/blog/kinpal-pro-launch) on kulunut jo yli kuukausi.
 Lämmin kiitos teille jokaiselle tilaajalle – tukenne merkitsee minulle paljon.
 On suuri kannustus tietää, että rakentamallani palvelulla on arvoa, ja se innostaa minua viemään rajoja vieläkin pidemmälle!
 

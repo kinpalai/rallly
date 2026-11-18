@@ -8,7 +8,7 @@ draft: false
 excerpt: 一起看看 Kinpal 首次重大更新的內容。
 ---
 
-如果你想知道為什麼今天看到的一切都不一樣，那是因為我剛推出了一次重大更新。這次更新已經規劃了[一段時間](https://twitter.com/imlukevella/status/1288066459248349184)，
+如果你想知道為什麼今天看到的一切都不一樣，那是因為我剛推出了一次重大更新。這次更新已經規劃了[一段時間](https://twitter.com/kinpalai/status/1288066459248349184)，
 但從今年開始，我決定把更多時間投入 Kinpal，這讓我得以達成這個里程碑，也希望未來還能推出更多更新。所以……
 
 ## 使用舊版建立的投票會怎麼樣？
@@ -74,4 +74,4 @@ Kinpal 一直都適合在行動裝置上使用，但現在針對較小的螢幕�
 
 ## 這只是開始
 
-接下來還有許多新功能即將推出，記得在 Twitter 上[追蹤我](https://twitter.com/imlukevella)或 [@ralllyco](https://twitter.com/ralllyco)，掌握最新消息。
+接下來還有許多新功能即將推出，記得在 Twitter 上[追蹤我](https://twitter.com/kinpalai)或 [@ralllyco](https://twitter.com/ralllyco)，掌握最新消息。
