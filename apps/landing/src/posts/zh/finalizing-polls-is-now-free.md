@@ -5,7 +5,7 @@ category: Product
 excerpt: 现在，无论使用哪个方案，你都可以完成投票并向所有人发送日历邀请。以下是具体变化及其原因。
 ---
 
-当我推出 [Kinpal Pro](/blog/introducing-rallly-pro) 时，完成投票是其中的核心功能。选定日期，发送日历邀请，一切就完成了。现在，这项功能对所有人免费开放。
+当我推出 [Kinpal Pro](/blog/introducing-kinpal-pro) 时，完成投票是其中的核心功能。选定日期，发送日历邀请，一切就完成了。现在，这项功能对所有人免费开放。
 
 ## 所有方案都可以完成投票
 

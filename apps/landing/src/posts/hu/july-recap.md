@@ -8,7 +8,7 @@ excerpt: >-
 ---
 
 Hű, milyen gyorsan repül az idő!
-Már több mint egy hónap telt el a [Kinpal Pro indulása](/blog/rallly-pro-launch) óta.
+Már több mint egy hónap telt el a [Kinpal Pro indulása](/blog/kinpal-pro-launch) óta.
 Szívből köszönöm mindenkinek, aki előfizetett – a támogatásotok nagyon sokat jelent.
 Óriási lelkesedést ad, hogy értéket teremtettem, és ez arra ösztönöz, hogy még tovább bővítsem a lehetőségeket!
 

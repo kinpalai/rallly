@@ -8,7 +8,7 @@ draft: false
 excerpt: Uno sguardo al primo importante aggiornamento di Kinpal.
 ---
 
-Se ti stai chiedendo perché oggi tutto sembra diverso, è perché ho appena rilasciato un importante aggiornamento. Questo aggiornamento era in programma [da un po' di tempo](https://twitter.com/imlukevella/status/1288066459248349184),
+Se ti stai chiedendo perché oggi tutto sembra diverso, è perché ho appena rilasciato un importante aggiornamento. Questo aggiornamento era in programma [da un po' di tempo](https://twitter.com/kinpalai/status/1288066459248349184),
 ma dall'inizio di quest'anno ho deciso di dedicare più tempo a Kinpal, riuscendo così a raggiungere questo traguardo e, spero, molti altri in futuro. Quindi…
 
 ## Che cosa succede ai sondaggi creati con la vecchia versione?
@@ -79,4 +79,4 @@ Condividere direttamente i link con i partecipanti offre anche alcuni vantaggi. 
 
 ## Questo è solo l'inizio
 
-Sono in arrivo molte nuove funzionalità, quindi assicurati di [seguirmi](https://twitter.com/imlukevella) o di seguire [@ralllyco](https://twitter.com/ralllyco) su Twitter per ricevere gli aggiornamenti.
+Sono in arrivo molte nuove funzionalità, quindi assicurati di [seguirmi](https://twitter.com/kinpalai) o di seguire [@ralllyco](https://twitter.com/ralllyco) su Twitter per ricevere gli aggiornamenti.

@@ -7,7 +7,7 @@ excerpt: >-
   küldhetsz mindenkinek. Megmutatjuk, mi változik, és miért.
 ---
 
-Amikor elindítottam a [Kinpal Pro](/blog/introducing-rallly-pro) csomagot, a szavazás véglegesítése volt a legfontosabb újdonság. Válassz egy dátumot, küldd ki a naptármeghívókat, és kész. Mostantól ez mindenki számára ingyenes.
+Amikor elindítottam a [Kinpal Pro](/blog/introducing-kinpal-pro) csomagot, a szavazás véglegesítése volt a legfontosabb újdonság. Válassz egy dátumot, küldd ki a naptármeghívókat, és kész. Mostantól ez mindenki számára ingyenes.
 
 ## Véglegesítés minden csomagban
 

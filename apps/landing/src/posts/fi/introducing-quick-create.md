@@ -16,6 +16,6 @@ Aiemmassa mallissa kirjautumattomille käyttäjille annettiin pääsy koko palve
 
 Halusin tarjota kaikille paremman käyttökokemuksen, joten otin käyttöön **Pikaluonnin**. Löydät sen suoraan [kirjautumissivulta](https://app.kinpal.com/login), jossa voit luoda ja hallita ryhmäkyselyitä heti ilman rekisteröitymistä. Kun haluat tehdä enemmän, kuten käyttää edistyneitä ominaisuuksia tai varmistaa kyselyidesi pitkäaikaisen käytön, voit helposti rekisteröityä. Kaikki nykyiset kyselysi lisätään silloin automaattisesti käyttäjätilillesi.
 
-![Pikaluonti](https://rallly-public.s3.us-east-1.amazonaws.com/images/quick-create.png)
+![Pikaluonti](https://kinpal-public.s3.us-east-1.amazonaws.com/images/quick-create.png)
 
 Tämän muutoksen ansiosta voin keskittyä uusien tehokkaiden ominaisuuksien kehittämiseen ja pitää samalla ensikokemuksen yksinkertaisena ja helposti lähestyttävänä uusille käyttäjille. Tämä on ensimmäinen askel parannusten sarjassa, jonka tavoitteena on tehdä Kinpalsta entistä helppokäyttöisempi ja tehokkaampi. Lisää päivityksiä on luvassa!

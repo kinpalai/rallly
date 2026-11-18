@@ -120,7 +120,7 @@ No Kinpal, os participantes votam usando apenas o link e nunca precisam de uma c
 
 Para sermos igualmente transparentes sobre nossos limites: no plano gratuito do Kinpal, você pode criar quantas enquetes quiser, mas até 3 podem estar abertas e recebendo votos ao mesmo tempo. Finalize ou feche uma delas e você poderá abrir outra. Sem criar uma conta, você pode ter 1 enquete aberta por vez, e a mesma regra se aplica: finalize ou feche-a para abrir outra. As enquetes gratuitas são excluídas quando todas as suas datas estão há pelo menos 30 dias no passado e ninguém as editou, votou ou comentou nos últimos 30 dias.
 
-O Kinpal também é de [código aberto](https://github.com/lukevella/rallly), então você pode verificar exatamente como ele funciona e até hospedá-lo no seu próprio servidor.
+O Kinpal também é de [código aberto](https://github.com/kinpalai/rallly), então você pode verificar exatamente como ele funciona e até hospedá-lo no seu próprio servidor.
 
 O Kinpal ganha dinheiro com o [Kinpal Pro](https://kinpal.com/pricing), que adiciona recursos que você gostaria de ter se usasse o produto profissionalmente, como enquetes abertas ilimitadas, personalização da marca e enquetes que permanecem disponíveis indefinidamente. É isso que mantém o plano gratuito gratuito e sem anúncios para todo mundo.
 

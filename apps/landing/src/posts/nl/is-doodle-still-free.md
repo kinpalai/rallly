@@ -120,7 +120,7 @@ Op Kinpal stemmen deelnemers gewoon met de link en hebben ze nooit een account n
 
 Om ook transparant te zijn over onze limieten: met het gratis abonnement van Kinpal kun je zoveel polls maken als je wilt, maar er kunnen maximaal 3 tegelijk open zijn en stemmen verzamelen. Rond er één af of sluit er één en je kunt een andere openen. Zonder account kun je 1 open poll tegelijk hebben. Ook hier geldt: rond de poll af of sluit hem om een andere te openen. Gratis polls worden verwijderd zodra al hun datums minstens 30 dagen in het verleden liggen en niemand in de afgelopen 30 dagen de poll heeft bewerkt, gestemd of een opmerking heeft geplaatst.
 
-Kinpal is ook [open source](https://github.com/lukevella/rallly), dus je kunt precies bekijken hoe het werkt en het zelfs op je eigen server hosten.
+Kinpal is ook [open source](https://github.com/kinpalai/rallly), dus je kunt precies bekijken hoe het werkt en het zelfs op je eigen server hosten.
 
 Kinpal verdient geld met [Kinpal Pro](https://kinpal.com/pricing), dat functies toevoegt die je nodig hebt als je Kinpal professioneel gebruikt, zoals een onbeperkt aantal open polls, aangepaste branding en polls die onbeperkt blijven bestaan. Daardoor blijft het gratis abonnement voor iedereen gratis, zonder advertenties.
 

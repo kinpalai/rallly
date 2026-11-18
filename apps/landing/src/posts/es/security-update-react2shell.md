@@ -32,7 +32,7 @@ Más tarde, el equipo de React descubrió que la solución para CVE-2025-55184 e
 
 Si alojas Kinpal por tu cuenta, sigue estos pasos inmediatamente:
 
-- **Actualiza** Kinpal a la última versión (v4.5.11 o posterior) para estar protegido frente a los cuatro CVE. Consulta las [notas de la versión](https://github.com/lukevella/rallly/releases/tag/v4.5.11) para obtener más información.
+- **Actualiza** Kinpal a la última versión (v4.5.11 o posterior) para estar protegido frente a los cuatro CVE. Consulta las [notas de la versión](https://github.com/kinpalai/rallly/releases/tag/v4.5.11) para obtener más información.
 - Si utilizas la versión v4.5.10, debes actualizar a la v4.5.11, ya que la solución anterior estaba incompleta.
 - Si utilizas la versión v4.5.8 (que ofrecía protección completa frente a React2Shell), debes actualizar a la v4.5.11 para estar protegido frente a todas las vulnerabilidades.
 - Si utilizas la versión v4.5.7, deberías actualizar a la v4.5.11, ya que la v4.5.7 podría no haber ofrecido protección completa frente a React2Shell.

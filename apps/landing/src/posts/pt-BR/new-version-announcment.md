@@ -9,7 +9,7 @@ excerpt: Uma visão geral da primeira grande atualização do Kinpal.
 ---
 
 Caso você esteja se perguntando por que tudo está diferente hoje, é porque acabei
-de lançar uma grande atualização. Essa atualização foi planejada há [algum tempo](https://twitter.com/imlukevella/status/1288066459248349184),
+de lançar uma grande atualização. Essa atualização foi planejada há [algum tempo](https://twitter.com/kinpalai/status/1288066459248349184),
 mas, desde o início deste ano, decidi dedicar mais tempo ao Kinpal, o que me permitiu
 alcançar este marco e, espero, muitos outros no futuro. Então…
 
@@ -82,4 +82,4 @@ Compartilhar os links diretamente com os participantes também traz algumas vant
 
 ## Este é apenas o começo
 
-Muitos recursos novos estão a caminho, então não deixe de [me seguir](https://twitter.com/imlukevella) ou seguir [@ralllyco](https://twitter.com/ralllyco) no Twitter para acompanhar as novidades.
+Muitos recursos novos estão a caminho, então não deixe de [me seguir](https://twitter.com/kinpalai) ou seguir [@ralllyco](https://twitter.com/ralllyco) no Twitter para acompanhar as novidades.

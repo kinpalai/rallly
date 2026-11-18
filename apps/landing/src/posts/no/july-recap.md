@@ -8,7 +8,7 @@ excerpt: >-
 ---
 
 Wow, som tiden flyr!
-Det er over en måned siden [lanseringen av Kinpal Pro](/blog/rallly-pro-launch).
+Det er over en måned siden [lanseringen av Kinpal Pro](/blog/kinpal-pro-launch).
 En hjertelig takk til hver og én av dere som har abonnert – støtten deres betyr mye.
 Det å vite at det jeg har bygget, har verdi, gir meg et stort motivasjonsløft og inspirerer meg til å flytte grensene enda lenger!
 

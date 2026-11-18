@@ -6,7 +6,7 @@ excerpt: 'Shrnutí toho, co se změnilo, a několik informací o nadcházející
 ---
 
 Páni, ten čas ale letí!
-Od [spuštění Kinpal Pro](/blog/rallly-pro-launch) už uplynul více než měsíc.
+Od [spuštění Kinpal Pro](/blog/kinpal-pro-launch) už uplynul více než měsíc.
 Srdečně děkuji každému z vás, kdo si předplatil Pro – vaše podpora pro mě opravdu hodně znamená.
 Vědomí, že to, co jsem vytvořil, má hodnotu, je obrovskou vzpruhou a motivuje mě posouvat hranice ještě dál!
 

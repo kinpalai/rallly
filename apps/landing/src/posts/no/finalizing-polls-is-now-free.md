@@ -7,7 +7,7 @@ excerpt: >-
   uansett abonnement. Her kan du lese hva som endres, og hvorfor.
 ---
 
-Da jeg lanserte [Kinpal Pro](/blog/introducing-rallly-pro), var det å fullføre en avstemning hovedfunksjonen. Velg en dato, send ut kalenderinvitasjoner, ferdig. Nå er dette gratis for alle.
+Da jeg lanserte [Kinpal Pro](/blog/introducing-kinpal-pro), var det å fullføre en avstemning hovedfunksjonen. Velg en dato, send ut kalenderinvitasjoner, ferdig. Nå er dette gratis for alle.
 
 ## Fullfør avstemninger med alle abonnementer
 

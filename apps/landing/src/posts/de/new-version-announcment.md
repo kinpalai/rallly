@@ -8,7 +8,7 @@ draft: false
 excerpt: Ein Blick auf das erste große Update von Kinpal.
 ---
 
-Falls du dich fragst, warum heute alles anders aussieht: Ich habe gerade ein großes Update veröffentlicht. Dieses Update ist schon [seit einiger Zeit](https://twitter.com/imlukevella/status/1288066459248349184) geplant, aber seit Anfang dieses Jahres habe ich beschlossen, mehr Zeit in Kinpal zu investieren. Dadurch konnte ich diesen Meilenstein erreichen – und hoffentlich folgen in Zukunft noch viele weitere. Also …
+Falls du dich fragst, warum heute alles anders aussieht: Ich habe gerade ein großes Update veröffentlicht. Dieses Update ist schon [seit einiger Zeit](https://twitter.com/kinpalai/status/1288066459248349184) geplant, aber seit Anfang dieses Jahres habe ich beschlossen, mehr Zeit in Kinpal zu investieren. Dadurch konnte ich diesen Meilenstein erreichen – und hoffentlich folgen in Zukunft noch viele weitere. Also …
 
 ## Was passiert mit Umfragen, die mit der alten Version erstellt wurden?
 
@@ -65,4 +65,4 @@ Das direkte Teilen von Links mit deinen Teilnehmern hat außerdem einige Vorteil
 
 ## Das ist erst der Anfang
 
-Es sind viele neue Funktionen geplant. Folge mir also auf [Twitter](https://twitter.com/imlukevella) oder [@ralllyco](https://twitter.com/ralllyco), um über Neuigkeiten informiert zu bleiben.
+Es sind viele neue Funktionen geplant. Folge mir also auf [Twitter](https://twitter.com/kinpalai) oder [@ralllyco](https://twitter.com/ralllyco), um über Neuigkeiten informiert zu bleiben.

@@ -120,7 +120,7 @@ På Kinpal stemmer deltagere kun ved hjælp af linket og har aldrig brug for en 
 
 For at være lige så åbne om vores begrænsninger: På Kinpals gratisplan kan du oprette så mange afstemninger, du vil, men højst 3 kan være åbne og modtage stemmer ad gangen. Færdiggør eller luk én, så kan du åbne en anden. Uden at oprette en konto kan du have 1 åben afstemning ad gangen, og det samme gælder her: Færdiggør eller luk den for at åbne en anden. Gratisafstemninger slettes, når alle deres datoer ligger mindst 30 dage tilbage, og ingen har redigeret, stemt eller kommenteret i de seneste 30 dage.
 
-Kinpal er også [open source](https://github.com/lukevella/rallly), så du kan se præcis, hvordan det fungerer, og endda hoste det på din egen server.
+Kinpal er også [open source](https://github.com/kinpalai/rallly), så du kan se præcis, hvordan det fungerer, og endda hoste det på din egen server.
 
 Kinpal tjener penge på [Kinpal Pro](https://kinpal.com/pricing), som tilføjer funktioner, du måske har brug for, hvis du bruger tjenesten professionelt, for eksempel ubegrænsede åbne afstemninger, tilpasset branding og afstemninger, der bliver liggende på ubestemt tid. Det er det, der holder gratisplanen gratis og fri for annoncer for alle andre.
 

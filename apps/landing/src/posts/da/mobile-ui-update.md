@@ -34,4 +34,4 @@ Tidligere skulle du trykke på det lille afkrydsningsfelt til højre for at ænd
 ## Afslutningsvis
 
 Jeg håber, du får glæde af denne opdatering og synes, den er nyttig.
-Jeg arbejder på tingene ud fra den feedback, jeg får, så hvorfor ikke sende et tweet til [@ralllyco](https://twitter.com/ralllyco) eller [@imlukevella](https://twitter.com/imlukevella) og fortælle mig, hvad du synes om denne opdatering, og hvad du gerne vil se som det næste?
+Jeg arbejder på tingene ud fra den feedback, jeg får, så hvorfor ikke sende et tweet til [@ralllyco](https://twitter.com/ralllyco) eller [@kinpalai](https://twitter.com/kinpalai) og fortælle mig, hvad du synes om denne opdatering, og hvad du gerne vil se som det næste?

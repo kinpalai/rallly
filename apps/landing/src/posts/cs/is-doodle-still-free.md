@@ -120,7 +120,7 @@ V Kinpal účastníci hlasují pouze pomocí odkazu a nikdy nepotřebují účet
 
 Abychom byli stejně transparentní ohledně vlastních omezení: v bezplatném tarifu Kinpal můžete vytvořit libovolný počet anket, ale najednou mohou být otevřené a sbírat hlasy nejvýše 3. Jednu dokončete nebo zavřete a můžete otevřít další. Bez registrace můžete mít najednou 1 otevřenou anketu a platí totéž: dokončete ji nebo zavřete, abyste mohli otevřít další. Bezplatné ankety se smažou, jakmile jsou všechna jejich data nejméně 30 dní v minulosti a nikdo je za posledních 30 dní neupravil, nehlasoval v nich ani nepřidal komentář.
 
-Kinpal je také [open source](https://github.com/lukevella/rallly), takže si můžete přesně prohlédnout, jak funguje, a dokonce ho provozovat na vlastním serveru.
+Kinpal je také [open source](https://github.com/kinpalai/rallly), takže si můžete přesně prohlédnout, jak funguje, a dokonce ho provozovat na vlastním serveru.
 
 Kinpal vydělává prostřednictvím [Kinpal Pro](https://kinpal.com/pricing), které přidává funkce užitečné při profesionálním používání, například neomezený počet otevřených anket, vlastní značku a ankety, které zůstávají dostupné neomezeně dlouho. Díky tomu může bezplatný tarif zůstat zdarma a bez reklam pro všechny ostatní.
 

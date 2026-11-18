@@ -16,6 +16,6 @@ Předchozí přístup, kdy měli nepřihlášení uživatelé plný přístup k 
 
 Abychom všem nabídli lepší prostředí, představil jsem **Rychlé vytvoření**. Najdete ho přímo na [přihlašovací stránce](https://app.kinpal.com/login), kde můžete okamžitě vytvářet a spravovat skupinové ankety bez nutnosti registrace. Až budete chtít dělat víc, například využívat pokročilé funkce nebo si zajistit dlouhodobý přístup ke svým anketám, můžete se snadno zaregistrovat a všechny své stávající ankety automaticky přidat ke svému účtu.
 
-![Rychlé vytvoření](https://rallly-public.s3.us-east-1.amazonaws.com/images/quick-create.png)
+![Rychlé vytvoření](https://kinpal-public.s3.us-east-1.amazonaws.com/images/quick-create.png)
 
 Tato změna mi umožňuje soustředit se na vývoj nových výkonných funkcí a zároveň zachovat úvodní prostředí jednoduché a dostupné pro nové uživatele. Je to první krok v řadě vylepšení, jejichž cílem je udělat Kinpal ještě uživatelsky přívětivější a výkonnější. Těšte se na další novinky!

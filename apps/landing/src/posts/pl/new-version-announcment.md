@@ -9,7 +9,7 @@ excerpt: Przegląd pierwszej dużej aktualizacji Kinpal.
 ---
 
 Jeśli zastanawiasz się, dlaczego wszystko wygląda dziś inaczej, to dlatego, że właśnie
-wydałem dużą aktualizację. Planowałem ją już [od jakiegoś czasu](https://twitter.com/imlukevella/status/1288066459248349184),
+wydałem dużą aktualizację. Planowałem ją już [od jakiegoś czasu](https://twitter.com/kinpalai/status/1288066459248349184),
 ale od początku tego roku postanowiłem poświęcać więcej czasu na rozwój Kinpal, dzięki czemu
 udało się osiągnąć ten kamień milowy — a mam nadzieję, że w przyszłości uda się osiągnąć jeszcze więcej. A więc…
 
@@ -81,4 +81,4 @@ Bezpośrednie udostępnianie linków uczestnikom ma też kilka zalet. Możesz:
 
 ## To dopiero początek
 
-Wkrótce pojawi się wiele nowych funkcji, więc obserwuj [mnie](https://twitter.com/imlukevella) lub [@ralllyco](https://twitter.com/ralllyco) na Twitterze, aby być na bieżąco.
+Wkrótce pojawi się wiele nowych funkcji, więc obserwuj [mnie](https://twitter.com/kinpalai) lub [@ralllyco](https://twitter.com/ralllyco) na Twitterze, aby być na bieżąco.

@@ -37,4 +37,4 @@ Anteriormente, era necessário tocar na pequena caixa de seleção à direita pa
 ## Em conclusão
 
 Espero que goste desta atualização e que a considere útil.
-Desenvolvo funcionalidades com base no feedback que recebo, por isso, porque não enviar um tweet para [@ralllyco](https://twitter.com/ralllyco) ou [@imlukevella](https://twitter.com/imlukevella) a dizer-me o que acha desta atualização e o que gostaria de ver a seguir?
+Desenvolvo funcionalidades com base no feedback que recebo, por isso, porque não enviar um tweet para [@ralllyco](https://twitter.com/ralllyco) ou [@kinpalai](https://twitter.com/kinpalai) a dizer-me o que acha desta atualização e o que gostaria de ver a seguir?

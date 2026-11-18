@@ -8,7 +8,7 @@ excerpt: >-
 ---
 
 Le temps passe à une vitesse incroyable !
-Cela fait déjà plus d'un mois depuis le [lancement de Kinpal Pro](/blog/rallly-pro-launch).
+Cela fait déjà plus d'un mois depuis le [lancement de Kinpal Pro](/blog/kinpal-pro-launch).
 Un grand merci à chacune et chacun d'entre vous qui avez souscrit : votre soutien compte beaucoup.
 Savoir que ce que j'ai créé a de la valeur est un formidable encouragement et me pousse à aller encore plus loin !
 

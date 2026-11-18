@@ -18,6 +18,6 @@ Il precedente approccio, che consentiva agli utenti non autenticati di accedere 
 
 Per offrire un'esperienza migliore a tutti, ho introdotto **Creazione Rapida**. La trovi direttamente nella [pagina di accesso](https://app.kinpal.com/login), dove puoi creare e gestire all'istante sondaggi di gruppo senza dover creare un account. Quando vorrai fare di più, ad esempio accedere alle funzionalità avanzate o assicurarti di avere accesso ai tuoi sondaggi nel lungo periodo, potrai creare facilmente un account e tutti i sondaggi esistenti verranno aggiunti automaticamente al tuo account.
 
-![Creazione Rapida](https://rallly-public.s3.us-east-1.amazonaws.com/images/quick-create.png)
+![Creazione Rapida](https://kinpal-public.s3.us-east-1.amazonaws.com/images/quick-create.png)
 
 Questo cambiamento mi permette di concentrarmi sullo sviluppo di nuove funzionalità potenti, mantenendo al tempo stesso l'esperienza iniziale semplice e accessibile per i nuovi utenti. È il primo passo di una serie di miglioramenti per rendere Kinpal ancora più facile da usare e potente. Presto arriveranno altri aggiornamenti!

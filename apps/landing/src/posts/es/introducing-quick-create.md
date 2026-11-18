@@ -16,6 +16,6 @@ El enfoque anterior, que daba acceso completo a la plataforma a los usuarios que
 
 Para ofrecer una experiencia mejor para todos, he creado **Creación rápida**. La encontrarás directamente en la [página de inicio de sesión](https://app.kinpal.com/login), donde podrás crear y gestionar al instante encuestas para grupos sin necesidad de registrarte. Cuando quieras hacer más cosas, como acceder a funciones avanzadas o asegurarte de mantener el acceso a tus encuestas a largo plazo, podrás registrarte fácilmente y todas tus encuestas existentes se añadirán automáticamente a tu cuenta.
 
-![Creación rápida](https://rallly-public.s3.us-east-1.amazonaws.com/images/quick-create.png)
+![Creación rápida](https://kinpal-public.s3.us-east-1.amazonaws.com/images/quick-create.png)
 
 Este cambio me permite centrarme en desarrollar nuevas funciones potentes y, al mismo tiempo, mantener una experiencia inicial sencilla y accesible para los nuevos usuarios. Es el primer paso de una serie de mejoras para hacer que Kinpal sea aún más fácil de usar y potente. ¡Permanece atento a las próximas novedades!

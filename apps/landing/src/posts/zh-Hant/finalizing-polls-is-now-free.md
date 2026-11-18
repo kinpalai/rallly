@@ -5,7 +5,7 @@ category: Product
 excerpt: 現在所有方案都能確定投票時間，並向所有人發送日曆邀請。以下說明這項變更的內容與原因。
 ---
 
-當我推出 [Kinpal Pro](/blog/introducing-rallly-pro) 時，確定投票時間是其中最主要的功能。選定日期、發送日曆邀請，就完成了。現在，所有人都能免費使用這項功能。
+當我推出 [Kinpal Pro](/blog/introducing-kinpal-pro) 時，確定投票時間是其中最主要的功能。選定日期、發送日曆邀請，就完成了。現在，所有人都能免費使用這項功能。
 
 ## 所有方案都能確定投票時間
 

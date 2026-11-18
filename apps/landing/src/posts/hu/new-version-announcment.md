@@ -9,7 +9,7 @@ excerpt: Íme a Kinpal első nagyobb frissítésének bemutatója.
 ---
 
 Ha azon tűnődsz, miért néz ki ma minden másképp, annak az az oka, hogy
-épp most adtam ki egy nagyobb frissítést. Ezt a frissítést már [egy ideje](https://twitter.com/imlukevella/status/1288066459248349184)
+épp most adtam ki egy nagyobb frissítést. Ezt a frissítést már [egy ideje](https://twitter.com/kinpalai/status/1288066459248349184)
 tervezem, de idén úgy döntöttem, hogy több időt fordítok a Kinpalra. Ennek köszönhetően
 elértük ezt a mérföldkövet, és remélhetőleg a jövőben még többet is. Nos…
 
@@ -81,4 +81,4 @@ A hivatkozások közvetlen megosztásának is van néhány előnye a résztvevő
 
 ## Ez még csak a kezdet
 
-Rengeteg új funkció érkezik, ezért a frissítésekért kövess engem a [Twitteren](https://twitter.com/imlukevella), vagy kövesd a [@ralllyco](https://twitter.com/ralllyco) fiókot.
+Rengeteg új funkció érkezik, ezért a frissítésekért kövess engem a [Twitteren](https://twitter.com/kinpalai), vagy kövesd a [@ralllyco](https://twitter.com/ralllyco) fiókot.

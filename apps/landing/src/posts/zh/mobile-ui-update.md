@@ -35,4 +35,4 @@ excerpt: 本次更新着重提升应用在移动设备上的易用性。
 ## 总结
 
 希望你会喜欢这次更新，并觉得它确实有用。
-我会根据收到的反馈来改进功能，所以不妨发条推文给 [@ralllyco](https://twitter.com/ralllyco) 或 [@imlukevella](https://twitter.com/imlukevella)，告诉我你觉得这次更新怎么样，以及接下来希望看到哪些新功能？
+我会根据收到的反馈来改进功能，所以不妨发条推文给 [@ralllyco](https://twitter.com/ralllyco) 或 [@kinpalai](https://twitter.com/kinpalai)，告诉我你觉得这次更新怎么样，以及接下来希望看到哪些新功能？

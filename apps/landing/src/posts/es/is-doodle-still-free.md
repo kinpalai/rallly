@@ -120,7 +120,7 @@ En Kinpal, los participantes votan solo con el enlace y nunca necesitan una cuen
 
 Para ser igual de transparentes sobre nuestros límites: en el plan gratis de Kinpal puedes crear tantas encuestas como quieras, pero puede haber hasta 3 abiertas y recogiendo votos a la vez. Finaliza o cierra una y podrás abrir otra. Sin registrarte, puedes tener 1 encuesta abierta a la vez, y se aplica lo mismo: finalízala o ciérrala para abrir otra. Las encuestas gratis se eliminan cuando todas sus fechas han quedado al menos 30 días atrás y nadie las ha editado, votado ni comentado durante los últimos 30 días.
 
-Kinpal también es [de código abierto](https://github.com/lukevella/rallly), así que puedes comprobar exactamente cómo funciona e incluso alojarlo en tu propio servidor.
+Kinpal también es [de código abierto](https://github.com/kinpalai/rallly), así que puedes comprobar exactamente cómo funciona e incluso alojarlo en tu propio servidor.
 
 Kinpal obtiene ingresos de [Kinpal Pro](https://kinpal.com/pricing), que añade funciones que te pueden interesar si lo utilizas profesionalmente, como encuestas abiertas ilimitadas, marca personalizada y encuestas que permanecen disponibles indefinidamente. Eso permite que el plan gratis siga siendo gratis y sin anuncios para todos los demás.
 

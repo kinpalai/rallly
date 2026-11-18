@@ -32,7 +32,7 @@ React-tiimi havaitsi myöhemmin, että CVE-2025-55184:n korjaus oli puutteelline
 
 Jos ylläpidät Kinpala omalla palvelimellasi, tee seuraavat toimet välittömästi:
 
-- **Päivitä** Kinpal uusimpaan versioon (v4.5.11 tai uudempi), jotta kaikki neljä CVE-haavoittuvuutta on korjattu. Katso lisätiedot [julkaisutiedoista](https://github.com/lukevella/rallly/releases/tag/v4.5.11).
+- **Päivitä** Kinpal uusimpaan versioon (v4.5.11 tai uudempi), jotta kaikki neljä CVE-haavoittuvuutta on korjattu. Katso lisätiedot [julkaisutiedoista](https://github.com/kinpalai/rallly/releases/tag/v4.5.11).
 - Jos käytössäsi on v4.5.10, sinun on päivitettävä versioon v4.5.11, koska aiempi korjaus oli puutteellinen.
 - Jos käytössäsi on v4.5.8 (joka suojasi täysin React2Shelliltä), sinun on päivitettävä versioon v4.5.11, jotta kaikki haavoittuvuudet on korjattu.
 - Jos käytössäsi on v4.5.7, sinun kannattaa päivittää versioon v4.5.11, sillä v4.5.7 ei välttämättä suojannut täysin React2Shelliltä.

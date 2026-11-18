@@ -11,7 +11,7 @@
 </p>
 [**Website**](https://kinpal.com) · [**Documentation**](https://support.kinpal.com) · [**Discord**](https://discord.gg/uzg4ZcHbuM)
 
-[![Actions Status](https://github.com/lukevella/rallly/actions/workflows/ci.yml/badge.svg)](https://github.com/lukevella/rallly/actions)
+[![Actions Status](https://github.com/kinpalai/rallly/actions/workflows/ci.yml/badge.svg)](https://github.com/kinpalai/rallly/actions)
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-orange.svg)](https://www.gnu.org/licenses/agpl-3.0)
 [![Discord](https://img.shields.io/badge/-Join%20Chat-7289DA?logo=discord&logoColor=white)](https://discord.gg/ZRZKqJf3tY)
 [![Donate](https://img.shields.io/badge/-Donate%20with%20Paypal-white?logo=paypal)](https://www.paypal.com/donate/?hosted_button_id=7QXP2CUBLY88E)
@@ -65,7 +65,7 @@ Kinpal is open-source under the GNU Affero General Public License Version 3 (AGP
 
 Thank you to our sponsors for making this project possible.
 
-[Become a sponsor &rarr;](https://github.com/sponsors/lukevella)
+[Become a sponsor &rarr;](https://github.com/sponsors/kinpalai)
 
 <br />
 

@@ -120,7 +120,7 @@ W Kinpal uczestnicy głosują, korzystając tylko z linku, i nigdy nie potrzebuj
 
 Dla pełnej przejrzystości wspomnijmy też o naszych limitach: w darmowym planie Kinpal możesz tworzyć tyle ankiet, ile chcesz, ale jednocześnie otwarte i zbierające głosy mogą być maksymalnie 3 ankiety. Zatwierdź lub zamknij jedną z nich, a będziesz móc otworzyć kolejną. Bez rejestracji możesz mieć jednocześnie 1 otwartą ankietę — obowiązuje ta sama zasada: zatwierdź ją lub zamknij, aby otworzyć następną. Darmowe ankiety są usuwane, gdy wszystkie ich terminy przypadają co najmniej 30 dni w przeszłości i nikt nie edytował ankiety, nie głosował ani nie dodawał komentarza w ciągu ostatnich 30 dni.
 
-Kinpal jest również [otwartym oprogramowaniem](https://github.com/lukevella/rallly), więc możesz dokładnie sprawdzić, jak działa, a nawet uruchomić je na własnym serwerze.
+Kinpal jest również [otwartym oprogramowaniem](https://github.com/kinpalai/rallly), więc możesz dokładnie sprawdzić, jak działa, a nawet uruchomić je na własnym serwerze.
 
 Kinpal zarabia na [Kinpal Pro](https://kinpal.com/pricing), które dodaje funkcje przydatne podczas profesjonalnego korzystania z usługi, takie jak nielimitowana liczba otwartych ankiet, własne oznakowanie i ankiety, które pozostają dostępne bezterminowo. Dzięki temu darmowy plan może pozostać bezpłatny i pozbawiony reklam dla wszystkich pozostałych użytkowników.
 

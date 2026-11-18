@@ -7,7 +7,7 @@ excerpt: >-
   Kalendereinladung schicken. Hier erfährst du, was sich ändert und warum.
 ---
 
-Als ich [Kinpal Pro](/blog/introducing-rallly-pro) eingeführt habe, war das Abschließen einer Umfrage das wichtigste Feature. Ein Datum auswählen, Kalendereinladungen verschicken, fertig. Jetzt ist das für alle kostenlos.
+Als ich [Kinpal Pro](/blog/introducing-kinpal-pro) eingeführt habe, war das Abschließen einer Umfrage das wichtigste Feature. Ein Datum auswählen, Kalendereinladungen verschicken, fertig. Jetzt ist das für alle kostenlos.
 
 ## Mit jedem Tarif abschließen
 

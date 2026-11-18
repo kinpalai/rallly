@@ -120,7 +120,7 @@ På Kinpal stemmer deltakerne bare ved hjelp av lenken og trenger aldri en konto
 
 For å være like åpne om begrensningene våre: Med Kinpals gratisabonnement kan du opprette så mange avstemninger du vil, men opptil 3 kan være åpne og samle inn stemmer samtidig. Fullfør eller lukk én, så kan du åpne en annen. Uten å registrere deg kan du ha 1 åpen avstemning om gangen, og det samme gjelder da: Fullfør eller lukk den for å åpne en annen. Gratisavstemninger slettes når alle datoene er minst 30 dager tilbake i tid, og ingen har redigert, stemt eller kommentert de siste 30 dagene.
 
-Kinpal har også [åpen kildekode](https://github.com/lukevella/rallly), så du kan se nøyaktig hvordan det fungerer, og til og med drifte det på din egen server.
+Kinpal har også [åpen kildekode](https://github.com/kinpalai/rallly), så du kan se nøyaktig hvordan det fungerer, og til og med drifte det på din egen server.
 
 Kinpal tjener penger på [Kinpal Pro](https://kinpal.com/pricing), som legger til funksjoner du kan ha behov for hvis du bruker tjenesten profesjonelt, som ubegrenset antall åpne avstemninger, egendefinert profilering og avstemninger som blir værende på ubestemt tid. Det er dette som holder gratisabonnementet gratis og annonsefritt for alle andre.
 

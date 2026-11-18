@@ -7,7 +7,7 @@ excerpt: >-
   con qualsiasi piano. Ecco cosa cambia e perché.
 ---
 
-Quando ho lanciato [Kinpal Pro](/blog/introducing-rallly-pro), la possibilità di concludere un sondaggio era la funzione principale. Scegli una data, invia gli inviti del calendario e il gioco è fatto. Ora è gratis per tutti.
+Quando ho lanciato [Kinpal Pro](/blog/introducing-kinpal-pro), la possibilità di concludere un sondaggio era la funzione principale. Scegli una data, invia gli inviti del calendario e il gioco è fatto. Ora è gratis per tutti.
 
 ## Concludi con qualsiasi piano
 

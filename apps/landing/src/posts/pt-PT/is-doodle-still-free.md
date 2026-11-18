@@ -120,7 +120,7 @@ No Kinpal, os participantes votam apenas com a ligação e nunca precisam de uma
 
 Para sermos igualmente transparentes sobre os nossos limites: no plano gratuito do Kinpal, pode criar tantas sondagens quantas quiser, mas até 3 podem estar abertas e a recolher votos em simultâneo. Finalize ou feche uma e poderá abrir outra. Sem criar uma conta, pode ter 1 sondagem aberta de cada vez, e aplica-se o mesmo princípio: finalize-a ou feche-a para abrir outra. As sondagens gratuitas são eliminadas quando todas as suas datas têm pelo menos 30 dias e ninguém as editou, votou ou comentou nos últimos 30 dias.
 
-O Kinpal também é [código aberto](https://github.com/lukevella/rallly), por isso pode verificar exatamente como funciona e até alojá-lo no seu próprio servidor.
+O Kinpal também é [código aberto](https://github.com/kinpalai/rallly), por isso pode verificar exatamente como funciona e até alojá-lo no seu próprio servidor.
 
 O Kinpal ganha dinheiro com o [Kinpal Pro](https://kinpal.com/pricing), que adiciona funcionalidades úteis para quem o utiliza profissionalmente, como sondagens abertas ilimitadas, personalização da marca e sondagens que permanecem disponíveis indefinidamente. É isso que mantém o plano gratuito gratuito e sem anúncios para todas as outras pessoas.
 

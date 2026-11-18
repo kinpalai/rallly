@@ -32,7 +32,7 @@ Tým React později zjistil, že oprava zranitelnosti CVE-2025-55184 nebyla úpl
 
 Pokud Kinpal provozujete na vlastním serveru, proveďte okamžitě následující kroky:
 
-- **Aktualizujte** Kinpal na nejnovější verzi (v4.5.11 nebo novější), abyste byli chráněni proti všem čtyřem CVE. Podrobnosti najdete v [poznámkách k vydání](https://github.com/lukevella/rallly/releases/tag/v4.5.11).
+- **Aktualizujte** Kinpal na nejnovější verzi (v4.5.11 nebo novější), abyste byli chráněni proti všem čtyřem CVE. Podrobnosti najdete v [poznámkách k vydání](https://github.com/kinpalai/rallly/releases/tag/v4.5.11).
 - Pokud používáte v4.5.10, musíte aktualizovat na v4.5.11, protože předchozí oprava nebyla úplná.
 - Pokud používáte v4.5.8 (která poskytovala úplnou ochranu proti React2Shell), musíte aktualizovat na v4.5.11, abyste byli chráněni proti všem zranitelnostem.
 - Pokud používáte v4.5.7, měli byste aktualizovat na v4.5.11, protože v4.5.7 nemusela poskytovat úplnou ochranu proti React2Shell.

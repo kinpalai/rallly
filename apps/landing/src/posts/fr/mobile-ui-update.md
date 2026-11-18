@@ -36,4 +36,4 @@ Auparavant, il fallait toucher la minuscule case à cocher située à droite pou
 ## En conclusion
 
 J’espère que cette mise à jour vous plaira et que vous la trouverez utile.
-Je travaille sur les améliorations en fonction des retours que je reçois. Alors, pourquoi ne pas envoyer un tweet à [@ralllyco](https://twitter.com/ralllyco) ou à [@imlukevella](https://twitter.com/imlukevella) pour me dire ce que vous pensez de cette mise à jour et ce que vous aimeriez voir ensuite?
+Je travaille sur les améliorations en fonction des retours que je reçois. Alors, pourquoi ne pas envoyer un tweet à [@ralllyco](https://twitter.com/ralllyco) ou à [@kinpalai](https://twitter.com/kinpalai) pour me dire ce que vous pensez de cette mise à jour et ce que vous aimeriez voir ensuite?

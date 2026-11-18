@@ -120,7 +120,7 @@ Bei Kinpal stimmen Teilnehmer einfach über den Link ab und brauchen nie ein Kon
 
 Um unsere Limits ebenso transparent zu machen: Im kostenlosen Tarif von Kinpal kannst du so viele Umfragen erstellen, wie du möchtest. Gleichzeitig können jedoch höchstens 3 Umfragen offen sein und Stimmen sammeln. Schließe eine Umfrage ab oder beende sie, kannst du eine weitere öffnen. Ohne Registrierung kannst du jeweils 1 offene Umfrage haben. Auch hier gilt: Schließe sie ab oder beende sie, um eine weitere zu öffnen. Kostenlose Umfragen werden gelöscht, sobald alle ihre Termine mindestens 30 Tage zurückliegen und in den letzten 30 Tagen niemand sie bearbeitet, dafür abgestimmt oder kommentiert hat.
 
-Kinpal ist außerdem [Open Source](https://github.com/lukevella/rallly). Du kannst also genau prüfen, wie es funktioniert, und es sogar auf deinem eigenen Server hosten.
+Kinpal ist außerdem [Open Source](https://github.com/kinpalai/rallly). Du kannst also genau prüfen, wie es funktioniert, und es sogar auf deinem eigenen Server hosten.
 
 Kinpal verdient Geld mit [Kinpal Pro](https://kinpal.com/pricing). Damit kommen Funktionen hinzu, die du bei einer professionellen Nutzung brauchst, etwa unbegrenzt viele offene Umfragen, individuelles Branding und Umfragen, die dauerhaft bestehen bleiben. Dadurch bleibt der kostenlose Tarif für alle werbefrei.
 

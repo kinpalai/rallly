@@ -7,7 +7,7 @@ excerpt: >-
   alle abonnementer. Her kan du læse, hvad der ændrer sig, og hvorfor.
 ---
 
-Da jeg lancerede [Kinpal Pro](/blog/introducing-rallly-pro), var det at færdiggøre en afstemning den vigtigste funktion. Vælg en dato, send kalenderinvitationer ud, og så er du færdig. Det er nu gratis for alle.
+Da jeg lancerede [Kinpal Pro](/blog/introducing-kinpal-pro), var det at færdiggøre en afstemning den vigtigste funktion. Vælg en dato, send kalenderinvitationer ud, og så er du færdig. Det er nu gratis for alle.
 
 ## Færdiggør på alle abonnementer
 

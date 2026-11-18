@@ -8,7 +8,7 @@ excerpt: >-
 ---
 
 Wauw, wat vliegt de tijd!
-Het is alweer meer dan een maand geleden dat [Kinpal Pro werd gelanceerd](/blog/rallly-pro-launch).
+Het is alweer meer dan een maand geleden dat [Kinpal Pro werd gelanceerd](/blog/kinpal-pro-launch).
 Een welgemeend bedankje aan iedereen die een abonnement heeft genomen – jullie steun betekent veel voor me.
 Weten dat wat ik heb gebouwd waarde biedt, geeft me een enorme motivatie en stimuleert me om de grenzen nog verder te verleggen!
 

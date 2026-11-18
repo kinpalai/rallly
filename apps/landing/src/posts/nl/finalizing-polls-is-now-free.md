@@ -7,7 +7,7 @@ excerpt: >-
   agenda-uitnodiging sturen. Dit verandert er en dit is waarom.
 ---
 
-Toen ik [Kinpal Pro](/blog/introducing-rallly-pro) lanceerde, was het afronden van een poll de belangrijkste functie. Kies een datum, stuur agenda-uitnodigingen en klaar. Vanaf nu is dit voor iedereen gratis.
+Toen ik [Kinpal Pro](/blog/introducing-kinpal-pro) lanceerde, was het afronden van een poll de belangrijkste functie. Kies een datum, stuur agenda-uitnodigingen en klaar. Vanaf nu is dit voor iedereen gratis.
 
 ## Afronden op elk abonnement
 

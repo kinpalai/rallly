@@ -36,4 +36,4 @@ Bisher musste man das winzige Kontrollkästchen auf der rechten Seite berühren,
 ## Fazit
 
 Hoffentlich gefällt dir dieses Update und du findest es nützlich.
-Ich entwickle Dinge auf Grundlage des Feedbacks, das ich erhalte. Warum also nicht einen Tweet an [@ralllyco](https://twitter.com/ralllyco) oder [@imlukevella](https://twitter.com/imlukevella) schicken und mir mitteilen, wie dir dieses Update gefällt und was du als Nächstes sehen möchtest?
+Ich entwickle Dinge auf Grundlage des Feedbacks, das ich erhalte. Warum also nicht einen Tweet an [@ralllyco](https://twitter.com/ralllyco) oder [@kinpalai](https://twitter.com/kinpalai) schicken und mir mitteilen, wie dir dieses Update gefällt und was du als Nächstes sehen möchtest?

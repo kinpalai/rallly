@@ -7,7 +7,7 @@ excerpt: >-
   oavsett abonnemang. Här berättar jag vad som ändras och varför.
 ---
 
-När jag lanserade [Kinpal Pro](/blog/introducing-rallly-pro) var möjligheten att slutföra en förfrågan den stora nyheten. Välj ett datum, skicka kalenderinbjudningar och var klar. Nu är det gratis för alla.
+När jag lanserade [Kinpal Pro](/blog/introducing-kinpal-pro) var möjligheten att slutföra en förfrågan den stora nyheten. Välj ett datum, skicka kalenderinbjudningar och var klar. Nu är det gratis för alla.
 
 ## Slutför på alla abonnemang
 

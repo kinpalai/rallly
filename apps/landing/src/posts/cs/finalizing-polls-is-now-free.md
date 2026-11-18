@@ -7,7 +7,7 @@ excerpt: >-
   tarifu. Tady se dozvíte, co se mění a proč.
 ---
 
-Když jsem spustil [Kinpal Pro](/blog/introducing-rallly-pro), bylo dokončení ankety hlavní funkcí. Vyberete datum, rozešlete pozvánky do kalendáře a je hotovo. Teď je tato funkce zdarma pro všechny.
+Když jsem spustil [Kinpal Pro](/blog/introducing-kinpal-pro), bylo dokončení ankety hlavní funkcí. Vyberete datum, rozešlete pozvánky do kalendáře a je hotovo. Teď je tato funkce zdarma pro všechny.
 
 ## Dokončení v každém tarifu
 

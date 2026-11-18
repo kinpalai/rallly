@@ -7,7 +7,7 @@ excerpt: >-
   kalendarza w każdym planie. Oto, co się zmienia i dlaczego.
 ---
 
-Kiedy uruchomiłem [Kinpal Pro](/blog/introducing-rallly-pro), zatwierdzanie ankiety było najważniejszą funkcją. Wybierasz datę, wysyłasz zaproszenia do kalendarza i gotowe. Teraz jest to darmowe dla wszystkich.
+Kiedy uruchomiłem [Kinpal Pro](/blog/introducing-kinpal-pro), zatwierdzanie ankiety było najważniejszą funkcją. Wybierasz datę, wysyłasz zaproszenia do kalendarza i gotowe. Teraz jest to darmowe dla wszystkich.
 
 ## Zatwierdzanie w każdym planie
 

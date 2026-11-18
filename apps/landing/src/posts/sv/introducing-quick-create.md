@@ -16,6 +16,6 @@ Det tidigare sättet att ge icke-inloggade användare full tillgång till plattf
 
 För att skapa en bättre upplevelse för alla har jag introducerat **Snabbskapa**. Du hittar det direkt på [inloggningssidan](https://app.kinpal.com/login), där du kan skapa och hantera gruppförfrågningar direkt utan att behöva registrera dig. När du vill göra mer, till exempel använda avancerade funktioner eller säkerställa långvarig åtkomst till dina förfrågningar, kan du enkelt registrera dig. Alla dina befintliga förfrågningar läggs då automatiskt till på ditt konto.
 
-![Snabbskapa](https://rallly-public.s3.us-east-1.amazonaws.com/images/quick-create.png)
+![Snabbskapa](https://kinpal-public.s3.us-east-1.amazonaws.com/images/quick-create.png)
 
 Den här förändringen gör att jag kan fokusera på att utveckla nya kraftfulla funktioner, samtidigt som den första upplevelsen för nya användare förblir enkel och tillgänglig. Det är det första steget i en serie förbättringar som ska göra Kinpal ännu enklare att använda och ännu kraftfullare. Håll utkik efter fler uppdateringar!

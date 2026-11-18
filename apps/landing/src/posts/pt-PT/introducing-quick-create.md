@@ -18,6 +18,6 @@ A abordagem anterior, que dava aos utilizadores que não tinham iniciado sessão
 
 Para proporcionar uma experiência melhor a todos, introduzi a **Criação rápida**. Encontra-a diretamente na [página de início de sessão](https://app.kinpal.com/login), onde pode criar e gerir instantaneamente sondagens de grupo sem ter de criar uma conta. Quando quiser fazer mais, como aceder a funcionalidades avançadas ou garantir o acesso às suas sondagens a longo prazo, pode criar facilmente uma conta e todas as suas sondagens existentes serão adicionadas automaticamente à sua conta.
 
-![Criação rápida](https://rallly-public.s3.us-east-1.amazonaws.com/images/quick-create.png)
+![Criação rápida](https://kinpal-public.s3.us-east-1.amazonaws.com/images/quick-create.png)
 
 Esta alteração permite-me concentrar-me no desenvolvimento de novas funcionalidades avançadas, mantendo a experiência inicial simples e acessível para os novos utilizadores. É o primeiro passo de uma série de melhorias para tornar o Kinpal ainda mais fácil de utilizar e poderoso. Fique atento às próximas novidades!

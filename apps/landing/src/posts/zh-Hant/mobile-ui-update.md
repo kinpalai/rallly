@@ -34,4 +34,4 @@ excerpt: 這次更新著重改善應用程式在行動裝置上的使用體驗�
 ## 總結
 
 希望你會喜歡這次更新，也覺得它實用。
-我會根據收到的回饋來決定接下來要做什麼，所以不妨在 Twitter 發文給 [@ralllyco](https://twitter.com/ralllyco) 或 [@imlukevella](https://twitter.com/imlukevella)，告訴我你喜歡這次更新的哪些地方，以及接下來想看到什麼功能？
+我會根據收到的回饋來決定接下來要做什麼，所以不妨在 Twitter 發文給 [@ralllyco](https://twitter.com/ralllyco) 或 [@kinpalai](https://twitter.com/kinpalai)，告訴我你喜歡這次更新的哪些地方，以及接下來想看到什麼功能？

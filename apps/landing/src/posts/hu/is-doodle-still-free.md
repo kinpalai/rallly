@@ -120,7 +120,7 @@ A Kinpalban a résztvevők egyszerűen a link segítségével szavazhatnak, és 
 
 A korlátainkról is szeretnénk ugyanilyen átláthatóan beszélni: a Kinpal ingyenes csomagjában annyi szavazást hozhatsz létre, amennyit szeretnél, de egyszerre legfeljebb 3 lehet nyitva és gyűjthet szavazatokat. Véglegesíts vagy zárj le egyet, és megnyithatsz egy újat. Regisztráció nélkül egyszerre 1 nyitott szavazásod lehet, és ugyanez érvényes: az újabb megnyitásához véglegesítsd vagy zárd le az előzőt. Az ingyenes szavazások törlődnek, miután minden dátumuk legalább 30 napja elmúlt, és az elmúlt 30 napban senki nem szerkesztette, szavazott benne vagy írt hozzászólást.
 
-A Kinpal emellett [nyílt forráskódú](https://github.com/lukevella/rallly), így pontosan megvizsgálhatod, hogyan működik, sőt akár a saját szervereden is futtathatod.
+A Kinpal emellett [nyílt forráskódú](https://github.com/kinpalai/rallly), így pontosan megvizsgálhatod, hogyan működik, sőt akár a saját szervereden is futtathatod.
 
 A Kinpal a [Kinpal Pro](https://kinpal.com/pricing) szolgáltatásból szerez bevételt. Ez olyan funkciókat ad, amelyekre akkor lehet szükséged, ha professzionálisan használod, például korlátlan számú nyitott szavazást, egyéni arculatot és korlátlan ideig elérhető szavazásokat. Ez teszi lehetővé, hogy az ingyenes csomag mindenki számára hirdetések nélkül maradjon ingyenes.
 

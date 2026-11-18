@@ -18,6 +18,6 @@ De eerdere aanpak, waarbij niet-ingelogde gebruikers volledige toegang tot het p
 
 Om voor iedereen een betere ervaring te creëren, heb ik **Snel beginnen** geïntroduceerd. Je vindt deze functie direct op de [inlogpagina](https://app.kinpal.com/login), waar je meteen groepspolls kunt maken en beheren zonder dat je je hoeft aan te melden. Als je meer wilt doen, zoals toegang krijgen tot geavanceerde functies of langdurige toegang tot je polls garanderen, kun je eenvoudig een account aanmaken. Al je bestaande polls worden dan automatisch aan je account toegevoegd.
 
-![Snel beginnen](https://rallly-public.s3.us-east-1.amazonaws.com/images/quick-create.png)
+![Snel beginnen](https://kinpal-public.s3.us-east-1.amazonaws.com/images/quick-create.png)
 
 Door deze wijziging kan ik me richten op het ontwikkelen van nieuwe, krachtige functies en tegelijkertijd de eerste ervaring eenvoudig en toegankelijk houden voor nieuwe gebruikers. Dit is een eerste stap in een reeks verbeteringen om Kinpal nog gebruiksvriendelijker en krachtiger te maken. Blijf op de hoogte van meer updates!

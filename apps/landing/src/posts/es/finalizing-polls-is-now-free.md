@@ -7,7 +7,7 @@ excerpt: >-
   todo el mundo con cualquier plan. Esto es lo que cambia y por qué.
 ---
 
-Cuando lancé [Kinpal Pro](/blog/introducing-rallly-pro), finalizar una encuesta era la función estrella. Elige una fecha, envía las invitaciones de calendario y listo. Ahora es gratis para todo el mundo.
+Cuando lancé [Kinpal Pro](/blog/introducing-kinpal-pro), finalizar una encuesta era la función estrella. Elige una fecha, envía las invitaciones de calendario y listo. Ahora es gratis para todo el mundo.
 
 ## Finaliza con cualquier plan
 

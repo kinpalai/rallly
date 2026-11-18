@@ -18,6 +18,6 @@ Den tidligere løsning, hvor brugere, der ikke var logget ind, fik fuld adgang t
 
 For at skabe en bedre oplevelse for alle har jeg introduceret **Hurtig oprettelse**. Du finder funktionen direkte på [loginsiden](https://app.kinpal.com/login), hvor du med det samme kan oprette og administrere afstemninger for grupper uden at skulle oprette en konto. Når du er klar til mere, f.eks. at få adgang til avancerede funktioner eller sikre langvarig adgang til dine afstemninger, kan du nemt oprette en konto, hvorefter alle dine eksisterende afstemninger automatisk bliver føjet til din konto.
 
-![Hurtig oprettelse](https://rallly-public.s3.us-east-1.amazonaws.com/images/quick-create.png)
+![Hurtig oprettelse](https://kinpal-public.s3.us-east-1.amazonaws.com/images/quick-create.png)
 
 Denne ændring giver mig mulighed for at fokusere på at udvikle nye, kraftfulde funktioner, samtidig med at den første oplevelse for nye brugere forbliver enkel og tilgængelig. Det er første skridt i en række forbedringer, der skal gøre Kinpal endnu mere brugervenlig og effektiv. Hold øje med flere opdateringer!
